@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1825-8-25
+	create time:2013-01-02 00:35:59
+*/
+
+return array(
+'title'=>'Uruguay declared independence from Spain',
+'class'=>0,
+'cont'=>'August 25, 1825 (, Yiyou July 12), Uruguay declared independence from Spain. <br> Oriental Republic of Uruguay (República Oriental del Uruguay) is located in southeastern South America, the eastern bank of the Uruguay River and the Rio de la Plata, north of Brazil, West boundary Argentina, southeast Atlantic Ocean. An area of &#8203;&#8203;176,215 square kilometers. The residents of about 90% were Caucasian, and the remaining 8% of the Indo-European half-breed. Multi-Catholic. The official language is Spanish. The capital city of Montevideo. [L $ djτ.cōm] independent from the rule of the Spaniards in 1825, 25. The territory of most of the flat, well-developed agriculture and animal husbandry. Is currently a member of the Union of South American countries. <br> Uruguay is a temperate climate, beautiful natural scenery and a stable social environment (history www.TodayOnHistory.com) known as the \"South American Switzerland\"; but also because of the shape of the gem. but rich amethyst stone, known as the \"Diamond of the country. Uruguay, name <br> \"Uruguay\" from a local indigenous language of \"Guaraní\", meaning the colors brighter, the birds of the river. The early eastern bank of the Uruguay River, home to the investigation ruya Indians. the <br> 1516 year discovered by Spanish explorer Juan Diaz de Soto Aires. Since 1680, Spain and Portugal, has been competing for. Finally, in 1726, won by the Spanish, the Spanish colony, the establishment of the military port of Montevideo. In 1776 Spain this area and 入拉普拉塔 the viceroyalty was known as the east coast of the Rio de la Plata area (Banda Oriental). (History Today www.lssdjt.com) <br> the early 19th century, the the entire ruled by Spain, all over Latin America, have been appearing War of Independence. National hero Jose Hewa Theo van artigas,, in 1811 to launch the war, in 1815, control of the whole territory. Again invaded in Portugal in 1816, and in July 1821 the Uruguayan territory and Brazil renamed as 西斯普拉丁 Province (Provincia Cisplatina). August 25, 1825, led by Juan Antonio Lavalleja 33 east coast people returning from Argentina to recapture the city of Montevideo, declared Uruguay&#39;s independence, and of August 25 National Day. Determine the sovereignty of Uruguay in the 1828 Montevideo Treaty. <br> <br> flag <br> <br> <br> national emblem <br> <br> the symbolizes <br> of <br> <br> <br> Uruguay national independence'
+);
+
+?>

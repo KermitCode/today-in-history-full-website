@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1928-10-8
+	create time:2013-01-02 01:56:52
+*/
+
+return array(
+'title'=>'Chiang Kai-shek and Hu Hanmin again cooperation ruling',
+'class'=>0,
+'cont'=>'(, Boshin August 25), October 8, 1928, Chiang Kai-shek and Hu Hanmin re cooperation in power. <br> 1928, the reorganization of the National Government, Chiang Kai-shek and Hu Hanmin again in political cooperation. April, <br> 1927 Jiang, Hu had jointly set up the Nanjing government, held in August of that year, the Fifth Plenary Session of the second with the Liberal Democratic Party, (lssdjt.cn) deepened the contradiction between the KMT factions, Chiang Kai-shek is seeking to break the political deadlock approach. <br> 1928 Hu Hanmin, 28, returning from Europe, advocated the same within the Democratic Party must unite. September 3, Hu to Shanghai, repeatedly conspired with Chiang Kai-shek, the ruling coalition agreement. 15, Hu, according to the draft National Government Organization Law \"prepared in advance\", published a \"political tutelage outline proposal instructions. 20, 2009, with the KMT Central Standing Committee meeting to push complement Hu Hanmin, Sun Ke, a member of the Central Standing Committee. In <br> 10, the KMT Central Standing Committee cabinet, according to the National Government Organization Law re elect 17 members of the National Government; Chiang Kai-shek as the Chairman of the Government, Tan Yan Kai, Hu Hanmin, Wang Chong-hui, Cai Yuanpei, Dai sub-Chief legislative, judicial, monitoring, examination Dean. 18, the KMT Central Standing Committee resolved Feng Yuxiang, Linsen, Zhang, Sun Ke, Chen Guofu, divided the KMT government executive, legislative, judicial, examination, monitor, vice president of and Ren Li Tsung-jen military President of the Senate of the National Government, (on TodayOnHistory.com) Li Jishen staff officer for the National Government Minister, Yingqin as Training Director of the National Government Minister. on <br> 19, the National Government appointed Yan Xishan, CT Wang, Feng Yuxiang, Soong, easy Peiji (the l $ j¦Ó.c¨½) HH Kung, Chiang Meng, Bo Qun, Sun Ke Xue Benedict Bute, respectively, for the Executive Yuan&#39;s internal affairs, diplomatic, military and political , financial, agricultural and mining, industry and commerce, education, transportation, railway, Health Ministers. Ku Ying-fen for government civilian long. The next day, he had appointed Zhao Dai Wen Chahar Provincial Government Chairman, appointed Xu Yongchang, Suiyuan provincial President. To Jiang, Hu cooperation as the center of the national government formally established. <br>'
+);
+
+?>

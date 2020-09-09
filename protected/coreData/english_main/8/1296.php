@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1837-2-8
+	create time:2013-01-01 21:25:51
+*/
+
+return array(
+'title'=>'Russian poet Pushkin&#39;s death',
+'class'=>3,
+'cont'=>'February 8, 1837, the fourth day of the first month (Ding), Russian poet Pushkin&#39;s death. Alexander Sergeyevich Pushkin&#39;s birthday, <br> \"target =\" _blank \"> Pushkin <br> Alexander Sergeyevich Pushkin (1799 to 1837) 19th-century Russian romanticism main representative, is also the founder of the literary realism his various body are good at, the creation of a Russian national literature and literary language in all areas of literature such as poetry, fiction, drama and even fairy gave Russian literature June 1799 Sunrise, a good example. Pushkin also Gorky as \"all the beginning of the beginning.\" (TodayinHistory.cn) <br> Pushkin was born in Moscow to a noble family in 1811, Pushkin Tsarskoye Selo to enter the children of the nobility school school, only 12 years old, began his literary career after graduating from to to Petersburg Department of State to serve, During this time, he was deeply December partisan and its democratic freethinking infected, participated in the partisan secret organization and December literary group \"green community\", wrote against serfdom, the Acura freedom poetry, such as \"Freedom Song\" (1817); \"To Chaadayev\" (1818) years; \"Village\" (1819), 1820, Pushkin creative fairy tale narrative poem \"Ruslan and Lyudmila\" These works caused by the tsarist government&#39;s unease, 1820 assignment office in southern Russia, which is a disguised form of exile. During this time, he was even more frequent and December Revolutionists, participated in the December party conclave thought of his pursuit of freedom is more clear, more intense Pushkin wrote \"dagger\" (1821), \"Prisoner\" (1822) (1824) famous article, \"To the sea\" and also wrote a set of \"Southern Psalms\", including \"the Caucasian captive\" (1822) \"the bandit brothers\" (1822), the \"°ÍºÕÇÐÈøÀ­ according Leiquan\" (1824), \"Gypsy\" (1824) four Romantic narrative poem. wrote many beautiful lyrics: \"The sun sank \"(1820),\" Prisoner \"and\" dagger \"(1821) expressed a strong vision of the poet of freedom in 1825, he completed the history of Russian literature of realism Tragedy Boris Ge are Ivanov, \"the creation of 1836 Pushkin founded the literary magazine\" modern \"creation and activities of <br> Pushkin Order tsarist government having a headache, (l $ j¦Ó.c¨½) long with conspiring to sow discord between the French national gendarmerie Dantes desecration of Pushkin&#39;s wife Natalia Nikolaevna Sergeyevna the ¡¤ Gangcha Petrova result 1837 Pushkin and Dantes duel. Pushkin was seriously wounded in a duel, February 1837 8 died, at the age of 37 years old. <br>'
+);
+
+?>

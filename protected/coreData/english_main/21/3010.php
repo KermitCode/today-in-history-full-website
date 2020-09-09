@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2003-3-21
+	create time:2013-01-01 20:30:02
+*/
+
+return array(
+'title'=>'&quot;Father of the Taiwan Symphony&quot; Mr. Cai Jikun died Fuzhou',
+'class'=>3,
+'cont'=>'(¹ïÎ´ February 19), March 21, 2003, the \"Father of the Taiwan Symphony\" Mr. Cai Jikun died in Fuzhou. <br> Cai Jikun (1908 ~ 2003.3.21) Chinese composer, conductor. Fujian Quanzhou people. Fuzhou \"target =\" _blank \"> Cai Jikun is the oldest one of the conductors in the the Xiamen Jimei senior Normal <br> 1932 graduation, to stay in any orchestra conductor. Mr. Cai Jikun died and went to Tokyo, Japan Empire Music College composer, conductor 1936 creation the orchestral \"Xunjiang fishing boat, the first prize in the public offering by the Japan International symphony After returning home in 1937, at the Department of Education of the Fujian provincial government office; create Provincial Fujian Music Institute in 1940 (1942 National reform), as the first chancellor in 1945, the retrocession of Taiwan at the invitation of the Taiwan governor Chen Yi Cai Jikun Occasional any predecessor, the establishment of the present \"Symphony\" Taiwan Garrison Command Symphony, any leader and conductor. orchestra often tours to all parts of Taiwan, has won the praise of people from all walks of life in Taiwan, known as the \"father of Taiwan Symphony <br> 1955, was elected vice chairman of the Southeast Asia Music Conference Chairman Music Education and Music Culture Committee Chairman. spare no effort to promote the Philippines cultural exchange, and exquisite art of command and superior musical talent, Philippine presidents praise in 1949, Cai Jikun any Academy of Music of the University of the Philippines Manila Professor and any Manila to play Symphony Orchestra 1983, Cai Jikun the sale of all the property in the Philippines, with his life savings, and 11 boxes of precious sheet music, information decided to return to Fujian. abroad established of Fujian social Conservatory in 1989, the founder of Fujian College of Music in 1993. in 1995, the Center was awarded the outstanding figures of American International certificate of excellence figure command Symphony <br> 2000, he came to power a 92-year-old old even played a few games in Fuzhou, Xiamen, Quanzhou, vibration the music. third Chinese Music Golden Bell Award organizing committee awarded Cai Jikun lifelong Medal of Honor. \"<br> in 2003, 21 died in Fuzhou. their music works there reflect the Anti-Japanese War content opera defend large Fujian \", the song\" War Song \",\" I am Chinese \", the piano\" whirling dance \",\" rain Yoshiyama, Oratorio \"tragic parting\" art song \"Sauvignon Blanc\". <br> < ; br> Cai Jikun <br> worked at the Fujian Provincial Government'
+);
+
+?>

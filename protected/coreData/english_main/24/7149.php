@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1828-7-24
+	create time:2013-01-02 00:11:25
+*/
+
+return array(
+'title'=>'Russian writer Chernyshevsky&#39;s birthday',
+'class'=>4,
+'cont'=>'July 24, 1828, June 13 (Lunar New Year), the birth of the Russian writer Chernyshevsky. Chernyshevsky <br> \"target =\" _blank \"> Chernyshevsky, Russian revolutionary democrat, literary critic, esthetician, writer of the birth born July 24, 1828 Saratov family pastor, attended by Orthodox high school in Saratov in 1846, into the St. Petersburg University Language Department of History, 1848 to get to know the members of the group Petra Tomasevski, began to read the French utopian socialists writings After graduating from college in 1850, returned to Saratov in secondary schools to teach the language, due to the spread of advanced thinking, soon forced to leave school and moved to St. Petersburg in 1853, began to \"motherland Chronicle\" and \"modern\" magazine Written at the same time begin writing the dissertation \"Art of the reality of the relationship between the aesthetic.\" 1855 Dissertation passed; same year the winter began to publish \"the period of Russian literature, Gogol Overview\" to study the development of Russian literary criticism thinking 1856 presided \" modern \"work, and published in the journal discusses Lessing (history cn) Pushkin (history. cn) (Lssdjt.com) Leo Tolstoy (history on cn) Shchedrin and Turgenev many articles. inherited and developed Belinsky of the realist tradition of his literary theory and literary criticism, his famous thesis \"Beauty is Life\" on Russia aesthetic ideas have a far-reaching impact on the development also completed many important works of philosophy, economic forward, such as \"the philosophy of humanism principle, capital and labor\" and Dobrolyubov with leadership \"moderns\" magazine as a result of revolutionary propaganda, in 1862, was ordered to cease publication 8 months. then he himself was put Peter and Paul Fortress, and imprisoned for two years in prison to complete the novel \"What to do?\" (1863). tsarist government in 1864 to his exile in Siberia servitude, after the expiration of seven years, will again extend strong willpower. During this period, he wrote a number of papers and works, but only novel \"prelude\" secret spread abroad, been preserved. Saratov was only allowed to return until 1889, the same year the death. (l $ dj¦Ó.¨­r¨À) Lenin in the evaluation the Czerny Schiff period base, he said he is a pioneer in the Russian Social Democratic Party, In addition also said that he is \"the only truly great Russian writers. (L $ dj¦Ó.§«§§T) <br>'
+);
+
+?>

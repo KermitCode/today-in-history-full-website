@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-4-9
+	create time:2013-01-01 20:30:02
+*/
+
+return array(
+'title'=>'The historian Wu in the hut&#39;s death in Wuhan',
+'class'=>3,
+'cont'=>'April 9, 1993 (March 18) πÔ”œ historian Wu at the hut&#39;s death in Wuhan. Wu Yu hut, <br> (1913-1993) formerly known as Ng Po, Anhui Xiuning people, born in 1913 in Jiangsu Baoying, early years, his family was poor, and have not received a complete secondary education, and later won a scholarship was able to rise into Soochow University, graduating in 1935. After the outbreak of war, Wu at the hut was removed displaced to Kunming, introduced by a friend, to see when he Southwestern Dafa Business School Dean Nankai Economic Research Institute Professor Chen Xujing. Mr. Chen and he only talked about one hour, then found his facile imagination, famously, immediately decided his entrance examination, as a graduate of the Institute of Economic. August 1940, stalled for several years, Tsinghua the Boxer Indemnity the public expense America examinations and re-held, total strokes to take the 16 (outer Jialin Sen Scholarship 1), each subject, one which the vast majority of science and engineering, arts only 2 Wu at the hut died in Wuhan \"target =\" _blank \"> Wu at the hut, Tsinghua University, who has passed the\" Premium grades fifth the U.S. government scholarships, into the arts and sciences at Harvard University Institute of Postgraduate 1944 and MA and Ph.D. at Harvard University in 1946 and has won the <br> 1947, Mr. Wu Yujin invitation of Mr. Wu big week stuck principals, decided to give up the generous treatment in the United States, returning to Wuhan University Department of History taught. <br> 50 years, Wu Yu hut committed to the study of ancient history in the world&#39;s ancient and has published a series of research insights In <br> 60 years, together with Zhou Yiliang editor of the China&#39;s first Ministry unprecedented large World History textbook, formally established the discipline of the history of our world. 70&#39;s <br>, Mr. Wu began their major energy research and explore the road of independent development of World History Studies, have issued a \"world nomadic world history with the farming world \",\" the history of the world on the farmers in this mercantilist \",\" the history of the farming world of the industrial world to form a \"Eurasian Continental traditional farming in different countries of the world under the impact of the emerging industrial world reaction \"and a series of papers, as well as the of foreign history volume\" Encyclopedia of China &#8226; written overview of entry \"world history\". <br>'
+);
+
+?>

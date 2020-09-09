@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-5-3
+	create time:2013-01-02 09:04:14
+*/
+
+return array(
+'title'=>'Japanese occupation of Dalian',
+'class'=>0,
+'cont'=>'(Jiachen March 18), May 3, 1904, the Japanese occupation of Dalian. Russian military warships <br> the <br> Japanese Heavy howitzer bombardment of Port Arthur on May 3, 2009, the Japanese Navy Third occlusion. The naval Lieutenant Colonel Lin Sanzai male any commander-in-chief, and 12 vessels to sail in the early morning Lushunkou. Large fog, by Russian coastal artillery troops relax vigilance occlusion sailed up exploded and sank in the port channel. Fairway occlusion success. Since then, Russian ironclads, cruisers and other large warships and out, but have not reached the intended purpose and effect, and some occlusion ship quickly cleared by the Russian military, 12, Japan \"Yoshino\" ship in Lushun touch mine sank. Army on April 30 <br> Japan concentrate superior forces to tide over the Yalu River, May 1, after the occupation of nine Citylink. On May 6, the Japanese occupation of the Phoenix. Russian troops in the South is filled with a total of 10.2 million people, but the the Manchurian army chief Kuluobate gold but to take the negative retreated to the action. 10, 2009, the Russo-Japanese war days in the Golden State Wafangdian. 5 <br> 5, under the command of the Japanese Second Army in Austria Bao Gong landed in the Liaodong Peninsula Jinxian monkeys stone, almost not encountered the resistance of the Russian military occupation of the periphery of the Golden State. Golden State is located in a narrow zone of the Liaodong Peninsula, onshore throat leading to Lushun in Dalian, the military position is very important. 18, Russian First Army Corps from the European East. 19, the Japanese Tenth Division be landing in Dagushan. On the 26th, the Japanese three divisions with over 200 pieces of artillery outflank the Russian military two wings, with heavy artillery stormed the Golden State Nanshan positions, while the Japanese gunboat shelling by the Bay side of the Golden State to cover the infantry advance. 27, 2009, the Japanese occupation of the Golden State, Lushun Russian troops cut off contact with the Liaoyang. <br> the Japanese occupation of the Golden State, the base camp decided to the Second Army three, four, Division fifty-three and cavalry, artillery and one each trip by Golden State to go northward combat. The other compiled third army by Nogi Kisuke commander, the task: Rapid Raiders Lushun not the land of the enemy fortress, regardless of any opportunity endanger the Second Army after party. Golden State after the fall of the Russian military on May 31 hastily evacuated Dalian Port, the port is not enough time to destroy the Japanese to take advantage of the Dalian Port to transport troops and supplies, as a base for attack on Port Arthur and Liaoyang. Nogi Kisuke then occupied Dalian Qingniwa. <br>'
+);
+
+?>

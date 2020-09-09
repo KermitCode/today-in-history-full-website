@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1953-1-14
+	create time:2013-01-01 22:21:38
+*/
+
+return array(
+'title'=>'Tito served as the supreme commander of the president and the armed forces of the Federal Republic of Yugoslavia',
+'class'=>0,
+'cont'=>'The (Imjin in the winter months Eve), January 14, 1953, Tito was the supreme commander of the president and the armed forces of the Federal Republic of Yugoslavia. <br> Tito - Yugoslavia founder of <br> Josip Broz Tito, the Croatian people. Was born in May 1892 in a poor peasant family in Croatia. The age of 20, he joined the Social Democratic Party of Croatia. Joined the Yugoslav Communist Party in 1920, the organization of workers in the revolutionary struggle. In the long-term revolutionary struggle, Tito was arrested three times. Release from prison in 1934, and was elected as a member of the CPC Central Committee Political Bureau. In 1935, Tito Balkans secretary alternate secretary identity, went to the Soviet Union to participate in the work of the Communist International. April 6, 1941, the German and Italian fascist invaders in 23 divisions quickly occupied Yugoslavia, June 27, the South Central establishment of the guerrilla headquarters of the Yugoslav people, Tito any commander-in-chief, launched a nationwide seven January uprising, and established the first liberated areas in the western mountains of Serbia. He led the team in the case of foreign aid, the 20 independent Anti-Japanese War a few months, smash the enemy offensive. Sutjeska Battle, Tito became the commander-in-chief during the Second World War the only wounded on the battlefield. In November 1943, Tito grant Marshal title. The opposition he not Guda Guo, announced that the Anti-Fascist Council of National Liberation force the interim government of Yugoslavia. Years later, has grown to nearly a million people of the People&#39;s Liberation Army and the Soviet Red Army, with the liberation of Belgrade. November 29, 1945, the Federal People&#39;s Republic of Yugoslavia was proclaimed, Tito served as Chairman of the Government of the Federation, the supreme commander. January 14, 1953, Tito became President of the Socialist Federal Republic of Yugoslavia and the supreme commander of the armed forces. the 9th, <br> 1961, involved in the initiation of Yugoslavia, the first Non-Aligned Summit in Belgrade held. In view of the unique and remarkable role Tito oppose hegemonism and safeguarding world peace and the cause of the fight for human progress, 59 countries awarded him 98 Medal. May 6, 1980, near the 88-year-old birthday, Tito the end of his life on the road. (Today in History cn) <br> Tito sutjeska Battle once wounded <br>'
+);
+
+?>

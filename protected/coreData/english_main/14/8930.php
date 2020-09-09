@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-9-14
+	create time:2013-01-02 01:01:37
+*/
+
+return array(
+'title'=>'Bosnia and Herzegovina to be held the first post-war election',
+'class'=>0,
+'cont'=>'September 14, 1996 (Rat-August, the first two days), Bosnia and Herzegovina held its first post-war election. <br> 1996 9 14 date according to the Dayton agreement, Bosnia-Herzegovina Muslims, Serbs, Croats, three ethnic scheduled today held the first post-war elections. The elections will be the first time to establish the legitimate authority of the central and entity level in Bosnia and Herzegovina. The election an important step in the peace process in Bosnia and Herzegovina, and is also a multi-ethnic, unified starting point of a new Bosnia-Herzegovina. <br> in accordance with the rules of the election, Bosnia-Herzegovina 1991 census registered adult citizens are entitled to participate in today&#39;s election, a total of about 2.9 million voters. They will be elected to the Central Bureau of the Central Council of Bosnia and Herzegovina. The Muslim-Croat Federation and the Republic of Serbia&#39;s voters will also elect the Parliament and the president of the entity (Vice President). According to the latest information provided by the responsible for the election of the Organization for Security and Cooperation in Europe (OSCE), a total of 49 political parties and a coalition of parties allowed to participate in the election. <br> postwar homes still scarred Bosnia and Herzegovina voters still actively participate in the election, many people waiting at a polling station in front of the early. 7:00 4600 polling stations in BiH time to start working. Reporters see interviews with more than 10 polling stations in Sarajevo and Pale polling station atmosphere is peaceful and orderly election work is progressing smoothly. Voters this election has great hopes that this is a new opportunity to establish a lasting peace in Bosnia and Herzegovina. (L $ dj¦Ó.c¨­m) <br> morning, the European Security and Cooperation Organization in charge of elections sent out over 300 vehicles cars escort refugees across the boundary line between the two entities to return to the original place of residence to vote. Multinational implementation of the peace forces to strengthen the guard sensitive locations in Bosnia and Herzegovina. <br> spokesman for the Organization for Security and Cooperation in Europe (OSCE) this morning announced in Sarajevo BiH elections proceeded smoothly, does not appear serious accidents. The (history today www.lssdjt.com) <br> the preliminary results of the elections will be held after the 17th have been released, and final results are expected to be announced on the 25th. <br>'
+);
+
+?>

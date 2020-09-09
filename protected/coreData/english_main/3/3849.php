@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1939-5-3
+	create time:2013-01-02 08:54:23
+*/
+
+return array(
+'title'=>'Japanese aggressor troops wantonly bombing of Chongqing',
+'class'=>0,
+'cont'=>'(JiMao March 14), May 3, 1939, the Japanese invaders wantonly bombing of Chongqing. Japanese bombing <br> Chongqing, fire enveloped the the the city&#39;s <br> 1939 Japanese bombing of Chongqing, tragic scene of dead and injured more than six thousand Figure. <br> 1939, after nearly three months to prepare, the Japanese army and navy decided to join the bombing of Chongqing. At 13:17 on the 3rd, Japanese aircraft in two batches each of 18 over invasive Chongqing, whistling bombing along the north bank of the Yangtze River. He then fried Daliangzi in Zuoying Street, Cang Ping Street, both Post Street, St. Paul, Chu legend, emergency doors, commercial field, fairy mouth, Shaanxi Road, West Fourth Street, Chaotianmen, agate Creek. 19 of 27 streets in the urban area was bombed. Densely populated, urban industrial and commercial prosperity, suddenly plunged into the towering flames and billowing smoke into. With the collapse and burning of houses, a large number of innocent civilians were killed in bombs and fireworks. <br> Chongqing public fire In May 4, 2009, 27 Japanese aircraft bombing of the urban area of &#8203;&#8203;Chongqing again, on both Post Street, small liangzi, Master pool qixinggang along the Japanese bombing adventure dive bombing, the Chongqing area into a sea of &#8203;&#8203;fire. The fire lasted for several days, causes damage to hydroelectric facilities, the British and French embassies and the U.S. church have not been spared. The essence of the entire urban ruin. The bombing of the land of dead bodies Zhenji, hands, feet, head, abdomen dirty wreckage everywhere visible wires and branches, hung with residual arm amputation and clots of blood fragments scene is shocking, appalling. [L $ dj¦Ó.c¨­m] <br> Tsang Ka Yan 50 \"weekly mansion\" by Japanese aircraft to blow up <br> twice bombing, the 4871 Chongqing urban housing damage, public death of 3991 people , injured 2287 people, the countless property damage, The the silk shops were destroyed only have Post Street area, which amounts to 15, loss of cloth 167,200, 14 of the city&#39;s 37 private banks destroyed. Zhou Enlai and <br> (History Today www.lssdjt.com) Yingchao the Hongyan 18th Group Army offices in front after the bombing pictures In May, Chongqing \"current affairs newly reported , \"Ta Kung Pao\", \"Business News\", \"Xinhua Daily\", \"National Daily\", \"mop-up newspaper,\" Central Daily \",\" Business Daily \",\" New Citizen newspaper, \"Southwest Daily Ten newspapers from day to day machine bombing, utilities, transportation and printing that barriers Bong Military Commission Order, May 5, all ceased publication temporarily by the newspaper issued a joint version, being to organize joint auspices of the Committee. <br>'
+);
+
+?>

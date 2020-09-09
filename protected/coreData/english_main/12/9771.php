@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1952-10-12
+	create time:2013-01-02 00:34:54
+*/
+
+return array(
+'title'=>'Qiu Shaoyun glorious death',
+'class'=>3,
+'cont'=>'October 12, 1952, (Imjin August 24), Qiu Shaoyun glorious sacrifice. <br> Qiu Shaoyun glorious sacrifice \"target =\" _blank \"> Qiu Shaoyun <br> Qiu Shaoyun (1926 to 1952, October 12), was born in Sichuan Province the Tongliang relations built Township Qiu Jia Wan farmers at home in 1944, when he was 18 years old participated in the People&#39;s Liberation Army summer <br> in 1950, the U.S. imperialists launched the Korean war and the bombing of the Northern Territory, the Korean War, defending the homeland, Qiu Shaoyun and his comrades shoulder the great trust of the party and the people of the motherland, the Korean War came on March 25, 1951. him with a hatred of the American invaders, brave and tenacious against the enemy. ($ dj而.c身m), <br> second year in October, the full range of tactical counterattack in the first phase of the Chinese People&#39;s Volunteers, Qiu Shaoyun where troops receive captured 391 Highlands task. <br> 391 Highland is located more than 10 kilometers northeast of the iron source the mountain Xianyao, a reinforced company stationed, it is the enemy placed in the forefront of our army a \"nail\" unplug \"nail\", can not only improve our military defense posture, and can pose a threat to the enemy. (1 $ dj而.c身m) <br> from our positions to 391 Heights middle of the 3,000-meter-wide open land in order to reduce the impact distance, the fighting has suddenly reduce casualties in the attack the night before, Qiu Shaoyun, and more than 500 comrades lurking in the bushes just over 60 meters away from the enemy suddenly flew in the morning of October 12, 2011 <br>, four enemy planes dropped a few incendiary lurking District, there is a fall from Qiu Shaoyun two meters away, scattered fly into gasoline burning liquid spilled on his left leg. Suddenly, his leg interpolation camouflage burning flames steaming up risk. Qiu Shaoyun behind a ditch, as long as he rolled into the ditch, you can put out the fire, but this way, it will be detected by the enemy. before departure, Qiu Shaoyun determination book reads: \"latent success is victory, that is, the bullet hit the body, nor Move. \"Therefore, despite the fire burning in the body, he still looks like a boulder lying there, motionless, until the sacrifice 17:00, our military attack, only 20 minutes on the captured 391 Highland wipe out the enemy troops In order to to commemorate hero, (lssjt.cn) learning Qiu Shaoyun communist spirit. <br> on 391 Highland majestic peaks Shibi, engraved with a line of colorful red paint characters: \"as a whole, (L $ dj而 c身m) great fighter and self-sacrifice for victory Qiu Shaoyun comrades immortal! \"This majestic peaks of Shek Pik and bright red paint characters is a historical monument for the people of China and North Korea fought in unity. <br>'
+);
+
+?>

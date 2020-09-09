@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1923-6-12
+	create time:2013-01-01 21:42:12
+*/
+
+return array(
+'title'=>'Lu Xun participate love big discussion on',
+'class'=>0,
+'cont'=>'June 12, 1923, April 28) (Guihai years, Lu Xun attend big discussion on love. Lu Xun <br> s <br> in 1932, Lu Xun with the text. Participation in love big discussion. <br> into June, the national love big discussion the increasingly lively discussion of those who disagree, and refused to give. An author called Leung Kwok Chang said: \"Tanxi Hong professor at Peking University, both its own highly educated, but also for the country&#39;s highest institution of high moral character, so he moral sanctions should be several times more stringent than ordinary people. \"One called Zhang the Kenmin the authors say, Zhang Jingsheng espouses love can change, that their own\" should also add a little to be careful! \" The Nankai yellow Cautiousness also can not help Zhang Jingsheng worried about that, because he is not the most comprehensive, if his wife is the implementation of his love rules, there will be a change of heart. On <br> 6, a man named Zhong Menggong author wrote a word of advice to the Editor, advocated an end to this discussion, because he believes that these articles \"in addition to the foot for the corroboration of the Chinese people do not discuss eligibility cents No other value \"; Teng these remarks can not be justified, even if the reader free from vain spirit, but also Tixi authors to save incompetence that. Lu Xun <br> to read clock glenoid public letter on June 12 \"Morning Supplement, immediately sent a letter to the Sun Fuyuan, against the cut-off discussion. He said: \"more than twenty articles previously registered, admittedly eccentric majority, and discussion of love given quite related, but on the other hand, it can be used as a reference, but also unexpected value. This will give reformers look slightly awakened them to the gold-colored dreams &#39;enough for the Chinese people do not discuss the qualifications of corroboration&#39;, where is the value of these articles. \"The\" idea of &#8203;&#8203;love can change, be careful that your wife will be a change of heart does not love you \"and teachers\" should be particularly severely punished \"by the argument, Lu Xun felt\" very interesting, people look at the vast and desolate disconsolate, where there are no newspapers discussions, it is difficult to hear these \"famous\". <br> As for revealing satires whether it will make the problem of a fool, Lu Xun: (1) \"A thought can be ugly in B have perhaps thought the treasure, the whole under certain, is not almost take so much for other people \"; (2) ugly not cover\" on the outside cover, the inside is still rotten, it would be better or worse, to uncover come together, we look good, \". <br>'
+);
+
+?>

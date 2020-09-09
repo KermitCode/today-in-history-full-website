@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1986-5-31
+	create time:2013-01-01 21:11:55
+*/
+
+return array(
+'title'=>'The opening of the thirteenth World Cup',
+'class'=>0,
+'cont'=>'(Bingyin April 23), May 31, 1986, the opening of the thirteenth World Cup. <br> Argentina won the 13th World Cup champion <br> unveiled the Aztec Stadium in Mexico City on May 31, 1986. 121 countries and regions took part in the qualifiers last march 24 soccer powerhouse to compete for the World Cup in Mexico. (Lssdjt.com) <br> World Cup scheduled to be held in Colombia, and for some reason ex situ Mexico. Mexico in the event of a strong earthquake in less than a year later, successfully hosted the tournament. Tournament there has been a change in the competition system, the first phase of the group round robin, after the two-stage re-routed out of the system, until you decide the championship. <br> compared with last, the world of football has been a new development: whether it is in South Korea, Asia and the Iraq team, or Africa, Morocco team and Algeria team, has a good performance in the game; Brazil maintained fierce offensive, but also to strengthen the defense, showed that a step forward in the Brazilian football from a technical type; Danish team sprung up everywhere, dare to grab a solid defensive attack wide, multi-point, refreshing. a rematch <br> in Argentina with England, Maradona&#39;s two goals in the history of the World Cup in mind: his first ball into the door of the England team with the \"Hand of God\" has become the most controversial goals; Then he ball go past a row of 5 defenseman, the ball launched into Buddhism, this goal was listed as the most exciting goals. <br> after 52 games competition, June 30 Argentina 3 to 2 victory over Germany, the second on the championship podium. Chinese Communists scored 132, <br> 52 games. Maradona was the best athlete of the tournament title. England star Gary Lineker was the top scorer title. <br> Chinese soccer team May 19, 1985 Hong Kong team in the Asian zone qualifying group stage home 1:2 defeat, lost chuxianquan. (L $ j¦Ó.c¨½) <br> Champion: Argentina, runner-up: West Germany Runner-up: France rd Runner: the Belgian <br> final odds of: 3:2 <br> marksman: Gary Lineker (England): 6 ball <br> final weeks team: 24 <br> Finals team: (history TodayOnHistory.com), Scotland, Spain, Northern Ireland, Algeria, Brazil, the Soviet Union, England, Hungary, Mexico, Spain, Poland (on TodayOnHistory.com) Bulgaria, South Korea, Denmark, Paraguay, Uruguay, Iraq, Morocco, Canada, (on TodayOnHistory.com) the Portuguese <br> Maradona the classic the goal <br> glittering the World Cup <br> of'
+);
+
+?>

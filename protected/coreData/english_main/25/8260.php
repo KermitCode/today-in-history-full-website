@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1917-8-25
+	create time:2013-01-02 00:31:13
+*/
+
+return array(
+'title'=>'Sun Yat-sen led the movement to protect the',
+'class'=>0,
+'cont'=>'August 25, 1917 (, Dimba July eighth day), Sun Yat-sen led the movement to protect. <br> Tang Jiyao energized Custodian <br> August 1917, Sun Yat-sen convened the original some Members of Congress meeting in Guangzhou, that \"law enforcement\", which aims at maintaining the Provisional Constitution of the Republic of China. To be the number of so called \"very Congress. The meeting decided to set up a military government in Guangzhou, Sun is the generalissimo of the military government, Tang Jiyao, Lu Rongting Marshal. Sun generalissimo nominal power-Beijing government denied Feng Guozhang as president, Duan Prime Minister called on the Northern Expedition. The Beijing government ordered the arrest of Dr. Sun Yat-sen et al. In May 1918, the \"very Congress Government Organization Act through the amendment Army, ready to cancel generalissimo leader system, deprived of the terms of reference of the Sun, Sun Yat-sen. Sun Yat-sen angrily resigned generalissimo post back to Shanghai. After the resignation of the Sun, the Custodian of the military government in Guangdong diverted 7 President collegiate system the Cen Chunxuan, Sun Yat-sen, Tang Jiyao, Lu Rongting, Wu Ting-fang, Tang Shaoyi, Lin Bao Yi human president elected by the very Congress, Chairman, president the Cen Chunxuan for. Sun no inaugural. In 1920, Chen Department Kwangsi driven out of Guangdong Sun back to Guangzhou, was established in the law enforcement under the banner of the the very government \", any\" great president \". Chen Chiung-ming political advocate for provincial autonomy system of the provincial constitution, and the efficiency of the federal system of the United States State Constitution, called on again \"rule of man Guangdong Guangdong\" and \"democratic politics\", thus winning the support of the people of Guangdong , but the Chinese Kuomintang and the Chinese Communist Party&#39;s official history view has been that the ruling status quo, Chen Chiung-ming of the provincial autonomy \"recognition of the statehood of the Northern Government essence still result in disguise warlord. Soon Chen Chiung-ming coup, the Sun again can not be based in Guangzhou, law enforcement campaign was a total failure. <br> Cen Chunxuan (1861 -1933), formerly known as SPRING LAKE word cloud-order, Zhuang, Guangxi Xilin, Late Qing Dynasty Chinese politicians. <br> Chen Chiung-ming (1878 -1933), the word competition deposit, Guangdong Haifeng. <br>'
+);
+
+?>

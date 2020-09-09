@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1797-1-31
+	create time:2013-01-01 21:25:23
+*/
+
+return array(
+'title'=>'Famous Austrian musician Schubert&#39;s birthday',
+'class'=>4,
+'cont'=>'January 31, 1797 (, Dimba years first month of the fourth day), the birth of the famous Austrian musician Schubert. Franz Schubert&#39;s birthday, <br> \"target =\" _blank \"> Schubert, (Franz Seraphicus Peter Schubert ,1797.1.31-1828 .11.19)\" Serenade, \"with its soulful, beautiful as appreciated by people around the world, it is the author of the Austrian composer Franz Schubert. Speaking of the creative process, which is unexpectedly one afternoon in July 1826, Schubert accompanied by several friends to the outskirts of Vienna walking, walking tired roadside went to a hotel to rest, a familiar friend, is the store drinking the wine, side to recite a lyric called \"Serenade\": \"I&#39;m singing through the night, to you gently journeyman ... & hellip ; \"Schubert listened pick up the pen. counterparts friends know that his inspiration came not read music, they hastened to draw well in the back of the menu read music. Schubert picked up a menu to write, and pretty soon, it support the world-famous \"Serenade\" in this noisy hotel, was born in the back of a menu <br> Schubert was born January 31, 1797, his father is a primary school in the suburbs of Vienna principals, 19 children, Schubert smallest child he was fond of music, 11 years of age to enter free Jidu the seminary choir, five years later, said to \"prison life\" 16-year-old to his father&#39;s Primary School as a faculty member. while he teach music creation, 18 years old, the afternoon, he picked up the narrative poem of Goethe&#39;s \"devil\" to read, all of a sudden you feel surging, an hour later, the popular world music \"devil\" was born. splendid melody immediate sensation in Vienna, he was put on the road of music creation. Schubert lived to be only 33 years old, his life 634 art songs, thus \"Shadow Song Five-called In addition, he also wrote eight symphonies, some trios, sonatas, Impromptus and other musical works, he was an admirer of Beethoven, Schubert, 1822 with the newly published works to see Tony Dove, exactly Beethoven out later Beethoven found this song in the disease, said \"This work is full of magical spark\" However, when Schubert go to Meet Beethoven, Beethoven was dying not speak. (on TodayOnHistory.com) Schubert deathbed requirements relatives and friends buried him next to Beethoven, bronze statue They also side by side on the plaza in Vienna. <br> Schubert tomb < the> \"Serenade\" the br> Schubert ^ 3 ^ wma \"name =\" mediaplayerfile \"Schubert <br>'
+);
+
+?>

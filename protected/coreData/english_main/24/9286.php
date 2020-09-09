@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1905-9-24
+	create time:2013-01-02 00:36:13
+*/
+
+return array(
+'title'=>'Wu Yue Zhuang fried five minister, who sacrificed revolution',
+'class'=>0,
+'cont'=>'September 24, 1905 (, Otomi August 26), Wu Yue Zhuang fried five minister, who sacrificed revolution. strong Wu Yue, <br> warrior, fried five minister, who sacrificed the revolution \"target =\" _blank \"> Miss Yue <br>, on the morning of September 24, 1905 Old Minister led a large number of traveling abroad study five Counsellor suite to the Zhengyangmen Station to Beijing, ready to take the train left Beijing Kai line. both inside and outside of the station, busy, sentry clouds come off Chaoguan Guiqi. Wu Yue, carries the bomb did not detonate equipment posing as Zaoli, calm into the site, boarded the five Minister limousine, ready to deep-fried to death five minister when the locomotives and carriages linked body vibration suddenly, triggering a bomb blast Wu Yue (Lssdjt.com), died on the spot; ministers five Ze Shao British subject minor injuries. <br> Qing court sent five minister traveling abroad visits constitutional, in preparation for the constitutional Zhenguo contained Ze, Hubushilang Dai Hongci, Hyobu assistant minister Shichang, Hunan governor DuanFang, Youcheng Shao British Business Department was ordered to points two-way play overseas, Tsai-tse (History Today www.lssdjt.com) of the Shichang, Shao Ying UK, France, (lsjt.org) Japan and Belgium and other countries; Dai Hongci, Duan Fang went to the United States, Germany, Italy and Austria. Wu Yue Wen entry hearing, since the three northeastern provinces, carrying the bomb came. the Wu Yue <br>, word Meng Xia, Anhui Tongcheng, Baoding Higher Normal School students. Ng Ka Tongcheng Han, father into by the official, A World of many bureaucracy, Muke. early years, Wu Yue Ying imperial examination Boxer patriotic after advocates reform to support the revolution in favor of the Constituent turn, he believes that lined the road: one said Clear to kill, and one said the revolution. as a result of the assassination, revolution for fruit assassination, although the individual and for the revolution that is not efficient non-Qunli today&#39;s era, non-revolutionary era, the era of real assassination. \"he Tieliang future death Han Ju Kui bent on the assassination Tieliang. (History Today www.lssdjt.com) Yang Dusheng brings bomb Wu Yue et see, after the test, good performance, Wu et overjoyed. coincides with the Qing government to send five ministers traveling abroad to study political, he thinks the Constituent scam purposes is bound to hinder the revolution, we decided to take the assassination. beforehand, he wrote \"submission\" to denounce the Qing Ting Lixian leave in the name of civilization, line barbaric real \"the Wu Yue when he was only 27 years old. < ; the br> <br> sent to Europe to examine the constitutional \"Five of State\" and attache <br>'
+);
+
+?>

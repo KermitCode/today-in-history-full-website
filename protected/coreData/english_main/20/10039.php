@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1944-10-20
+	create time:2013-01-02 01:21:32
+*/
+
+return array(
+'title'=>'The liberation of Belgrade',
+'class'=>0,
+'cont'=>'(September Jiashen fourth day), October 20, 1944, the liberation of Belgrade. <br> Belgrade liberation <br> 1944, in cooperation with the Soviet, Yugoslav People&#39;s Liberation Army liberated Belgrade. (Lsjt.net) <br> 1941, Germany invaded Yugoslavia. 17, South High Command surrendered to the Germans, King Peter and his government in exile. Germany&#39;s military occupation of the South. At the same time, Italy, Hungary and Bulgaria also occupy large tracts of land in Yugoslavia. Tito led by the Communist Party of Yugoslavia, insisted the fight against foreign invaders. On April 15, the South Central distributing \"Notice to the people of all ethnic groups of Yugoslavia book\" called on to fight for an independent homeland. <br> 1941, the outbreak of the Soviet-German War to promote the struggle of the Yugoslav people against the invaders. In the 7th, Serbia, Montenegro, Bosnia, Slovenia, Herzegovina and other places have armed uprising broke out. In the South under the leadership of Yugoslavia established the People&#39;s Liberation United Front, mobilize and organize the masses to carry out the resistance movement. SADC guerrilla warfare as the primary form of combat, to communists commando, from the urban to the rural areas around spontaneous uprising into organized armed struggle against the occupiers. <br> from January 1942 to 1944, crushed Germany and France and its vassal country six times onslaught, and at the end of 1942, the Yugoslav People&#39;s Liberation Army has established anti-fascist Yugoslav People&#39;s Liberation Parliament. (Lssjt.cn) In November 1943, the establishment of the Committee of National Liberation of Yugoslavia, headed by Tito to perform the functions of the interim government. Southern People&#39;s Liberation Army in the summer of 1944, the Battle of crushed the 7th German offensive, and soon, the liberation of most of the territory of the country. On September 28, the Soviet army launched an offensive compatible with the People&#39;s Liberation Army of Yugoslavia, began the liberation of South Belgrade, the capital of the Battle. In early October, the Soviet Army, the Southern People&#39;s Liberation Army joined forces in the Morava River valley, on the 20th, the liberation of Belgrade, killing the Germans 15,000 captured 9,000. Germany was forced to withdraw its troops from the southern Balkans. March 7, 1945, headed by Tito&#39;s Yugoslavia, the Federal Democratic Republic of the interim government was established in Belgrade. On May 15, the Yugoslav national liberation. <br>'
+);
+
+?>

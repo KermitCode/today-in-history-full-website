@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1892-11-15
+	create time:2013-01-02 01:37:47
+*/
+
+return array(
+'title'=>'Czarist Russia to the Qing government Pamir delimitation',
+'class'=>0,
+'cont'=>'November 15, 1892 (, Imjin September 26), Tsarist Russia Pamir delimitation to the Qing government. <br> 1892, 15, the tsarist minister Kaxi Ni was ordered to the Qing government negotiations Pamir delimitation problem. The the Pamir ancient name Conglingxi, from 60 BC, Han set from the Western Regions Frontier Command is China&#39;s territory, to the Qing Dynasty, the central government still effective rule. Has set size Karen at more than 20. Elimination of Yaqub invading forces in 1878, the Qing government additional Cullen 7 here. Tsarist Russia from 1876-1890, has sent more than 10 shipments of \"expedition\" to sneak into our country in the Pamir region. July 1891, even Ionov, sent Colonel horse, step-by-step, artillery more than 300 invasive Pamir, stole written by Emperor Qianlong&#39;s recollections the pacification of Huibu size and chomo rebellion after Su full Denktash Jigong monument. 1892, Ionov invading army led by more than 1,500 people, twice invade the Pamir region, flagrant violation of the 1884 \"China and Russia continued exploration Cameroon the gar circles about\" and forcibly encroached Sare Lang west wide Le Ridge Curry , aktash Hirakawa and Al Chu Haier China more than 10,000 square kilometers of territory. The Qing government to do this many times to the government of tsarist Russia protested and asked Tsarist Russia to the withdrawal of the invading army. Tsarist Russia attempt to make it through negotiations encroachment \"legitimate\", would require China and Russia held negotiations on the demarcation. Ka Xini talks sarikol Ridge for the Sino-Russian border. Chinese envoy in Russia Xu Jingcheng reasonably refute the unreasonable demands of Tsarist Russia, Tsarist Russia refused to negotiate with the promise. April 16, 1893, the Qing government sent Han the Counsellor in law Changqing negotiations with Russian Foreign Minister Gilles. The Changqing advocated Cameroon about the demarcation argue Gilles Liquciqiong to. However, due to Tsarist Russia and the sincerity, resulting in taking advantage of China&#39;s defeat in the Sino-Japanese War of machine, carrying the Chinese government and France reached agreement to divide up the territory west of China Pamir sarikol Ridge. In response, the Chinese government to Russia, Britain and China, said the solemn position of the Chinese government does not recognize this agreement. Tsarist Russia government simply ignored China&#39;s sovereignty, and to continue its illegal occupation. <br>'
+);
+
+?>

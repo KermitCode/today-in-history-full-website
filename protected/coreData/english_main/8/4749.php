@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1680-5-8
+	create time:2013-01-01 22:56:09
+*/
+
+return array(
+'title'=>'Gang&#39;s death of Japanese Edo shogun Tokugawa family',
+'class'=>3,
+'cont'=>'In April the tenth) (Gengshen years, May 8, 1680, death of the Japanese Edo shogun Tokugawa family Gang. <br> Tokugawa family Gang \"target =\" _blank \"> Tokugawa family Gang (1641 -1680 on May 8, 2011) of the death, The Tokugawa shogunate fourth Shogun Tokugawa family, three generations of generals of Tsugio light, the mother is the the side room A music party (the Baoshu hospital), that mortality due eldest brother was born, so young named bamboo Chiyoda, by Seiko upbringing. the wife had Fushimi daughter of Prince Palace Zhenqing shallow Palace exon said home Gang of intelligence is not high. [l $ j¦Ó.c¨½] <br> the Qing&#39;an 4 years (1651), Iemitsu died aged 48, was a 10-year-old home Gang in Edo in town to accept the general declared. since the home Gang after this ceremony in the General declared change in Edo. (lsjt.net) the <br> Iemitsu died, the occurrence of the ronin riot attempted the event (Qingan event), social unrest, however, uncle Paul Branch is of and Tate Sakai Zhong Sheng, Laos and pine flat letter Gang, Abe loyalty autumn of his assistant, only to resolve the this event. home Gang worked 29 years, the shogunate agency preparedness is more perfect, ordered to prohibit martyrdom death, and father Iemitsu force political sandwiches political instead of Search the shogunate financial deterioration of the twilight years, due to the home outline born frail, often confined to bed, caused Tate Sakai Chungcheong authoritarian, shogunate the pomp gradually weakened. extension Po eight years (1680 years), illness died at the age of 40 years old, had no children, Sakai Zhong Qing want to emulate source implementation of the DPRK after the death of so royal successor General therefore intend and House Gang grandfather (show allegiance) of brother Yuuki show Kang by blood of there Arisugawa Palace Prince do generals However, due to the exhortations of the retainers Hori Tianzheng Jun, the youngest son of Iemitsu Tokugawa Gang Ji Jicheng General posts. before home Gang buried in Ueno Kan&#39;ei, Temple, Fahao strict hospital at home. <br> Gang before his death, had intentionally long brother Kofu The the 250,000 stone feudal lord Tokugawa Gang Generals inheritance, and did not expect to make arrangement in what brother Gang Gang heavy Jiji Cheng, but the outline focuses Yan Bao 6 years (1678) years died, and therefore change the the by the Gang Jiji Cheng generals. (lsjt.org) <br>'
+);
+
+?>

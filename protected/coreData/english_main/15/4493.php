@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-5-15
+	create time:2013-01-01 22:08:26
+*/
+
+return array(
+'title'=>'France&#39;s first female prime minister Mrs. Cresson took office',
+'class'=>0,
+'cont'=>'May 15, 1991 (, Xinwei April two days), France&#39;s first female prime minister, the Cresson his wife took office. <br> 1991 15, Mrs. Edith Cresson was appointed as the Prime Minister of France. She is the first female prime minister in the history of France. <br> in French politics, Mrs. Cresson is a very active women, is a loyal and capable assistant of President Mitterrand. As early as in 1965, she joined the Mitterand republic Congress Party, with Mitterrand in 1971 and was incorporated into the Socialist Party. In the nearly 30-year political career, Mrs. Cresson has been well received by the high regard of President Mitterrand. Mitterrand was elected as the President of the French Republic in 1981, she was appointed as the first female Minister of Agriculture in France. Two years after the government reshuffle, talented Cresson wife and served as a more important post of Minister of Foreign Trade. In this role, she visited Japan and the United States. French entrepreneurs are encouraged to increase exports. In May 1988, Mrs. Cresson served as Minister for European Affairs, and during the French the second half of 1989 as the EC President, well done the preparatory work for the establishment of the single European market in 1993. President Mitterrand praised Cresson Lady \"in various positions showed outstanding talent and perseverance\" and that \"she is to lead the government of the most suitable candidate. <br> in the French Socialist Party, Mrs. Cresson February 1975 was elected to the leadership of the party in 1976, she was elected to Tyre town mayor, was elected European parliamentarians in 1979, 1981 and finally in the summer Castro constituency elected as a Member. In 1983, she was selected as the Xia Teluo Mayor. <br> Mrs. Cresson, was born in France on the Seine Boulogne - Billancourt father is a financial auditor. The the Ming Jiaoai Dieter Kangpi Weng. Her way through college with honors courses, were demographic doctorate. Mrs. <br> Cresson good at rhetoric, energetic, forceful style quite a strong woman. She said he often fearless, women like a challenge, \". <br> Koehler Songfu shortly after taking office, has an ambitious and want to have a go in the revitalization of the economy, the governance of French society. However, contrary to expectations, the surging wave of protests in France, so she applied their skills difficult, reigned only ten and a half, they were forced to resign away, as the term of Prime Minister shortest tenure on the history of the French Fifth Republic. <br>'
+);
+
+?>

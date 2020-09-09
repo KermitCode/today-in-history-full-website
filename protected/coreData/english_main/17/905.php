@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-1-17
+	create time:2013-01-02 06:55:53
+*/
+
+return array(
+'title'=>'Wallenberg, a Swedish diplomat, missing and triggered the Wallenberg case',
+'class'=>0,
+'cont'=>'(Jiashen the twelfth lunar month, the fourth day), January 17, 1945, Wallenberg, Swedish diplomat missing and triggered the Wallenberg case. <br> January 17 of each year, some Western countries were held to commemorate the January 17, 1945 disappearance of a Swedish diplomat Raul Wallenberg. <br> at the end of World War II in 1944, only 33-year-old Wallenberg was appointed first secretary of the Swedish Embassy in Hungary. At that time, the (history com) for which he bears a special mission: to save as much as possible in the hands of Nazi Germany, is likely to have been killed a large number of Jewish life. Wallenberg risked their lives, in more than half a year&#39;s time, has tens of thousands of Hungarian Jews issued Swedish passports to enable them to escape the jaws of death. His activities to obtain funding from the United States. <br> 1945, shortly after the Soviet Red Army invaded Budapest, Wallenberg disappeared. January 17, someone saw him with a Soviet officer, to travel to the Soviet headquarters in Debrecen, after they have never seen. The Soviets first denied his detention, and later in Sweden repeated reminders, the Soviet side in 1957, said in a statement, [l $ j¦Ó.c¨½] rupees Wallenberg had died of a heart attack in 1947 in Moscow The Green Card prison. Some people think that the Soviet Union suspected Wallenberg American spies thus arrested. (Lsjt.net) <br> the absence of any proof about Wallenberg death, the statement of the Soviet Union did not make the matter would. Until the end of the 1980s, continues to have sources that Wallenberg was still alive. The previous Swedish government and Wallenberg&#39;s relatives do not believe that Wallenberg had died. The Swedish government on several occasions to negotiate with the Soviet Union, the Soviet side in most cases simply ignored, and occasionally also reiterated that the 1957 statement. In 1982, the Swedish government announced on this incident in detail, up to 13,000 files, yet to make the issues have been clarified. But commemorate Wallenberg&#39;s activities in Western countries in the continuous development of the January 17, 1985, at least 25 countries, \"Wallenberg Committee held a commemoration. At that time, the Swedish Prime Minister Olof Palme said in a statement, \"Wallenberg today become a symbol of the spirit of humanitarian and self-sacrifice\". <br> 1981, Wallenberg became an honorary citizen of the United States (lsjt.org) United States President Ronald Reagan called Wallenberg is a \"great figure\". <br>'
+);
+
+?>

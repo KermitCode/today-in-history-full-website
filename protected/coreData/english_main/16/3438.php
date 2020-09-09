@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-4-16
+	create time:2013-01-01 21:56:16
+*/
+
+return array(
+'title'=>'Death of ecologists Hou Xueyu',
+'class'=>3,
+'cont'=>'(, Xinwei March two days), April 16, 1991, death of ecologists Hou Xueyu. death of <br> Hou Xueyu \"target =\" _blank \"> Professor Hou Xueyu April 1912, was born in Anhui Province and County in 1937, graduated from Nanjing Central University College of Agriculture&#39;s Department of Agriculture, from 1945 to 1950 in American Institute of Pennsylvania State University, and has won the master&#39;s and doctoral degrees. shortly after the founding of New China, with Quanquan patriotic heart, decided to return home, to create China&#39;s first Plant Ecology Laboratory, the new China plant ecology Geobotany pioneer and one of the founders. he also serves as Tsinghua University, Beijing University and other institutions of higher education professors him several times on behalf of the State or of the scientific community abroad to attend international conferences and field trips, footprint throughout world, his academic writings universally praised by international ecological plant academia, and made an outstanding contribution to China&#39;s ecological science and foreign exchange of ecological science. <br> Professor Hou Xueyu knowledgeable, deep attainments, keen and active academic thinking, research outstanding achievements He believes that the nature of soil properties is significantly affected by the parent rock, breaking the traditional simple climate determines the point of view of soil properties on the earliest research and found that the Chinese soil indicator plants found enriched in certain elements of the plant; latitudes, longitude zonal and altitudinal zonality of the study the geographic distribution of vegetation, he has also made outstanding contributions to the partition to establish a theoretical basis for the Chinese vegetation, he himself has become a pioneer in the preparation of the vegetation map of China, and created a preparation agricultural vegetation world precedent. Hou Xueyu concern issues of agriculture, forestry, animal husbandry and fisheries production, big agriculture, big food \"point of view, this has important strategic significance of China&#39;s agricultural development and environmental improvement. (history on cn) Hou Xueyu decades of research and teaching work, indefatigable, as our trained a large number of plant ecology and Geobotany scientific research and teaching personnel, many of whom have been leaders and disciplines well-known scientists, Professor for the development of China&#39;s science and do our best. passed away April 16, 1991. <br>'
+);
+
+?>

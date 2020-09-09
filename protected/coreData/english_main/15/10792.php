@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1889-11-15
+	create time:2013-01-02 02:06:07
+*/
+
+return array(
+'title'=>'Brazil announced the abolition of the monarchy',
+'class'=>0,
+'cont'=>'(Year of the OX October 23), November 15, 1889, Brazil announced the abolition of the monarchy. the night of November 14, <br> 1889, Brazil&#39;s King Pedro II also great interest in the palace held a grand ball feast to entertain guests from various countries, a Shengping scene. However, the night is over, early in the morning of the 15th, the cabinet meeting hall surrounded a coup coming, Fonseca Marshal suddenly announced the abolition of the monarchy and the establishment of the republican system, Pedro II left Brazil. <br> Pedro II, has contributed greatly to the abolition of slavery in Brazil. Therefore, under his leadership, Brazil has had a smooth period to period. Pedro II, in order to develop the economy of Brazil, in 1876, the United States visits, hoping to make a difference. However, Pedro II, they never thought that the abolition of slavery and the development of the Brazilian economy, has provoked the rising of the republican movement. Entering the 1980s, the power of the republican movement, the more development the greater the deepening crisis of the imperial government. Pedro II, the face of this dilemma is unable to do anything, the health condition of acute worsening in 1887, he had handed over to the Administrative daughter Isabel Princess, go to Europe convalescence. <br> 1888, the extremely tense situation in the country, the May Princess Isabel had signed a decree, the liberation of the last 700,000 slaves in Brazil. The basis of the imperial government is slavery, lost the support of the nobility of the slave owners, the imperial government of course will lose the basis for their existence. The imperial government there has been an even greater crisis. August Pedro II hurried back to Brazil, with his prestige After some efforts, Brazil temporarily appeared calm the situation. But this calm the situation but that is only a false calm the situation will be destroyed as soon as there are signs of trouble. 1889, suddenly the palace came a message, said Pedro II will soon abdicated the throne by his daughter Isabel successor. Republicans, which is obviously not good news. Marshal Fonseca and Pedro II&#39;s son-in-law, Dvorak Duke is known and, after hearing the news, have stepped up clandestine activities, which led to the coup. History TodayOnHistory.com <br> Pedro II, in order to avoid civil war, had to agree to the request of Fonseca, in the third day after the coup, with the Queen, her daughter and son-in-law, by soldiers escort, boarded the warship to Lisbon, Portugal, to interchange Alagoas Yusen Bana guarana Bay Grande Island. <br>'
+);
+
+?>

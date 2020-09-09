@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:0450-7-5
+	create time:2013-01-01 23:24:31
+*/
+
+return array(
+'title'=>'The Northern Wei Di tribe punish Cui Hao&#39;s death',
+'class'=>3,
+'cont'=>'(GY June tenth day), July 5 450 years, Northern Wei emperor family punish Cui Hao&#39;s death. <br> Cui Hao&#39;s death \"target =\" _blank \"> Cui Hao <br> Zibo Yuan, nickname Peach simple, Qinghe County Tobu Town (now Shandong Wu County) White Ma Gongxuan Bo is the eldest son of Shi North Weidao Wu, Ming Yuan dynasties, too Wudi, rose to the rank of Stuart, participate in militarism plans to play a positive role in the promotion of the Northern Wei Dynasty unified the north. posterity praise for the Northern and Southern first-rate military strategist. ( Today in History www.lssdjt.com) the door Nobles, <br> Cui Hao came from the north, and Fan Yang high door Lu Xuan are first cousins. connected to marriage are Nobles. Cui Lin, his seven-generation ancestor, Three Cao Wei Shiguan worship Sagong, sealing GGP Cui Yue, after Zhao Shihu Stuart right Nagao grandfather Cui potential, Later Yan Huangmenshilang His father Cui macro known as Jizhou prodigy, Northern Wei early tired and rose to the rank board of civil chancery, adults, Cijue Anyang Tinghou. White Horse the public. <br> Cui Hao as a military strategist, deep channel Emperor Wu, Ming Yuandi and too Wudi discouraged and seek the Lord as a unified war, Cui Hao involved in a major military decision-making in the Northern Wei dynasty, three generations of emperors, resourceful good off, at great pains, repeated construction feats, played an important role in a series of wars in the Northern Wei Dynasty unified northern China, of Cui Hao talent through Bo, in addition to military and political achievements in astronomy, calendar, legal, diet, religion and other aspects have made an important contribution. \"of Cui Hao talent tombo study sheets Heaven affairs chips policy, when Mo this its self than in the ovary. genus Taizong political Autumn value generation ancestor, the date of operation, toe, Ning profile Summer case of both Long also wash also mao zai seek guise, Wei earthquake is not the main, the end of passers encounter, then not since the whole cast aside the bow once the birds are gone Qi, China evil on? is surplus will be none, overcast harm injury to the young? Beifu how he died were Sri Lankan cool, (l $ j¦Ó.c¨½)! \"(\" Wei Shu Cui Hao Biography) <br> Cui Hao&#39;s talent the ruling northern nobles and others jealousy and power, causing phase traduce ruined, to repair history declared Yang \"national evil\" counts were destroyed and the Aboriginal. <br>'
+);
+
+?>

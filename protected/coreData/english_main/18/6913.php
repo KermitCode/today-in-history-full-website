@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1968-7-18
+	create time:2013-01-01 23:28:03
+*/
+
+return array(
+'title'=>'The establishment of the world&#39;s largest semiconductor companies - Intel Corporation',
+'class'=>0,
+'cont'=>'July 18, 1968 (, Shigenobu June 23), the world&#39;s largest semiconductor companies - Intel Corporation. In In <br> 1955, the transistor father of William Shockley left Bell Labs created the Shockley Semiconductor Laboratory and has attracted many talented young scientists to join, but soon, Shockley&#39;s management methods and weird behavior caused employee dissatisfaction. Which is Shockley called Traitorous Eight promise should Adams, Robert Gordon Moore, Julius Blank, Eugene Claire, Kim Hoerni, Jay Rust Shelton Roberts and Victor Gerry Nick, joint resignation and co-founder of Fairchild Semiconductor in October 1957. Andy Grove, Gordon Moore&#39;s invitation in 1963, Fairchild Semiconductor. <br> due to the rapid development of the Fairchild Semiconductor imbalance, leading to the internal organization and management and product day also. Robert Novo should Sri Lanka, the resignation of Gordon Moore co-founder of Fairchild Semiconductor, and two of them in July 1968, and on July 16, the co-founder of Intel Corporation in the name of the integrated circuit (integrated electronics). Andy Grove volunteer to follow the footsteps of Gordon Moore, Intel three employees. <br> Andy Grove&#39;s oral autobiography that if he is the perspective of the three employees of the company, he is the Intel co-founder. However, if, to ownership, due to not been invited to the $ 1 price of the share, but first voluntary employee. In In 1968 07 18 - the world&#39;s largest semiconductor company --- Intel Corporation was founded <br> Intel Corporation (Intel Corporation) (NASDAQ: INTC, HKEx : 4335), (l $ j而.c里), headquartered in Santa Clara, California, USA. By Robert promise should Sri Lanka, Gordon Moore, Andy Grove, the co-founder of Intel Corporation in the name of the integrated circuit (integrated electronics). Currently operating senior Craig Barrett, chairman and president and chief executive Paul Otellini. Intel Corporation (而身d芋y身里h貝 $ 而身ry.c身m) <br> With the popularity of personal computers, Intel has become the world&#39;s largest design and production of semiconductor technology giant. <br> Intel Corporation is the world&#39;s largest semiconductor chip maker, it was founded in 1968, has a 40 year history of product innovation and market leadership. In 1971, Intel introduced the world&#39;s first microprocessor. The move not only change the future of the company, and had a profound impact on the industry as a whole. Microprocessor computer and Internet revolution that changed the whole world. <br> Comment: Currently, Intel in the processor industry leadership, although some marketing, is met with EU antitrust investigation, but his contribution to technical progress, social responsibility. <br>'
+);
+
+?>

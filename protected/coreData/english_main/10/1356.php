@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1258-2-10
+	create time:2013-01-01 21:38:25
+*/
+
+return array(
+'title'=>'Xu Liewu occupation of Baghdad, the capital of the Arab Empire toward the end of the Caliphate',
+'class'=>0,
+'cont'=>'(Wu Wu month sixth days), February 10, 1258, Xu Liewu occupation of Baghdad, the capital of the Arab empire and the end of the Korean Caliphate. , caliph Guard (paintings) <br>,, <br> Abbasid Abbasid dynasty (750 to 1258), the Caliphate of a dynasty, the Arab Empire second hereditary dynasty. Abbasid banner is still black, Chinese history books called the dynasty \"black food\". A reversal of the the Adams dynasty was the golden age of Arab, which lasted more than 500 years. <br> 747 years, the leadership of the Abu Muslim slave origin (reign 750 ~ 754) Khorasan People&#39;s uprising, overthrow the nearly 90-year rule of the Umayyads in 750, the Abbasid (750 to 1258), capital of Kufa. 751 Arab Empire army in Central Asia, the Battle of Talas, defeated the army of Chinese the Tang Dynasty the Anxi Jiedushi high Xianzhi, control most of the regions of Central Asia. 762 was moved to the new capital of Baghdad. Up to 1258 the rate was Xu Liewu Mongol armies destroyed to. <br> Xu Liewu (1217 -1265 years, 8 February), the Mongolian people, grandson of Genghis Khan&#39;s son of Tuolei, Kublai Khan, not brother of Montgomery and Ali brothers, four for Tuolei being his wife the instigate Lu Wo paste Nigerian born Xu Liewu Erie Khanate establishment, conqueror of Southwest Asia. Iraqi children Khanate continuation time is not long, but it appears completely changed the course of history in West Asia. <br> 1251 Montgomery won the kings of the public and the General Assembly on the sweat of the place, has been actively planning for further expansion. Responsible for the affairs of China, Kublai Xu Liewu become the the expedition army&#39;s commander. In 1252, the mood is not spent a pioneer in the rate of 12,000 first expedition. Abbasid good at dealing with a variety of aggressive forces to protect themselves at least as to the status of the Muslim religious leaders, up to this point has been passed down 36 generations, after 508 years. But this time, the caliph mo Sita Xin Xu Liewu attitude is very arrogant, so he became the last caliph. Xu Liewu first burst water flooded the main force and the commander of the caliph, then forced the caliph to abandon the city to a siege to the drop. A history of rare Holocaust expand to hundreds of thousands of people killed, with 500 years of cultural accumulation Baghdad suffered catastrophe caliph himself was horse Tasi. In 1264, Xu Liewu accept the canonization of Kublai to become Iraqi children sweat, he established the country become Mongolia four Khanate of Iraqi children Khanate (Golden Horde, Chagatai Khanate, Wo W Taiwan Khanate). the Arabs ruled areas <br> about <br> 732 years'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-6-3
+	create time:2013-01-01 22:13:50
+*/
+
+return array(
+'title'=>'Closure of the &quot;Group of 15 Summit',
+'class'=>0,
+'cont'=>'May 11 (Gengwu years), June 3, 1990, the closing of the \"Group of 15 Summit. <br> developing countries \"the first summit of the Group of 15 called on developed countries to take action to reduce the imbalance of international economic development, improvement of the international monetary system and its functions to stabilize exchange rates and to open up its domestic market. <br> The Summit held in Kuala Lumpur for three days, and closed on the afternoon of June 3. The joint communique issued at the meeting issued the above appeal. <br> participants are deeply concerned about the external debt problems of developing countries. They pointed out that urgent measures must be taken to seek a creative manner, comprehensive and flexible solution to the debt problem of the program \"to reverse back the clock\" of wealth, because the current backflow serious damage in developing countries In order to increase productivity and improve the national income efforts made. <br> communique said, an effective solution to the external debt problems of developing countries must be jointly borne by the creditor and debtor countries and financial institutions, obligations and responsibilities. The communique said, the personal representative of the Group of 15 heads of government will continue to meet to develop a solution to the debt problem solutions. the <br> communique also on the developed countries to provide subsidies to their agricultural production and produced expressed concern. They asked the developed countries to reduce such practices prejudicial to the interests of developing countries. <br> summit meeting on cooperation between the 15 member states to develop three programs, namely the establishment of the South Investment, Trade and technical data exchange center \"; organizations of countries of the South,\" Business and Investment Forum \"; and to strengthen the cooperation of the countries of the South to raise the level of science and technology to increase food production and population. (L $ dj而.c身m) <br> meeting decided that the \"Group of 15 Summit held annually. The next meeting will be held in the Venezuelan capital of Caracas in 1991. (Today in History www.TodayOnHistory.com) <br> in the joint press conference held after the meeting, Malaysian Prime Minister Mahathir Mohamad said that the meeting achieved \"satisfactory results\", it is bound to the south South cooperation to add new vitality. <br> \"15 Group\" Non-Aligned Summit in September 1989 decided to set up a meeting in Belgrade, (lsjt.org) and its member countries are: Algeria, Argentina, Brazil, (1 $ dj而. c身m) Egypt, India, Indonesia, Jamaica, Mexico, Malaysia, Nigeria, Peru, Senegal, Venezuela, Yugoslavia and Zimbabwe. <br>'
+);
+
+?>

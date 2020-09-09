@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1964-6-15
+	create time:2013-01-01 22:55:07
+*/
+
+return array(
+'title'=>'The establishment of the Group of 77',
+'class'=>0,
+'cont'=>'June 15, 1964 (on Jiachen May sixth days), the Group of 77 was established. <br> 1964 June 15, 2010, [? v history today?? com] on the first session of the United Nations Conference on Trade and Development in Geneva, 77 developing countries and regions published the Joint Declaration of the \"seven-seven , the formation of the \"Group of 77\". February 1988, 127 countries and regions participated in the organization, but the name is in use unchanged. <br> G77 aim is to strengthen the capacity of developing countries in the field of international economic cooperation, to take a unanimous stand against the superpowers and imperialist control, exploitation and pillage. Main activity held prior to the convening of the United Nations Conference on Trade and Development of each member of the Ministerial Conference, to study measures to coordinate their positions and take joint action to fight for reform unequal international economic relations with developed countries. In October 1967, the first meeting was held in the Algerian capital Algiers, decided to boycott a joint operation by the Algiers Charter, exploitation and pillage of the developed countries. The second meeting was held in Lima, Peru, in October 1971, by the Lima Declaration condemning the superpower arms race, colonialism, racism, occupation of his country&#39;s territory and to put pressure on other countries requiring a change in developing countries in disempowerment of international finance, trade, customs duties, assistance, maritime and natural resources development. In April, the General Assembly at its sixth special session by <br> 1974 drafted by the Group on the establishment of a new international economic order, the Declaration and Programme of Action provides for a series of important principles for the establishment of a new international economic order : all countries have an equal right to participate in solving the world&#39;s economic problems, have the right to exercise permanent sovereignty over its natural resources and all economic activities; developing countries the right to establish a joint organization of raw materials and primary producing country. <br> 1976, held its third meeting in Manila, \"Manila Declaration and Programme of Action. A fourth meeting held in Arusha, Tanzania in February 1979, by the Arusha Declaration, stressed that the North-South dialogue and South-South cooperation. The fifth meeting was held in Buenos Aires in April 1983. <br>'
+);
+
+?>

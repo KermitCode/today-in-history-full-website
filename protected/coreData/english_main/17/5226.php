@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-5-17
+	create time:2013-01-01 21:13:51
+*/
+
+return array(
+'title'=>'Mainland of China, the first case of influenza A (H1N1) patients cured',
+'class'=>0,
+'cont'=>'May 17, 2009 (Year of the OX, April 23), the Mainland of China, the first case of influenza A (H1N1) patients were cured. <br> May 17, the father of the Mainland of China, the first case of influenza A H1N1 influenza (aka swine flu) in patients with packages such and such (front right) and his girlfriend (front right) (front right ) posed for pictures with the medical workers. The day after the Ministry of Health, scientific, effective and well-detailed treatment of the medical expert group of Sichuan Province, Chengdu, the Mainland of China, the first case of influenza A (H1N1) patients package XYZ cured. <br> Sichuan Provincial People&#39;s Government Information Office held a press conference on the afternoon of the 17th announced: the CPC Central Committee, State Council and the Sichuan Provincial Party Committee, the provincial government attaches great importance to the concrete under the guidance of the Ministry of Health, Sichuan Province, to treat the patients, quickly to carry out the strict prevention and control work, and effectively prevent the spread of the epidemic. In the afternoon, the last batch of patients to package a certain contact personnel lift medical observation, the patient package XYZ cured. May <br> 2009, the package certain diagnosis of suspected cases transferred to the Infectious Diseases Hospital of Chengdu, at 15:30 on the 10th for isolation and treatment and medical observation. 10 evening, the Ministry of Health sent medical experts arrived in Chengdu guide the rescue work. May 11, 2009, the package certain was diagnosed with the Mainland of China, the first case of imported influenza A (H1N1) confirmed cases, Country, Sichuan Province, Chengdu composed expert group to develop a standardized treatment program, using the method of Integrative Medicine treatment. <br> Sichuan Provincial Health Department, Shen said at the meeting, Influenza A (H1N1) can be preventable, controllable and curable. Western medical treatment, since the 11th, the patient&#39;s temperature continued normal, cough, sputum and throat discomfort gradually reduce. 13, 2009, patients with flu-like symptoms disappear. 16, 17, twice the provincial CDC made virus detection results were negative, the West China Hospital of Sichuan Province, Chengdu expert to discuss that package a certain line with the Ministry of Health Influenza A H1N1 influenza cases discharged criteria (for trial implementation) \", can be permitted discharge. (Lssjt.cn) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1943-3-9
+	create time:2013-01-01 21:55:47
+*/
+
+return array(
+'title'=>'Former world chess champion Bobby Fischer was born',
+'class'=>4,
+'cont'=>'On the fourth day of February (對帤 years), March 9, 1943, the former world chess champion Bobby Fischer was born. Bobby Fischer, <br>, the first in U.S. history and is the only one chess world champion. \"Chess altar Mozart said. Legendary and controversial life, he is a chess genius, \"eight consecutive years,\" the record is almost no latecomers, he defeated the former Soviet Union during the Cold War rivals on the world chess champion throne, he became the United States&#39; national hero & rdquo ;, but a breach of the prohibition to participate in the competition made him become a wanted man, and the praise of the September 11 terrorist attacks, or cause him to be dismissed as the common enemy of the United States, was forced to expand long exile. <br> 1943, Fischer was born in Chicago, learning chess into the Brooklyn Chess Club, 7 years old, 13 years old under the tutelage of teacher John Colin chess. In 1957, 14-year-old won the first title - National Junior Chess Champion. In 1958, he won the United States Chess Champion eligible to participate in the group stage of the international competition, became the youngest grandmaster in the history of chess. (This record was challenged until 1991) <br> 1971, defeated the Men of the world&#39;s top masters, won a challenge chess champion Boris Spassky eligible. 7-9 in 1972, Fischer and Spassky Chess Championship in Reykjavik, Iceland. Bureau of Competition of 21, Fischer Total 12.5 8.5 results challenge successfully. Fischer, single-handedly defeated the history of chess to lord it over the Soviet Union, he became a national hero of the American eyes. the <br> 1992 years, Fischer became a pass Ibo guilty because he violated the ban of UN and U.S. sanctions against Yugoslavia, (1 $ dj而.c身m) go alone to Yugoslavia, and his old rival Boris Sri Lanka Pasi Ji under a champion a return visit race. September 2 Fischer successfully defended his title 10 wins, 5 losses and 15 draws. (有身d芋y身里h貝 $ 而身ry.c身m) but a grand jury in Washington soon to him in absentia on charges of \"trading with the enemy\", Fischer became wanted in the United States. In order to avoid litigation, he began to exile. In January 2005, Fischer a letter written to the Government of Iceland to apply to Iceland nationality. Out of sympathy for this Masterpieces Wizards behind bars, the Icelandic government has approved his request. <br> 2008 January 18, 2010 Fischer in Iceland a hospital due to kidney failure and died at the age of 64. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1940-3-26
+	create time:2013-01-02 08:46:04
+*/
+
+return array(
+'title'=>'Xia Yan screenwriter of the film &quot;the Baiyun hometown&quot; exhibition in Shanghai',
+'class'=>0,
+'cont'=>'March 26, 1940, February 18 (Dragon), screenwriter Xia Yan&#39;s movie \"the Baiyun hometown\" exhibition in Shanghai. 26 movie <br> Xia Yan screenwriter <br> 1940 Baiyun hometown \"exhibition in Shanghai <br> actress Feng Zi played of Chen Jingfen In March 1940, the famous playwright Xia Yan screenwriter The \"Baiyun hometown\" exhibition in Shanghai. (History TodayOnHistory.com) film directed by Situ Huimin, Thomas Chow, Yao Shiquan Wu Wei cloud photography. [Today in History www.lssdjt.com the] <br> \"the Baiyun hometown\" depicts the story of a young intellectuals patriotic awakening: the abjection young students Lin Huai ice (Luton ornaments) in their way by boat to Hong Kong to help seek the seat girl Chen Jingfen (the wind sub decorated) acquaintance. Chen Jingfen the fianc¨¦ white Lieberthal (Gyaincain ornaments) in Hong Kong as arms shipments popular enemy rape attention. After Chen Jingfen to Hong Kong, fiance busy two emotionally inevitably feel alienated. The day after Chen Jingfen participate contributions bazaar home met Lin Huai ice unemployed and down and out, he gave him to his own house, discovered that Lin Huai ice sheet is old school white Lieberthal previous years, and thus keep him down. <br> soon fall of Guangzhou, white Lieberthal initiated and organized repatriation services group. When he learned that Chen Jingfen Lin Huai-ice love, he put arms transportation work commissioned to Lin Huaibing, himself with the service group to return to participate in the War of Resistance Against Japan to go. Soon, Lin Huai ice to get to know the socialite Kim Ruth (Li Shining ornaments), well as their confusion secret leaked arsenal. Christmas Eve, when Lin Huai-ping and gold Ruth ballroom carnival arsenal fire destroyed a large number of military supplies. Chen Jingfen seen Lin Huai ice with gold Ruth&#39;s relationship will be with Lin Fasheng dispute, Lin Huai ice anger away gold Ruth home, Chen Jingfen return home to participate in field service work: At this point, gold Ruth completely exposed to the her traitor spies face, threats Lin Huai ice join enemy intelligence organizations . The Lin Huaibing suddenly realized that the contrite former non Consciousness Lin Huai ice after the best shoot enemy intelligence authorities minions, returning joined the death squads, to take gunfire to sneak into the enemy positions, blew up the arsenal of the enemy, and he was martyred. Film War and Love interleaved description of many of the viewers sad but also happy, immersed them. (L $ j¦Ó.c¨½) <br>'
+);
+
+?>

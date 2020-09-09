@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1855-2-17
+	create time:2013-01-01 21:03:18
+*/
+
+return array(
+'title'=>'Shanghai Society Uprising failed leader Liu Lichuan sacrifice',
+'class'=>3,
+'cont'=>'(YiMao the first day of the first lunar month), February 17, 1855, the Shanghai Society Uprising the failed leader Liu Lichuan sacrifice. The knife will be in the <br> \", 1959 by the Shanghai Opera House Dance Troupe debut <br> knife the civil secret society founded in Xiamen, is a heaven and earth will be the tribe of 1851 reached Shanghai. Shanghai knife members of the Shanghai Fujian membership of the working people and business owners. September 7, 1853, the fifth day of August (the period of three years), the Taiping capital shortly Tianjing after knife Shanghai Liu Lichuan leadership launched an armed uprising. The rebel army to kill the Shanghai magistrate Yuan Zude capture of Shanghai, Taiwan Wu Chien-chang, occupation of Shanghai City. <br> Shanghai Society Uprising, heaven and earth will be \"anti Fuming aim, the establishment of the revolutionary regime of\" Ming dynasty States \", the uprising masses elected Liu Lichuan political and religious system management Pacification generalissimo. Revolutionary regime \"wipe out corrupt officials, in addition to the brutal\" slogans, denouncing the evils of the Qing government, therefore, a lot of people to actively participate in the revolutionary ranks rebel army soon developed to more than 10,000 people. Since then, the peasant leaders near Shanghai Qingpu, Jiading Zhou Lichun led more than 4,000 people rushed to join the battle of the uprising momentum even stronger. The government had <br> clear from originally surrounded Tianjing Jiangnan Camp deploy troops to the crackdown. Foreign invaders to safeguard their own interests, but also ferocious revolutionary open interference. Britain, France and USA, together, build a fence, cut off the supplies of the knife will be between Shanghai City and Concession. Later, the army of foreign invaders more directly to the rebel army warships, artillery offensive was rebel army resolutely comeback. In one battle, the French army on the spot and 13 people died, and another 30 people were injured. (? V history today?? Com) In 1855 (the period of five years, the first day of the first lunar month), the rebel army was forced to break out. Battle, Liu Lichuan? Xiu-Ying Zhou? Yao Xu sacrifice. Part of the rebel army, led by Pan from bright the Taiping ruled areas, to join the Taiping. The other breakout remnants of diaspora, to continue to participate in the anti-struggle. The Shanghai Society Uprising this point fails. <br> point Dongchundang йд йд Sword Society Uprising command Shanghai Yuyuan <br>,'
+);
+
+?>

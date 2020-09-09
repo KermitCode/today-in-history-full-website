@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-5-6
+	create time:2013-01-01 20:52:50
+*/
+
+return array(
+'title'=>'Guizhou big gas explosion occurred',
+'class'=>0,
+'cont'=>'May 6, 1988 (March 21), Boshin, Guizhou big gas explosion occurred. May <br> 1988, the township coal mines in Bijie Prefecture of Guizhou Province, Weining County, monkey farm town government Liupanshui City Bay Area two Tangxiang Lok village farmers jointly run by the big gas explosion, 45 deaths, serious injuries 2, slightly injured two people. Which was a major responsibility for the accident, is also the township mine biggest casualties in recent years. <br> the mine in July 1986 without the approval of the competent authorities began to build the mine. Management is extremely confusing, there is no guarantee of personal safety, was put into operation in October 1987. January to April 1988, the Greater Bay Area, Liupanshui City Government coal tube station has three times so that it suspend production for rectification spite of the ban, but the mine forced adventurous production results from big gas explosion occurred. The direct cause of the accident is day power outage stopped the wind, downhole gathered a large number of gas, evening blast, people that go down to the coal mining, when the electrician renovations lighting line sparks caused by gas explosion. issued notification <br> the General Office of the State Council in August 1988 accident in Guizhou Province casualties, a profound lesson, exposed the serious problem of the current township coal mine production safety exists. Guizhou Provincial People&#39;s Government should immediately organized by the provincial government, the City, the relevant departments to participate in a joint investigation team of accident, to further investigate the cause of the accident, according to who the mining operation, who benefits and who is responsible for safety management and the principle of responsibility as soon as possible to clarify the accident responsibility, depending on the seriousness of the case, were dealt with severely. In particular, the person in charge of the Weining County Houchang town government to take the lead in the illegal mining operation, braved instructed by their superiors not to do, according to the law and severely dealt with, in order the serious administrative discipline, law and order, to avoid the recurrence of similar incidents. In December 1988, Watertown People&#39;s Court judgment in accordance with the law the primary responsibility for the accident. The coal plants factory director Chen Zhongkui, factory responsible for people Chen Zhongxiang guilty of Major Accident, were sentenced to seven years in prison, three years; Geng Yuan, the original Houchang town mayor were sentenced to three years in prison. <br>'
+);
+
+?>

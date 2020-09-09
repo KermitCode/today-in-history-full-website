@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-11-5
+	create time:2013-01-02 01:20:36
+*/
+
+return array(
+'title'=>'The death of famous physicist Zhang Wenyu',
+'class'=>3,
+'cont'=>'November 5, 1992 (, Ren Shen on October 11), the famous physicist Zhang Wenyu&#39;s death. <br> 1992, the honorary director of the famous physicist, academician of the Chinese Academy of Sciences, Chinese Society of High Energy Physics, honorary chairman, Chinese Academy of Sciences, Institute of High Energy Physics, researcher Zhang Wenyu illness invalid died in Beijing. (L $ dj¦Ó.c¨­m) <br> Zhang Wenyu was born in 1910 in Hui&#39;an County. Graduated from the Department of Physics, Yenching University in 1931 to study in the UK in 1935, after obtaining a doctorate. After the outbreak of the War of Resistance Against Japan, Zhang Wenyu With the returning salvaging the country&#39;s enthusiasm in the fall of 1938. Sichuan University, the National Southwest Associated University. In 1943, Zhang Wenyu again abroad, worked at Princeton University in the United States, a professor at Purdue University. Zhang Wenyu overcome hurdles in 1956 returned to the motherland after returning to a researcher at the Atomic Energy Research Institute, Chinese Academy of Sciences, the Research Office of the cosmic rays, deputy director and other staff. For the development of the cause of China&#39;s high-energy physics, according to the instructions of Premier Zhou Enlai in 1973 established the Institute of High Energy Physics, founding director Zhang Wenyu since 1973-1984. <br> Zhang Wenyu lifelong devotion to scientific research and the cause of China&#39;s high-energy physics, the the radioisotopes, cosmic ray air shower and singular atomic research, as well as aspects of the invention of the multi-wire spark counter, made pioneering contributions in the international The scientific community reputation. He actively promote the expansion of the cosmic ray experiment station in South off the snow-capped mountains, built the world&#39;s largest cloud chamber group co-led with Mr. Xiao Jian, made a high level of physical work, and trained a generation of cosmic ray researchers. <br> Zhang Wenyu, one of the founders of cosmic rays and high-energy physics research. In 1981, Zhang Wenyu personally presided over the argument of high energy physics research bases adjustment programs. (Lssdjt.cn) to ascertain whether the construction of the Beijing Electron-Positron Collider, Collider physics goals and area selection played a key role. Zhang Wenyu worked hard for the development of the cause of China&#39;s high-energy physics, the contribution of all the energy of his later years. <br>'
+);
+
+?>

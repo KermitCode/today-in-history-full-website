@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1737-1-29
+	create time:2013-01-01 20:53:17
+*/
+
+return array(
+'title'=>'North America during the Revolutionary War propaganda home Paine&#39;s birthday',
+'class'=>4,
+'cont'=>'The (hare twelfth lunar month Eve), January 29, 1737 North America during the Revolutionary War propaganda house Paine&#39;s birthday. Birth of Thomas Paine, <br> \"target =\" _blank \"> Paine <br> 29, 1737 North America during the Revolutionary War propaganda prestigious Thomas Paine&#39;s birthday . <br> He was born in Norfolk, UK, and his father, a tailor, a poor family, he only attended high school. youth when teachers, shopkeepers, publicans, repeated unemployment and the threat of starvation in 1765, Paine columns Lewis when publicans interest in politics, and wrote pamphlets publicans event in 1772 (? v history today?? com) description of the distress of the British tax collectors in April 1774, he was \"anti-government \"Thought is removed from office in October of the same year, Paine came to America as an indentured. served as editor of the Pennsylvania Magazine in Philadelphia. <br> At that time, a time when the anti-British struggle of the people of North America surging, but the monarchy The concept is also deeply rooted, even Washington, Franklin, Adams, famous Revolutionary War statesman, not clearly British independent in this situation, Paine published a pamphlet \"common sense\". publicly the independence of the United States. brochures denounced villain hereditary monarch of evil: \"in God&#39;s eyes, an ordinary honest people than all coronation since ancient times more valuable the Paine this article, (Lssdjt.com), became a war of independence of the masses textbooks. <br> Paine for the American War of Independence has achieved a lot, but as a humble stranger. been marginalized and combating become unemployed. returned to England in 1788. soon pamphlet he wrote to praise the French Revolution \"human rights\" theory, the the captured buses Bastille is \"world events\" This booklet has been banned, Paine was forced lived in France, he took part in the French Revolution, the intensity of the French revolution and thoroughly, more profound compared with the American War of Independence, Paine thinking can not keep up, he opposed the execution of Louis XVI, the power of the Jacobins, Paine said: \"The Republic is dead. therefore, the Public Safety Commission \"conspiracy against the Republic of charges arrested before being released at the intervention of the U.S. ambassador to France, Monroe <br> 1802, Paine returned to the United States, died in obscurity after seven years. <br> ;'
+);
+
+?>

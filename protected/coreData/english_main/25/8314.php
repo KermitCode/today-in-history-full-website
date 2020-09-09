@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1983-8-25
+	create time:2013-01-02 00:40:23
+*/
+
+return array(
+'title'=>'The CPC Central Committee issued the decision to &quot;crack down on criminal',
+'class'=>0,
+'cont'=>'July 17 (Guihai years), August 25, 1983, the CPC Central Committee issued a decision to crack down on criminal. the years after <br> 1978, social security has become a prominent problem. With new Chinese rare serious homicide occurred on June 16, 1983, eight criminals committing the crime more than 10 consecutive hours, they killed 27 innocent people on to the two-year-old to 75 years old, including 19 male 8 women. The number of young women are raped, gang-raped. This group is also guilty of the robbery, the crime explosion. On July 17, the Minister of Public Security Liu Fuzhi to Deng Xiaoping in Beidaihe reported serious law and order situation, Deng Xiaoping pointed out immediately: to crack down on serious criminal, to be severely and quickly. Deng Xiaoping put forward: the organization within three years, once, twice, three times a battle, a big city, a clean sweep, once hit him a large number of ...... <br> So, August 25, 1983, the CPC Central Committee issue a decision to crack down on criminal, presented the organization within three years from now, the three campaigns. Beginning in early August 1983 to July 1984, the public security organs to rapidly launch the first campaign of the crack down on criminal activities. the <br> in order to fight crime, protect the stability and unity of the social situation, in August 1983 to the end of the first battle of the first battle of the relevant departments to destroy more than 70,000 criminal gangs and seized guns of more than 18,000, more than 420,000 rounds of bullets. This strike hard regarded as a massive mass movement, the report clues provided by the private sector of $ 1.5 million, the masses seized and turned over to the public security organs of criminals 47,000 people. In this powerful, more than 10 criminals to the public security organs gave himself up. The arrogance of criminals extinguished in a few months time to go from the various types of reports can be seen not only law and order in various public places, even the lady who Xiaye Ban female students going to night classes also no longer need family transfers a. <br> crackdown began this year, to crack down on various criminal, but also with some enlargement of the ingredients, the kind of strictly and severely judgment wave of similar sports-like \"Cultural Revolution \"legacy. This judgment is this then not appear. was raised <br> <br> slogan is: can be caught from time to grasp, firmly grasping; punishable by from time to sentence resolutely sentenced; kill from time to kill resolutely kill <br>'
+);
+
+?>

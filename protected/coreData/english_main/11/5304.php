@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1950-6-11
+	create time:2013-01-01 21:29:22
+*/
+
+return array(
+'title'=>'Painter Henri Matisse Award of Venice',
+'class'=>0,
+'cont'=>'June 11, 1950 (on GY April 26), the painter Henri Matisse Award of Venice. <br> Matisse&#39;s death \"target =\" _blank \"> Matisse <br> 1950 June 11, 2010, (on com) France famous contemporary artist Henry Ma Atlantis award-winning art festival in Venice. (on cn) <br> Matisse, the distinguished painter and sculptor requirements to share this with his colleague and friend Henry - Lawrence - Honorary Lawrence works rarely for public acceptance in Venice, Matisse&#39;s award-winning, 81-year-old won the praise of people, despite a number of artists and critics argue that the contest judges ignored Mark - check Gal. < br> In the past 50 years, Matisse influenced dozens of French home, he is considered to be the main representatives of Fauvism, but was also recognized early in his artistic career, he broke off with all the formal school and style the relationship. (TodayinHistory.cn) <br> Matisse in the Paris School of Fine Arts in retreat Gustav - Morrow under the guidance of studied painting and art exhibition was first held in 1896 in the beginning of this century, horses Atlantis drifting outside, the experiment produced their own style, to join in the New World with the bright colors. <br> his painting is a simple and neat. traveling in Morocco he was deeply moved, and so from his screen decoration , from his broad-brush and shades, regardless of color, you can see the influence of the Arabs as a theme he likes to slave and concubine., he likes to use simple geometric lines in pen and ink sketches and lithographs. < ; br> Matisse won honors in Venice, he is engaged in the design engineering - new - decorative France Vince \"Rose Garden Dominican church, under his guidance, the church walls painted black and white, but the gloomy atmosphere is very prominent in pretty eye-catching colored glass backdrop. Vince - cities and towns located in the hillside in Grasse nearby, overlooking the insult. postwar, Matisse - straight live here. <br> The artist&#39;s work is well known in the United States in 1913, Matisse in the famous Armory Show in New York for the first time held its own large-scale art displays. Later, in 1948, held in Philadelphia artist works exhibition, his works also participated in a memorable exhibition. <br> Venice Art Festival is held every two years - time, it gives artists around the world the opportunity to meet each other in the past few years, the French monopoly of the award ceremony. George - Brack won the award last Arts Festival this year, the United States in the Venice exhibition by the extensive comments. landscape painter John - Marin works in the first - stream Review representative painting new - generation of artists painting compelling them Jackson - Pollock and Weilian De - Kooning. <br>'
+);
+
+?>

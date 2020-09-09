@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-12-16
+	create time:2013-01-02 02:03:40
+*/
+
+return array(
+'title'=>'Communist China sent representatives to the Chongqing CPPCC meeting',
+'class'=>0,
+'cont'=>'December 16, 1945 (ррсо years 12 winter months), the CPC sent representatives to the Chongqing CPPCC meetings. some members of the CPC delegation <br>, from left: Lu Ting, Zhou Enlai, Deng Yingchao, Dong, Wang Ruofei <br> 1945 December 16, 2009, sent by the Communist Party of China headed by Zhou Enlai, wu, Wang Ruofei The CPPCC delegation of the CPC, Ye Jianying, Yuzhang, Lu Ting, Yingchao 7, went to Chongqing to attend the Political Consultative Conference. Chongqing during the negotiations and the \"Double Tenth Agreement After the signing, the KMT has not been to stop the attack on the Chinese Communist Party liberated areas, at the same time, the people of the Kuomintang areas against civil war, fight for democracy movement is growing, the KMT realized full-scale civil war is not yet ready, and therefore declared convene CPPCC session. (History TodayOnHistory.com) <br> the 27th CPC representatives to attend the CPPCC meeting, in writing to the KMT to stop the civil war approaches: (1) The parties shall be ordered subordinate units are temporary residents around the country, stopping all military conflicts; (2) Where and avoid all the problems related to the Civil War as surrender, the lifting of the enemy armed, the dissolution of the puppet troops, and stop using the puppet army and restore transportation, personnel carriers, and the liberated areas, the recovered area, should be in the military conflict after the cessation of the peace consultative approach to solve; (3) in Political Consultative Conference, under the guidance of the organization of national civil war delegation from all walks of life, were dispatched to the war zone, field trips, and at any time to report the truth, and announcement. <br> 31, KMT representatives answered Fuwen way to stop the civil war were made: (1) to stop all military conflicts around the country, and restoration of rail traffic. (2) due to domestic military conflict and traffic congestion, and other things, and our allies are negative surrender and removal of enemy prisoners of war and other obligations related to recover and to stop the military conflict traffic and other matters related to domestic peace was restored, sent by the government on behalf of a person represented in Communist China (History Today www.lssdjt.com) with General Marshall promptly agreed approach draws the Government&#39;s implementation. (3) by the National Political Council, five presumed impartial individuals. Organized military mission dispatched nationwide occurred the conflict zones visits military conditions, traffic situations, and other domestic matters related to the restoration of peace, to keep the truth to report and publish. <br>'
+);
+
+?>

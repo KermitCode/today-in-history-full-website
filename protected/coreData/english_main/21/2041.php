@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1949-2-21
+	create time:2013-01-01 20:36:04
+*/
+
+return array(
+'title'=>'American psychiatrist and psychoanalytic theorist Sullivan&#39;s death',
+'class'=>3,
+'cont'=>'February 21, 1949 (24) Jichou first month, the American psychiatrist and psychoanalytic theorist Sullivan&#39;s death. <br> Sullivan died \"target =\" _blank \"> Sullivan, Harry Stack Sullivan (1892 - 1949), American psychiatrist and psychoanalytic theorist, new psychoanalytic school representative figure of the ancestral home is Ireland. February 21, 1892 Born in Norwich, New York, USA, died in Paris on January 14, 1949., MD from Chicago Medical School in 1917. entering the psychiatric community, in the First World War in any Military, subsequently serving in the public health service centers, including several Institute famous neuropsychiatrist WA White He was deeply committed to the Schizophrenia Research, he was also a medical educators and social activists to commemorate White, (today www.TodayOnHistory.com history) his later life the creation of the Wright Foundation, any Washington the psychiatric school principals, as well as \"psychiatry\" magazine editor, in order to promote his interpersonal theory. <br> Sullivan the contemporary philosophical thoughts attempt to psychiatry and other disciplines, such as natural philosophy, anthropology, biology, linguistics, and behavior combined, who, with his unique approach to interpersonal psychotherapy process main parameters, constitute a new psychoanalytic theory system he has two contributions: ¢Ù that schizophrenia patients with disorders of childhood interpersonal, produces severe anxiety leading experience organization split; ¢Ú proposed self-concept system, advocated people are born with the pursuit of satisfaction and security needs, and gradually formed a stable personality pattern in relationships in his theory, including functionalism, the new behaviorism and Gestalt psychology in some concept reflects the typical tendency of capitalist society eclectic thought <br> Sullivan in his later years still actively participate in social activities, to participate in the activities of UNESCO and the International Conference on Mental Health. alive only published one book: Modern psychiatry Introduction \"(1947), many of his speeches records, notes and manuscripts, editing and publishing in succession by his colleagues,\" interpersonal theory of psychiatry \"(1953),\" psychiatric talks Law (1964), \"as a process: schizophrenia \"(1962),\" Psychiatry and social integration \"(1964),\" civilian psychiatry (1972) Sullivan interpersonal said new psychoanalytic theory a great impact, of K. Horney and E. Fromm are subject to his influence. (history today www.TodayOnHistory.com) <br>'
+);
+
+?>

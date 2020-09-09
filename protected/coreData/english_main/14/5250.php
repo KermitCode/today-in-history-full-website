@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1974-6-14
+	create time:2013-01-01 21:18:48
+*/
+
+return array(
+'title'=>'Jiang Qing incited &quot;pulling modern Daru&quot;',
+'class'=>0,
+'cont'=>'(Jiayin leap April 24), June 14, 1974, Jiang Qing incitement \"pulling Modern Daru. conversation <br> by <br> record of <br> Chih Chun Jiang Qing, 1974 June 14, 2010, Jiang Qing, held in the Great Hall of the People, \"Warrior Pi Lin Pi briefing and speak about so-called\" Confucian law the history of the struggle, and asked to write a story criticizing \"modern Confucian. <br>, she said: \"Now the post modern Confucianism, and if there is, I hope you have made a little mention. Confucianism, in addition to Lin Biao, Chen Boda, not to mention. Not mention atheism, materialism, not to mention Confucianism, do we not Confucianism this? No, why the anti-Confucius? Now Confucianism? There are great Confucianism, Chiang Kai-shek, the general representative. <br> 6 15, Jiang Qing Liang Xiao, Tang Xiaowen, a member of the writing team of the conversation, repeat the above argument. the <br> A few days later, said Liang Xiao, a head in the late group convened a meeting: \"Note, the Daru not approved Liu Shaoqi, nor is Lin Biao, Chen Boda. June 17, 2011 <br> to 28 days, Jiang Qing activities to Tianjin, incitement \"pulling modern Daru\". Jiang Qing led the late group, will be swimming and Liang Xiao \"writing team, a large number of people to Tianjin, Confucianism law the history of the struggle in the factories, villages, troops, by preaching and spreading Confucianism law struggle to continue to \"fallacy of incitement\" pulling Modern Daru. <br> 6 19 evening 7:30 to early the next morning, the the the Jiang Qing hosted more than 1,000 people attended the Tianjin Confucian law struggles report will she speak about \"the history of the struggle of Confucianism and Legalism\" Referring to the many historical figures from the first Sixteen Century ago cleared. She and batch Liu Shaoqi \"into the city early personal sacrifice hole\" in the name, saying \"Do not think that socialism no Confucian, our party has a lot of Confucianism and explicit, he said:\" The campaign focuses on batch &#39;within the Party Daru&#39;. \"<br> Jiang Qing at the meeting instigated cronies read a touted Jiang Qing is a\" radical \"slander Zhou Enlai\" moderate \"foreign telecommunications tests, the participants, by the mouth of foreigners: China&#39;s struggle in the Zhou Enlai as the representative of the moderates and Jiang Qing, as a representative of the radical struggle. And hinted the Zhou Enlai they said \"modern Daru. <br>'
+);
+
+?>

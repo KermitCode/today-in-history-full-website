@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1881-3-20
+	create time:2013-01-01 20:38:31
+*/
+
+return array(
+'title'=>'Chinese modern writer, the scholar Zhang Shizhao&#39;s birthday',
+'class'=>4,
+'cont'=>'March 20, 1881 (February 21), Government House, the birth of modern Chinese writer, scholar Zhang Shizhao. the <br> Zhang Shizhao died \"target =\" _blank \"> Zhang Shizhao (1881-1973), the Chinese patriotic democratic personages, scholars, educators, thinkers and political activists. Shanhua Hunan Province (Changsha) people, a strict word line, No. the Qingtong (youth), Qiu Tong (middle age), in his later years pseudonym solitary Tong Qing Dynasty scholar to Nanjing in 1902 into the Jiangnan land division school, next year will become the leader of the student protests, to Shanghai invested Cai Yuanpei Wu Chih-hui, organizations such as the Patriotic Society. Huangxing build any writer Shanghai \"Su\" in May of the same year, he was appointed to promote democracy, freedom and revolutionary ideas, while printed books of the \"Yellow Emperor Soul\", \"Sun Yat-sen\" propaganda revolution. collaborative Hua Xing Hui, founded assassination group, travel-stained, running around. implicated in the assassination of the the Guangxi governor of King Spring case love in 1904, imprisoned 40 days after his release east to Japan after the Revolution of 1911, she served as Minli Daily writer, Secretary-General of the military government in Guangdong, the north and south peace on behalf of the Nationalist government in Nanjing, Duan Qirui Government, Assistant Attorney General, minister of education. has edited the the Jiayin weekly. [of history today www.lssdjt.com] 1927 rescue Li Dazhao running. in Shanghai in 1933 as a lawyer, and served as dean of the Shanghai Institute of Politics, Ji and Cha Government Affairs Committee Chairman of the Legislative Committee of the Anti-Japanese War, the KMT&#39;s political participation would go into politics Members 1949 Nanjing Kuomintang government peace talks delegation same year at the National the first plenary session of the CPPCC., he served as a member of the Standing Committee of the National People&#39;s Congress, the National Committee of the Chinese People&#39;s Political Consultative Conference Standing Committee, the curator of the Central Research Institute of Culture and History. U.S. President Richard Nixon&#39;s visit to China in 1972, Premier Zhou Enlai to him introduce Zhang Shizhao Mr. revered as our university asked homes. \"in his later years who have communication contribute to the two sides of the strait. significant Liu Wen plunge\" and handed down. <br>'
+);
+
+?>

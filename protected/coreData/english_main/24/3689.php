@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-4-24
+	create time:2013-01-01 22:46:16
+*/
+
+return array(
+'title'=>'China Enterprise Confederation established',
+'class'=>0,
+'cont'=>'On March ninth day (JiMao years), April 24, 1999, the formation of the China Enterprise Confederation. <br> 1999 4 24 morning to commemorate the 20th anniversary of the establishment of the China Enterprise Management Association cum renamed the formation of the China Enterprise Confederation and the General Assembly was held in the Great Hall of the People. <br> China Enterprise Management Association, Zhang Yanning at the meeting, a summary of 20 years of work of the China Enterprise Management Association. He said that the the the HKCEA system now has 28 national industry associations; Enterprise Management Association, entrepreneurs, associations and professional associations in 31 provinces, autonomous regions, municipalities directly under the central government, more than 200 industrial city, enterprises and organizations already have 436,000 members, the formation of a geographically widespread, many industries, the function of supporting the network of social organizations. Yuan Baohua, president of the China Enterprise Management Association at the meeting recalled the enterprise reform in China in the past 20 years and continue to strengthen the management of the course. (Lssdjt.com) <br> Assembly announced the approval of the relevant departments of the state, from April 24, the China Enterprise Management Association changed its name to form the China Enterprise Confederation. Previously, has many years of cooperation between China Enterprise Management Association and the national industry HKCEA local Enterprise Association, a national professional association, has formed the prototype of the Commonwealth. On this basis, the Chinese Young Entrepreneurs Association, the China Association of Women Entrepreneurs Association of township enterprises in China, Chinese Foreign Investment Enterprises Association, China Individual Laborers Association and Chinese Private Science and Technology Entrepreneurs Association also will serve as members of the unit to join the China Enterprise Confederation , which will further enrich the expansion of the coverage of the work of the Association, to better play its role as a link, to guide enterprises to self-regulation and safeguard the legitimate rights and interests of enterprises and enterprise operators. After the establishment of the China Enterprise Confederation and China Entrepreneurs Association names the same, continue to represent employers&#39; organizations to participate in the activities of the International Labour Organization, acting on behalf of negotiation mechanism as China&#39;s labor relations in enterprises, responsible for the coordination and participation in the labor legislation, labor dispute , to encourage enterprises to foreign exchanges and cooperation. <br>'
+);
+
+?>

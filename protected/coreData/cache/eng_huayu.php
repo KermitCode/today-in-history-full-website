@@ -1,0 +1,8 @@
+<?php
+/*
+*file:English huayu cache:4ÔÂ9ÈÕ
+*time:2015-04-09 21:16:18
+*/
+
+return "<a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/0409.html'><img src='/91history/img/upua/0409.jpg' width='90' height='90' alt='4-9-Birthday Flowers:Red narcissus-Florid:Repentance-Birthstone:Diamond' /></a><a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/0813.html'><img src='/91history/img/upua/0813.jpg' width='90' height='90' alt='8-13-Birthday Flowers:Ze Ju-Florid:Live in seclusion-Birthstone:Agate' /></a><a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/0321.html'><img src='/91history/img/upua/0321.jpg' width='90' height='90' alt='3-21-Birthday Flowers:White extension of Lake cable-Florid:Start-Birthstone:Coral' /></a><a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/0329.html'><img src='/91history/img/upua/0329.jpg' width='90' height='90' alt='3-29-Birthday Flowers:Corydalis-Florid:Fantasy-Birthstone:Coral' /></a><a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/0222.html'><img src='/91history/img/upua/0222.jpg' width='90' height='90' alt='2-22-Birthday Flowers:Daisy-Florid:Vitality-Birthstone:Amethyst' /></a><a href='http://www.luo0.com/91history/en.php/HisBrith/view/date/1203.html'><img src='/91history/img/upua/1203.jpg' width='90' height='90' alt='12-3-Birthday Flowers:Hawthorn flowers-Florid:International-Birthstone:Turkish Jade' /></a>";
+?>

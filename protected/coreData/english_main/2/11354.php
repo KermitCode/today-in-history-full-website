@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2010-12-2
+	create time:2013-01-02 02:15:04
+*/
+
+return array(
+'title'=>'Chen Shui-bian into prison',
+'class'=>0,
+'cont'=>'December 2, 2010, October 27 (GY), Chen Shui-bian into prison. <br> <br> Chen Shui-bian in the police under heavy guard and moved to Taipei from Taipei Detention Center prison. <br> <br> Chen Shui-bian&#39;s son Chen Chih before Chen Shui-bian shift supervisor rushed visits. <br> former Taiwan leader Chen Shui-bian, on December 2, 2010, in the afternoon of the 2nd shift supervisor to Taipei Prison sentence. The inmates numbered 1020, an area of &#8203;&#8203;about 40,000 square meters of house room to live with the other inmates. (On TodayOnHistory.com) <br> Chen family scandal involved, Nov. 11 by the Taiwan Supreme Court \"on the\" Longtan land purchase scandal and buying case make a final judgment. Chen Shui-bian and his wife Wu Shu-chen, were each sentenced to two positions bribes offense, the sentences of 11 years, 8 years, Chen Shui-bian has also become the outgoing leader of the Taiwan authorities in the history of the first due to a corruption case and sentenced to prison. <br> prison authorities said that Chen Shui-bian after a physical examination, Barber entered the house in \", to live with a simple background inmates. <br> rendered and penalties related to the above-mentioned cases, confiscated, recovered and Chen Shui-bian&#39;s wife Wu Shu-chen and other co-defendants sentenced determine the part of the Taiwan High Prosecutor&#39;s Office on the 2nd afternoon cross-collected evidence from the implementation of Wu Shu-chen is expected next week to perform exhortations by Taipei prosecutors Kaohsiung District Prosecutors Office. proceeds of crime <br> As regards the recovery of proceeds of crime, the the Taiwan prosecutors in the investigation, prosecution, and trial period net was more than 9.27 million U.S. dollars, will be confiscated and associated recovered not buckle case of a total of more than 2.7 million U.S. dollars; fines part , Taiwan Supreme Court judgment Chen Shui-bian couple Total required and a fine of more than 300 million yuan NT. <br> Taiwan prosecutors said that the implementation of the Prosecutor would take stock of the status of the property of the Chen Shui-bian couple, asked whether the two people willing to take the initiative to pay the relevant amount, then the forfeiture proceedings. It is understood that the property of the family of Chen Shui-bian Special Investigation Unit seized a total of over 1.3 billion yuan NT. The (history www.TodayOnHistory.com) <br> Reviews: this scourge of Taiwan, Chen Shui-bian finally be punished. <br>'
+);
+
+?>

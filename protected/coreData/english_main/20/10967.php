@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-11-20
+	create time:2013-01-02 02:31:00
+*/
+
+return array(
+'title'=>'Potala Palace repairs three works are completed',
+'class'=>0,
+'cont'=>'November 20, 1992 (, Ren Shen on October 26), the third-phase project of the Potala Palace repairs to complete. Potala Palace <br> repair <br> mid-November 1992, the third phase of the project of the Potala Palace repairs remarkable industry completed on schedule, and passed the acceptance by the experts, to this maintenance the most difficult part of the project has been weathered. Leading Group, deputy head of the Potala Palace repairs, Nov. 20, Vice-Chairman of the People&#39;s Government of the Tibet Autonomous Region (l $ dj¦Ó.¨­r¨À)] Jeep - Puncog times Gordon happily announced to the Chinese and foreign reporters. He stressed, the maintenance always follow internationally recognized principles faithfully in accordance with the status quo to save the original. the <br> Potala Palace has been the location of the local government of Tibet&#39;s theocracy, is a sacred place of Tibetan Buddhism and Tibetan culture boutique concentrated Tibet with the mainland, with the central government liaison and communication hub. The Potala Palace, the vast majority of buildings are already more than 3,000 years of history, His Holiness the hole and guanyintang endureth for more than 1300 years, the entire building will inevitably appear greater danger. To this end, in October 1989, State Councilor Li Tieying as honorary head of the Potala Palace repairs leadership team under the leadership of the official start repair works. the <br> third phase of the project a total of 28 projects (history TodayOnHistory.com) mainly include the house of the 5th Dalai Lamas, pull Ma Lacan, West hall three corridors of the Red Palace, the White House West Sun temple Gandan Yang Zi, bronzes library, Thangka library, Summer Gold cellar, West hall, offerings room key works. This large amount of engineering, technical difficulty, and in the Potala Palace, the most important part of special involving collection of precious relics. That the victory of the third phase of the project completion marks the Potala Palace repairs has been made to the decisive success, no longer exist in the future of the project is particularly worrying difficult the Jeep - Puncog times Gordon. <br> It is understood that the maintenance project of the Potala Palace, great attention to respect for science, respect for tradition, respect for ethnic and religious habits. Tibetan monks and laity praised the merit of this project is the Communist Party and the People&#39;s Government, many experts and technical staff that this project is successful for heritage conservation. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-8-12
+	create time:2013-01-02 00:10:02
+*/
+
+return array(
+'title'=>'Border against &quot;mop-up&quot; start',
+'class'=>0,
+'cont'=>'August 12, 1941 (June) summer of Government House, the Border Anti-\"mop-up\" began. the <br> Jinchaji forces thorns game <br> 1941 August 12, 2010, under the leadership of the Chinese Communist Party, army and people of the border area against \"raids struggle\" pull prologue. invading Japanese army suffered a heavy blow in the Hundred Regiments <br>, reconciled to defeat in 1941, the implementation of law and order to strengthen the movement, the anti-Japanese base crazy \"mop-up\" and \"crusade . \" 1941-1942, \"mop-up\" North China Base, a use of force in more than a thousand, about 150 times; sometimes repeatedly in the same area \"mop-up\" up to three, four months, and also imposed \"burn all, kill all, always steal\" Sanko policy. <br> enemy of Jin-Cha according to the command of the Eighth Route Army headquarters and the enemy situation changes were political mobilization and military preparations against \"raids\" and the launch base militia and the masses to participate in the struggle. <br> in more than two months against \"mop-up\" operations, the Shanxi-Chahar-Hebei military and civilian, combat 800 times, elimination of more than 5500 Japanese puppet emerged like Langya Five Heroes & rdquo ; such shaking, ZZZZZZZZZ the hero. September 25, 1941, a group of seven with five soldiers of the Jinchaji first military sub-district transfer for the cover of the forces and the masses, the enemy directed the Langyashan extremely, kill and wound more than 90 enemies. Exhaustion after, five soldiers Ningsibuqu, decided to jump off the cliff. May 25, 1942, the deputy chief of staff of the Eighth Route Army Zuoquan sacrifice in battle. He is a sacrifice in the War of Resistance Against Japan, the officer with the highest military cadres of the Communist Party of China. <br> extremely hard struggle against \"raids\" behind enemy lines, soldiers and civilians to create a lot of extremely effective method of annihilating them, (l $ j¦Ó.c¨½) sparrow warfare, tunnel warfare, mine warfare, sabotage war , the development of the strategy and tactics of the people&#39;s war. The enemy was drowned in the sea of &#8203;&#8203;the people&#39;s war. The base in victory made against \"mop-up\" operations <br> Jinchaji, also paid a huge sacrifice. Total of of 2000 Yu Guanbing and 4500 more than mass casualties. The base area of &#8203;&#8203;over 4000 km2 smaller. The Japanese Base entering the most difficult stage. <br> Comments: the greatest difficulty not beat the Chinese Communist Party, the political party consolidation and rectification, economic self-reliance. <br>'
+);
+
+?>

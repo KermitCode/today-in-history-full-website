@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-5-19
+	create time:2013-01-01 22:54:30
+*/
+
+return array(
+'title'=>'Jacqueline Kennedy Ona Heath died.',
+'class'=>3,
+'cont'=>'May 19, 1994 (Awake of April ninth day) Jacqueline Kennedy Ona Heath, died. <br> Jacqueline Kennedy Ona Heath (on TodayOnHistory.com) Jacqueline Kennedy: Former U.S. first lady <br> once personality and charm to win Americans praise of Jacqueline Kennedy Ona Heath - the 35th president of the United States - John F. Kennedy&#39;s wife, 1994 May 19, 2011, 10:00 15, died at 64 years old in their own home. <br> Jacqueline was born in Long Island, New York on July 28, 1929 (lsjt.net) the capital of the United States in 1951, graduated from George Washington University, majoring in French literature at school, after graduating from the \"Washington Times\" forum when photojournalist. While working at the newspaper, she interviewed was from Massachusetts Senator John F. Kennedy, met the young future president. When the engagement of the two in 1953, Jacqueline calls himself \"the luckiest girl in the world\". On September 12 of the same year, the 24-year-old Jacqueline married Prince Charming. <br> when she was 31 years old, older than her 12-year-old husband was elected the youngest president in the history of the United States, with a 3-year-old daughter and a newborn son, the young couple moved into the United States the highest a symbol of power - the White House. The [TodayinHistory.cn] <br> she decorated the White House to be appreciated by the people, and she promised that decorated the White House into a showcase of American history and art. <br> she is said to spend money like water, love to buy things, naturally leading American fashion trends. First Lady of the young, beautiful, great accomplishment became the idol of the number of young Americans. In people&#39;s opinion, she is indeed the happiest woman. <br> However, the November 22, 1963, in Dallas, Texas, President Kennedy, her husband was sitting beside her assassinated her pink coat spattered with the blood of her husband&#39;s head. After a few days, the Americans panic turned into mourning, and became the admiration of the widow of the president, the people revere her national mourning period of calm, determination and courage, her hand holding a 6-year-old daughter in one hand and pull forward to a 3-year-old son, standing before Kennedy&#39;s coffin, little Kennedy in the mother pointing, raised his hand solemnly salute to his father coffin. This touching cried the scene to help the Americans bite to tide over the lost presidential painful difficulties. under the age of three years old son John <br> to Kennedy&#39;s coffin being dignified and elegant (Picture) <br> to extend my the last tribute <br> Jacqueline Kennedy ; <br> Kennedy and Jacqueline <br>,'
+);
+
+?>

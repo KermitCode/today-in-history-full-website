@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1960-10-1
+	create time:2013-01-02 00:49:03
+*/
+
+return array(
+'title'=>'Sino-Burmese border treaty signed',
+'class'=>0,
+'cont'=>'August 11 (Boxer), October 1, 1960, the Sino-Burmese border treaty signed. <br> 1960, China and the Government of the Union of Myanmar in Beijing signed a border treaty between the People&#39;s Republic of China and the Government of the Union of Myanmar. <br> between the two countries \"agreed that, for a long time suspended pending border issues between the two countries, is a legacy of history\", the governments of the two countries, \"according to the five principles of peaceful coexistence and friendly consultation, mutual understanding and mutual accommodation to overcome the difficulties, she finally comprehensive solution to the border issue between the two countries. \" Treaty total of 12 main elements: (1) from the tip of the mountains to the western end of the end point of the Sino-Burmese border, the two sides agreed to an indefinite boundary Pianma Gulang Kong Anti region delimited by traditional customary, and confirmation from the tip alpine to the the Burma border southeast end of the end of the demarcation principle; (2) Myanmar agree to Pianma belongs to China, Gulang room Kong region was returned to China; (3) The two sides decided to abolish Myanmar maintained China&#39;s Meng Mao Triangle perpetual lease relations, the Chinese side agreed to the transfer of this area to Myanmar, Myanmar agreed to provisions in accordance with the exchange of letters of Britain and China in 1941, the Burma southern section boundary Service the old tribal area of &#8203;&#8203;Myanmar&#39;s classes Hung, Ban was transferred to China ; (4) In order to facilitate the two sides of each administration, to take care of the needs of local residents tribal relations and production, daily life, the two sides of a small section in the delineation of the boundaries of an exchange of letters in 1941, as fair and reasonable adjustments; (5) China to give up the right to China to participate in the 1941 exchange of notes under the mining companies operating Myanmar furnace room. The Treaty with effect from January 4, 1961, the Sino-Burmese border treaty signed \"target =\" _blank \"> formal demarcation of the signing of the Sino-Burmese border treaty, all the border of the two countries, not only marked the friendly relations between the two countries further published, made a great contribution to the maintenance of peace in Asia and the world, but also provides a good example of our resolve border issues with neighboring countries. <br>'
+);
+
+?>

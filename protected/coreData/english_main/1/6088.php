@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1933-7-1
+	create time:2013-01-01 23:59:04
+*/
+
+return array(
+'title'=>'Ji Hongchang rates with the Allies regained Duolun, nationwide pleased',
+'class'=>0,
+'cont'=>'July 1, 1933 (πÔ”œ year Run May ninth day), Ji Hongchang rates with the Allies regained Duolun nationwide pleased. <br> commanded the troops regained Duolun Ji Hongchang In 1933, the Confederate Army the left regained baochang up a victory launched Duolun fighting. Police East city Duolun as a stick to day cavalry brigade and puppet troops outside the city built 32 gossip fort, and inside and outside Jiaotong Hao and grid fortifications. July 4, Ji Hongchang pre-emptive decision to and fell swoop overcome Duolun. At 11:00 p.m. on the the 7th, the allies splitter attack, no less than two days and three nights fighting Ji Hongchang is personally led death squads, stripped to the waist crawl three consecutive Dengcheng, yet effective, more than 200 casualties. At dawn on the 11th, the allies and the number of degrees siege, bombing by the Japanese machine, very heavy casualties, and is the temporary retirement original positions standby. Ji Hongchang dark faction the adjutant rate soldiers and more than 40 people disguise to sneak into the city. Morning 1:00 on the 12th, Ji Hongchang utilize Yean again organizing the onslaught, the city fired shots response to the end of the allies from the North, West, South, three scored city street fighting, after three hours, regained Duolun \"ninety-one eight \"to regain lost ground move for the first time since the Chinese army. <br> 14, various groups Salvation Association call Feng Yuxiang of Ji Hongchang: \"Government by not dare, public, etc. whom the government can not grams, while the public grams. The best chips Shuo program Qiwei uplifting, direct the future of Yu Wei Shi Jingtang, Qin Hui, will have fear deterrence, while not directly their private. \"16, 17, the Li Liejun, (lsjt.org) Cheng Qian, the (lsjt.org) Jiang Guangnai, (lsjt.org) the Cai Tingkai, (lsjt.org) Li Tsung-jen, (lsjt.org) Li Chi-shen, Chen Mingshu successively Congratulates Feng Yuxiang recover Duolun, the message said: \"The Czech Republic, the sound came, is well pleased. Excited dead people, stretching righteous cause in the world. \"Said to be from the various aspects of trying to coordinate\", 26, Tianjin Yi Shi said: \"we only fall of the territory of the story, and not what people have done to regain lost ground, the Ji Hongchang regained the Duolun as first. \"And sought\" Do not reactive Qin Hui, while the crime of armed Muslim. Donations, provincial authorities and civic groups donated nearly 40 million. 13 overseas Chinese groups also issued energized, and called upon the patriotic overseas Chinese residing abroad to the allies to their pay support. (L $ dj¶”.®≠r®¿) <br>'
+);
+
+?>

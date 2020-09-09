@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-2-1
+	create time:2013-01-01 20:57:12
+*/
+
+return array(
+'title'=>'The Complete Works of broadcast TV series &quot;Journey to the West&quot;',
+'class'=>0,
+'cont'=>'February 1, 1988 (Dingmao the twelfth lunar month 14), the TV series \"Journey to the West,\" The Complete Works of broadcast. the <br> TV series \"Journey to the West\" broadcast \"target =\" _blank \"> Journey to the West,\" The Complete Works of literary classic of the same name adapted according to Wu Cheng-en. highly personalized Monkey King (Liu Xiao Ling Tong), Pig (Ma Dehua , Drifting Yan Huai ceremony April 12, 2009 10:20 AM died) the auxiliary security Datang monk Xuanzang (Wang Guangdong, Xu Shaohua, slow and heavy Swiss) to Buddhist sutras. mentoring four, all the way to the beachhead scraped down strange demon volts, after 84 difficult to retrieve the Scriptures, end correction fruit. monk mentoring rotary Chang&#39;an, the Tang Wangyin cut asked to learn the course. monk narrative Tangwangshan the way and dangerous. <br> series \"Journey to the West\" for six years (1982-1988) shot 25 episodes, female director, Yang Jie, a lot of Buddhist scriptures Jiyu, \"Journey to the West\" obscure dialogue, and delete all, only to give the audience the most clear story [而身d芋y身里h貝 $ 而身ry.c身m <br> 1982 shooting trial the set \"Chuyao Wuji country\", the same year the National Day broadcast in -1985 <br> 1982, finished 11 episodes, aired on February 3, 1984, \"charged Pig\", \"Three Skeleton Demon\" two episodes, broadcast during the 1986 Spring Festival the first 11 episodes. <br> 1986 finished filming \"Indiana Lianhua, \"Chuyao Wuji country\" (remake), \"World War II Spitfire Kid,\" a battle of wits drop three strange \"Daughters\" \"Fun,\" the three-tone plantain sweep tower Resolution Vengeance \",\" strayed small Leiyin \",\" Sun Monkey clever medicine \"nine episodes. (L $ dj而.妨壯T) <br> 1987 in order to introduce the shooting of\" Journey to the West \", the brightest\" fairy \",\" King \"to the audience New Year, the CCTV recording called\" Monkey Music \"evening broadcast during the Spring Festival. <br> in 1987 finished\" wrong fall cave of silken \"\" four exploration bottomless pit \",\" Communication Arts Yuhua Island, \"\" Tianzhu received rabbit \",\" wave liter blissful days in five episodes. 1st <br> 1988, the first 25 episodes all aired in 1988 Spring Festival broadcast, still winter and summer vacations are replayed the most classic. &#39;Journey to the West \", can be regarded as the popular version of Journey to the West 88 edition <br> CCTV six small age of 25 episodes, Journey to the West 16-episode sequel, before and after 41 episodes. <br> the <br> great shots which story? (who??) See Next! <br>'
+);
+
+?>

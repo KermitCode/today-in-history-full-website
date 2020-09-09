@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-9-12
+	create time:2013-01-02 00:52:18
+*/
+
+return array(
+'title'=>'The Taiwan Kuomintang party members Huqiu Yuan visited the mainland',
+'class'=>0,
+'cont'=>'September 12, 1988 (, Boshin August two days), Taiwan&#39;s KMT party members Huqiu Yuan visit the mainland. Huqiu Yuan <br> reading <br> 1988 September 12, 2011, Taiwan&#39;s Kuomintang party members, \"Chinese Journal issuer Huqiu Yuan in Beijing, Shaanxi, Hubei and other places to visit, and friends and relatives conversation that should be the end of ethnic separatism, to achieve the reunification of the motherland at an early date. The President of the National Committee of the Chinese People&#39;s Political Consultative Conference and Yingchao met him. The KMT authorities am dissatisfaction actually expelled from his Kuomintang party. the <br> former Kuomintang senior legislators, writers Huqiu Yuan, born in 1901, Hubei Huangpi. In 1931 [l $ dj¦Ó.¨­r¨À] graduated from Waseda University, Department of Political and Economic, after Shanghai and other places in the cultural and political activities. In 1948, he was elected as a legislator. Go to Hong Kong in 1949. In 1951, Taiwan&#39;s cultural and educational work. In the late 1980s, advocated the reunification of the motherland. 1988, he was the \"Alliance for the Reunification of China\" Honorary Chairman, any \"Taiwan the mainlanders to return home to visit relatives honorary head of the Association for the Promotion of consultants, in mainland China when <br> Huqiu Yuan said the remarks about the early realization of the reunification of the motherland, caused different reactions within the KMT in Taiwan. Shen Chang-huan, led by a small number of people that Hu violation of the Kuomintang party constitution and the KMT&#39;s \"three no&#39;s\" policy, urged that his expulsion from the KMT party also claimed to be held accountable for his liability to be brought to justice. But within the KMT and all levels of the majority of people will not agree. That his trip to the mainland, and did not violate the KMT open the provisions of visiting relatives; As he advocated reunification, only shows that he is the pursuit of a unified China nationalists, the crime there! ? Expelled from the KMT authorities Hu of the Kuomintang party, they are very dissatisfied. In October 18, Huqiu Yuan returned to Taiwan, the island&#39;s patriotic unifying force organized a team of 200 people, warm welcome to Taipei airport, shouting \"unified Long live. Matter in the island, setting off a wave of Solidarity \"Huqiu Yuan, criticized the wave of\" mainland policy of \"three no&#39;s\" as the core content of the KMT authorities. <br> 1988 September 15, 2010, Yingchao and Taiwan celebrities Huqiu Yuan, in Beijing, reunion <br>'
+);
+
+?>

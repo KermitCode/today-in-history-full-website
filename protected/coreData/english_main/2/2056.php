@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-3-2
+	create time:2013-01-01 20:38:50
+*/
+
+return array(
+'title'=>'Deng Xiaoping ashes thrown into the sea',
+'class'=>0,
+'cont'=>'March 2, 1997 (24) Landmarks In the first month, Deng Xiaoping ashes cast into the sea. Deng Xiaoping&#39;s children <br> holding a portrait of Deng Xiaoping, The ashes and wreaths slowly out of the Huairen March 2, 1997. plane of <br> silver, leaving the western suburbs of the airport in the capital over the low, and slowly the flying around a week, and then through the clouds, flying to the vast sea of &#8203;&#8203;the motherland ... are placed <br> cabin full Comrade Deng Xiaoping&#39;s ashes party the whole army and people of all nationalities heartfelt love. <br> side of the red flag of the Communist Party of China covering in the casket. <br> This is the highest honor to be given a 93-year-old Communist Party and the people. <br> donor cornea, autopsy, no ashes cast into the sea --- life unreservedly dedicated to the motherland and the people, Comrade Deng Xiaoping&#39;s behest, he left the party and the people a precious heritage, the performance of the noble sentiments of a thorough materialist. <br> today, Hu Jintao and other central leaders, Comrade Deng Xiaoping and his wife Zhuo Lin relatives with the most simple, the most solemn manner, complete the exhortations of Comrade Deng Xiaoping during his lifetime. <br> through the clouds and fog, the plane flew over the sea, flying to place the magnificent great man who described himself as the most fascination. <br> may be visibly moved heaven, a beautiful rainbow appeared in the sky when the plane flew over the sea. <br> 11 hours 25 minutes, the plane to fly to an altitude of 1800 meters. Suppressing grief, Zhuo Lin, a 81-year-old in tears, with trembling hands lifted the ashes of Comrade Deng Xiaoping for a long time could not bear to loosen. Again and again calling the name of Comrade Xiaoping, long before the ashes and colorful petals slowly thrown into the sea. <br> ashes scattered on the sea, flowers to send a great man. (L $ dj¦Ó.c¨­m) In August 1939, the study in Yan&#39;an in northern Shaanxi Public School Zhuo Lin and Deng Xiaoping met each other and formed a revolutionary companion. That year, 35-year-old Deng Xiaoping, Zhuo Lin, 23 years old. The two 58-year journey of life have come together. Now, in the face of the ashes of their beloved husband, she can not help Ganchangcunduan, distraught. The (history www.TodayOnHistory.com) <br> This is a heartbreaking moment. <br> with incomparable grief, Comrade Hu Jintao gently drive the ashes and petals thrown into the sea. <br>'
+);
+
+?>

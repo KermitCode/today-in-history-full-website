@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-10-26
+	create time:2013-01-02 01:37:08
+*/
+
+return array(
+'title'=>'End over a hundred years of border and territorial disputes secret Eritrea signed a peace agreement',
+'class'=>0,
+'cont'=>'On (Tiger years in September, the seventh day), October 26, 1998, ending over a hundred years of border and territorial disputes secret Eritrea signed a peace agreement. <br> 1998 10 26 at noon, in the Ministry of Foreign Affairs of Brazil, Peru and Ecuador formally signed between the two countries, \"a comprehensive and lasting peace agreement,\" trade and shipping agreement four documents, which through negotiations the end of more than 100 years the territory of the two countries&#39; border dispute. Peruvian President Alberto Fujimori and Ecuadorian President Mahuad signed \"Brasilia agreement. 5 President <br> Brazil, Argentina, Chile, Bolivia, Colombia, Spain&#39;s King Juan Carlos, as well as the Special Envoy of the President of the United States, the representative of the Pope, and more than 500 representatives from Latin American countries attended the signing ceremony. <br> new peace agreement established the division of the border between China and Peru, Ecuador, Ecuador Peru border has jurisdiction of one square kilometer area and the right to use Amazon&#39;s shipping channel. Agreement towards lasting peace and economic cooperation between the two countries to create the conditions. <br> Peru and Ecuador share a common border of over 1000 km, but the two countries still exist on the 78 km-long border attribution dispute, relations between the two countries often friction, even in 1941, 1981 and 1995 the outbreak of military conflict. In 1942, Argentina, Brazil, Chile and the United States as a mediator country, prompting Peru, Ecuador and China signed the Protocol on the border between the two countries in Rio de Janeiro. Since then, Ecuador claimed that this protocol is developed under the external pressure and found \"geographical error\" and refused to perform, and the demarcation of the border. In January 1995, the two military conflict in the disputed border area. Brazil, Argentina, Chile and the United States as the Protocol to ensure that the country peaceful good offices to facilitate the ceasefire declaration, announced in February 1995 and began a new round of talks on border issues between the two countries. 1998, the heads of Peru, Ecuador invited to Brasilia, in direct talks under the mediation of President Fernando Henrique Cardoso of Brazil, and reached an understanding to ensure that the recommendations of the States under the Protocol for the end to their long border conflict take a decisive step to achieve peace and cooperation. <br>'
+);
+
+?>

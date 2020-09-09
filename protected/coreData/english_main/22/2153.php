@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1732-2-22
+	create time:2013-01-01 20:58:35
+*/
+
+return array(
+'title'=>'Washington&#39;s Birthday, the first President of the United States',
+'class'=>4,
+'cont'=>'February 22, 1732 (Yam Tze first month 27), Washington&#39;s Birthday, the first President of the United States. <br> George Washington became the first president of the United States \"target =\" _blank \"> Washington like <br> 1789, Washington was elected the first president of the United States when he was sworn in , the one hand, for the trust of the American people on their own, so he was very touched by his passion, determined to have a bright future: On the other hand, he felt that I was very disturbed, because before him who is President, this President of the what how when? precedent, when he first toward the presidency when he felt like towards the place of execution of prisoners \", the heart is very heavy. <br> Washington as President, quickly showed him on the affairs of state with strong leadership skills he provides for general visitors. personally met every Tuesday he requires the incumbent government, even if it is the lowest positions of the civil service, must be able to withstand the most severe test he appointed the different political tendencies of famous people in leadership positions, in order to balance of various regions, various views (on www.TodayOnHistory.com) to maintain the peaceful reunification of the country through Congress, he actively formulate various legal , strengthen the rule of law., three-year effort, the United States realized Daiji At this time, some people encouraged him king, was he severely condemned; opposed even the people called him \"His Royal Highness the President of the United States of America and freedom protector his spirit of democracy in the United States has had a far-reaching impact. <br> Washington was born February 22, 1732 (280 years ago), came from plantation owners family 16-year-old independent living, 21-year-old, the identity of a large manor, he served as Adjutant General of the Virginia militia major, began his military career, he was appointed as the commander-in-chief of the Continental Army in the American War of Independence, responsible for the formation of the Continental Army, to carry out the Anti-British struggle for American independent and unified set of immortal feats of the founding fathers of the United States enjoys a high reputation in the minds of the American people. evaluation of the U.S. Federal Party Congressman Henry Lee, Washington said: \"first in war, peace the first person, his compatriots mind. \"<br>'
+);
+
+?>

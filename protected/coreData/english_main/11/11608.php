@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1927-12-11
+	create time:2013-01-02 02:48:24
+*/
+
+return array(
+'title'=>'Guangzhou Uprising broke',
+'class'=>5,
+'cont'=>'December 11, 1927 (Dingmao winter month and 18), the Guangzhou Uprising broke out. Soviet government and the former headquarters of the rebel army <br>: Guangzhou Municipal Public Security Bureau <br> 1927 12 11 At 3:00 am, the outbreak of the Guangzhou Uprising \"target =\" _blank \"> Guangzhou Uprising broke , which is another major armed uprising in the history of the Communist Party leadership. Fourth Army of the National Revolutionary Army training regiment participated in the uprising of the armed forces, guards regiment a and seven United Guangzhou workers Red Guards, two death squads, a total of about 6,000 people. <br> 3:30 mutinous troops to the intended points onslaught. victory occupied Guangzhou city after 18 hours of fighting, in the morning, announced the establishment of the President with Su Zhaozheng for (Su arrival from Guangzhou Uprising sacrifice \"target =\" _blank \"> Zhang Tailei agent) in the Soviet government issued a series of platforms and decrees. The Guangzhou Uprising shock foreign reactionaries. 12, Zhang Fakui transferred back from the field about three divisions of troops, warships and marines in the Anglo-American, Japan, Germany and other imperialist support to Guangzhou counterattack after three days of bloody fighting, (lssjt.cn) Guangzhou Uprising The army withdrew from Guangzhou, withdrawn to Huaxian County adapted for the Red Fourth Division, the by Xiangqian other leaders fought to Haifeng and Lufeng, led farmers and Peng Pai Red Guards joined the guerrilla war; another retreated to the Right and Left Rivers Some of the comrades later participated in the uprising led by Deng Xiaoping, Zhang Yunyi around Jiang; part of the forces encountered in Shaoguan near Nanchang Uprising troops led by Zhu De, Chen Yi, the Jinggangshan. These armed forces and later became part of the Chinese Workers &#39;and Peasants&#39; Red Army. <br> Guangzhou uprising failed, but it still has the history of the Chinese revolution of important historical significance. The Guangzhou Uprising is shared again positive, heroic Revolutionary Armed to the counterrevolutionary armed counterattack. The CCP leadership alone, try to establish a workers &#39;and peasants&#39; democratic regime in big cities. It is connected and the Nanchang Uprising, the Autumn Harvest Uprising, is a great beginning for China&#39;s revolutionary war led by the Chinese Communist Party alone. the the rebel army <br> Artillery <br>, Guangzhou Uprising <br> \"Morning News\" reported on the Guangzhou Uprising workers Red Guards destroyed enemy armored vehicle, car <br>'
+);
+
+?>

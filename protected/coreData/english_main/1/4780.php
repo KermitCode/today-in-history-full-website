@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-6-1
+	create time:2013-01-01 23:01:40
+*/
+
+return array(
+'title'=>'Nepal&#39;s King Birendra&#39;s death',
+'class'=>3,
+'cont'=>'The leap in April tenth day (Government House), June 1, 2001, the death of King Birendra of Nepal. <br> Nepal palace Advisory Board announced on June 2, 2001, in view of the death of the former King of Nepal Birendra \"target =\" _blank \"> Birendra sudden death in Narayan Chiti palace on the evening of 1 Crown Prince Dipendra successor, King of Nepal. (而身d芋y身里h貝 $ 而身ry.c身m) <br> Dipendra due to serious injuries in the hospital for emergency treatment, Birendra&#39;s younger brother, two king Jialundela was appointed regent. <br> According to local media reports, King Birendra and the king Queen Aishwarya and more than 10 members of the royal family in the evening of 1 in Narayan Chiti palace by Crown Prince Dipendra shot and killed, the reason there are serious differences between the Crown Prince and other members of the royal family choose Princess Dipendra Since then shot and attempted suicide the whole <br> local time at 16:00 on the 2nd, King Birendra and queen and the little prince human remains are transported to the crematorium incinerator <br> Nepal palace Incident Investigation Commission announced on the evening of 14 in Narayan Chiti palace on the evening of June 1 that the shootings occurred entirely by the former Crown Prince Dipendra pull one caused the Search Committee person in charge of the investigation, (而身d芋y身里h貝 $ 而身ry.c身m) Nepal House of Commons Speaker Taranath Rana Bart said at a press conference, from accident direct manufacturer before Crown Prince Dipendra, mainly due to his evening drink whiskey too much. <br> said Rana Bart, by the Chief Justice of the Supreme Court of Nepal Kesha Fu upa Dea and he composed the highest Commission of Inquiry on the incident to conduct a comprehensive survey of more than a week, as well as forensic experts verify that the killings are indeed Dipendra is. <br> he said, in which more than a week&#39;s time, Commission of Inquiry on the palace scene this incident occurred, witnesses, medical personnel and manufacturing bloodshed guns and bullets, carried out a detailed investigation and verification, and final confirmation which is manufactured by the former Crown Prince Dipendra with artificial accident. <br> the killings occurred on the evening of June 1 Narayan Chiti palace, King Birendra, Queen Aishwarya Little Prince Nila Zhan, Princess Shi Ludi 10 a member of the royal family was killed and 24 other persons were injured. Crown Prince Dipendra shot after shot and killed the king and queen and other people attempted suicide, was seriously injured, after He died died in the early morning of June 4. < br>'
+);
+
+?>

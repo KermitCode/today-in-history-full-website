@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1942-1-23
+	create time:2013-01-01 21:06:59
+*/
+
+return array(
+'title'=>'Death of writer Xiao Hong',
+'class'=>3,
+'cont'=>'January 23, 1942 (the twelfth lunar month, seventh day), Government House, the writer Xiao Hong died. the In Xiao Hong died <br> 1934 \"target =\" _blank \"> Xiao Hong and Xiao Jun (middle), Huang Yuan (left) together <br> writer Xiao Hong&#39;s death in 1942, at the age of 31 years old. Jan. 25 and was buried in Repulse Bay Hong Kong two days before Christmas in 1941 (History Today www.lssdjt.com) Xiao Hong condition deteriorated sharply, was admitted to the sheep and the hospital doctor misdiagnosed her throat tumor, throat tube after surgery, Xiao Hong can not sound excessive distress. Jan. 18, Xiao Hong was transferred to Queen Mary Hospital, due to the Japanese occupation of Hong Kong, all the medical equipment is scarce, the Xiao Hong difficult to get normal treatment. deathbed, she on paper wrote, \"I will be with clear water and blue sky Wing at .......\" words. <br> Xiao Hong, formerly known as Zhangnai Ying, born in 1911 in Heilongjiang Hulan County in 1930, her anti-marriage runaways In 1933, she began writing in Lu Xun&#39;s help, in 1935, she published the novel \"Life and Death\", which describes the northern rural \"nine.\" before and after the true picture, after Xiao Hong published a collection of short stories oxcart on October 1937, Xiao Hong and Xiao Jun with cultural figures retreat team, left Shanghai. founded in Wuhan, Xiao Hong and Hu Feng, Xiao Jun, liang et al publication July In January 1938, the invitation of Li Gongpu (on TodayOnHistory.com) Xiao Hong and Nie Gannu, Xiao Jun, Ai Qing, who came to Linfen, taught at the University of Shanxi national revolution. February 1938 The Japanese army is about to attack Linfen, Xiao Hong will immediately the Ding Ling northwest leadership AFS \"to Xi&#39;an in Xi&#39;an, she lived together for six years Xiaojun officially broke up in April, Xiao Hong liang back to Wuhan cohabitation. August and September, they came to Chongqing, fall down at the pier, Xiao Hong abortion in extremely harsh environments, Xiao Hong is still dragging Bingti writing. finished \"recalls Mr. Lu Xun, he began writing the novel\" Hulan River Chuan. \"in the spring of 1940, Xiao Hong and liang came to Hong Kong, (Lssdjt.com) to Fudan University Office of Academic Affairs SUN Ice invite, edit the books of the era when Xiao Hong&#39;s health is getting worse, cough, headache, insomnia ... in pain or illness, Xiao Hong diligently writing she finished writing the Hulan River \"at the same time created a second novel,\" Mobley, and should authoress the Yang Gang of approximately creation of a memory of Lu Xun&#39;s pantomime \"national soul\". <br>'
+);
+
+?>

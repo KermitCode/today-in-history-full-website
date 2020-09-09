@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-5-21
+	create time:2013-01-01 20:37:47
+*/
+
+return array(
+'title'=>'The first batch of the IRA hunger strikers soldiers all died',
+'class'=>5,
+'cont'=>'(Yau, April 18), May 21, 1981, among the first to participate in the hunger strike of IRA soldiers all died. <br> Bobby Sands hunger strike and died <br> Irish Republican Army bomb offensive in the late 1970s, early 1980s, not for their own purposes, so they Licensing Board for a Another style of play. <br> 1981, off the Irish Republican Army (IRA) in the Maze prison in Belfast war Shi Sangzi 4 announced the start of a hunger strike. Their aim is simple: Republican Army soldiers captured the British Government to give the treatment of \"political prisoners\", not terrorists treatment. Sands and other requirements, however, the British government refused, so a variety of media speculative sport Sands&#39;s prison situation, the international community also showed unusual enthusiasm, a variety of organizations, individual countries have sent lobbyists to the British mediation. They persuaded the British government 11 rejected, finally, ladies and lobbyists all without success. <br> 1981, after 66 days of hunger strike, Sands finally died. Margaret Thatcher&#39;s speech in the House, claimed: \"IRA prisoners concessions to the slaughter of innocents license is issued to them. \"A remark immediately caused a strong reaction in the world. The voices of the global protest. France shouted the slogan \"Margaret Thatcher is a murderer\". At 23:29 on the May 21, among the first to participate in the hunger strike of IRA soldiers all died, there are a number of prisoners voluntarily took over their position, and began a new hunger strike. <br> higher than ever before due to the prestige of the British government&#39;s intransigence, IRA, and this corresponds to the bombings in Northern Ireland is rising exponentially. Civilians, even women and children have participated in the battle of revenge to the British. They took the homemade Molotov cocktails to the British military police opened fire, seven months after the hunger strike was finally stopped. But before and after the 10 Republican Army soldiers have been dying off. <br> in the course of seven months of hunger strike, Margaret Thatcher&#39;s hard-nosed world left a deep impression. The nickname of \"iron woman\" spread like wildfire. these minors <br> children also participated in a revenge to the British action to cover nose and mouth with a towel in order to escape the British police tear gas triggered <br> prison hunger strike urban riots as a hurricane, leaving Northern Ireland is a deeper sting, left the world of the \"iron woman\" reputation <br>'
+);
+
+?>

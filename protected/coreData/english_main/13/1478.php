@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1943-2-13
+	create time:2013-01-01 22:02:45
+*/
+
+return array(
+'title'=>'Japan Tang Xuan Zang skull to the Wang puppet government',
+'class'=>0,
+'cont'=>'February 13, 1943 (the first month, the ninth day) ¹ïÎ´, the Japanese Tang Xuanzang skull to the the Wang puppet government. , <br> 1943 2 13, the Japanese Tang monk Xuanzang head cover part of the bone to the the Wang puppet government. This skull was found in November 1942. This day, the Nanjing ZHONGHUAMEN Yuhuatai next to the Japanese military repair mechanical plant to create a field sent more than a dozen workers, leveling the land to the a factory south Sanzo bring up the rear of the hill head in preparation for the construction of the so-called \"Inari Shrine. Around 10:00, the workers are hard to mining, you hear a \"click\" sound, they clawed through mud found a rectangular piece of stone. Several workers set off the stone bar, to see if there is a hole in a Shihan, Shihan against both sides of the inscription only faintly discernible, a brief description of the Don Hyun class remains removed to Ning QianZang the after. The foreman of the Japanese soldiers discovered the situation, immediately rushed to the Changbu report, a group of Japanese troops arrived, the crowd surrounded. One by one and searched after we get rid of, and announced the lay-off of three days. Afternoon, the Japanese small hill martial law blocked messages. After further digging in Shihan also found a bronze small niches, niches outside engraved with \"Zang\" niche with a colored glaze censer the the furnace equipped Xuanzang top bone, about 2 inches wide, 4 inches long and about . More than a dig out gold statues, gold and silver made box Shixia, brass Buddha, porcelain, ornaments, jewelry and other funerary treasures. Japanese troops still the Shihan around the bushes to find 28 ancient coins, said represents \"Ershibasu\" (said representatives Xuanzang passed away after the Tang Song, Yuan, Ming and 28 on behalf of the Emperor). The Japanese, although tight blockade news, top cover bone but excavations monk Tripitaka Hall of news or leaked. Wang puppet government forced by public opinion to also repeatedly providers in earnest, with the Japanese side. Finally, reluctantly agreed to be returned to the Japanese out of political considerations. February 13, the two sides the the Xuanzang Fogu handover ceremony was held in Nanjing by Japanese Ambassador Shigemitsu handed over to Wang puppet chairman of the Foreign Affairs, Minister of Heritage Committee for the Preservation of Chu Min Yi receiving. <br>'
+);
+
+?>

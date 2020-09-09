@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1841-5-30
+	create time:2013-01-01 22:56:51
+*/
+
+return array(
+'title'=>'The British looting Guangzhou, Sanyuanli People&#39;s heroic fight against the invaders, known to history as &quot;Sanyuanli Anti-British&quot;',
+'class'=>0,
+'cont'=>'The tenth (April 1901), May 30, 1841, the British looted Guangzhou, the Sanyuanli people heroic fight invaders, known to history as \"Sanyuanli Anti-British. armed Anti-British struggle <br> during the Opium War Guangzhou People&#39;s spontaneous. In April (Twenty fifth day), May 25, 1841, British troops captured the north of the city of Guangzhou Zhu fort, set up headquarters in the highest terrain Yongkang, Taiwan. The Yongkang Desk the soil name Sifangtai, only a mile away from the city, artillery can straight boom town. The Qing commander Yishan, such as fear of the summation, entered into on May 27 with the British Guangzhou about \"to pay for British troops redemption city fee? Provinces troops withdrew from Guangzhou and other conditions, in exchange for British troops returned to Fort? Exit Humen. And about ink was dry, the British constantly harassed West the northern suburb sanyuanli and Mud City? Nishimura? Xiao Gang and other villages, looting and burning, and raped women. The vast number of people outraged over the militia of plans to resist. 29, Sanyuanli villagers repel to small shares invading British troops. The next day, the South China Sea? The Panyu hundred village militia armed with spears plowshare rallied siege Yongkang. Stalemate nearly half days, the British commander lying Wu Ancient (Aaron Kwok) personally lead troops to attack. Militia and war and back, to lure the enemy to the bullpen Gangqiu Mausoleum Strip. When heavy rain suddenly to the British army guns moisture can not be fired, the militia people rain counterattack, isolated and surrounded the British army, fight fierce battle. British troops was to wipe out a company a few, the rest fled to the fort. Early in the morning of the 31st, Guangzhou artisans as well as nearby counties flowery County? Zengcheng? Gradually came from and so places militia, Wai station the populace increased to tens of thousands of British troops Meet starve to death. Ancient lying Ukraine dare battles, turned to threats rulers threatened to breach the siege. I ensure pure, the Yishan hearing the panic, anxious to send Guangzhou prefect, out of the city, Panyu An Fuying Army, first complex rate? Exert pressure on the South China Sea magistrate to the militia in the gentry. Gentry the the latent avoidance, militia gradually dispersed, then solution sets sail. (Lssdjt.com) <br>'
+);
+
+?>

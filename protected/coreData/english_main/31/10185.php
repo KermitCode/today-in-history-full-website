@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1835-10-31
+	create time:2013-01-02 01:48:31
+*/
+
+return array(
+'title'=>'German chemist Bayer born',
+'class'=>4,
+'cont'=>'September Yi Wei (the tenth), October 31, 1835, the German chemist Bayer was born. born \"target =\" _blank \"> <br> Bayer Bayer <br> 1905 the famous German chemist Bayer won the Nobel Prize in Chemistry for work indigo and aromatic compounds. < after 186o; br> 31, in 1835, Bayer was born in Berlin. Bayer&#39;s father was a Prussian General Staff officer and his mother was the daughter of a religious judge and literary historians in 1858, Bayer received his Ph.D. who has been teaching for years in the College of °ØÁÖ¸ñÍþ°Ø In 1872 he was appointed professor of chemistry at the University of Strasbourg (Lssdjt.com) 875 he inherited Liebig as professor of chemistry at the University of Munich, where he spent the rest of his life . <br> 1864 Bayer to continue Weiler, of Liebig and Shi Lipo in uric acid. illustrates the characteristics of a series of derivatives, including A urea Chung Ban acid, Hein and barbituric acid (history today www.lssdjt.com) <br> of 1871 he will phenol and phthalic anhydride were mixed and heated discovered the phthalocyanine dyes phenolphthalein and fluorescent yellow in the process of making this work, he found that the phenol formaldehyde resin, and later Baekeland greatly in industrial development of this resin, (l $ dj¦Ó.¨­r¨À) Bayer indigo most fruitful research work, this work has continued since 1865, for 20 years. < ; br> The first step is indigo restore its parent indole, Bayer mixed with zinc powder is used it the new way to accomplish heating share the earliest synthesis method starting from phenylacetic, many steps. later with cinnamic acid and o-nitro-o-nitro-propargyl acid, steps to shorten <br> 1883 Bayer published Indigo structure, this structure in addition to the double bond stereochemistry arranged the rest are correct, this double bond in school and later by the tone-ray crystallography confirmed the trans arrangement (1928) industrial synthesis of indigo and finally completed in 1890. Bayer&#39;s work also led to the production of many new dye <br> Bayer from indigo steering the polyacetylene. the explosive nature of this compound to enable him to take into account the stability of the unsaturated carbon-carbon bond in the cyclic compound. he raised of Bayer tension Doctrine: i.e. the compounds of the bond angle from ideal tetrahedral arrangement farther compound the less stable. (History Today www.lssdjt.com) Bayer&#39;s other research includes tetravalent oxides; reduction of aromatic compounds, he observed aromatic or restore lost; He also studied terpene compounds, including was first synthesized in 1888, terpene <br>'
+);
+
+?>

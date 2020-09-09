@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-10-7
+	create time:2013-01-02 01:54:24
+*/
+
+return array(
+'title'=>'Burmese drug lords Yang Maoxian Executed in Yunnan',
+'class'=>0,
+'cont'=>'(Awake September third), October 7, 1994, the Burmese drug lords Yang Maoxian Executed in Yunnan. <br> 1994, serious drug trafficking case with collusion by domestic and foreign drug traffickers by the People&#39;s Court of the end. Approved by the Supreme People&#39;s Court, the Burmese drug lords Yangmao Xian in Yunnan Executed \"target =\" _blank \"> Yang Maoxian found guilty of drug smuggling in Yunnan Lincang County was executed. <br> According to the Supreme People&#39;s Court to concerned parties (lssjt. cn) 48-year-old Yang Maoxian the Myanmar State resolute County. collusion between drug traffickers and our country a gang of drug traffickers from July 1990 to January 1994, Yang Maoxian 9 has a total of 211,993 grams of smuggling heroin to China&#39;s Yunnan province Yang Maoxian personal smuggling 42,593 g. early 1994, Kunming, Yunnan Lincang local public security department in the continuous seized several serious drug trafficking case, (1 $ dj而.c身m) master Yang Maoxian smuggling drugs to China and a large number of conclusive evidence. 8 May, Yang Maoxian to enter the territory of Zhenkang County, Yunnan Province of China, was arrested by the public security organs. <br> Yang Maoxian arrested Lincang Lincang Area Intermediate People&#39;s Court according to the Yunnan Provincial People&#39;s Procuratorate points School of Public Prosecution public hearing [the L $ dj而.c身m] in accordance with the People&#39;s Republic of China&#39;s National People&#39;s Congress Standing Committee decision on anti-drug \"Article the provisions of the first paragraph, drug smuggling sentenced Yang Maoxian death penalty. (lsjt net) <br> first instance verdict, (L $ dj而.妨壯T) Yang Maoxian refused to accept the appeal. Yunnan Provincial Higher People&#39;s Court formed a collegiate bench hearing the case, that Yang Maoxian drug smuggling criminal facts are clear, the evidence is conclusive. September 20, 2009, the Yunnan Provincial Higher People&#39;s Court upheld the ruling, dismissed the appeal and upheld the original verdict, and shall report to the Supreme People&#39;s Court approved the. <br> Supreme Court for review that the Yang Maoxian violate our criminal behavior of drug smuggling to China, constitute drug smuggling, drug smuggling, number, and a huge number of special circumstances are especially serious, and the Department of collusion organizing others led drug smuggling and criminal activities, must be severely punished in accordance with our laws. September 23, the Supreme People&#39;s Court according to law approved Yang Maoxian the death penalty. <br> the'
+);
+
+?>

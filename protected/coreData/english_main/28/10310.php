@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1886-10-28
+	create time:2013-01-02 02:07:59
+*/
+
+return array(
+'title'=>'France gave the United States the Statue of Liberty unveiled',
+'class'=>0,
+'cont'=>'(October BingXu, the first two days), October 28, 1886, France gave the United States the Statue of Liberty unveiled. <br> Statue of Liberty <br> the Bei Deluo island in the mouth of the Hudson, New York City, USA, stands a tall bronze statue, facing the Atlantic Ocean. It is like the famous \"Statue of Liberty\". Selection of the statue is built in accordance with the image of Greek mythology, the goddess of beauty. The amount of the goddess wears a hoop, right hand holding the torch left holding the \"Declaration of Independence\" dignified but kindly face. Goddess of 46.5 meters high and 93 meters high, together with its base. The goddess like using the 2.4 cm thick copper plate part part of the cast. The bottom of the base is a museum, visitors can into a bronze statue inside the top until the goddess head, there can accommodate more than 30 people, through the glass windows overlooking a panoramic view of New York. The (history TodayOnHistory.com) <br> This statue is a gift of the people of France gave the people of the United States in 1886 the 111 anniversary of the American Independence when. October 28, 1886, the people of the United States as the Statue of Liberty like unveiling held a grand ceremony. Why should the people of France gave the United States a gift? This begins talking about the relationship between the American War of Independence and the French people. <br> American War of Independence is a just cause widespread sympathy and support of the international progressive forces. France, Germany, Great Britain, Poland, Denmark, Sweden, Hungary, the revolutionaries have come to the United States to participate in the Anti-British war. Especially French bourgeois revolutionaries Lafayette, private investors to buy and equip a vessel, led by some of the volunteers and traveled across oceans, arrived in North America in June 1777, in July, the Continental Congress in Philadelphia awarded him the rank of major general. appointed him commander of the Continental Army, Washington&#39;s aide-de-camp. As the brave soldier to win the goodwill of the American people, forged a close friendship with Washington in early 1779, he was commissioned by the U.S. government to return to France for help. In April 1780, he led a French reinforcements once again to the United States, be delegated command of the Fa Jini Georgia Army the immortal feats set in the American War of Independence, and also to strengthen the friendship between the people of France and the United States. \"Statue of Liberty\" It&#39;s like a symbol of French-American friendship between the two peoples. the <br> Statue of Liberty <br>'
+);
+
+?>

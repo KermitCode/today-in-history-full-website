@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-4-8
+	create time:2013-01-01 20:52:04
+*/
+
+return array(
+'title'=>'The signing of the Treaty of the Anglo-French Entente formation',
+'class'=>0,
+'cont'=>'April 8, 1904 (on Jiachen February 23), the signing of the Treaty of the Anglo-French Entente formation. <br> 19 the turn of the 20th century, as capitalism into imperialism, the capitalist countries to develop a greater imbalance the coming imperialist quickly catch up with or exceed the old imperialist countries, re-divide the colonial struggle began. ($ Dj¦Ó.c¨­m) Spanish-American War of 1898, British and Greek war broke out in 1899, the 1904 outbreak of the Russo-Japanese War, are re-divide the colonial struggle. Germany, United States, Japan is the rapid expansion in the 19th century, several imperialist countries. Germany&#39;s economic strength is second only to the United States, ranking second in the world. , The German military forces, however, much higher than the United States, military and economic strength more than the old imperialist countries such as Britain and France. The beginning of the 20th century, Germany started to veteran colonial empire British challenge to compete in a global scale with the British colonial hegemony, Germany, Britain contradiction. British originally relied on strong economic strength and a dominate naval forces at sea, in the the diplomacy pursued a so-called \"splendid isolation\" policy, not to establish a military alliance with other countries, let go to expand overseas. However, in the face of the German threat, the British had to give up the policy of \"splendid isolation\". The United Kingdom and Japan first alliance-building, want to take advantage of Japan to contain Russia, the United Kingdom and Japan League can not help the British against Germany. The common opponent of Britain, France, Germany, Britain and France, the Anglo-French Treaty signed on April 8, 1904 for the same reason. The treaty stipulates that the British recognized the privilege of France in Morocco, France acknowledged British privileges in Egypt. Divided the spheres of influence of the two countries, the adjustment of the contradictions in the other colonies. Russo-Japanese War, the British seem to defeat Russia is not so terrible, and weaken Russia also hope to have a powerful ally. Thus, in 1907, Britain and Russia signed a treaty. Britain and France, Britain and Russia treaty signed, marked with the German group opposing another imperialist military blocs - the Allied Group last formed. The formation of the two opposing imperialist military blocs, planted the seeds for the outbreak of the First World War. <br>'
+);
+
+?>

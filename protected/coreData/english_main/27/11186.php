@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-11-27
+	create time:2013-01-02 02:54:00
+*/
+
+return array(
+'title'=>'Historians to prove Einstein innocent',
+'class'=>0,
+'cont'=>'On November 27 1997 (, Landmarks October 28), the historian to prove Einstein innocent. , Einstein In November 1997, <br>, historians finally found irrefutable evidence to prove that Einstein is the only founder of the theory of general relativity, thus ending a long up to 80 years of controversy. The international scientific community is generally believed that, on the basis of the special theory of relativity by Einstein in 1905 and founded in 1916, the general theory of relativity. But some people have been international historians insist that Einstein was not the first to propose a general theory of relativity, at least he was not only the creation of the scientists of the twentieth century&#39;s greatest physics said. These historians view is that in the eight years in the brewing of general relativity, Einstein had often ask for advice from the German mathematician David Hilbert. Finally, in November 25, 1915 the general theory of relativity manuscript submitted to the Prussian Academy of Sciences. Prussian Academy of Sciences on December 2 of the same year published his paper. Hilbert&#39;s theory of general relativity was published in the March 1, 1916, but he was November 20, 1915, he put forward the theory points are summarized in a manuscript submitted to the Prussian Academy of Sciences, more than love because of Stan as early as five days. Some historians even believe that in the process of the establishment of general relativity, Einstein plagiarized Hilbert research. The University of Tel Aviv, Israel, three Maike Si Planck Institute in Germany and Boston University historian, said the last of \"Science\" magazine, they found a never-before-published Einstein and Hilbert several manuscripts, special two scientists can finally breaking the 80-year history unsolved. Executive manuscripts most telling is December 6, 1915 the Hilbert handwriting of a paper about the theory of relativity. The several crucial mathematical equations (L $ dj¦Ó.c¨­m, still does not appear in this paper) these mathematical equation is the evolution of Newtonian mechanics is essential to the general theory of relativity on the motion of matter and time and space relationship basis. Three historians believe, only later modifications of this paper, Hilbert was added above several important mathematical equations. However, Einstein&#39;s general theory of relativity has been published. The three historians writes: \"The manuscript has ruled out the possibility of Einstein plagiarized Hilbert, it touches on the contrary, research on Einstein Hilbert final completion of their work is essential . \"Their conclusion: Einstein did not plagiarized Hilbert&#39;s results, it touches on Hilbert plagiarism Einstein&#39;s achievements. <br> Hilbert <br>'
+);
+
+?>

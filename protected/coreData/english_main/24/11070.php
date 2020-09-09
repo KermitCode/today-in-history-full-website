@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1934-11-24
+	create time:2013-01-02 02:45:00
+*/
+
+return array(
+'title'=>'Anti-Japanese generals Ji Hongchang Kangkaijiuyi',
+'class'=>3,
+'cont'=>'November 24, 1934 (Awake, October 18), the anti-Japanese generals Ji Hongchang Kangkaijiuyi. Ji Hongchang Kangkaijiuyi, the <br> anti-Japanese generals \"target =\" _blank \"> Ji Hongchang <br> in 1934 11 24, Ji Hongchang in the Army prison in Beijing was shot before execution, ( history com) Ji Hongchang hand pen on the ground illness swan book a poem: <br> Henbu anti-Japanese dead stomach for today shame. country broken yet so I Ho cherish this head! < br> Ji Hongchang, Henan Fugou, born in 1895 (l $ dj¦Ó.¨­r¨À)] in 1913 to participate in the Feng Yuxiang forces soldier promoted to Brigadier Kyrgyzstan bold \"said National Revolutionary Army in 1929 Tenth Army commander of the second army, and the chairman of the Ningxia provincial government. (L $ dj¦Ó.§«§§T) in August 1931 for refusing to \"Communist suppression\" by Chiang Kai-shek dismissed in September was ordered abroad to \"inspect\" (History on today www.TodayOnHistory.com) Ji Hongchang in Europe and the United States during the anti-Japanese speech after returning in 1932 \"- 28\" Incident, joined the Communist Party of China in May 1933, the United Feng Yuxiang, Fang Zhenwu in Zhangjiakou police Hal Anti - Japanese allies, he served as commander of the Second Army, North Road, Front commander and chief of Zhangjiakou garrison commander after the failure of the anti-Japanese allies, he sneaked back to Tianjin, continue anti-Japanese Chiang Kai-shek activities. November 9 French Concession in Tianjin stabbed KMT spies arrested on the 14th, \"extradition\" to the KMT government, off into Tianjin army prison. 22 secret escorted to the Peking military branch of military law at the trial evening of Kyrgyzstan, Kyrgyzstan eloquently, enumerating Chiang Kai-shek&#39;s traitorous crimes and tops untied, anti-Japanese combat Chabei negative bare the scars. 24, 2009, Chiang Kai-shek the dense electric Peking Army Branch Ji Hongchang \"executed on the spot\". <br> Jihong Chang martyrdom left a suicide note to his wife Hu Hongxia: \"the Hongxia I wife Kam: Cardiff today is dead! sacrifice for the era. eventually died, I die you do not have too sad, because of there are sons and daughters have you to take care of. I production is not home and give others reserved for child-rearing, with my pen told his men, children still in Tianjin prop up Mr. Yu care to go to school to become useful only also home stepmother tray two, three, four brothers take care of, honor, and you also do not have to go home. \"<br> 1933 in Ji Hongchang under the command the Japanese allies Chahaer recovered the Duolun <br> an official that allowed fortune <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1500-2-24
+	create time:2013-01-01 20:40:02
+*/
+
+return array(
+'title'=>'Roman Emperor Charles V&#39;s birthday',
+'class'=>4,
+'cont'=>'February 24, 1500 (Gengshen first month 25), Roman Emperor Charles V&#39;s birthday. <br> Charles V (Holy Roman Empire), the title of the King of Spain: Juan Carlos I; the title of Holy Roman Emperor: Karl V; throne former known as Austria Charlie (1500, February 24, 2011 -1558 In September 21, 2009), King of Spain (1516 -1556 year reign), Holy Roman Emperor (1519 -1556 year reign), King of Sicily (called Carlo I, 1516 -1556), Naples King (called Carlo IV, 1516 -1556), the supreme monarch of the Low Countries. Europeans&#39; minds, he is the \"Hapsburg the hegemony era\" of the protagonist. <br> from the age of 15, he was elected the \"Germanic Holy Roman Empire\" Emperor, to show he is an ambitious person. In order to win the right to rule on the Italian peninsula, from 1521 to 1544, he launched a continuous 4 times on the meaning of war. He then war and Oriental Turkey Suleiman, an attempt to seize North Africa; addition, he continuously engaged in the conquest of the American continent. He is full of military forces with the the bloody looting and killing, four Italian war it suffered a devastating catastrophe, as long as 150 years to make meaning in a dark period. The conquest of Central and South America is inhuman, where he was forced to the implementation of a brutal, brutal feudal rule. Central and South American Indians indigenous to the mid-16th century, had been killed up to 1,500 people. In addition, he with the Pope, for the maintenance of the feudal rule of the Catholic Church, the cross and the stake as a magic weapon to safeguard Empire, the most cruel persecution of the people in China. German peasant uprising occurred in 1524, 10 million farmers have been killed. Him around the establishment of the Inquisition, to destroy religious reform movement, killing infidels, the stake in the Empire heresy court always burning. Thousands of people were burned to death. After the outbreak of the war in 1552, Charles V was the series defeat in the Augsburg religious peace treaty in 1555, then signed with the princes. <br> 1555 after the failure of a last-ditch effort to defeat Protestant forces, Charles V began from the political life. His own personal empire - Spain and the Low Countries passed to his son Philip II; Holy Roman Empire to his brother Ferdinand I (October 25, 1555 to give up the the Netherlands throne to Philip ; January 16, 1556 to give up the throne of Spain to Philip; (history cn) abandoned in September 1556 the emperor throne to Ferdinand). Died September 21, 1558. (Lsjt.net) <br>'
+);
+
+?>

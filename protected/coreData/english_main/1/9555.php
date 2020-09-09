@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2010-10-1
+	create time:2013-01-02 01:23:54
+*/
+
+return array(
+'title'=>'Xi&#39;an Daming Palace National Heritage Park park opened',
+'class'=>0,
+'cont'=>'October 1, 2010 (, GY August 24), Xi&#39;an Daming Palace National Heritage Park and the park opened. Daming Palace National Heritage Park covers an area of &#8203;&#8203;3.5 square kilometers <br> <br> <br> park opened on October 1, 2010, two-thirds of the park area of &#8203;&#8203;the region is free of charge area, free tour. built in <br> Daming Palace Tang Zhenguan 2008 (AD 634), starting from the Tang Emperor Tang Dynasty emperors lived mostly in handling the affairs of state, who is the political and cultural center of the Tang Dynasty more than 200 years . GAN Ning three years (AD 896) the Daming Palace destroyed by Bingluan. Daming Palace is one of the most magnificent palace of the Tang Dynasty, but also the history of the world&#39;s most magnificent and largest palace complex. The area protection project <br> Daming Palace ruins start since October 2007, the national \"Eleventh Five-Year\" key projects of great site protection is the \"Silk Road\" an important part of overall declared world cultural heritage . the <br> Daming Palace National Heritage Park planning area of &#8203;&#8203;3.5 square kilometers, the total investment of 120 million yuan, of which about 90 billion relocation costs; archeology, heritage preservation, display and park construction is about 30 billion. Will form the park opened six highlights: 8 km walls of the palace, the palace gates, the central axis composed of massive ruins pattern shapes; unique oriental ancient architectural sites landmark identification, such as Capital Pavilion temple, containing Yiu doors, etc.; scientific recovery research foundation on the construction of a miniature landscape; archaeological, scientific research, science, entertainment and travel for the center of one of the sites; 3D movies, physical, electronic, model and signage in one of the ruins interpretation system; \"Moonlight Daming Palace\" night landscape systems. <br> Daming Palace National Heritage Park is divided into two parts free of charge area and the charging zone. Free of charge area public, visitors can always go to visit and tour, entering or leaving the area accounts for about two-thirds of the total area of &#8203;&#8203;the site of the park. Charging zones for the protection of cultural relics and heritage display area, visitors will be charged with the tickets, adult fare is 60 yuan each. Visitors after the park opened, the archaeological work will be ongoing, tourists and the public can visit Daming Palace archaeological work at close range, archaeological work, you can also receive free training, participate and experience the archaeological fun. <br> Comment: next time I go to Xi&#39;an, must go see ah! but if modern people to imagine something more interesting. <br>'
+);
+
+?>

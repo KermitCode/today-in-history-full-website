@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1860-5-11
+	create time:2013-01-01 20:48:15
+*/
+
+return array(
+'title'=>'Famous in the history of the world, &quot;thousands of troops&quot; began expedition',
+'class'=>0,
+'cont'=>'(, Intercalated March 21, Gengshen), May 11, 1860, the famous in the history of the world, thousands of military \"expedition. In April, the outbreak of the popular uprising in the Sicilian capital of Palermo <br> 1860 the (history TodayOnHistory.com) suffered Sicilies army&#39;s brutal repression. In under Mazzini recommendations of the leadership of the Republican Party, the Italian national hero Garibaldi decided expedition Sissy go to help the rebels, but the the Sardinian king does not agree to give him a single soldier, he recruited more than 1,000 Volunteers at 5 March 5 the night of a thousand military \"expedition. <br> two ships carrying 1400 soldiers to leave Genoa coast. They formed the company 7. In order to conceal the true goal of the expedition, Garibaldi sent a small force to feint the Papal States, the main force into the most western end of Sicily masala Port on May 11, smooth landing, began to march to Palermo. May 15, he led his troops over the mountains north advancing to the kalata Feimi. Jia Gu leading to the city of the enemy more than 3,000 people in three camps, with cavalry and artillery, Garibaldi, with more than 1,000 troops, the big bang, the occupation of the enemy positions, drive straight, arrived in Palermo City. Enemy in Palermo, more than 22,000 troops, far more than the main force of the Garibaldi. From the 20th Garibaldi offensive to the southwest of the city, to lure the enemy generals sent to the troops from the city in the southwest suburb. To 24 days, more than 10,000 enemy open to the southwest outside the city, Garibaldi and the war and go, pretending to retreat to induce the enemy to catch up, reduced to more than half of the city of the enemy. At this time, Garibaldi sudden change in the direction of action unexpectedly transferred to the main Palermo near the coastal meters set ears Miri valley. In the early morning of the 27th, the residents of Palermo all picked up weapons, residents with Garibaldi strong siege southeast Patel Flamini Harbor, liberated Palermo. Landing to Palermo liberation, only took less than 20 days from the masala. Garibaldi weapons poorly disadvantage troops to defeat the enemy of the advantages of the equipment grain Liang, fully demonstrate the military to Garibaldi. Marx praised him as \"not only a courageous leader and outstanding strategist, and resourceful commander. \"Garibaldi\" thousands of military victory inspired uprising flames immediately spread through Sicily around to promote and accelerate the unification of Italy the cause of independence. \"Thousands of troops\" write a glorious history of Italy. <br>'
+);
+
+?>

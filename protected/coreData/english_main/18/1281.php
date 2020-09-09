@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-2-18
+	create time:2013-01-01 21:22:43
+*/
+
+return array(
+'title'=>'Chinese athletes to participate in the Winter Olympics for the first time',
+'class'=>0,
+'cont'=>'(Flood the temple Gengshen years,), February 18, 1980, Chinese athletes to participate in the Winter Olympics for the first time. In February, <br> 1980 the the Thirteenth Winter Olympics held in Lake Placid, United States. Chinese athletes took part in the competition. This is after the International Olympic Committee to restore the legal status of our country in the Olympic movement since 1979, the first Chinese athlete to participate in Olympic competition. <br> star red flag of the People&#39;s Republic of China with the Olympic flag and the banner of other participating countries with flying, this is the first time in the history of the Winter Olympics. Its significance is far more than the winter sports itself. International Friends of the major victory of the Chinese people, than for the restoration of China&#39;s UN seat sport. Many worked to restore China&#39;s legitimate rights in the Olympic Games in rushing foreign friends in warm welcome to the first sentence of the Chinese sports delegation is: \"Finally you looked forward to! Chinese Olympic medal in Lake Placid, India, the five-star red flag has become a precious souvenir of people everywhere to demand. (L $ dj¦Ó.c¨­m) <br> of development of snow sports, has experienced a tortuous process. Era, the Chinese people are known as the \"sick man of Asia\" There is not any snow sports? After the founding of New China, began to grasp this sport. The lower level of the beginning of motion, the tremendous efforts of the 1950s, a gradual reduction of the gap with the world advanced level of snow sports. 1962-1964, China speed skater who won a world championship, a runner-up, a third and two to break the world record. However, due to the impact of decades of civil strife, this has narrowed the gap widened in recent years, the level of snow sports in China, despite the recovery and improve the world level faster, so the gap is still great. Relatively speaking, our starting point is relatively low. <br> this country the fewer the number of athletes participating in the competition, a total of 28 people. This game, basically reflect recovery and improve the level of snow sports in China, but there is still a big gap with the world advanced level of the status quo. Athletes race is basically out of their own level, but also race out of style. Speed &#8203;&#8203;skating, this achievement is generally higher than the levels of the 1960s, China&#39;s athletes in the World Championships; skiing and figure skating results improved. It is believed that, as long as our athletes strive to improve training methods to improve sports equipment and nutritional conditions, our snow sports and other sports, to catch up with and surpass the world level. <br>'
+);
+
+?>

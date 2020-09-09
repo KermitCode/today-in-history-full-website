@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-1-28
+	create time:2013-01-01 21:24:21
+*/
+
+return array(
+'title'=>'&quot;Hide and seek&quot; incident',
+'class'=>0,
+'cont'=>'January 28, 2009 (Year of the OX flood the temple), \"hide and seek\" incident. <br> January 28 mesh, Li Qiao Ming on suspicion of the crime of unlawfully cut trees under criminal detention, detention in Jinning County Detention Center. Custody, the same prison cells detainees Hou Hua, Zhang Tao Li Qiao Ming is the Xinjin the personnel an excuse, repeatedly beaten with fists, slippers its, resulting in the head, chest multiple injuries. (L $ dj¦Ó.¨­r¨À) <br> 2 at 17 am, Zhang Tao, PwC et al Youyi play games in the name of Li Qiao Ming blindfolded with strips of cloth, beating them, meantime, buckwheat PwC the Slam head punch, causing the head to hit the wall and fell to the ground unconscious. Li Qiao Ming died on February 12 sent to hospital invalid. After the incident, Hou Hua, Zhang Tao, general Tohmatsu human impunity, conspiracy to fabricate Li Qiao Ming is playing during the game, accidentally head against the wall of death false facts. Li Defa, <br> Li Qiao Ming father has been thought: son because the illegal felling of trees and XingJu, deserved to be punished, but in any case \"the sin not unto death\", and had his son not to marry in order to build costs away secretly cut down trees, will not be sent to a detention center, it will not die \"ignorance\". the <br> 2 13, the media reported that Li Qiao Ming, the Yunnan Yuxi North town 24-year-old man was unlawfully cut trees XingJu, spent ten days in the detention center, \"severe brain injury\" killed. Police called to play \"hide and seek\" game with cellmate hit walls seriously injured. To this end, the network public opinion was strongly questioned. In any case <br> <br>, the families, the Spring Festival in 2009, is bound to be a year of their grief. Face reporters, Li &#39;s four days will be marrying his fiancee broke down in tears, and even several times because of grief and collapsed to the ground. She said she does not want to recall the get along with Li &#39;s every day, because that would make her \"piercing pain\", she is not willing to talk about the issue of civil compensation with the police, \"I just want to find out what he died the real reason, he understand Siyeyaosi. \"<br> The morning of August 14, 2011, the People&#39;s Court of Kunming, Yunnan Songming County\" hide and seek \"case has aroused widespread concern verdicts: Jinning County Detention Center police Li Dongming guilty of dereliction of duty and sentenced to year and six months imprisonment, suspended for two years; defendant Su Shao recorded guilty of abuse by supervisor offense and sentenced to imprisonment for one year. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-9-30
+	create time:2013-01-02 01:14:58
+*/
+
+return array(
+'title'=>'Ye Jianying published nine policy of Taiwan&#39;s return to',
+'class'=>0,
+'cont'=>'(Yau, September third), September 30, 1981, Ye Jianying, Taiwan&#39;s return to the nine principles. <br> the Standing Committee of the National People&#39;s Congress Chairman Ye Jianying to the Xinhua News Agency reporters talk further clarify the policy of Taiwan and the mainland to achieve the return of Taiwan to the motherland, the realization of peaceful reunification \"target =\" _blank \"> peaceful reunification 9 guidelines <br> September 1981, the Standing Committee of the National People&#39;s Congress Chairman Ye Jianying on behalf of the Communist Party of China, the Standing Committee of the National People&#39;s Congress, the State Council, to further clarify the nine principles on the return of Taiwan \"target =\" _blank \"> Taiwan&#39;s return to the motherland, to achieve peace nine unified principles and policies. <br> The key points are: (1) recommended the holding of the Chinese Communist Party and the Chinese Nationalist Party bipartisan negotiations, the implementation of the third cooperation together to accomplish the great cause of the reunification of the motherland. (2) proposed that the two sides together for postal, trade and transport, to visit relatives, travel as well as academic, cultural and sports exchanges to facilitate reached such an agreement. (3) After the country is reunified, Taiwan as a Special Administrative Region will enjoy a high degree of autonomy, and to retain the army. The central government does not interfere in the local affairs of Taiwan. (4) Taiwan&#39;s current social and economic systems in the same way of life, the same economic and cultural relations with foreign countries. (5) the Taiwan authorities and representatives of people from all walks of life, leadership positions as a national political institutions to participate in national management. (6) local finance in case of difficulty, by the central government discretionary grants. (7) to ensure proper arrangements, free from discrimination, freedom of the people of all ethnic groups, people from all walks of life willing to return to the mainland settlers. (8) Welcome to Taiwan business people back to the mainland to invest, to guarantee the legitimate rights and interests and profits. (9) sincerely welcome people of all ethnic groups in Taiwan, people from all walks of life, and civic groups to provide advice, co-discuss policy. central party leaders and celebrities <br> 9 principles published, patriotic compatriots, have issued a statement in support of. Related agencies also proposed appropriate measures to prepare for the return of the various sectors in Taiwan to be generous reception. <br>'
+);
+
+?>

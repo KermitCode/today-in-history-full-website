@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-8-10
+	create time:2013-01-02 00:30:40
+*/
+
+return array(
+'title'=>'Chinese athletes made great breakthroughs in the Barcelona Olympic Games',
+'class'=>0,
+'cont'=>'August 10, 1992 (, Ren Shen on July 12), the Chinese athletes made a huge breakthrough in the Barcelona Olympic Games. the women&#39;s 200 meters of <br> Lin Li individual medley gold medal <br> August 1992, the 25th Olympic Games held in Barcelona, &#8203;&#8203;Spain victory in the closing of the outstanding achievements of the Chinese athletes to 16 medals , broke into the Olympic Games medal four strong columns. the <br> 7 26, there are more than one month will be entered the 20-year-old Zhuang Yong score of 54 to 54 seconds, won the gold medal in the women&#39;s 100-meter freestyle. She realized \"zero\" breakthrough of the Chinese Olympic swimming champion, is also the Chinese delegation to the Olympic Games gold medalist the first person. <br> her teammate Lin Li a stroke on July 30, shocked the world swimming. Women&#39;s 200 meters individual medley final, her score of 2 minutes and 11 seconds 65, setting a world record of 2 minutes and 11 seconds of the record and keep the 11-year-old former German Democratic Republic players 73, boarded the championship podium. This is the Chinese athletes for the first time to create a new world record in the Olympics. <br> attention when the 24-year-old \"Chuanmei Zi Zhang Shan appears when in Barcelona molette shooting range. The only female clay shooting 6 before the race in the hands of their male colleagues, with a highest score of 223 targets, wise gold medal. She set a world record \"unprecedented\" - UFO project champion has never been won by the woman (the next Olympic Games began, this item is no longer man mixed). ($ Dj而.c身m) <br> athletics history, the first Olympic champion, the first woman on the history of the Olympic Games 10 km walk champion brilliant, full Liaoning girl Chen Yueling ideally. Zhuang rock <br> \"tiger\" title in the 72 kg class in the women&#39;s judo competition, all the way through, winning streak Germany, Spain, Hungary, the Japanese player. Final, (L $ dj而.c身m) threw himself much more powerful than their own Cuban star, became the first woman in Olympic history judo champion, China&#39;s first Olympic judo champion. Covered with a grief smile fairy \"high sensitivity, high scores than second in 58.26, women&#39;s springboard diving gold medal. People will always remember: Our first consecutive win in two Olympics athletes is high sensitivity. Her 13-year-old debut for his diving career, marked a perfect end. Fu Mingxia hang Olympic diving gold medal, the worse 21 genius at least 14 years old, thus becoming the youngest gold medalist in the Olympic Games and the World Swimming Championships. Zhuang Yong woman <br> 100 meters freestyle gold medal <br> high sensitivity Women&#39;s 3-meter springboard diving gold medal <br>'
+);
+
+?>

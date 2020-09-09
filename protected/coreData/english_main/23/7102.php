@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1885-7-23
+	create time:2013-01-02 00:02:55
+*/
+
+return array(
+'title'=>'Grant died, the 18th president of the United States',
+'class'=>3,
+'cont'=>'July 23, 1885 (, Yiyou June 12), the 18th president of the United States Grant died. Ulysses, <br> <br> Grant [Grant, Ulysses Simpson (history www.TodayOnHistory.com) 1822.4.27-1885.7.23] <br> Grant American military strategist and statesman, the late Federal Army Commander-in-Chief of the American Civil War, the 18th president, Army General. Born in Ohio, a small property owners family. (History today. Cn) <br> 1843, graduated from the U.S. Military Academy (West Point). Participated in the Mexican-American War. Retired in 1854. After the outbreak of the civil war, in Galena, Illinois, to assist in the recruitment and training troops. The successor Volunteers closed brigade commander in the western battlefield combat. February 1862, he led the troops captured south of downtown Allied entrenched Fort Henry and Fort Donelson, Wal earthquake, was promoted to Major General. Hit VJ the complex Los battle in April of the same year. (L $ dj¦Ó.c¨­m) In April-July 1863 commanding Tennessee Regiment to take circuitous surrounded by tactical offensive VJ Mississippi most important bastion of Vicksburg, after of hard the periphery combat and battle, forcing the defenders surrender prisoners of 3.1 million people. November led his troops in to beat siege check Thanou combined enemy. In March 1864, he was appointed commander-in-chief of the federal army, and brought the title of Lieutenant General. Subsequently, with WT Sherman developed jointly things battlefield coordinated operations, split and destroy the enemy&#39;s fighting juice zoned. May rate of the main Yugoslav Army in Virginia with RE Lee led the main battle, and ordered Sherman to enter Georgia. A heavy blow to the Yugoslav Army. April 2, 1865, he led the troops captured the Confederate capital of Richmond, forcing the Yugoslav Army surrendered at Appomattox on April 9. He has the political courage to recognize the importance of the abolition of slavery and armed blacks; good at grasping the overall situation of war, decisive combat command; stressed that the initiative to attack at all costs, to destroy the enemy vital forces, the destruction of enemy war potential is achieved victory in the civil war to make excellence contribution. <br> 1866 Jinlu Jun Admiral. Acting Secretary of the Army in August 1867 -1868 in January. 1869-1877 served two terms in the U.S. presidential mediocre achievements. He is the author of \"U.S. Grant&#39;s Personal Memoirs. <br> Review: American strategist with progressive ideas <br>'
+);
+
+?>

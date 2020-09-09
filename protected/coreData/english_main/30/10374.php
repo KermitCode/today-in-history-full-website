@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-10-30
+	create time:2013-01-02 02:17:14
+*/
+
+return array(
+'title'=>'Resolve the Palestinian-Israeli issue, the Middle East and the opening',
+'class'=>0,
+'cont'=>'October 30, 1991 (, Xinwei September 23), the solution to the Palestinian-Israeli issues, the Middle East and will be opening. <br> 30, 1991 Middle East peace conference opened in the Spanish capital of Madrid. The meeting is co-sponsored by the United States and the Soviet Union, Israel and Arab countries after 40 years of a state of war and experienced for the first time after five wars sat together. <br> opening ceremony held cylindrical hall of the old palace in Spain. U.S. President George W. Bush and other U.S. delegation is seated at the top of the \"T\" shaped conference table, Soviet President Mikhail Gorbachev, the Soviet delegation, as well as a host of Spanish Prime Minister Gonzalez. The joint delegation of EC, Jordan and the Palestinians, Syria, Egypt, Israel and Lebanon delegations were sitting in the \"T\" on both sides of the conference table. The representative of the United Nations, the Gulf Cooperation Council and the Arab Maghreb Union, also attended the opening ceremony. <br> in the three-day meeting, the Arab-Israeli countries stated their own stance on resolving the Middle East issue. A matter of principle on both sides are stubborn, refused to give ground. The disagreements focus of the territorial issue. Arab countries insisted that Israel should implement 242 and 338 of the UN Security Council resolution to withdraw from Arab territories it occupied in the 1967 Middle East war, the \"land for peace\". Israel by its own security grounds, refused to return these territories, and requirements of the peace treaty signed with the Arab countries alone, \"peace for peace\". Arab-Israeli attitude of both sides in formal statements, although very tough, but in fact have shown varying degrees of flexibility. Israel and Jordan hinted that the two countries are expected to sign the peace treaty alone. Syria announced that for the first time, as long as the withdrawal of Israeli troops from the occupied Golan Heights, it is likely to sign a security agreement with Israel. Arab-Israeli had differences in the locations and would be the first stage of bilateral talks on the issue of great, negotiated for initial compromise to avoid the risk of premature death by leaving just the beginning of peace talks due to procedural issues. The United States and the Soviet Union called on the Arab-Israeli parties to make the step to maintain the momentum towards peace in the Middle East. <br> the complexity of the Middle East issue, and by no means able to solve overnight. The Middle East and the opening reflects the strong desire of the peoples of the Middle East requires peace. This has taken a first step towards peace in the Middle East. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-3-15
+	create time:2013-01-02 08:31:21
+*/
+
+return array(
+'title'=>'Chinese Chess being built',
+'class'=>0,
+'cont'=>'March 15, 1992 (February 12) Renshen Chinese Chess being built. <br> Chess China was established in Beijing \"target =\" _blank \"> Chinese Chess broke ground in October 1988, which lasted more than three years, was finally completed. March 15, 1992, the establishment of the hospital ceremony was held. <br> Chinese Chess southern end of the Beijing Tiantan East Road, with a total construction area of &#8203;&#8203;9,465 square meters, the main building for four of the basement floor, two-story, four middle have a 400-square-meter hall, decoration elegant basement multi-purpose the lobby can hold a large banquet hall used to hold a variety of cultural and recreational activities, the two-story and four-story lobby is a chess match, performance venues, can accommodate hundreds of games and hanging plate to explain other rooms can be used for ordinary and senior game room. restaurant and room for competition, training personnel to provide meals and accommodation services <br> Chess comply with Marshal Chen Yi during his lifetime will invest in the construction of the National Sports Commission. Comrade Chen Yi fond of chess, he is training a new China&#39;s players, devoted a lot of effort to commemorate him, the lobby in Chinese Chess plastic stand a bronze bust of a Chen Shuai Ningmei thinking. statue behind the screen wall, engraved with his winter of 1962 \"Go name spectrum Picks \"inscribed four-character poetry. <br> Chinese Chess Chess of China&#39;s largest, is the only national Chess called the world, regardless of size or function facilities. (lssjt.cn) Japan, South Korea and Russia Chess, but are engaged in a single project: or chess, or chess. [? v history today??] Chinese Chess come from behind three chess simultaneously, reflect the fortunes Hing, chess shipped also Hing Chinese Chess is not only held in place of the chess game of international, domestic, national chess team, chess team, the stronghold of the international chess team and bridge team, also open to the community, for the majority of chess enthusiasts to observe, learn. Chinese Chess completion greatly improve the athletes training and living conditions of the national chess team has played a catalytic role in the development of three chess brand sports. <br> the top leadership of the Chinese Chess Chinese chess, chess and chess institution was established on October 24, 1991, either the first President Chen Zude, Wang Runan vice president, consultant Hao Keqiang, vice chairman of the China Weiqi Association served. (L $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-8-8
+	create time:2013-01-02 00:01:50
+*/
+
+return array(
+'title'=>'Typhoon Morakot battered Taiwan',
+'class'=>0,
+'cont'=>'August 8, 2009 (Year of the OX June 18), Typhoon Morakot battered Taiwan. In In August 2009, Typhoon Morakot swept across the central and southern Taiwan, brought oversized floods, the maximum gust 14 (Po parcels grade) (45 m / s) see the seriousness of the disaster in Taiwan 50 years. Jiaxian Township, Kaohsiung County, Kobayashi village hit heaviest village half a mountain collapsed, mudslides inundated the village, hundreds of people missing and thousands homeless. Statistics to date at 18 o&#39;clock on the 25th, caused by Typhoon Morakot, Taiwan&#39;s total of 461 people were killed and 192 were missing and 46 others were injured. the scouring <br> days of torrential rain, mudslides continue, many mountain villages overnight, water covered over the top, a high-rise hotel in Taitung, actually support him pour rolling river, is really shocking! < ; br> After the disaster, although Taiwan President Ma Ying-jeou and Premier Liu has countryside visited the disaster, but the face of the many people complain because, disaster relief, to be racing against time, authorities are slowly, resulting in hundreds of The villagers could have been buried alive survive, but gold and critical moment in the 24-hour was rescued and buried in the debris, really make the victims of the screaming in pain, grief <br> Ma Ying-jeou has been regarding the Administration&#39;s lack of early and timely rescue disaster that resulting in loss of lives and property and make an apology to the people of Taiwan. Said, Taiwan Executive Yuan has passed seven resolutions, the establishment of a disaster relief disaster services team, funding of NT $ 3 billion to the period from the reconstruction work, and launched a disaster relief donation activities. <br> As president, Ma Ying-jeou is also commander-in-chief, but he was not the first time to mobilize the army emergency relief after being accused sent troops to support. Taiwan held at the end of the city and county elections, KMT affected whether Ma Ying-jeou poor relief, but Taiwan and China are concerned about. <br> After the disaster, the central government of mainland China empathy, the first time apart from call to comfort the victims, also donated one hundred million yuan of relief disaster Li. , Sichuan, Fujian Province, Hong Kong and Taiwan Regal and artists have donated to charity. A friend in need is a friend indeed, the Taiwan compatriots, brothers, I believe after the typhoon in Taiwan&#39;s help, friendship and mutual relations will be further strengthened. <br> <br>'
+);
+
+?>

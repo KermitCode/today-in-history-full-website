@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1809-4-1
+	create time:2013-01-02 08:42:37
+*/
+
+return array(
+'title'=>'Gogol&#39;s birthday',
+'class'=>4,
+'cont'=>'April 1, 1809, February 17 (Baba), Gogol&#39;s birthday. Gogol&#39;s birthday <br> \"target =\" _blank \"> Gogol like <br> 1852 spring and summer, a cold room in Moscow, a more than 40-year-old patient hard stack of manuscripts thrown into the fire into him with bitter desperation, watching the efforts and flame together dance <br> The middle-aged man is the great Russian writer Gogol. just burning the manuscript is the second part of the novel \"Dead Souls\" (handed down only Fragmented). [L $ dj而.妨壯T] <br> Gogol, (l $ j而.c里) Ukraine, 1809 1 May Health. then Russia is in a capitalist economy has grown steadily, and the period of the disintegration of the feudal serf system gradually. contradiction between the two, sparking revolutionaries (as of December partisan), the majority of the people and the rule of tsarist confrontation struggle December Revolutionists been brutally suppressed, but contributed to the ideological progress of Gogol. rural poverty and official corruption, his determination to dedicate themselves to the literary career. Pushkin appreciated strengthened his volunteer 1831 September, publishing Di Kangka near Township Nocturne first proposed the theme of good and evil, the novel is full of poetic. Gogol emerge from this. then, the comedy \"imperial envoys\" shock Petersburg high society , who later became world famous. later the landlord aristocracy portrayed backcountry hundred ugly map \"to expose the rot of serfdom, this is 1842&#39;s\" Dead Souls \"the first novel by speculative home begging begging Krakow groundbreaking work, describing the story of his for-profit, to around the main manor acquisition dead serfs soul show the Russian provinces landlords portrait galleries, merciless expose and criticize the system of feudal serfdom in Russia. 199 century Russian critical realism After the release of the. (L $ dj而.c身m) <br> \"Dead Souls, Gogol residing abroad for six years, from domestic advanced literary world, and often in a reactionary literati surrounded by his thinking by the critique the serf system turned to praise, defend it, he burned part of the manuscript of the second part of \"Dead Souls\" already written, ready to rewrite, going to the landlord class written positive image his point of view was severely progressive writers and artists criticism [lsjt.net] Gogol later to write the second part of \"Dead Souls\" second draft is still not satisfied, and finally burned in the death, with extreme contradictions and painful mood Changci the earth. (lsjt.net translation cover <br>) the Gogol of works of <br> \"Dead Souls\"'
+);
+
+?>

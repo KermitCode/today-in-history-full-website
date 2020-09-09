@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-12-23
+	create time:2013-01-02 02:28:51
+*/
+
+return array(
+'title'=>'Hands were stained with the blood of the Chinese people, Hideki Tojo was hanged',
+'class'=>0,
+'cont'=>'December 23, 1948 (Lunar New Year winter months 23), whose hands were stained with the blood of the Chinese people Hideki Tojo was hanged. the Hideki Tojo <br> (1884 -1948 years 12, 23) <br> 1948 12 23 am, on the execution ground in Tokyo, Japan, on the gallows 6 bodies hanging them World War II, Japan 6 Class A war criminals. Which a man named Hideki Tojo, Japan and France the warlords&#39;s giant, one of the major war criminals of the war of aggression against China and the Pacific War, the massacre of the Chinese people the most ferocious executioner. (Lssjt.cn) <br> Hideki Tojo on December 30, 1884, was born in a military family in Tokyo, Japan. Father, Tojo taught the first graduating class of the Japanese Army, served as a stronghold of the General Staff, legislation contribution to external expansion of Japanese militarism in the Sino-Japanese Sino-Japanese war of aggression against China. Hideki Tojo live in such a family, a child subject to the influence of militarism and the spirit of Bushido. Hideki Tojo the age of 16, to enter the the Tokyo Army local juvenile school, received military training system. After learning in the Army Central childhood schools and the Military Academy. Graduated in 1905, when he was only 21 years old, was awarded the Army rank of second lieutenant, and invade the northeast of China to participate in the Russo-Japanese War. After the war was promoted to lieutenant, and to enter the Army University of learning. His allegiance to the emperor, for something arbitrary, full of the spirit of Bushido, razor Tojo said. In 1937, the Japanese imperialists launched a comprehensive war of aggression against China, as Hideki Tojo, the Japanese invasion of the Japanese Imperial Army chief of staff, command of the invading army has occupied Chengde, Zhangjiakou, Datong, everywhere, burning and rape swept tens of of villages were burned, thousands of people were killed. Tojo&#39;s atrocities in China, so he is more appreciated by the Japanese warlords promoted to Director of Army Aviation, the overall control of the Japanese Army Air Force in December 1938. <br> With the expansion of the Japanese imperialist war of aggression, Tojo&#39;s status is also rising. In 1941, the fall of the Konoe Cabinet Hideki Tojo became Prime Minister. In order to expand the war of aggression against China and the Far East war, his Cabinet ad hoc \"Greater East Asia Province\", the so-called \"Greater East Asia jihad\", madly outside the aggression, the the Japanese militarism development to an unprecedented extent. The end of World War II, Japan&#39;s unconditional surrender, this mighty mass murderer finally escorted to trial in history, the end of a life of crime. <br>'
+);
+
+?>

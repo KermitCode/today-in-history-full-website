@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1932-7-30
+	create time:2013-01-01 23:25:02
+*/
+
+return array(
+'title'=>'China for the first time to participate in the Olympic Games',
+'class'=>0,
+'cont'=>'July 30, 1932 (, Ren Shen on June 27), participate in the Olympics for the first time. Sheng complex <br> <br> 1932, \"City of Angels\" ushered in the tenth Olympic Games in Los Angeles. <br> 1932 7 30, the tenth Olympic Games held in Los Angeles. July 1 at the graduation ceremony of the Northeastern University Department of Physical Education, (lssdjt.cn) by Zhang himself announced for athletes, Liu Changchun and in Greek Wei, Song-Jun-fu for the coaches, on behalf of China to attend the tenth Olympic Games. Hao the Gengsheng correspondence Foreign Ministry, in consultation with the National Sports Association for the Advancement Zhengting, Boling, by Mr. Zhang Boling urgent telegram IOC Liu registration formalities. <br> Liu Changchun to Shanghai pier, led by Hao Gengsheng, Song-Jun complex by thousands of people in the Shanghai Municipal People&#39;s enthusiasm farewell. Chinese Sports Association for the Advancement Director Dr. Wang Zhengting his wife went on the scene said: \"our faction of the monarch to attend the World Movement Conference, for the first time since the founding, in fact, contain the Infinite significance, more than this to hold a flag presentation ceremony and caused farewell words sincerity of heart, on behalf of the Chinese National Sports Association for the Advancement flag presentation and Jun May Jun with its spirit of struggle, to carry forward the Olympic Stadium in the city of Los Angeles to make the national flag of the Republic of China, fluttered in the world, is honor also. \"<br> Then, athletes replies term expressed determination glory for the country, and and at Xi Wei for some reason did not take place. <br> opening day, the Chinese team temporary patchwork flag executed by Liu Changchun, Shen Si-liang, followed by the general representative, and subsequently on behalf of four people: Song-Jun-fu, Liu Xuesong Shen Guoquan, Topping. After the start of the race, Liu Changchun, one hundred meters preliminaries scores fifth place in about 11 seconds, was eliminated; 200 m scores 21 seconds in fourth place. Although not on the name, but its posture and courageously spirit, has been praised by outsiders. the <br> 1932 Los Angeles Olympic Games, Liu Changchun on behalf of China for the first time to participate in the Olympic Games <br> in 1932, the old China and the Olympics for the first time, the picture shows the sprinter Liu Changchun. History TodayOnHistory.com <br> on July 29, the new 1952 for the first time to participate in the Olympic Games, the Pictured swimmer Wu Chuanyu <br>'
+);
+
+?>

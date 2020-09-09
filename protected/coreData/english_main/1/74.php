@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-1-1
+	create time:2013-01-01 18:37:13
+*/
+
+return array(
+'title'=>'The establishment of the European Economic Area',
+'class'=>0,
+'cont'=>'January 1, 1994 (20 πÔ”œ the winter months), the establishment of the European Economic Area. the <br> 1994 years, (history TodayOnHistory.com), composed by the 12 countries of the European Communities and the European Free Trade Association countries, Austria, Finland, Iceland, Norway and Sweden, the world&#39;s largest the free trade zone - the European Economic Area was formally established. The birth of the European Economic Area, has not only changed the relations between the European Community and the European Free Trade Association, and also had a significant impact on Western Europe and the world economy. <br> the European Community and the European Free Trade Association on the idea of &#8203;&#8203;the establishment of the European Economic Area since 1984, but it was not until June 1990, the two sides began formal negotiations. Fishing area of &#8203;&#8203;joint decision-making, for trucks crossing and common development fund issue, the two sides once differences great, negotiations several stalemate. But out of common interests, the two sides eventually reached a compromise, and on May 2, 1992 in Porto, Portugal signed the agreement for the establishment of the European Economic Area. The agreement should take effect on January 1, 1993, but also an unexpected turn in the approval process. <br> 1992, Switzerland held on the ratification of the treaty referendum, rejected a result, 50.3% of residents oppose Switzerland&#39;s accession to the European Economic Area. In view of the special relationship of Liechtenstein and Switzerland on the judicial and administrative the (1 $ dj¶”.c®≠m). Switzerland rejected Liechtenstein can not join the European Economic Area, from 19 countries of the European Economic Area range narrowed to 17 countries. Switzerland rejected not only makes the European Economic Area Agreement to postpone the entry into force, but it also brings a number of specific issues, the most important of which is how to fill the Yin Ruishi exit causing a shortage of common development fund. The original agreement, the European Free Trade Association countries should underdeveloped countries in the south of the European Economic Area Development Fund to provide 20 million European currency units, Switzerland should bear 27% of the total amount. After several months of negotiation, both the EC and EFTA again on March 17, 1993 signed the Supplementary Agreement on the European Economic Area, a supplement and modify the original treaty, reduce the Fund loan interest subsidies by taking way, cleared the way for the establishment of the European Economic Area. As a result of these details, the establishment of the European Economic Area was delayed for a full year. <br>'
+);
+
+?>

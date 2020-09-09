@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-11-15
+	create time:2013-01-02 01:54:53
+*/
+
+return array(
+'title'=>'U.S. President Barack Obama arrived there to begin his first state visit to China',
+'class'=>0,
+'cont'=>'(Year of the OX, September 29), November 15, 2009, U.S. President Barack Obama arrived in Shanghai to start his first state visit to China. On the evening of May 15, <br> 11, Obama take the \"Air Force One\" plane arrived in Shanghai. (History com) In November 15, should President Hu Jintao, U.S. President Barack Obama arrived in the evening of 15, began a four-day state visit to China. (L $ dj¦Ó.¨­r¨À) <br> This is the first visit to China after Obama took office in January this year, the President of the United States. He is also the office for a state visit to China within one year after the first President of the United States. (L $ dj¦Ó.§«§§T) <br> During the visit, Hu will hold official talks with Obama on Sino-US relations and major issues of common concern, widely-depth exchange of views, and discuss the further development of Sino-US relations plan. (History www.TodayOnHistory.com) <br> 23 at 10 points, Obama&#39;s special plane landed at Shanghai Pudong International Airport. 23:26 Obama walked down the ramp, shook hands with Zhou Wenzhong, China&#39;s ambassador to the U.S., Shanghai Vice Mayor Yang Xiong, Tang Dengjie Chinese officials greeted there. A the Shanghai teenager to Obama flowers. (Lssdjt.com) <br> 1972, when U.S. President Richard Nixon opened China-US relations, \"ice-breaking journey\", first came to Shanghai is. This year is the 30th anniversary of the establishment of diplomatic relations between China and the United States, the \"Oriental Pearl\" Shanghai again witnessed an important moment in the history of the development of Sino-US relations. In 1961, Obama was born in Honolulu, Hawaii, USA, childhood living in the Indonesian capital of Jakarta. After graduating from high school he entered the California Western ARTS study, two years later transferred to Columbia University and obtained a bachelor&#39;s degree in international relations, and entered Harvard Law School in 1988. After graduation, he worked in a law firm in Chicago, after teaching at the University of Chicago. <br> Obama, a Democrat, in 1996, 1998, 2002, has three times elected Illinois State Senator. In the 2004 congressional elections, Obama was elected Senator. In 2008, Obama was elected the 44th U.S. president, took office on January 20, 2009. <br> Obama&#39;s wife, Michelle, was his classmate at Harvard University, and they had two daughters. <br> \"Air Force One\" plane arrived in Shanghai <br> began a four-day state visit to China <br>'
+);
+
+?>

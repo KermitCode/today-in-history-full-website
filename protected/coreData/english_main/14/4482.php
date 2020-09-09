@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1953-5-14
+	create time:2013-01-01 22:06:11
+*/
+
+return array(
+'title'=>'The first five-year plan implemented',
+'class'=>0,
+'cont'=>'May 14, 1953 (two days) Kimi April, the first five-year plan to begin implementation. <br> Liu Shaoqi, (lssjt.cn) Deng Xiaoping, (lssjt.cn) Yang Shangkun visited the Shenyang Aircraft Manufacturing Factory In May 1953, the country began to implement the first five-year plan. The spring of 1951, Zhou Enlai, (lssjt.cn) Li Fuchun, (lssjt.cn) Chen Yun presided over the preparation of the first Five-Year Plan (1953 - 1957), in 1955 after five modify the supplement, the first session of the National People&#39;s Congress The second meeting examined and adopted. The basic task of this program is to establish the initial foundation of the socialist industrialization. The plan proposes to focus on 156 projects aided by the Soviet Union as the center. Industrial construction, consisting of 694 large and medium-sized construction projects in order to establish the basis of socialist industrialization; development part of the collective ownership of agricultural production cooperatives, development of handicraft production cooperatives, to establish the initial foundation for the socialist transformation of agriculture and handicrafts; basically capital capitalist industry and commerce were included in the various forms of state capitalism track, and to establish the basis for the socialist transformation of private industry and commerce. Plan: five years of national economic, cultural and educational expenditures totaled 76.64 billion yuan; basic construction investment of 42.74 billion yuan; industrial output value of the average annual growth rate of 14.7%, the total output value of agriculture and sideline the average annual growth rate of 4.3%, to 1957 years, half of the private industrial enterprises into public-private partnership, to participate in the primary agricultural production cooperatives, farmers accounted for about 1/3 of the farmers. The plan provides that the national total retail sales of social commodities in 1957 amounted to about 49.8 billion yuan, an increase of about 80% compared to 1952; the original private business in five years there will be more than half of the business into various form of state capitalism and small business operators organize cooperation in the form of a small business. The plan provides for the gradual improvement on the basis of the development of production and improve the people&#39;s material and cultural living standards, employment increased by 420 million people in five years, the average wage of workers increased by 33%, the purchasing power of farmers in 1957 than in 1952 will increase nearly doubled. the the placards parade <br> <br> Beijing Railway employees carrying \"300 billion yuan to increase savings and struggle\"'
+);
+
+?>

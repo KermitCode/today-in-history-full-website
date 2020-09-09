@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1947-9-12
+	create time:2013-01-02 00:50:03
+*/
+
+return array(
+'title'=>'Patriotic celebrities continued Fan Pavilion&#39;s death',
+'class'=>3,
+'cont'=>'September 12, 1947 (July 28), Chinese New Year, patriotic celebrities continued Fan Pavilion&#39;s death. the death of <br> continued Pavilion \"target =\" _blank \"> Continued Fan Pavilion (1893 - 1947), the village of Shanxi Province, Guo County (now former County) West community. earlier life led by Sun Yat-sen, the United League. the Revolution of 1911, he served as captain of the Revolutionary Armed Forces of Shanxi Expedition, after the organization Northwest National Protection Army crusade against Yuan Shikai hybrid Detachment of the KMT Army Third Army chief of staff in 1925 before and after the sixth mixed brigades long National Army military and political schools after the principals. <br> 1931 \"September 18 Incident\", continued Fan Pavilion oppose compromise with Japan, called for anti-Japanese. [the L $ dj而.c身m] but stubborn adherence to \"Resisting Foreign Aggression within the Kuomintang government of Chiang Kai-shek 1935 continued Fan kiosks paid respects to Sun Yat-sen in Nanjing, \"the policy of refusing to take advice. wrote bitterly cry Mausoleum\" poem, and the Sun Yat-sen before laparotomy Suicide requirements of the anti-Japanese of his book in the \"Notice to the public said: \"I despair exercises had been, it donated this footer willing compatriots solidarity, rose Kill.\" renewal <br> survivors undead Fan kiosks continue running the anti-Japanese, who favored the Communist Party to stop the civil war, united anti-Japanese proposition. September 1937, the chairman of the kiosks any continued Fan theater National Revolutionary War Battlefield Mobilization Committee in cooperation with the Communists created Shanxi New Army. the June 1938 (L $ dj而.c身m,) by Guan South Han Chen introduced secretly joined the Communist Party of China in 1939, he was involved in the command counterattack Kuomintang diehards battle 1940, he served as vice chairman of the the northwest Shanxi military and political Resident Association Committee, the northwest Shanxi Civil Administration Administrative Office Director in November of the same year, any Northwest Shanxi Military Region Deputy Commander. winter of 1940, the Japanese implemented northwest Shanxi base the cruel big \"mop-up\", continued Fan Pavilion rate of the Administrative Office of the authorities fought day and night, overwork, and finally fell ill. September 12, 1947 died in Linxian [l $ dj而.身r阱] <br> deathbed, continued Fan Pavilion to the CPC Central Committee and Chairman Mao wrote a suicide note, presented the request of the official Communist Party of China CPC Central Committee accepted his request. September 13, 1947, continued Fan Pavilion was posthumously by the full members of the Communist Party of China. <br>'
+);
+
+?>

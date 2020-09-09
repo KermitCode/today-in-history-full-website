@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1927-8-7
+	create time:2013-01-02 00:09:31
+*/
+
+return array(
+'title'=>'August 7th Conference convened',
+'class'=>5,
+'cont'=>'August 7, 1927 (the tenth) July Dingmao, August 7th Conference convened. The meeting site interior <br> \"87\" <br> August 1927, according to the of the Comintern instructions and the requirements of the Party comrades, the CPC Central Committee in Hankou secret held an emergency meeting. The meeting was attended by Deng Xia, Li Weihan, Qu, Zhang Tailei (L $ dj而.c身m) (L $ dj而.c身m), (L $ dj而.c身m) (L $ dj而.c身m) Ren Bishi (L $ dj而.c身m) ( L $ dj而.c身m) Gu Shunzhang, (L $ dj而.c身m) (L $ dj而.c身m) Hesen, (L $ dj而.c身m) (L $ dj而.c身m) Mao Zedong (L $ dj而.c身m) (L $ dj而.c身m) Lu Ting, Wang Yi-fei, 21. The meeting attended by the head of the Secretariat of the CPC Central Committee Deng Xiaoping. Comintern the behalf of Lominadze and Newman also attended the meeting. Conference Chairman Li Weihan, the actual host Qu Qiubai. The first agenda of the meeting, the KMT by Mao Zedong at the meeting criticized the the Chen Duxiu rightist errors: First, the KMT issue, the CPC Central Committee and the KMT-CPC cooperation has not thought of when the \"master\"; Second, on the issue of farmers , the CPC Central Committee does not support the peasant revolution; Thirdly, in military matters, \"do not do the military campaign designed to do the popular movement. Mao stressed that the autumn riots demilitarized not \"party\" after the great attention to military, know that the regime is achieved by the barrel of a gun \". <br> meeting adopted the \"CPC\" 87 \"conference report whole party party members book. temporary <br> of Qu Qiubai on behalf of the CPC Central Committee Political Bureau Standing Committee to make a report. Stressed the party&#39;s next task is to our armed forces to develop the agrarian revolution \". Specific guidelines to achieve this struggle strategy: First, it is necessary to pay more attention to compete with the bourgeois leadership: second, bottom-up approach to pay attention to win over the masses; third, riots organizations communists in the majority, Provisional Revolutionary Government of the dictatorship of the workers and peasants, civil rights. Then, the meeting adopted the peasant struggle resolutions. \"Recently the resolutions of the trade union movement\", \"the party&#39;s organizational problems resolved case.\" <br> Assembly elected Provisional Central Political Bureau. Su Chao Chen, (L $ dj而.c身m) (L $ dj而.c身m) was elected to the Zhongfa, Qu, Gu Shunzhang Peng Pai, Ren Bishi 9 full members, Deng Xia, Zhou Enlai, Mao Zedong, Zhang Tailei, Zhang Tao, Li Lisan 7 people elected as alternate member. presided over the meeting <br> Qu Qiubai <br>, August 7th Meeting venue - Hankou the three religions Street 41 No. <br>'
+);
+
+?>

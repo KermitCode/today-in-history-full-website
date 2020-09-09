@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1919-5-4
+	create time:2013-01-01 22:27:07
+*/
+
+return array(
+'title'=>'The outbreak of the &quot;May Fourth&quot; Movement',
+'class'=>5,
+'cont'=>'On the fifth day of April (Kang Xi), May 4, 1919, the outbreak of the May Fourth movement. the <br> Peking parade marching to Tiananmen Square after <br> the end of the First World War, the victorious imperialist countries on May 4, 1919, Beijing University and other schools more than a dozen specialist The students gathered in Tiananmen Square, held a demonstration, denounced the government&#39;s traitorous crimes and punish the pro-Japanese traitors Cao Rulin, Lu Zongyu, Chapter Zongxiang. The procession came Cao Rulin the residential Zhaojialou, beat the ambassador to Japan is Cao Zhang Zongxiang and set it on fire, surely. The reactionary warlords of <br> government to send a large number of military and police repression, the arrests of more than 30 students. The next day, the city&#39;s students for a general strike, the establishment of the Union of Students, is energized to the nation. Li Dazhao severe condemnation the reactionary government suppression of the student, against Paris and unjustified decision on the question of Shandong, and actively rescue the arrested students also published an article. This anti-imperialist patriotic movement soon expanded to the country, around the students, workers, businessmen have supported the patriotic action of the students in Beijing. The reactionary warlord government was forced to release the arrested students, the revocation of the duties of the of Cao Rulin three traitors, and notification to participate in Paris and representatives refused to sign the peace treaty. <br> \"May Fourth\" movement is completely uncompromising anti-imperialist and anti-feudal movement, it marks the victory of the democratic revolution in China has entered a new stage, it is a great beginning of the new-democratic revolution in China . <br> to inherit and carry forward the patriotic spirit of the May Fourth movement in 1939, the Shaanxi-Gansu-Ningxia Border Region Northwest Youth Salvation Association of May 4 Chinese Youth Day. In December 1949, the Central People&#39;s Government Administration Council officially announced the festival. So that future generations will always remember this historic event, the Monument to the People&#39;s Heroes in Tiananmen Square is also engraved with the the large relief scenes reflect the \"May Fourth Movement. the Flyer <br> Fourth Movement <br> Peking University students took to the streets and speak <br> 1919, Peking University students distributed in the May Fourth Movement ; May 4 of that year, the students in Tiananmen Square before the collection <br>'
+);
+
+?>

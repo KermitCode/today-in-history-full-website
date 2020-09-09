@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-10-10
+	create time:2013-01-02 00:41:08
+*/
+
+return array(
+'title'=>'The establishment of the North Korean Communist Party',
+'class'=>0,
+'cont'=>'October 10, 1945 (, Yiyou September fifth day), the founding of the Communist Party of North Korea. Reference, 1945 10 10, 2010, the Workers&#39; Party in Pyongyang established. The face of confusion and poor state of Japanese colonial rule left Labor Party unite the community and people, the implementation of policies such as land reform and the nationalization of industries, so that North Korea&#39;s political, economic and social new look, has won widespread endorsement and support of the Korean People&#39;s . After the end of the Korean War, the leadership of the Labor Party the Korean People set off the climax of socialist construction, and within a few years to heal the wounds of war, national economic self-reliance and socialist industrialization, laid the basis for economic development. In the 1990s, due to the West&#39;s long-term sanctions and natural disasters and other reasons, the development of North Korea&#39;s economy encountered unprecedented difficulties. In the face of the ordeal, the Workers&#39; Party of Korea and the government adopted a series of measures, united and led the Korean people to overcome the difficulties, a positive attitude and create a remarkable new situation in the field of economic construction and foreign affairs. recent years <br>, the Workers&#39; Party of Korea to speed up socialist economic construction as an important task, and called on all the people strive to North Korea building become economically powerful, state-of-the-art technology and a strong country, and implemented a series of policies and measures in the The achievements of agricultural, industrial and infrastructure construction. <br> in the diplomatic field, in line with the principles of independence, peace and friendship, DPRK actively adjust foreign policy, has made remarkable progress in to expand multilateral diplomacy to strengthen relations with neighboring countries, the development of Western countries relationship. In June this year, the inter-Korean summit in Pyongyang, the first time in the history of the summit, signed the North-South Joint Declaration. Under the joint efforts of both sides, the two Koreas, in accordance with the spirit of the Declaration, in many areas of political, military, economic and people-to-people exchanges to carry out exchanges and cooperation, to ease tensions on the peninsula to promote North-South relations towards national reconciliation, unity and reunification The new situation in advance, was widely welcomed by the international community and support. Under the principle of \"independent, peaceful reunification\" of the North-South relations are entering the best period in history. <br>'
+);
+
+?>

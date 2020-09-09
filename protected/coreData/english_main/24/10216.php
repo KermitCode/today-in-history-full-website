@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-10-24
+	create time:2013-01-02 01:53:04
+*/
+
+return array(
+'title'=>'Founding Admiral Xiao Ke died of illness',
+'class'=>3,
+'cont'=>'October 24, 2008 (September 26) Lunar founding Admiral Xiao Ke, died of illness. <br> <br> an outstanding member of the Communist Party of China, tried and tested loyal communist fighter, proletarian revolutionary, strategist and former Advisory Committee of the Standing Committee of the CPC Central Committee, Chinese People&#39;s Political fifth National Committee, vice chairman of the Central Military Commission of the original members, Department of Defense, former deputy Minister military, Dean, the first political commissar of Xiao Ke died of illness \"target =\" _blank \"> Xiao Ke comrades, illness is invalid, in October 2008, 24 12:51 died in Beijing at the age of 102 years old. <br> contemporary military strategist, military educator. Hunan Jiahe people. born in scholarly family. participate in the National Revolutionary Army in 1926, joining China in 1927 Communist Party. former the Eleventh Army of the National Revolutionary Army division twenty-four seventy-one group company commander. participated in the Northern Expedition, (L $ dj¦Ó.c¨­m) the Nanchang Uprising Uprising, the Agrarian Revolutionary War, Ren Hongjun battalion commander, Column chief of staff, teachers, Eighth Red Army commander, the the Red Sixth Corps Army chief, the deputy commander of the Red Army, Red the Fourth Army thirty-one Army commander. participated in the Long March. Sino-Japanese War, he served as the Eighth Route Army 121 ¡ð division vice Ting Jinjun commander of the division commander, Hebei hot police, deputy commander of the Jin-Cha-Ji thermal Liaojun district commander of the Liberation War, he served as deputy commander of the North China Military and Political University Vice-Chancellor of the North China Military Fourth Field Army Chief of Staff and the Central South Military Region chief of staff after the founding of New China, any of the Central Military Commission Military Training Minister, the Training Director Vice Minister, Minister, Deputy Defense Minister, Vice Minister of the Ministry of Land Reclamation, the PLA Military and Political University President, Vice Minister of the Ministry of Defense and Dean of the Military Academy and the first political commissar. was awarded the rank of general in 1955. first to the third member of the National Defense Commission, the Fifth CPPCC National Committee vice chairman, the eighth member of the Central Committee of the Communist Party, the Tenth alternate member of the Central Committee of the Eleventh Central Committee members, a standing member of the Central Advisory Commission. <br> <br> Review: the Xiao Ke generals can be good poetry books known as the \"NORTH PEAK\" reputation, or he only wrote novels and get Mao Dun General. <br>'
+);
+
+?>

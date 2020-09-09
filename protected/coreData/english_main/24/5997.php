@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1908-6-24
+	create time:2013-01-01 23:43:14
+*/
+
+return array(
+'title'=>'The death of former U.S. President Grover Cleveland',
+'class'=>3,
+'cont'=>'June 24, 1908 (, Shigenobu May 26), the death of former U.S. President Grover Cleveland. the death of <br> Grover Cleveland \"target =\" _blank \"> Cleveland 22 president of the United States on March 4, 1885, he was elected four years later, he was the second White House as the first of the United States of America the 24 president. <br> Cleveland, March 1837 Sunrise was born in Caldwell, New Jersey, a Congregational pastor family. His childhood was spent in Fayetteville, New York, and Clinton, he 11-year-old enter Å¦Ô¼·ÑÒ®ÌØÎ¬ secondary school, attending Clinton College of Liberal Arts in New York in 1850, went back to 1851 the Feiyetewei Middle School., he qualified as a solicitor in 1859, and others organized the Buffalo law firm and to participate in the Democratic Party. <br> Cleveland is a bold reform, swayed during any of Erie County, New York Sheriff, in order to eradicate corruption and bribery culture of people take for granted, he alienated many politicians, but he won the famous accompanied by a lifetime of brute force, a good reputation for fair and honest. either Buffalo Mayor, he once again \"veto mayor\" of Cleveland in 1883 to 58 percent on 37 percent of the vote, elected governor of New York. was governor, he was in the employment context, adhere merit government agencies deserve the public&#39;s trust \"as the slogan of their actions. (L $ dj¦Ó.c¨­m) <br> Cleveland first presidential tenure, by the praise of the public, civilian reformers like he did, businessman appreciation he stressed that the stability of the currency and the economy, and stressed that the government work efficiency in the 1888 election, he lost to Benjamin Harrison, the end of his first presidential term 1892, Cleveland defeated Harrison, went back to the White House, began a second presidential term. <br> in Cleveland&#39;s second term full of the storm. Philadelphia Reading Railway Company&#39;s bankruptcy in 1893, triggered by the economic crisis caused by the Great Depression of the long-term and heavy, followed by a reduction in gold reserves, widespread unemployment and excess industrial production, agricultural harvests. The European economy is recession Cleveland has a persistent honesty, a strong sense of responsibility and courage, but the end result did not grasp the social situation is this huge disaster defeat. <br> Cleveland in his later years lived in seclusion in New Jersey Princeton, to lose the trust and affection of the American people are deeply frustrated June 24, 1908, Cleveland, died aged 71 in Princeton, New Jersey home. <br>'
+);
+
+?>

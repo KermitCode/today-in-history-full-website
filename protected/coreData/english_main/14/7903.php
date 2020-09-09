@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1986-8-14
+	create time:2013-01-02 00:55:17
+*/
+
+return array(
+'title'=>'Chen Yun, Deng Xiaoping, Li Xiannian and conspired to &quot;hand off&quot;',
+'class'=>0,
+'cont'=>'(Bingyin July ninth day), August 14, 1986, Chen Yun, Deng Xiaoping, Li Xiannian and conspired to \"hand off\". <br> Xiannian, 1982 August 14, 2010, Deng Xiaoping, Chen Yun in Beijing <br> 1986, the resolution of the second session of the Sixth Plenary Session of the CPC Central Committee convened decided: 13 of the Communist Party of China National People&#39;s Congress, will be held in October 1987 in Beijing. The <br> Age does creep up. Presided over the second session of the Sixth Plenary Session of the Politburo Standing Committee, Deng Xiaoping, Li Xiannian and Chen Yun three have entered a ripe old age. The party&#39;s collective leadership must as soon as possible to achieve the replacement of old, these questions always linger in the minds of three elderly ...... <br> Chen Yun about Deng Xiaoping Xiannian secret long talk <br> to the house of the Sixth Plenary Session of the Twelfth finished shortly, several decades old comrade fight together with Chen Yun, Deng Xiaoping, Li Xiannian have to leave this world, filled with emotion. <br> 1986 10 30 am, Deng Xiaoping and Li Xiannian about came to Chen Yun at home, three had a long secret conversation. The three elderly alone meet <br>, which is hard to come by around staff and quickly took a few pictures for them. Before the people around them are busy working, Chen Yun put staff expenses of the office. This conversation is of extraordinary significance and importance of the content of the conversation, can be reflected in the pieces later recalled from Chen Yun bodyguard Zhao Tianyuan: <br> I just went to the duty room, electric rang, I quickly turn back to open the office door, to see President Lee has been up and walking toward the door, came in to see me, and three elderly people and said in a loud voice: \"Smoke, Nayan. \"I hastened to the secretary of Deng Xiaoping Zhang Baozhong to smoke ... the end of the conversation, Deng Xiaoping and Mr Lee had gone, I saw six filter-tipped cigarette butts in the ashtray, Deng Xiaoping six cigarettes smoked in 80 minutes. The (history TodayOnHistory.com) <br> three elderly, only Deng Xiaoping smoking. A doctor as early as Deng Xiaoping, and try not to smoke. Chen Yun and Li Xiannian so urgently for Deng Xiaoping to find smoke, we can see that the conversation must involve the major issues of the party and the country. The conversation was secret, in addition to the three of them, outsiders can not know, even around the staff nor the know. <br>'
+);
+
+?>

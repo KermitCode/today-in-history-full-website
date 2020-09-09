@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-11-21
+	create time:2013-01-02 02:35:40
+*/
+
+return array(
+'title'=>'China independently precise sequencing of rice chromosome 4',
+'class'=>0,
+'cont'=>'October 17th (Horse), November 21, 2002, our independent completion of the precise sequencing of rice chromosome 4. In November 2002, the Ministry of Science and Technology, Chinese Academy of Sciences, the Shanghai Municipal People&#39;s Government jointly announced: Chinese scientists have completed the fourth chromosome borne by the International Rice Genome Project precise sequencing of tasks, so that our plan of the International Rice Genome The sequencing work contribution rate of 10%. (History com) This is by far our independence complete genome single chromosome precise sequencing. <br> international rice genome sequencing project was launched in 1998, 10 countries and regions including China, Japan, the United States, France, co-sponsored by the government and other public financial support, and to bear the huge research tasks. working group leader <br> sequencing expert, Dr. Han Bin, the Chinese Academy of Sciences National Center for Gene Research published today in Nature magazine entitled \"rice genome chromosome 4 sequence and analysis,\" the paper announced after the precise sequencing rice japonica genome chromosome 4, after stitching a total length of 35 million base pairs, with an accuracy of 99.99%, covering chromosome full-length sequence of 98% (leaving only small empty) to achieve the internationally recognized genome sequencing complete Fig standards. <br> Chinese scientists in the precise determination of the sequence is completed while also rice chromosome 4 structural and functional analysis, another rice subspecies indica Guanluai fourth chromosome sequenced. <br> fourth chromosome of the rice genome sequence analysis and functional genomics research, availability of a large number of rice genetic information and functional genomics, for the cultivation of high-yield, high-quality, new rice pest and disease resistance, stress tolerance and other good traits Species and lay a good foundation. At the same time, the sequencing results also help to understand the information in the wheat, corn, and other important food crops genome, thus promoting the entire crop genome research. <br> Vice Minister Li Xueyong also announced, with the rice genome sequencing work is nearing completion, the focus of work in this area will be gradually transferred to rice functional genomics research, in order to obtain the independent intellectual property rights of the functional gene. During the Tenth Five-Year Plan \"period, China&#39;s government will the rice functional gene research as one of the cutting-edge technology, to give priority support. <br>'
+);
+
+?>

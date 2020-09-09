@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-6-25
+	create time:2013-01-01 23:23:58
+*/
+
+return array(
+'title'=>'U.S. President Bill Clinton&#39;s visit to China',
+'class'=>0,
+'cont'=>'On (Tiger Run May, the first two days), June 25, 1998, U.S. President Bill Clinton&#39;s visit to China. <br> 6 month 27, the leaders of the two countries after the formal talks, Jiang Zemin and visiting Clinton jointly met with Chinese and foreign reporters, expressed the point of view of both sides seek common ground while reserving differences in development cooperation. <br> 1998, 25, 2009, U.S. President Bill Clinton arrived in Xi&#39;an, began a nine-day official visit to China from him the White House five years after the first visit to China, but also Bush&#39;s visit to China in February 1989 U.S. President&#39;s first visit to China. 27, the east plaza of the Great Hall of the People in Beijing, Chinese President Jiang Zemin presided over a welcoming ceremony for Clinton visit. <br> President Clinton&#39;s visit to China, following President Jiang Zemin&#39;s visit to the United States in October 1997, another major event in Sino-US relations. If Jiang Zemin&#39;s visit to the United States established a strategic framework for the process of cross-century Sino-US relations, Clinton&#39;s visit to China is based on the progress of relations between the two countries to provide new impetus. (L $ dj¦Ó.§«§§T) <br> the leaders of the two countries on June 27 after the end of the formal talks, Jiang Zemin and Clinton jointly met with Chinese and foreign reporters, expressed the point of view of both sides seek common ground while reserving differences in development cooperation. On Sino-US strategic nuclear weapons under their control aimed at each other, further strengthening the Sino-US bilateral relations, exchanges and cooperation in various fields, the two sides reached a consensus. <br> President Jiang Zemin stressed that the hard-won improvement and development of Sino-US relations, is the result of the joint efforts of two governments and peoples, should cherish. World public opinion, President Jiang Zemin and President Clinton this remarkable meeting will further promote the Sino-US relations, promote regional stability and world peace. <br> President Clinton&#39;s visit to China, there are a few new changes in worth to say: Sino-US summit for the first time through the CCTV broadcast to the nation, President Bill Clinton to the Peking University speech, Peking University students pointed questions put to him; Clinton During his stay in Shanghai to live radio room with the audience. <br> Clinton and his wife came to the ancient city of Xi&#39;an South Gate Plaza <br>'
+);
+
+?>

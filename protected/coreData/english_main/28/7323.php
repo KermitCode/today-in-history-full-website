@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-7-28
+	create time:2013-01-01 23:12:17
+*/
+
+return array(
+'title'=>'Normalization of relations between China and Latvia',
+'class'=>0,
+'cont'=>'July 28, 1994 (Awake, June 23), the normalization of the relationship between China and Latvia. <br> Latvia, the full name of the Republic of Latvia. Named national name, meaning \"armor\", \"metal clothing. Is located in the east coast of the Baltic Sea, an area of &#8203;&#8203;64,600 square kilometers. A population of 2,485,000 (1996), ethnic Latvians accounted for 52%, 34% ethnic Russian, Belarusian vast majority of the Latvian Evangelical Lutheran, a small number of people to Roman Catholicism. Riga, the capital. More developed industry and agriculture, the industry ranks first in the Baltic region. In 1996, the GDP of 2.716 billion lats. Resources such as peat, dolomite, quartz sand. The forest coverage rate of 38%. Industry mainly produces electrical appliances, radio, electronic equipment, and medical devices, in addition to metal processing, chemical, timber, light industry and food industry. Farming to the production of cereals, flax, sugar beet, fodder and potato. Milk, meat, dual-purpose livestock industry. Mainly export chemical fiber cloth and wire, glass products, paints, train passenger cars, large cars, wood, radio, telephone, and milk products; imported electricity, gasoline, diesel, natural gas, liquefied petroleum gas, and coal. 10-13 century a few early feudal duchy. 13-16 century ruled by Germanic Crusaders. Part of the territory in 1562 to carve up Poland and Sweden. Annexation by the Russian Empire in the 18th century. November 18, 1917, the People&#39;s Assembly, announced the to pull independent to this day as an independent, and National Day (after the pull out of the Soviet Union). Latvian Soviet Socialist Republic was established in January 1917. 1920 to establish a bourgeois republic. Soviet troops stationed in June 1940, to restore the Soviet regime, the establishment of the Latvian Soviet Socialist Republic on July 21, joined the Soviet Union on August 5. In October 1988, the national independence movement. May 4th, 1990, the pull pull independent of the Declaration on the restoration and changing the country called the present name adopted by the Supreme Soviet. August 22, 1991, declared formal independence, recognized by the Soviet Union, the Council of State on September 6. Joined the United Nations on September 17. The establishment of diplomatic relations with China on September 12, 1991, February 24, 1992, the Chinese Embassy to evacuate temporarily, the normalization of relations between the two countries on July 28, 1994. (有身d芋y身里h貝 $ 而身ry.c身m) <br>'
+);
+
+?>

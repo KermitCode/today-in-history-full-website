@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-11-28
+	create time:2013-01-02 01:54:08
+*/
+
+return array(
+'title'=>'Sun Xianlu sentenced to life imprisonment due to the violent hijacking aircraft',
+'class'=>0,
+'cont'=>'November 28, 1993 October 15 (對衃 years), Sun Xianlu hijacked planes was sentenced to life imprisonment by violence. <br> 1993 11 28, Sun Xianlu boarded Air China flight to Shanghai from Tianjin aircraft. Shortly after the plane took off, Sun Xianlu to detonate explosives threat, forcing the crew to fly to Taiwan, or we need to BOMB. Decisive measures taken by the crew, Sun Xianlu was arrested in Nanjing airport. In January 1994, Sun Xianlu was sentenced to life imprisonment and deprived of political rights for life. Sun Xianlu originally Tianjin <br> 25-year-old steel mill workers. Produce the idea of &#8203;&#8203;hijacking airliners to go to Taiwan since July 1993, Sun Xianlu proceed with the implementation of the criminal activities of the hijackers. <br> hearing by the Intermediate People&#39;s Court in Nanjing, Jiangsu Province, confirmed that Sun Xianlu by carefully premeditated, to detonate gunpowder duress to hijack aircraft, his behavior constituted the crime of hijacking of aircraft. In accordance with the relevant laws and regulations, the Nanjing Intermediate People&#39;s Court on January 13, 1994 Hijacking Aircraft sentenced Sun Xianlu life imprisonment and deprived of political rights for life. After the verdict in the appeal within the time limit prescribed by law, the defendant Sun Xianlu not appeal, the procuratorial organs did not put forward the anti-demolition. By January 25, the judgment has taken legal effect. <br> hijacked aircraft has been China&#39;s criminal law to crack down on behavior. In particular, the decision adopted by the Standing Committee of the National People&#39;s Congress on December 28, 1992 \"on punishing Seizure of Aircraft criminals, Seizure of Aircraft crime provisions severe legal punishment, causing serious injury, death or the aircraft suffered serious destruction or circumstances are especially serious, to be sentenced to death. Huang Shugang, Liu Bao, criminals (而身d芋y身里h貝 $ 而身ry.c身m) <br> According to reports, April 6, 1993 hijacking of aircraft to Taiwan before were Taiwan judiciary sentenced to 10 years in prison, after serving their sentences, nor in Desk residence. Of Cross-Strait Relations Association was in December 1993 in late and Taiwan&#39;s Straits Exchange Foundation reached a consensus on the issue of repatriation of cross-strait hijackers. Both sides agreed that the hijacked airliner by violence, coercion or other means is a serious criminal offense, should be severely punish; hijackers in principle all repatriation. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1979-12-27
+	create time:2013-01-02 02:23:37
+*/
+
+return array(
+'title'=>'The Soviet invasion of Afghanistan',
+'class'=>0,
+'cont'=>'(Kang Xi winter of early nine), December 27, 1979, the Soviet invasion of Afghanistan. <br> Soviet invasion Afghanistan <br>-Afghanistan is a landlocked country in Central Asia, the Soviet Union and China&#39;s neighbors. Has a very important strategic location. From 1973 to 1979, the Soviet Union in Afghanistan has launched three coups prop puppet regime. Amin government came to power in the 1979 3rd coup is still a precarious regime. Amin government to consolidate their rule, cleaning the camp of more pro-Soviet People&#39;s Democratic Party banner. Soviet ruling clique is therefore a serious threat to their control of Afghanistan. The end of September, Brezhnev decided to armed intervention in Afghanistan. <br> Soviet Union first sent people to Afghanistan to get rid of the person in charge of the Afghan security forces, the army chief of staff and Amin&#39;s nephew, cousin, late December Youyi lifted the Kabul army of armed deception. The evening of 27, (L $ dj¦Ó.§«§§T) Soviet Union tore up signed with Afghanistan in December 1978 \"treaty of friendship and good-neighborly cooperation of Sua deployed nearly 100,000 troops to the invasion of Afghanistan, the occupation of Kabul, and launched a fourth coup to overthrow Amin regime were killed Amin family, foster the banner of pro-Soviet faction leaders, was abroad when the Ambassador Karmal came to power as the People&#39;s Democratic Party, the CPC Central Committee General Secretary and Prime Minister. <br> Soviet armed invasion brought grave disaster to the people of Afghanistan, and a serious threat to peace in Asia and the world. The Afghan people to establish a number of resistance groups, armed to fight the invaders. The 1980 anti-Soviet armed forces has reached more than 100,000 people, control 75% of the country&#39;s rural areas and regions. The vast majority of countries around the world strongly condemned the Soviet occupation of Afghanistan. January 14, 1980, the the 6th UN emergency special session, passed a resolution demanding that the Soviet forces immediately and unconditionally and completely withdraw from Afghanistan. The Soviet Afghan casualties amounted to more than 30,000 people. <br> Gorbachev came to power, decided to withdraw its troops from Afghanistan. Geneva, April 14, 1988 signing of the agreement, the provisions of the Soviet Union began to withdraw its troops since May 15 of that year, the complete withdrawal within nine months. 1989, the withdrawal of all Soviet troops from Afghanistan. <br> a Soviet-made Volga cars pass through the civil war before the Afghan capital Kabul street. (Lsjt.org) <br>'
+);
+
+?>

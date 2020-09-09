@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1982-3-26
+	create time:2013-01-01 21:54:53
+*/
+
+return array(
+'title'=>'China and Vanuatu to establish diplomatic relations',
+'class'=>0,
+'cont'=>'The (Saigon in March, the first two days), March 26, 1982, the establishment of diplomatic relations between China and Vanuatu. the establishment of the Republic \"target =\" _blank \"> <br> Vanuatu Republic the Vanuatu flag <br> Vanuatu, located in Oceania, the South Pacific Melanesian Islands, (l $ dj¦Ó.¨­r¨À) in Australia and Fiji between its size by more than 80 islands, mostly the volcanic island, the ring of coral, an area of &#8203;&#8203;11,880 square kilometers. population of 112,000, more than 90% of the Melanesians, Christian and Catholic Capital Vera, a natural harbor. <br> 1606, Portuguese navigator Kwame Ross first came here in 1774, the British examiner Cook to this expedition, and named New Hebrides Islands in the 19th century the middle of the English, French immigrants came here <br> 1906 Britain and France reached an agreement, the presence of the High Commissioner imposed on it condominium. during World War II, the islands were once a U.S. naval and air bases, the post-war Britain, France restored condominium since the 1960s, the struggle for national independence of the people of the Islands gradual development of British and French colonial authorities were forced to agree to generate Islands locals first congress held in November 1975, the first universal suffrage, and thereafter form the autonomous transitional government July 30, 1980, the New Hebrides island declared independence, the establishment of the Republic of Vanuatu, ending 74 years of British, the condominium rule France. <br> Vanuatu under colonial rule for a long time , developed industrial economy is dominated by agriculture, the main cash crops are coconuts, cocoa, bananas, coffee, timber, precious sandalwood trees and fir Australia due to a tropical rainforest climate, dense forests on the island, which is also rich in fisheries and manganese ore resources, good natural pastures.&#39;s main exports copra, fish, beef and manganese ore. <br> Vanuatu Government 10-year economic development plan is being implemented, in order to achieve economic independence and self-sufficiency. foreign relations, it will be with other Asian countries, especially the countries of the South Pacific to build stronger ties and cooperation between September 15, 1981, the United Nations accepted Vanuatu Member States In 1982, diplomatic relations with China follow the local tradition. <br> built hotel typical <br> the Vanuatu people <br> the'
+);
+
+?>

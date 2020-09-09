@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-4-16
+	create time:2013-01-01 22:13:49
+*/
+
+return array(
+'title'=>'The Peace Association Third Annual Meeting of the opening through the &quot;Chongqing Declaration on&quot;',
+'class'=>0,
+'cont'=>'On the fourth day of March (Imo), April 16, 2002, the Third Annual Meeting of the Peace Association opening through the \"Chongqing Declaration\". <br> 2002 4 16 afternoon, the Third Annual Conference of the Association of Asian Parliaments for Peace in the Great Hall of the People in Beijing opening on April 19 at the closing of the Chongqing People&#39;s Auditorium. <br> from thirty-nine countries in Asia more than 400 delegates attended the meeting. During the meeting, the meeting of the Inter-Parliamentary leaders and parliamentarians, in line with the purposes of the Association and the theme of this year will be on a multipolar world peace, globalization and developing countries to strengthen international cooperation, the establishment of a new international political and economic order wide range of issues and in-depth exchange of views and reached important consensus. <br> meeting heard the report of the Drafting Committee of the Association of Asian Parliaments for Peace Chongqing Declaration, China&#39;s NPC delegation members Xu Dunxin report on the drafting of the Declaration and the main content. Participating countries leaders and Members of Parliament warmly applauded by the principle of consensus, this important documents to reflect the Asian countries, the views and ideas of peace and development. Association of Asian Parliaments for Peace the Chongqing Declaration \"pointed, peace and development are the themes of the times, we enter the new century, the world multi-polarization and economic globalization trends continue, the world and the situation in Asia is still facing many challenges, countries should be fully respected the reality of diversity, seek diversified development, regional cooperation, and solidarity on the road towards a more solid pace. Democratization of the international community is an important guarantee for world peace, countries internal affairs should be decided by its own people, international affairs should solve all peoples and consultation on an equal footing. The international community should make concerted efforts to bridge the gap between developing and developed countries to reduce poverty population, so that all countries in the world, balancing benefit. According to the purposes and principles of the Charter of the United Nations should strive to establish mutual trust, mutual benefit, equality and coordination at the core of a new security concept based on mutual trust, seeking security through mutually beneficial cooperation and common resolve the pressing issues facing the international community. <br>'
+);
+
+?>

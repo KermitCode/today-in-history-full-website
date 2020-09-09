@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-5-2
+	create time:2013-01-02 09:01:24
+*/
+
+return array(
+'title'=>'Representatives of the American jazz Ping Bing Crosby was born',
+'class'=>4,
+'cont'=>'(Jiachen March 17), May 2, 1904, representatives of the American jazz Ping Bing Crosby was born. <br> Ping Bing Crosby was born on May 2, Sunrise, 1904, \"target =\" _blank \"> Bing Crosby (Bing Crosby) was born in the United States. representation of jazz in the 1930s as a U.S. singer, his influence in pop music before and after the continuation of the past forty years. <br> Since 1930, he starred in a series of musical films, including \"The Jazz Singer\", \"radio broadcast music Assembly Studios girl next door \",\" Mississippi \",\" Paris honeymoon. their singing beautiful sounds, performances of intimacy, and therefore attract a lot of viewers., 1940, he and comedian Bob Hopper and actress Tao Leshan ¡¤ Rameau co-star of a musical comedy, \"The Singapore Way\", was warmly welcomed by the audience. Later, the three cooperated, even the set piece of the six \"Road\" co-star in the two decades: Zanzibar the road, the road of Morocco, \"Utopia Road\", the road to Rio \"Bali Road\", \"Road\", set the \"Road\" piece shows he not only voice enchanting, and acting superior. during his addition to continue to shoot a music piece in the story the film display his superb performances to 1944, was due to his successful play \"Walk with me\" in pious priest Academy Award for Best Actor, the National Film council also awarded him the Best Performance Award, which is a peak in the career of his Academy of Motion Picture Arts and second year, he starred in \"St. Mary&#39;s bell, won the Oscar for Best Male protagonist nomination in 1954, due to the excellent performances of his \"country girl\", once again won the Best Actor Oscar nomination, the National Film council awarded him the Best Actor Award the same year, he starred in \"White Christmas\" also achieved great success. (? v history today?? com) <br> from 1934 - 1954, he was among the top ten box office star Goldbond consecutive years ,1943 - 1948, 6 the year ranked champion. filling into the record that support his famous \"Silent Night\", the sales volume of three hundred million. latter half of the 1960s, he withdrew from the screen, and engaged in ranching and a variety of commercial activities in 1977, he was playing in Spain golf, died of a heart attack and died at the age of 73 years. The (l $ j¦Ó.c¨½)] <br> major works include: <br> \"Walk with me\" (GONINGMYWAY) (1944) <br> 17th Annual Academy Awards the Best Actor <br> \"St. Mary&#39;s bell\" (THEBELLSOFST.MARY \"S) (1945) <br> eighteenth Academy Award nomination for Best Actor < br> \"country girl\" (THECOUNTRYGIRL) (1954) <br> the twenty-seventh Academy Award nomination for Best Actor <br> Bing Crosby ^ All 15 ^ wma \"name =\" mediaplayerfile \">\" White Christmas \"flat Crosby <br> the'
+);
+
+?>

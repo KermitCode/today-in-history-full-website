@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-5-12
+	create time:2013-01-01 21:45:20
+*/
+
+return array(
+'title'=>'The CPC Central Committee and the State Council decided to strengthen family planning',
+'class'=>0,
+'cont'=>'May 12, 1991 (March 28), Xinwei, the CPC Central Committee and the State Council decision to strengthen family planning. <br> 1991, the CPC Central Committee, the State Council issued the \"strictly control population growth, the decision on strengthening the work of family planning. <br> \"decide\" which pointed out that China is the most populous developing country in the world. Population and little arable land, a weak economic foundation, the relative shortage of resources per capita is China&#39;s basic national conditions. Rich human resources in China, and this of course is an important condition for building socialism, but rapid population growth is a heavy burden, it severely restricts the process of China&#39;s economic and social development. We practice family planning to control population growth, improve the quality of the population as a basic state policy of China&#39;s long-term, from China&#39;s actual situation and the people&#39;s vital interests, to make the country more quickly developed, to make people go faster on the road of common prosperity and make major strategic decisions. Our country has made universally acknowledged achievements in controlling population growth from 33.43 бы in 1970, the birth rate decline of 21.06 per 1,000 in 1990. But it must be soberly aware that China&#39;s population is still very grim, controlling population growth is a difficult task. If we can not effectively control the population growth, will directly affect the realization of the strategic objectives of the modernization of our country, the impact of further improvement of people&#39;s living standards and the quality of the whole nation, and will accelerate the consumption of natural resources and the deterioration of the ecological environment for future generations leaving serious troubles. Therefore, the Party committees and governments at all levels should bear the responsibility for the completion of the plan of the region&#39;s population, and to implement and improve the target management responsibility for population and family planning. We must do the work of family planning and the completion of the population plan as an important indicator of the evaluation committees at all levels of government and its leadership cadre achievements and to formulate scientific assessment standards and oversight measures. Superior party committee and government to strengthen the supervision and inspection of subordinate committees and governments implementation of population programs, to ensure the accuracy of the statistics, non-concealed and false. To establish a reward system, family planning work well rewarded, punished runaway population and hold leaders accountable. <br>'
+);
+
+?>

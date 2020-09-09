@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-1-27
+	create time:2013-01-01 20:25:00
+*/
+
+return array(
+'title'=>'Li Chenglong, Guangxi arch corrupt official was sentenced to death',
+'class'=>3,
+'cont'=>'January 27, 1999, the twelfth lunar month 11 (Tiger), Li Chenglong, Guangxi arch corrupt official was sentenced to death. Guigang City Vice Mayor Li Chenglong taking bribes and large amounts of property from unidentified sources <br> 1999 1 27 morning, Guangxi Yulin City Intermediate People&#39;s Court of first instance verdict, Li Chenglong defendant is sentenced to death , deprived of political rights for life. After hearings, the court <br> confirm: Li Chenglong 1991-1996 served during the party secretary of Communist China Yulin, used his position and authority status for the benefit of others, has repeatedly accepting Leung Wai Keung 21 and Total units sent bribes RMB 374.5689 million yuan, 25,000 yuan of dollars, $ 10,000, his behavior constituted the crime of accepting bribes. <br> court that all the property of the family of Li Chenglong Total RMB 1611.8 million, HK $ 09,660 yuan, the U.S. dollar 2.5321 yuan, 01,000 yuan NT, Australia $ 500 and jewelry a batch. Li Chenglong explain their source of enormous property evidence or comply with the factual circumstances of the property amounted to RMB 961.4542 million, U.S. $ 2.5 million, $ 1 million. Li Chenglong can not explain the source of legitimate property RMB 650.413739 million, HK $ 09,660 yuan, U.S. $ 321 million and NT $ 01,000 yuan, Australia $ 500 million and the number of jewelry, has constituted a source of large amounts of property of unknown sin. <br> court found that Li Chenglong, as national staff, taking advantage of his position and illegally accepting other people&#39;s property, seek benefits for others, his behavior constituted the crime of accepting bribes; Li Chenglong property significantly exceeds his lawful income, the difference between the huge, and can not explain the source is legitimate, his behavior constituted a huge amount of property from unidentified sources. For serious state laws, punish corruption, safeguard the normal management activities of state organs, Li Chenglong sentenced to death, deprived of political rights for life. Impose confiscation of property of RMB 10 million yuan RMB 374.5689 million, U.S. $ 2.5 million, $ 1 million, the confiscation of the proceeds of the bribe; recovered its acceptance of others to bribe and property totaling RMB 230.9812 million; shall pursue the can not explain the legitimate source of the difference between the property of 6.504 million yuan. <br> 1000-odd people from all walks of life, news reporters and relatives of the accused to participate in the sentencing rallies. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-5-24
+	create time:2013-01-01 22:24:26
+*/
+
+return array(
+'title'=>'Independence of Eritrea',
+'class'=>0,
+'cont'=>'May 24, 1993 (πÔ”œ April fourth day), the independence of Eritrea. In In May 1993, the newly independent Eritrean capital of Asmara held a founding celebration. The first president Isaias - Afwerki. Eritrea is located in the Red Sea, the throat, the important countries of the Horn of Africa. Reduced to the Italian colony in the 1880s, during World War II, was occupied by Britain. December 1950 by 390 resolution, the United Nations decided to Eritrea as an autonomous unit formed a federation with Ethiopia, Eritrea has its own constitution, parliament and government are allowed. However, the Ethiopian government shortly after the establishment of the Commonwealth, has suspend the Constitution and the Parliament of Eritrea, and Eritrea and Ethiopia merger resolution 1962, Eritrea became a province of Ethiopia. <br> 30 Over the years, the Eritrean people long-term unremitting armed struggle for independence, Eritrea finally control the whole territory, and the establishment of a provisional government, decided to Ecuador&#39;s political future referendum held under international supervision. On April 23 this year, the 25th, the results of the referendum showed that 99.8% of Eritreans in favor of independence. The Transitional Government of Ethiopia said on May 3 to accept and respect the Eritrean people&#39;s choice. <br> our Government to send the government envoys celebration attended Eritrea founding, and Eritrea signed a joint communique on the same day, announced that the two countries established diplomatic relations at the ambassadorial level. The United Nations passed a resolution on May 26 to accept Eritrea as the new Member States of the United Nations. <br> Eritrea Profile: <br> Eritrea is located in eastern Africa, the choke the Mediterranean Sea to the Indian Ocean sea lanes Peter Strait, an area of &#8203;&#8203;124.320 square kilometers. Coastline of 1013 km. A population of 3.5 million, Tigray, Alpha, Saho tribes. The main language for the tyi Leini Ya, Arabic and English. The residents believe in Christianity and Islam. (Today in History cn) <br> formerly a province of Ethiopia. April 27, 1993 independence. May 24, 1993, diplomatic relations with China. The domestic terrain plateaus mainly a tropical climate. Rich in fishery resources. Agriculture dominates the economy, 40% of the country&#39;s population is engaged in agriculture and animal husbandry. Backward mode of production food insufficiency (lsjt.net). <br> capital, Asmara, a population of about 400,000. The country&#39;s largest city and the agricultural and livestock products distribution center. The Eritrean Women <br> celebrate national independence streetscape <br> <br> capital Asmara'
+);
+
+?>

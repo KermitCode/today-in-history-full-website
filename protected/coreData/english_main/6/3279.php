@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1967-4-6
+	create time:2013-01-01 21:24:01
+*/
+
+return array(
+'title'=>'Liu Shaoqi was Jiudou the, persecution',
+'class'=>0,
+'cont'=>'April 6, 1967 (February 27) DingWei Liu Shaoqi was Jiudou the persecution. the <br> Tiananmen Square Critique Liu Shaoqi crowd <br> 1967, Liu Shaoqi was Jiudou by personal persecution. March, Kang Sheng wrote to request the establishment of the ad hoc review of Liu Shaoqi, Mao&#39;s approval. <br> 4, \"People&#39;s Daily\" published Qi Benyu \"patriotism or Traitorism? - A Review of the reactionary Videos <Sorrows of the Forbidden City,\" end of the article Eight Questions, set within the party&#39;s largest eight counts \"of those in power taking the capitalist road\" clear Liu Shaoqi&#39;s \"problem\" is beyond the scope of internal Khrushchev sleep around us. (Today in History TodayOnHistory.com) <br> Since then, in the press of Liu Shaoqi dedicated synonymous with \"Chinese Khrushchev\" wantonly attack set off criticism of \"Chinese Khrushchev\" climax. In In 1966, Kang Sheng Beijing Middle School criticism of the bourgeois reactionary line swearing-in ceremony on the speech. At this point, the more intense the criticism of Liu Shaoqi. The evening of May 6 <br> 4, under Jiang Qing planning, in Zhongnanhai first Jiudou Liu Shaoqi. the <br> 4 8, \"People&#39;s Daily\" published an editorial calling for \"taking the capitalist road of those in power within the party&#39;s number one, the bourgeois reactionary line batch down deep batches, batch smelly.\" in <br> 4 12 to 18, the Central Military Commission, the enlarged meeting of the Lin Biao and Jiang Qing, Chen Boda, Kang Sheng, Zhang Chunqiao has speech cook and criticize Liu Shaoqi, Deng Xiaoping&#39;s \"crimes\". <br> 5 months later, Jiang Qing ganged Kang Sheng Hsieh Fu-chih, regardless of party discipline and state law, random arrests, torture, forgery, framed Liu Shaoqi \"traitors\", \"traitors\", \"scabs\" . <br> 5 May 11, 2007, the CPC Central Committee issued a notice, asked all units to \"further the critical movement to carry out a handful of the largest party in power taking the capitalist road. <br> <br> the Tsinghua denounced Liu Shaoqi&#39;s wife Wang Guangmei Assembly (1966.4.10) July 18, <br>, Jiang Qing, Kang Sheng, Chen Boda organizations denounced Liu Shaoqi couple Assembly, and Liu Shaoqi The implementation of the raid and personal persecution from completely deprived of their freedom of movement. <br> the eve of the Cultural Revolution Chairman Liu Shaoqi met with Nepal&#39;s Commerce and Industry Minister is satisfied - S & P - Rijal and his wife (1966.5) <br> reprint: http://news.163.com/06/0405/10 / 2DUJR7IV00011EBF.html <br>'
+);
+
+?>

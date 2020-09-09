@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2006-3-11
+	create time:2013-01-02 08:31:51
+*/
+
+return array(
+'title'=>'The death of the former Federal Republic of Yugoslavia President Slobodan Milosevic',
+'class'=>3,
+'cont'=>'(, February 12 BingXu), March 11, 2006, the death of the former Federal Republic of Yugoslavia President Slobodan Milosevic. (1941.8.20-2006.3.11) <br> Slobodan Milosevic, the former Yugoslav politicians, the President of the Republic of Serbia (1989 - 1997), the Yugoslav Federal Republic of (South Union) president (1997 - 2000), the Socialist Party of Serbia, founder and leader (1992 - 2001). Kangmei hero. Suspected war criminals. In August 1041, 20 (lssjt.cn) was born in Pozarevac, Serbia, the Serbs. Graduated from the Faculty of Law of the University of Belgrade in 1964, entering politics in 1983, he was elected as a member of the Central Committee of the Bureau of the Southern League. Since then, he served as the SADC Union Belgrade Municipal President, Chairman of the Central Committee of the League of Communists of Serbia. In 1989, he served as President of the Bureau of the Republic of Serbia. In July 1990, Serbia Total Union was reorganized as the Socialist Party of Serbia, Slobodan Milosevic chaired. Parliamentary multi-party elections held in December of the same year, he was elected as the first president of the Republic of Serbia, was re-elected in December 1992. In July 1997, he was elected president in the Federal Republic of Yugoslavia presidential election, but failed in the September 2000 general election. November 25 of the same year, he was re-elected Cypriot President of the Socialist Party. [L $ dj¦Ó.c¨­m] <br> 2001 January 29, 2010, Milosevic was under house arrest in the early morning of April 1 on suspicion of abuse of power and a partner crime \"was arrested by the Serbian police into prison, be extradited to the ICTY on June 28. <br> 2002 2 12, the ICTY formal hearing Milosevic&#39;s case. He is alleged to have committed more than 60 crimes, including war crimes, crimes against humanity and genocide. But Milosevic has denied all allegations against him, and declared that the ICTY is illegal institutions. In 2006, March 11, 2010, (lsjt.net), (L $ dj¦Ó.§«§§T) United Nations International Criminal Tribunal on the former Yugoslavia announced the Milosevic died day UN prison near The Hague, Netherlands. In April, The Hague, Netherlands procuratorial organs published the final report of the inquest into the death of Slobodan Milosevic. The report ruled out the possibility of Milosevic was poisoned, confirmed that it is a natural death, cause of death was myocardial infarction. <br>'
+);
+
+?>

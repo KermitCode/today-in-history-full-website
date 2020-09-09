@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1983-10-25
+	create time:2013-01-02 01:56:54
+*/
+
+return array(
+'title'=>'216 U.S. troops died in the bombing of Beirut',
+'class'=>5,
+'cont'=>'(Guihai September 20), October 25, 1983, 216 U.S. troops died in the bombing of Beirut. <br> a truck filled with 5,000 pounds of explosives crashed through the perimeter fence broke into battalion (TodayinHistory.cn) 260 soldiers were killed <br> 1983 10 25, U.S. Navy Commander-in-Chief Paul - Kelly arrived in Beirut to investigate the attack on the Navy Command thing. From comprehensive airport charred metal and cement rescuers pulled out 216 dead bodies. Probably there are more than 30 bodies still under rubble. People new Command safety and the Reagan administration involved in weak and unstable Lebanese politics and other issues. <br> this action is a the terrorists dead set dry. He was driving a Mercedes brand trucks equipped with at least 2,500 pounds of explosives to the building through the posts and headquarters of roadblocks after collision. In a group of fires in the building were destroyed. This 4-storey building immediately turned into a pile of burning rubble. A navy spokesman said: \"except in Vietnam, I&#39;ve never seen such a large-scale massacre. \"Beirut all the tall buildings during the explosion in the tremor. <br> two minutes after the attacks, and the other a truck filled with explosives stormed the French peacekeeping troops are stationed 58 people were killed. <br> Agence France Presse attendant said: The explosion is a known as the Free Islamic Revolutionary Movement dry. (Lsjt.org) White House officials condemned the terrorist links with Iran. Two with the suicidal nature of the task is very similar, with the attack on the U.S. Embassy in April caused the deaths of 63 people. <br> a Navy spokesman said, has not yet taken a special defensive measures of the headquarters of the U.S. Embassy was attacked. Reagan congressional critics say: not clearly defined the role of the Marines in Beirut. The minority leader, Senator Robert - Bird blame Reagan on foreign policy made a fundamental error estimates. President dispatched to Beirut to 300 to replace casualties peacekeepers work. Reagan said: \"adhere to maintain our reputation around the world is critical presence Marines in Beirut. <br> a truck filled with 5,000 pounds of explosives crashed through the perimeter fence to break into the battalion (TodayinHistory.cn) 260 soldiers were killed <br> rescue workers from the rubble held up a bloody small the girl <br> come out, she seriously stopped after 12 minutes breathing <br> View Beirut destroy the scene <br> search for survivors <br>'
+);
+
+?>

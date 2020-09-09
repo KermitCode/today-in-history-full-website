@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1885-9-5
+	create time:2013-01-02 01:39:40
+*/
+
+return array(
+'title'=>'General Tso died Fuzhou',
+'class'=>3,
+'cont'=>'September 5, 1885 (, Yiyou July 27), General Tso died in Fuzhou. <br> General Tso like on September 5 <br> 1885, General Tso died in Fuzhou. <br> Tso (1812 -1885 years, September 5, 2011), Hunan the Xiangyin people. The 20-year-old move. Rare ambition, often \"No body half an acre, lazy world; reading break rolls, grok ancients boasted. General Tso&#39;s lived through the two Opium Wars, the Taiping movement, Westernization Movement, the border crisis and the Sino-French War. This is China&#39;s semi-colonial and semi-feudal society began to form and further deepen the historical period. Its lifetime activities as follows: First, the suppression of the Taiping Heavenly Kingdom, West Nian Army and Hui Uprising. Second, do Westernization. Tso Office Westernization fundamental purpose is to maintain the rule of the landlord class, but their focus against foreign invasions. Li Hongzhang blindly capitulation stance of compromise and capitulation is a sentence such as Jingwei. At the same time, he appreciates the Western capitalist mode of operation \"listen to the operator, the official closing its tax, compete with the public benefit, not if the parishioners of Hennessy was the idea that he develop the national economic ideology. ,1875-1878, sent troops to Xinjiang, hit off the British, Russian support Yaqub invading army recovered throughout the Tianshan Mountains outside of Ili. Representations in Russia in 1880 to support Zeng Jize struggle to recover Ili, General Tso&#39;s 69-year-old old customs, the oath to fight to the death with Russia, its spirit and action are extremely moving. Sino-French War, regardless of the supervision of the the Zhejiang Military Affairs, or Fujian Military Affairs, argue that the fight against aggression. , Zuo outstanding statesman. 5 years in Xinjiang, Zuo not only proposed must be established in Xinjiang province, setting county recommended to cancel Junfu system, but also in command of military attaches great importance to straighten officialdom, the development of production. Such as: building water conservancy projects, building castles wasteland Mita Qing husband acres the Liquidating taxes, the single currency improved of sericulture, sub built Keio reforestation. Consolidate the Northwest Frontier, construction of Xinjiang, and is conducive to the further development of a unified multi-ethnic country, and and Zuo have an important contribution. Descendants of a poem in praise, saying: \"The general expedition person is not also, Huxiang children of the sky mountain newly planted willow Samchully win Chunfeng the degrees Yu Guan. \"<br>'
+);
+
+?>

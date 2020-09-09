@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:Ç°413-m-d
+	create time:2013-01-02 00:37:38
+*/
+
+return array(
+'title'=>'Peloponnesian War lasted two years, the end of the Battle of pewter Cuza',
+'class'=>0,
+'cont'=>'In Sept. 10 -413 years (October 18) Dingmao Peloponnesian War, the end of the Battle of pewter Cuza lasted for two years. <br> September 10, 413 BC, Athens one hundred and ten warships to Chittagong at breakthrough. The other warships immediately forward blocking, Athens refused to yield, and continue to look outward impact. Corinthian fleet is gradually ham, Athenian fleet close cordon However, when they were about to try to destroy the chains ready by pewter Cuza vessels rushed from the wings, that instant commenced a close fight. Warships each other percussion, the sailors called each other condemning together, javelin, belemnites deck mutual projection woven into a rain network, nearly two hundred ships crowded in the narrow space, all the regular attacks do not apply after ham or forward is very difficult, confusing a group throughout the fight. <br> inextricably pewter Cuza commander shouted Hu shouted, encouraging soldiers to fight for the defense of the motherland, fighting to defend their homes. At his instigation, pewter Kuzha Shi Bing scrappy, with courage, and finally blocked the the Athens Army&#39;s assault, the Athenians lost 50 warships, the the pewter Cuza only lost twenty-six. The Athenians failed breakout from the sea, has also changed the ham from the land in an attempt to withdraw into the hinterland, in order to restore the critical situation. Rush, but the withdrawal ham things out and disorder continue to be attacked on the way, to move slowly, all surrounded by pewter Cuza and the Spartan Army, Athenians, despite stubborn resistance, eventually failed. Most was destroyed, residual Yu Shicu forced to surrender. the <br> Athenian twice expedition pewter Cuza, dispatched a total of 45,000, sea, or land forces as, in addition to seven thousand were captured, the rest almost all killed. Athens commander Nisai Si sentenced to death, the other prisoners were sent to hard labor in a mine, almost dead last. <br> pewter Cuza campaign lasted for two years, before and after this war British military strategist said, \"is the largest military action in Greek history. The most glorious victory for the winner, who defeated ... the entire destruction of (history com) Navy, Army, all destroyed. \"The pewter Cuza Battle is a turning point in the entire Sparta Athens in the course of the war, it is not only seriously undermine the economic power of Athens, and leading to the collapse of the alliance of Athens. Many islands and cities long been groaning under the hegemony of Athens, have to take this opportunity and Athens from the relationship. (1 $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

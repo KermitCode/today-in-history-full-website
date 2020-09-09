@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:Ç°753-m-d
+	create time:2013-01-02 08:50:51
+*/
+
+return array(
+'title'=>'Rome city',
+'class'=>0,
+'cont'=>'March 13 (Chinese New Year), April 21 -753 years, the Roman city. <br> Rome with its brilliant history and rich cultural heritage, world-renowned as the birthplace of the Roman Empire, Rome, once the center of the ancient Western civilization. In 1870 after the unification of the Kingdom of Italy, Rome became the capital of the Kingdom. In 1946, the capital of the Republic of Italy. The (lsjt.org) <br> Rome covers an area of &#8203;&#8203;1285.3 square kilometers, has a population of more than 370 million. Inscribed on the World Heritage List in 1980, the historic center of Rome, about 40% of the total area of &#8203;&#8203;the city of Rome. Rome total of 17 gates, 91 museums, 900 churches, 3,000 fountains and numerous statues attract tourists from around the world each year up to 2610 people, the only Grand Arena and, Palatino scenic (CircuitoArcheologicoColosseo, e Palatino) the annual tourists reached more than 350 million people, the number of visitors to ranking the highest in Italian museums. <br> based on legends and historians speculate, the reputation of the \"Eternal City\" of Rome was founded on April 21, 753 BC (soon) into the Spring and Autumn Period, by Romulus Luce (Romulus) and his nomads built. Legend of Romulus and his twin brother Remus (Remus) is the son of God of War, but soon after birth was King Amulius framed to be abandoned in the banks of the Tiber River, fortunately, is a she-wolf feeding was spared after Shepherd custody grown brothers overthrown and executed Amulius, and decided to build a new city. But Romulus and Remus had an argument in Metro siting, most ºó¸ç¸çÂÞÄÂÂ¬ Sri Lanka killed his brother Remus, became the supreme ruler of the new city, and his name to this cities Rome (ROMA). Descendants therefrom King is the founder of the city of Rome, Romulus everywhere in Rome so far \"she-wolf-feeding pattern has become the emblem of the Roman city. <br> April 21 of each year, Rome should be a grand celebration of the founding of the city day (NatalediRoma) \", the date of the city&#39;s major museums not only free open to the public, parades, traditional the marriage customs performances, Square music and other activities were launched in the city&#39;s main square, the historical archives exhibition, symposium and series of commemorative activities will also last for a few weeks. <br> April 21, 2010, ushered in the 2761 anniversary of the founding of the city, the official commemoration of April 19, the 21st celebrations culminate other observances will be continued until May 9. <br> <br> ancient Roman City Court <br> the'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1971-12-2
+	create time:2013-01-02 02:55:53
+*/
+
+return array(
+'title'=>'United Arab Emirates officially announced the establishment of',
+'class'=>0,
+'cont'=>'December 2, 1971 (Xinhai October 15), the United Arab Emirates officially announced the establishment. <br> United Arab Emirates officially announced the establishment of a \"target =\" _blank \"> United Arab Emirates President Sheikh Zayed Ben Sultan Al Nahyan In 1971 December 2 day, [history www.lssdjt.com] six emirates of the Arabian Gulf region, formally announced the establishment of the United Arab Emirates <br> six chiefs State: Abu Dhabi, Dubai, Sharjah, Fujairah, A Ajman and Umm al-Quwain. (Lssdjt.com) since they are a long time in Britain&#39;s so-called \"protection under. <br> the establishment of the United Arab Emirates in the morning, 6 emirate rulers in Dubai meeting, elected the ruler of Abu Dhabi, Sheikh Zayed Ben Sultan Al Nahyan, the President of the United Arab Emirates, and the election of the ruler of Dubai, Rashid Saeed Maktoum, Vice-President, the term of office is five years they have been sworn in accordance with constitutional processes. <br> The meeting also appointed Crown Prince of Dubai Maktoum Ben Rashid Al Maktoum Prime Minister of the United Arab Emirates. December 6, <br>, the Arab League at a special meeting by the United Arab Emirates to join the alliance, becoming its 18th member country. December 9, <br>, (l $ j而.c里) 26th session of the UN General Assembly plenary meeting, (而身d芋y身里h貝 $ 而身ry.c身m) passed the one recommended by the Security Council to accept the resolution of the Member States, the United Arab Emirates. <br> According to reports at the time : United Arab Emirates on the Arabian Peninsula Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain and Fujairah six emirate. an area of &#8203;&#8203;approximately 8.1 square kilometers. population of about 16 million, a large Arabs main language is Arabic is rich in oil resources in the capital Abu Dhabi. <br> United Arab Emirates, of which Abu Dhabi known reserves of more than 1.57 billion tons, the 1970 annual production of 32.8 million tons; Dubai known reserves of over 130 million tons, the 1970 annual output of 4.2 million tons. <br> from the 16th century, Portugal, the Netherlands, (TodayOnHistory.com) French colonialists in history have been penetrated this region in 1820, the British occupied the vicinity of the United Arab Emirates today, this area of &#8203;&#8203;the emirate into the British \"protectorate\" colonialist oppression and exploitation of each emirate aroused the opposition of the people of these countries in 1971 On December 2, Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain and Fujairah emirate they originally signed with the United Kingdom, specifically after the treaty expires, announced the establishment of the United Arab Emirates. < br>'
+);
+
+?>

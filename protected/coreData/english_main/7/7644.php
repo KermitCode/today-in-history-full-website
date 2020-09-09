@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1947-8-7
+	create time:2013-01-02 00:10:43
+*/
+
+return array(
+'title'=>'Liu and Deng began to Trinidad advance Dabieshan',
+'class'=>0,
+'cont'=>'June 21 (Chinese New Year), August 7, 1947, Liu and Deng began thousands of miles advancing in the Dabie Mountains. the <br> Liu and Deng rate, after the victory of the Shanxi-Hebei-Shandong-Henan Field Army main strong crossed the Yellow River, opened the prelude to the strategic offensive. <br> 1947, Liu and Deng troops on the east, began Dabie Mountain feat. The Dabie Mountains Xiongzhi in Hubei, Henan and Anhui provinces at the junction, is the most sensitive and the most vulnerable areas of enemy strategy. Liu and Deng Field Army broken down into smaller 3-way, before the enemy across the Longhai Road, to continuous rapid march to advance to the Dabie Mountains. Chiang Kai-shek misjudged the People&#39;s Liberation Army crossing the North is not a forced \"Southern channeling\", then submitted the 20 brigades shunt chase other the the four brigades sideswipe Pinghan Road, an attempt to annihilate the People&#39;s Liberation Army in the flood area of. There everywhere silt, no roads, Liu and Deng Field Army heroic braved enemy aircraft bombing, on August 17 over the flood area of &#8203;&#8203;more than 30 miles wide. Then passed over the Wohe, Shahe, Honghe, get rid of the the KMT army of tailgating. Enemy suddenly, Jiling a reorganized division and a trip along the Ping-Han Road south to Ruhe deployed, an attempt to block Liu and Deng Field Army. Liu and Deng field army to blow up buried in heavy equipment to move forward, 23 pm, Zhong vanguard enemy wanton strafing in Ruhe erecting a pontoon bridge. Night, the main force began to cross the river, and to break through the enemy assemble superior position, the cover of the Plains Bureau and the Field Army headquarters, victory to break through the insurance clearance. August 28, the People&#39;s Liberation Army All tide over the Huaihe, enter the Dabie Mountain area, immediately organized the troops in the strategic expand. In this case, the KMT army more than 20 brigades has tide over the Huaihe River, the posture assumed a decisive battle with the People&#39;s Liberation Army. Liu and Deng Field Army tactics taken to avoid assault weak, concentrated troops in a continuous attack on September Mall Guangshan regional garrison the Kuomintang Army maneuver forces most attracted to the north Dabieshan, safeguard entry Southeast Henan Province, Anhui Province The West, Hubei and Anhui, eastern Hubei forces rapidly expand and the founding, Jianzheng work carried out. September 30, has the liberation of the county seat 24, and 17 counties to establish a democratic regime, relying mountain placed behind the to The victory completed the Dabie Mountains strategic expand opened Dabieshan base. the <br> Comments: Dabie Mountain like a steel knife into the heart of the Kuomintang <br>'
+);
+
+?>

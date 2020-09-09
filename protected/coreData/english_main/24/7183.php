@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-7-24
+	create time:2013-01-02 00:17:17
+*/
+
+return array(
+'title'=>'The death of World War II, the famous master photographer George Rodger',
+'class'=>3,
+'cont'=>'July 24, 1995 (June 27), seeing in the death of World War II, the famous master photographer George Rodger. George, <br> firewood Roger (George Rodger - 1995 July 24, 1908) is a British photographer, is also one of the founders of the Magnum photography agency, was born in the United Kingdom County (Cheshire). Roger reported in January, <br> 1942 Flying Tigers (belonging to the Organization of American Volunteers America Volunteer Group; AVG) in Myanmar to assist local anti-Japanese after he witnessed in Yangon theater air combat faithfully with the lens reported a Tiger on the courage and conviction to March 30, 1942, Life magazine in the United States the breath published nearly of 30 Zhang Luojie the photographs, and the subsequent fall of Yangon, Myanmar, Roger was too late to escape, [history. cn] and later escaped from the Indian border by foot. <br> 1942, Roger became a full-time photographer for Life magazine, magazine and seal him for the longest annual travel distance (75,000 miles) of Battlefield photojournalist. During World War II, Roger With the Allies through North Africa, Sicily, Italy, and reported that a well-known Normandy landing, the liberation of Paris and Brussels, he formally surrendered to Germany with the British army has been, and is also the first photojournalist shot into the Bergen Belsen concentration camp (Bergen-Belsen, Germany during World War II only one of the Allied liberation of the concentration camps, Anne * Frank died place), after World War II, Roger joined the The antiwar movement, vows do not want and reported any war documentary. after <br> Roger was established in 1947, together with other well-known photographer of Magnum Photography Club, will be wartime after photos of the primitive tribes in Africa filming finishing nomads, especially in Africa and Masai, until the age of 70. maintain a high degree of love for Africa, he settled in Jamaica, and several tourist visit the Sahara Tuwaleike family, the Nagorno-Karabakh people of Myanmar. Roger faithful records and reports of a considerable number of primitive tribal celebrations, customs, and their modern social impact of change. In 1985, he won first prize for documentary photography world peace was held in Moscow. The old age of 87 years old, he died in 1995 in Kent, England home, leaving his wife Jinx Rodger and three children. <br> <br> <br> <br> Review: George Roger after WWII master photographer, with camera retain fascist incriminating. <br>'
+);
+
+?>

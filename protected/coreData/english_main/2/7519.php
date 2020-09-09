@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2010-8-2
+	create time:2013-01-01 23:47:53
+*/
+
+return array(
+'title'=>'Sixth Living Buddha Castar beads enthronement in Tibet fruit bar Temple',
+'class'=>0,
+'cont'=>'August 2, 2010 (on GY June 22), the sixth Castar beads living Buddha Temple enthronement in Tibet fruit bar. enthronement ceremony of the <br> West the sixth Castar beads plus sheep around Class Code Living Buddha, in strict accordance with historical conventions and religious rituals, in the morning of August 2, 2010 in Takako County, Shannan Prefecture tie fruit held at Temple hall. <br> Tibet Autonomous Region government representatives, vice chairman of the CPPCC Tibet, Lobsang Jigme, regional director of the civil and religious affairs commission, read \"autonomous civil and religious affairs commission granted enthronement ceremony was held in Germany bead Living Buddha reincarnation of approval\", and with the representatives of the government of the autonomous region, Shannan Deputy Commissioner of Administrative Sambu, Dawa Tsering, president of the Buddhist Association of Shannan Prefecture, the fruit bar Temple, director of the CMC Caine Participation Lang chase care Germany bead Living Buddha reincarnation of enthronement. March <br> 2000 11, fifth the World Germany bead Jiang white Ge Sangjia measures Living Buddha passed away the. Subsequently, the government of the Tibet Autonomous Region, in accordance with the Measures for the Administration of the Tibetan Buddhist reincarnation of Living Buddhas, made \"the grant search identified the fifth World Germany beads Jiang Bai Ge Sangjia measures Living Buddha reincarnated soul boy of approval\", and composed of the reincarnated soul boy search group in accordance with religious rituals, historical conventions, the selection of the the two Germany bead Living Buddha reincarnation of candidates. identified in <br> 2010, before the Jokhang Temple in Lhasa Sakyamuni Buddha, after drawing lots from the golden urn Living Buddha reincarnation of fifth Castar beads and was approved by the government of the autonomous region. Members of the National Committee of the Chinese People&#39;s Political Consultative Conference, vice president of the Buddhist Association of China Panchen Erdeni Qoigyijabu to sixth World Germany bead Living Buddha ordained, and Chee-law called De beads plus sheep around the Class Code in the west. The past month, the sixth the World Germany bead Living Buddha the healthy growth by the devout supporters of the majority of monks and nuns. <br> Review: consolidation and development of Tibet, the need to respect the religious beliefs of the Tibetan people. (TodayinHistory.cn) <br>'
+);
+
+?>

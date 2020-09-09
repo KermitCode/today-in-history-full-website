@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-9-29
+	create time:2013-01-02 01:10:00
+*/
+
+return array(
+'title'=>'Shaanxi Province Danfeng sodium cyanide spill',
+'class'=>0,
+'cont'=>'September 29th, 2000 (In September, the first two days of the Dragon), Shaanxi Province Danfeng sodium cyanide spill. In 2000 September 29, at 2 hours 50 minutes or so, the individual drivers of Danfeng County, Baoji City, Shaanxi Province, Hu Baolin pull transported 5.2 tons of highly toxic substances, chemical plants, Taurus, Hubei Province, sodium cyanide, the line to Dan, Shaanxi Province Fengxian County territory plunged into iron Wenyuhe, 5.1 tons of sodium cyanide leaked the river, most of the infiltration of the riverbed. After the accident, the State Environmental Protection Administration rushed sent environmental supervision and environmental monitoring experts rushed to the scene of the accident. <br> the threat of contamination of the accident due to the quick action, and effective measures, basic control within 14 km. According to monitoring, as of October 1, 14 kilometers outside the Wu the related River in sodium cyanide content decreased to 0.003 mg / L to less than 0.05 mg / liter of national surface water standard requirements downstream Henan, Hubei Province were not found The sodium cyanide excessive. , <br> 2001 12 25, 2009, the Intermediate People&#39;s Court of Shaanxi Province, Shangluo area of &#8203;&#8203;\"9.29\" King sodium cyanide leak the Danjiang case of environmental pollution damages judgment, Danfeng county government to receive compensation for environmental pollution losses 8.6563 million yuan. In July 1999, Hu Baolin, et al signed a contract with Sifang Gold Mine, Danfeng County, Shaanxi, Zaoyang City, Hubei Province, Taurus transport sodium cyanide to the Quartet gold mine. In September 2000, Hu Baolin privately employed no transport of dangerous goods qualified Deng Xiaoqi LaYun sodium cyanide. Taurus, director sales assistant manager Zhang wells offending approved the 10.33 tons of sodium cyanide to each other transit overturned, causing serious pollution accidents, the direct economic loss of 11.88 million yuan. After the accident, has aroused widespread concern. Hu Baolin, Deng Xiaoqi, Zhang wells, Yang products is sentenced. the <br> the same time, the of Danfeng County People&#39;s Government to the court to file a civil lawsuit. Danfeng County People&#39;s Government alleged that \"9.29\" King sodium cyanide spill caused great economic losses to the Danfeng County. August 10, 2001, Shangluo Prefecture Intermediate People&#39;s Court of first instance verdict, decree Taurus company, Sifang Gold Mine and Hu Baolin common compensation for economic losses. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1976-7-1
+	create time:2013-01-01 22:57:30
+*/
+
+return array(
+'title'=>'Zhang Wentian&#39;s death',
+'class'=>0,
+'cont'=>'July 1, 1976 (, hare on June fifth day), Zhang Wentian&#39;s death. Lushan meeting <br> of Zhang Wentian <br> of Zhang Wentian, a pseudonym Ribbentrop, Love. Born in 1900. Jiangsu Nanhui (Shanghai) people this is a. 1916 into the school of Hohai engineering expertise. To participate in the May Fourth Movement in 1919, joined the Young China Association. Went to study in Japan in 1920, began to engage in literary creation. In 1922, went to San Francisco, Renhua Wen newspaper the \"Datong Daily Edit. Back in 1924, he served as Zhonghua edit and joined the Literary Research Association, Creation Society. <br> 1925 joined the Chinese Communist Party. In the same year went to study in the Soviet Union, had worked in the Oriental Department of the Communist International. He returned to China in the end of 1930. In 1931, he was appointed Minister of the Propaganda Department of the CPC Central Committee, the Provisional Politburo Standing Committee. January 1933 to enter the Central Revolutionary Base in Jiangxi, any Soviet Central Bureau Propaganda Minister, Chairman of the Ruijin democratic government of workers and peasants. Elected as a member of the Politburo and the Secretariat of the CPC at the Fifth Plenary Session of the Sixth CPC. October 1934 to participate in the Long March. Zunyi Meeting in 1935 was elected general secretary of the CPC Central Committee. 1938, he served as Minister of the Propaganda Department of the CPC Central Committee, the Dean of the School of the Central Marxism-Leninism, the 7th National Congress was elected to the Central Committee, Politburo member. In May 1946, he was appointed provincial party committee secretary of the CPC Hejiang province (now in eastern Heilongjiang Province). In 1948, he was appointed the Northeast Bureau of the CPC Central Committee Standing Committee, and the Organization Department, the CPC the Eastern Liaoning Provincial Committee secretary. The Chinese Ambassador to the USSR in 1951, returning home in 1955, he served as the first deputy minister of the Ministry of Foreign Affairs. Eighth Party Congress was elected alternate member of the Political Bureau of the CPC Central Committee. The first and second National People&#39;s Congress Standing Committee. Have been criticized in the Lushan Conference in 1959. (Lssjt.cn) the Eighth CPC eight in the plenary session, he served as Economic Research Institute, Chinese Academy of Sciences researcher to be about the \"Cultural Revolution\" in persecution. July 1, 1976 and passed away in Wuxi. CPC Central Committee in August 1979 to be vindicated. The major writings compiled Zhang Wentian anthology. <br>'
+);
+
+?>

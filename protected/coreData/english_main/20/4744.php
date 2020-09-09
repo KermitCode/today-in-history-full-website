@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-5-20
+	create time:2013-01-01 22:55:16
+*/
+
+return array(
+'title'=>'The formal establishment of the Democratic Republic of Timor-Leste',
+'class'=>0,
+'cont'=>'The (Imo April ninth day), May 20, 2002, the Democratic Republic of Timor-Leste formally established. <br> local time, 2002, zero (Beijing time at 23 o&#39;clock on the the 19th), the United Nations on the management of the two-and-a-half years in East Timor officially ended. (Today in History www.TodayOnHistory.com) with the United Nations flag lowered slowly into the East Timor flag slowly rising, this century, the first of a new country - the Democratic Republic of Timor-Leste formally established \"target =\" _blank \"> democracy in East Timor the official birth of the Republic ... <br> in 1642 (on TodayOnHistory.com) Portuguese colonists invasion of the island of Timor. At the same time, the Dutch colonialists occupied the island of Timor around the major Islands 1859, the Portuguese Heda to carve up the island of Timor treaty, the eastern part of the island of Timor was placed under Portuguese rule, western normalized Netherlands. <br> 1975, Portuguese colonists withdrew from East Timor in December of the same year, Indonesian military occupation of East Timor. <br> 1976, Indonesia unilaterally East Timor included Indonesian territory, as its 27 provinces in Indonesia during the reign of some 200,000 East Timorese were killed in the Indonesian military repression and famine. <br> 1978, Australia recognizes Indonesia&#39;s rule in East Timor became the world&#39;s first and only to recognize the country of Indonesia ruled East Timor large of the international community, including the United Nations do not recognize Indonesian rule in East Timor . <br> 1998, the Asian financial crisis into beleaguered former Indonesian President Suharto was forced to step down in January 1999, the new President Habibie sudden change of policy on East Timor (on TodayOnHistory.com) announced East Timor unwilling to accept autonomy, can allow the independence of East Timor. the Habibie aroused a new round of bloody clashes in Indonesia <br> in 1999 30, under the supervision of the United Nations, held a referendum in East Timor, 450,000 East Timorese went to the polls (on com) and 78.5% opposed to East Timor as an autonomous province of Indonesia, that should be the end of 23 years of military rule in Indonesia. conflicts because citizens vote In October of that year, the United Nations peacekeeping force stationed in East Timor <br> in 2002, Gusmao was elected as the first president of East Timor <br> in 2002, 20, 2009, East Timor an independent country. <br>'
+);
+
+?>

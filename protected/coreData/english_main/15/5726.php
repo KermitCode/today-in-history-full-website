@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1645-6-15
+	create time:2013-01-01 22:53:17
+*/
+
+return array(
+'title'=>'Qing Dynasty issued Dressed order',
+'class'=>0,
+'cont'=>'June 15, 1645 (, Yiyou May 22), the Qing Dynasty issued a Haircut Decree. the <br> Han attaches great importance since ancient times costumes. \"Book of Filial Piety,\" saying: \"body by one&#39;s parents, not damage, beginning of filial piety. \"Not shaved, Han adult men and women regard hair string together into a bun in the head. The Manchu hairstyle Han Chinese different from the family man to the anterior cranial hair shaved hindbrain hair into a long braids hanging down. Han Chinese clothing Chinese clothing to the cross collar right ren, no buckle as the main character the the filled main features stand-up collar, breasted, Pankou, etc.. (History. Cn) <br> Qing Dynasty established by the Manchu people living in northeast China. Prior to the entry, the Manchu rulers of the implementation of the policy \"Dressed server\" is already outside the customs. Shall be compelled to change the conquered Han Chinese hair replacement clothing (history cn) surrender of the Ming Dynasty and soldiers must also Dressed service, as a sign of surrender. <br> Qing, he crossed the border in 1644 (Ming Chongzhen seventeen years) awarded Haircut Decree to repeal this order, cause discontent and rebellion of the Han Chinese, so public. The 1645 Qing enter Jiangnan Han Chen Sun Xie subject to the exclusion of other Han minister enraged below the regent Dorgon reissued Haircut Decree. So, on June 15, 1645 Dorgon ordered again issued the Haircut Decree provisions: \"the National Government and the people, the capital inside and outside the limit of 11 days, the Zhili and provinces to cloth text to date also limited to 10 days, all Dressed. The \"execution slogan:\" stay head without leaving any hair, leaving hair without leaving head. Released Haircut Decree issued dressers Order, July 9, 1645, the Qing government promulgated the \"fashion Order provides that\" the official China Jiyi shaved, dressed Safe compliance Benchao, of the system. \"Han people after another struggle for the protection of cultural relics each other for generations dressed. The Qing rulers this violent repression, such as the 1645 Jiading three Tu event that the \"Dressed server\". After another struggle after 37 years, the end result is the the Manchu feudal rulers victory the Han the living Dressed braided, to wear Manchu dressed; adhere unwilling to change dressed either killed or fled overseas, either fled to Buddhism, practice their hair. <br>'
+);
+
+?>

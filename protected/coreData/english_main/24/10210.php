@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-10-24
+	create time:2013-01-02 01:52:40
+*/
+
+return array(
+'title'=>'Florida riots',
+'class'=>0,
+'cont'=>'October 24, 1996 (September 13) Rat, Florida riots. Reference, 1996 10 24, 2010, St. Petersburg, Florida, serious riots, 11 people were injured, seven of whom are police officers; 20 people were arrested. Riots by two white police officers to the black one driving a car opened fire, and make him deadly cause. According to reports, around 5:30 pm local time, a black man driving a car speeding in the city&#39;s business district, two white police officers intercepted the two sides altercation. Police said the black man does not obey the command, did not immediately stop, with the intent to escape, and thus the police to shoot him. However, witnesses said, blacks driving a car and not the police top of buildings, the police had no reason to shoot him. The way to the hospital after driving the blacks was shot to death. The scene of the accident in the vicinity of the the blacks concentrated residential areas, angry crowd moved to the business district, throwing stones, bricks, bottles, and burned down the car, the riots from a few blocks from the start and quickly expanded to other neighborhoods. <br> night, local authorities deployed more than 500 police officers to stop the riots, until 3:30 am the next day the situation began to calm down, there are still large numbers of police patrols in the city to 25. St. Petersburg city officials are meeting with black community leaders, trying to avoid the re-occurrence of riots. <br> Analysts believe that the occurrence of the riots is not accidental, but its profound social background, reflects one side of the racial conflicts in American society. U.S. police have always maintained that blacks concentrated residential areas with high crime rates, drug trafficking, drug crimes serious black day speeding motorists escape the police to stop \"intent\", and therefore to shoot him. But if the car is a white man, even if illegal driving, the police will probably not categorically to shoot him. This can not be not a thought-provoking questions. <br> Since 1995, nine states in the southern United States, more than 30 black churches were burnt in arson attacks caused great dissatisfaction of the masses of black people, a series of events that the United States long-standing racial and ethnic conflicts is far from being eliminated, although the United States as early as in the 1860s, has officially announced the abolition of Negro slavery, but when has the Negro is still suffering from racial discrimination, blacks have been seriously violated human rights in many ways. Although the United States has legislation against racial discrimination, discrimination policy has penetrated into almost all fields, in recent years, racial discrimination in American society comeback trend. <br>'
+);
+
+?>

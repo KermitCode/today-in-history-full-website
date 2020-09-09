@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1900-10-30
+	create time:2013-01-02 01:37:51
+*/
+
+return array(
+'title'=>'Film artist Xia Yan was born',
+'class'=>4,
+'cont'=>'Eighth day of September (Boxer), October 30, 1900, the film artist Xia Yan was born. Xia Yan was born <br> \"target =\" _blank \"> Xia Yan, formerly known as Shen is Hee word end first, had with the pseudonym Cai tert sound, and the Ding, Ding Qian of yellow cloth, Wong Lo Kat. Oct. 1900 30 born in Zhejiang Hangzhou County. study in Japan <br> in 1920, was admitted in February the following year in Fukuoka, Japan Electrical Branch of the Meiji specialized schools, into Kyushu Imperial University in 1925 Postgraduate (而身d芋y身里h貝 $ 而身ry.c身m) 1927 for participating in Japan left-wing literary movement was deported in 1929 to organize the Chinese Left-Wing Writers Union. Organization Shanghai Art Drama Society, and later participating organizations leftist dramatists Union. <br> 1932 candidates for the star the movie company screenwriter consultant, 1933 the advent of the \"flow\" known as \"the beginning of a new route of the China Film mad the same year, the the movie team leader of the Chinese Communists. was elected to the Executive Committee of the Association of Chinese film culture here have been completed and the screenplay\" Spring Silkworms \"and\" Shanghai the twenty-four hours \"cosmetics market\", \"lucky money\" and other famous reportage \"bonded labor\" and the drama \"Sai Jinhua (lssjt.cn) Qiu Jin Chuan\", \"Shanghai under the eaves\" the renowned literary participate in the Organization the the Shanghai cultural circles salvation Association, <br> war broke any \"Salvation Daily editor-in-chief, to participate in the drama\" defend the Marco Polo Bridge \"creative. creation during the war drama\" year \",\" heart defense \",\" grudge mind \",\" Water Yin \",\" fascist bacteria, \"Lili grass\", \"Grass End of the World\" screenplay \"Baiyun hometown of April 1945, Chongqing,\" Xinhua Daily \"on behalf of Editor-in-Chief. tune in June 1946 Nanjing Plum Village CPC Central Committee delegation to go to Hong Kong, Singapore, in October of the same year, in the spring of 1949, after writing movie scripts, \"The Way of Love.\" <br> founding of New China, served as the Ministry of Culture, vice Minister, Quanguowenlian vice chairman of Sino-Japanese Friendship Association vice president, chairman of the China Film Association, Chinese drama Painters Association and other staff. adaptation of \"blessed\", \"Linjiapuzi\", \"revolutionary family\" screenplay with a Xia Yan was the plays selected \",\" the Xia Yan anthology \",\" write the screenplay \",\" movie Proceedings. <br>'
+);
+
+?>

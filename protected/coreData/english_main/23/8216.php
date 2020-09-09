@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:0785-8-23
+	create time:2013-01-02 00:23:26
+*/
+
+return array(
+'title'=>'Famous Tang calligrapher victim',
+'class'=>3,
+'cont'=>'(Yi Chou, July 14), August 23, 785 years, the famous Tang Dynasty calligrapher killed. the <br> Yen Chen-ching victim \"target =\" _blank \"> Yen Chen-ching (709-785), the word Qing Chen, Jingzhao years (now Xi&#39;an) people, famous calligrapher. Kaiyuan (713-741) years in lift Scholars, Gordon beetles on four occasions, was appointed to monitor the censor, moved to the house of Shi Yu Shi. (Lssdjt.com) due to the then powerful minister Yang Guozhong exclusion, is Bianchu to the plains (now part of Shandong) any prefect person the the Yan plains. Suzong to Fengxiang to grant constitutional government minister, moved to censor. official to the board of civil chancery Daizong when Taizitaishi, Feng Lu owned High, known as \"Yan Lugong <br> Tianbao 14 years (755 years), Ping Lu, Fan Yang, Hedong town Jiedushi Lushan rebellion, he contacted the brother Yan Gao Qing revolted against the near seventeen county corresponding, pushed for the chief, or two hundred thousand soldiers, so Lushan not dare to Jigong tongguan Corrections Xingyuan first year Huaixi Jiedushi Li Xilie, rebellion, Jian Xiang Lu Qi took the opportunity to borrow the hands of Li Xilie kill him, send Go to persuade, his unwavering several surface denounced Li Xilie disastrous crime of dying has \"determination Aug. 23 <br> 785 years (July 14), he was hanged. Wenting Yen Chen-ching killed armed forces always have cried. ( the lssdjt.cn) six months after <br>, Rebel Li Xilie and own his men killed, rebel Binh Dinh Yen Chen coffin was to be escorted back to Beijing, Houzang ancestral grave came from thousands of years Yan. Dezon emperor pain Chao waste toward 5, the country mourn Germany clansmen Ban Zhao Wen, (l $ dj¦Ó.¨­r¨À) remembrance Yen Chen&#39;s life \"was excellent Martini, loyalty to destroy the body, is the quality of talent, public loyalty outstanding, and out of four dynasties faithful a blog, arrest threat tired-year-old, died without scratching, verifying its Festivalgate of real so-called Jew born his mettle integrity, probity Chunhou a sense of justice, Never A powerful, flexor intended to fawn on, meaning strong names a reversal of the early Tang calligraphy style pen lines Zhuanzhou of Shouying as plump forceful, the guitar body Kuanbo and magnificent, Glucosamine Emotion and spirit of awe-inspiring. <br> his regular script, this style also reflects the Tang Empire prosperous demeanor, and his noble personality fit is of calligraphy and Personality perfect combination typical example his book is called \"Yan\" Yan Liu, Liu public rights and said, & ldquo ; Yan the tendons Liu bone Fitch. <br> with a \"Wuxing set,\" Lu state set \",\" Linchuan set. \"<br>,'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1906-7-12
+	create time:2013-01-01 23:48:32
+*/
+
+return array(
+'title'=>'The Dreyfus injustice finally righted',
+'class'=>0,
+'cont'=>'July 12, 1906 (, Heigo May 21), the the Dreyfus injustice finally righted. the Alfred Dreyfus injustice, <br> finally righted \"target =\" _blank \"> Captain Dreyfus <br> Dreyfus (1859-1935), a Jew, born 1892, the family in the French province of Alsace, a textile industry capitalists. Dreyfus graduated from a military school to enter the French Army General Staff as an Apprentice captains September, <br> 1894, to act as a maid at the German Embassy in Paris intelligence officers of the French side, an anonymous list found in the German military attache in the room, from the French Army General Staff sent five copies of secret military intelligence on the French artillery and other German spy in the French general staff. In October, the French military intelligence at only the handwriting on the list is similar to Dreyfus&#39;s handwriting, on framed rely on him to betray the French military secret, he was arrested Dec. 22, he was sentenced to life imprisonment in January 1895 5, he was removed by military Devil Island lifelong exile to the French Guiana coast. the L $ dj¦Ó.c¨­m] <br> The judgment of the evidence is extremely insufficient. Dreyfus never plead guilty , and in the trial, the handwriting expert for their views are not consistent. (history www.lssdjt.com) <br> 1896, the person in charge of the Intelligence Division of the newly appointed French army Colonel Picard found a German military attache to the French military intelligence at the Major Waer Xun Esther Lacy secret letter. Esther Lacy is a debt-ridden prodigal son, he&#39;s exactly the same handwriting with the handwriting on the above list, so Picard confirm this are the real criminals But when the matter after the report to their superiors, the General Staff, but in order to maintain the military prestige of the name and refused to correct this injustice, Picard transferred to Tunisia, and also would not allow him to disclose the situation. the Picard departure before told a lawyer friends. Thereafter, the news published it go. November 1897 to 1903, a long period of time, from the Senate Deputy Speaker of the House of Representatives, to the press in Paris, from the writer Zola&#39;s open letter published an article entitled \"I accuse\" for that matter, to Chekhov and Lenin speech; to the international public opinion from the majority of the French people from Dreyfus and their families, and to the integrity officer in the army; request a review of the Dreyfus case, increasingly strong calls for punishing real criminals, the Supreme Court had announced Dreyfus innocent until July 12, 1906, and resumed his military. <br> < br> 1895, Dreyfus was publicly get rid of military <br>'
+);
+
+?>

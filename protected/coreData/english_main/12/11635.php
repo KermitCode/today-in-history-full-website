@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1821-12-12
+	create time:2013-01-02 02:50:22
+*/
+
+return array(
+'title'=>'French writer Gustave Flaubert&#39;s birthday',
+'class'=>4,
+'cont'=>'December 12, 1821 (Government House winter month and 18), French writer Gustave Flaubert&#39;s birthday. <br> once Flaubert&#39;s friends came to visit him, see the door ajar, but, knock on a few doors, no one promised, listen closely, as if sobbing inside. This friend thought what unfortunately a sudden the door, straight broke into the studio burst into tears saw Flaubert volts documented before, even friends did not come to perceive. The friend walked up, shook his shoulder and asked: \"What makes you weep so? \"Flaubert deeply grieved to say:\" Madame Bovary dead! His friends did not understand, (L $ dj¦Ó.c¨­m) asked him: \"Madame Bovary Which one? \"The Flaubert, pointing to the table a bunch of a few inches thick manuscript said:\" Madame Bovary \"Madame Bovary,\" \"Yeah! \"My friends, too, that he was sad for the death of the heroine of the novel. Thus advised him: \"Since you do not want to let her die, and wrote her alive thing! \"Flaubert no choice but to say:\" I write to you, and the logic of life so that she had to die, [lsjt.net] there is no way it! \"It can be seen here Flaubert&#39;s Birthday\" target = \"_blank\"> the Flaubert of deep emotion of the characters in his works and the loyalty of the creative method of realism. (Lsjt.net) <br> Fook House worship, December 12, 1821, a generation born in Rouen, France as a family of doctors. youth in Paris to study law, illness drop out of school in 1845, his father died, he moved to Rouen suburbs of the Crova Cypriot villa residence, rely on abundant legacy live concentrate immersed in literary creation, until it died in 1880. \"Madame Bovary\" is the first novel published in 1856, his masterpiece, critical realism literature is also a well-known works. <br> \"Madame Bovary\" describing the tragic life of an affluent mainland French farmers daughter Emma. describing how she was subject to the erosion of high society social life vulgar despicable ambience corrosion, has finally embarked on the fallen road, the final result of debt and bankruptcy, forced to commit suicide. between the lines full of the wrath of the existing social and complaints, thus angered the Administration, Flaubert by accusations of \"immoral\". Later, Flaubert converted to write historical themes, the historical novel \"Salang Bo\" was published in 1862 but soon he began to write realistic theme novel, 1869, published a the highly political lengthy emotional education. <br> Flaubert famous French critical realism writer, he has deep knowledge in novel writing and prestigious in the world. <br>'
+);
+
+?>

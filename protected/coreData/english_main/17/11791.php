@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1538-12-17
+	create time:2013-01-02 02:06:49
+*/
+
+return array(
+'title'=>'The Pope announced expelled from the membership of Henry VIII',
+'class'=>0,
+'cont'=>'December 17, 1538 (the Reform Movement in the winter months 26), the Pope announced the expulsion of the membership of Henry VIII. the the <br> Henry VIII the like <br> in British history famous despots called Henry VIII, for making the final formation of the United Kingdom as a unified centralized modern state had played a major role. However, he is a very good play trickery, in order to consolidate his authoritarian rule, he do anything to draw. <br> he ascended the throne in 1509. In order to consolidate its rule, the side caters reformists against the Church humanists Kele Te my PhD, personally visited the Utopia of Thomas More; other side, in order to obtain the favor of the papal , burning, killing the followers of sects \"Lao Lade send a large number of British lower civilians\" and various \"heretics\", his burning heretics used wood as much, and brought a timber prices due to acute shortage of it shows brutal. (Lssjt.cn) He also articles against Martin Luther, therefore, the Pope granted the title of \"protector of the faith\". However, with the consolidation of his throne. The interests of the royal family, in particular, to expand and consolidate his power, he began to reuse the reformist religious reform is implemented through a series of acts of parliament. According to the Act of Parliament, has Henry eight world from the Church of Le take heavy fine, interception to the Pope&#39;s annual tribute obtain formulation teach regulations and the appointment of Bishop&#39;s discretionary, replaced by the Pope to become the Church of England the highest leader, the bishop of the first year of pension and even owned by a tax for their own, the dissolution of all the convent, the huge land property reverted to the royal family. The royal fiscal revenue to more than double, Henry VIII became the richest king in British history. Henry VIII&#39;s religious reform aroused strong opposition from anti-reform forces at home and abroad. <br> 1538 12 17, Pope Paul III announced the expulsion of the membership of the \"heresy\" Henry VIII. The Holy Roman Empire threatened to invade and cut off trade. However, this time Henry VIII, the regime has consolidated LAND powerful, he does not the Pope and the Holy Roman Empire looked down, he declared that \"even if the pope excommunicated a million times, I do not care. I would like to prove that all the kings, the power of the pope is how trivial. \"At the same time the the domestic through\" Taoni Law, all criticism of King as a \"rebellion\". Kill a large number of anti-reform clerics. He has visits to the Thomas More also do not agree with the proposition is punishable by death. [History. Com] <br>'
+);
+
+?>

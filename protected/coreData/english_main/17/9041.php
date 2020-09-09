@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-9-17
+	create time:2013-01-02 01:20:32
+*/
+
+return array(
+'title'=>'The online multimedia lecture pioneered China precedent',
+'class'=>0,
+'cont'=>'The (Landmarks August 16), September 17, 1997, online multimedia lectures created precedent. May 17 afternoon <br> 1997, the network operations center at the Shanghai Science and Technology Network, Mr. Sun Moxi from the United States BayNetwork company do an Internet Protocol technology Seminar. Superuser connection with the Shanghai Science and Technology Network Center, in their own units through ATM fiber optic computer virtual TV system to watch the live broadcast, and through telephone dial into the ordinary user of the system, and also listen to the lectures live broadcast. <br> Shanghai Science and Technology Network is a high-quality, large-scale network of Metro ATM switching, network operations centers interconnected by Fibre Science and Technology Network Zhangjiang Hi-Tech Park superuser, this receives to the very clear image and sound signal. Intel president Craig Barrett visited Shanghai in May 1997, had done a live broadcast through the Internet, and that due to a server in the United States, to give people the impression that the sound quality is only the level of the medium-wave AM broadcasting. The local Shanghai, this transfer of information without going through the transoceanic line, so quality than that much better. Mr. Sun Moxi speech, network transmission rate steady at 16Kbps level, even at home, the sound effects are exactly the same as the meeting site! <br> To listen to this live broadcast, the reporter from the Shanghai Science and Technology Network file transfer server download RealPlayer multimedia software Internet. The entire download, install the operating process is fairly simple, according prompted clicking the mouse on it. Audiovisual World \"at the Shanghai Science and Technology Network, also provides this software test environment. Styles from classical music to pop songs, dozens of first CD is stored in the server of the Shanghai Science and Technology Network, just click on the highlighted items, sweet music immediately broadcast on the local computer, the reporter viewed, the network connection the rate constant at 20Kbps on, but also the stereo effect! Samples of the Shanghai Joint Publishing also music CD and VCD on the the hits run \"of the space. RealPlayer also broadcast VCD. Of course, the image is only the size of a matchbox. However, Shanghai through the history of the public network television docu-demand, after all, from the beginning. On Saturday afternoon, more than 50 people through the dial-up listening to this unique significance lectures. <br>'
+);
+
+?>

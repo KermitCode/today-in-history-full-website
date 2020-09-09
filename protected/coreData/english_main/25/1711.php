@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1975-2-25
+	create time:2013-01-01 22:48:48
+*/
+
+return array(
+'title'=>'Deng Xiaoping pay close attention to the railway rectify',
+'class'=>5,
+'cont'=>'(YiMao fifteenth), February 25, 1975, Deng Xiaoping, pay close attention to the railway rectify. serious problems in the <br> State Planning Commission to reflect the Zhengzhou Railway Bureau report <br> CPC Central Committee convened solve the railroad problem of provinces, municipalities and the secretary of the regional party committee in charge of industry meeting. Deng Xiaoping made a speech entitled \"talk about the overall situation of the whole party, and boost the national economy\" speech. <br> due to the interference of the Pi Lin Pi movement in 1974, the the national railway Annual 1974 less than the previous year, shipped 4,321 tons of cargo, cargo traffic fell by 5.3%, a new railway investment than in the previous year declined by 3.9 %, but the track laying mileage has decreased by 21.5%; railway industry GDP decreased by $ 2.4 billion over the previous year. 1975, the situation worsened. The problem is not solved, rail transport were all disrupted production deployment, the entire plan will come to nothing. Deng Xiaoping was determined to solve this problem. Deng Xiaoping pointed out that the way to solve the railway problem is to strengthen the centralized and unified. The necessary rules and regulations must be restored and sound. Deng Xiaoping severely criticized the factionalism and pointed out that \"I have heard some comrades now only willing to grasp revolution, dare not grasp the production, said &#39;grasp revolution and insurance, grasping the production of dangerous&#39;. This is a big mistake. \"<br> Meeting adopted a decision on strengthening the railway work, as the CPC Central Committee document by Deng Xiaoping&#39;s important speech in <br> convey, and this document is issued for implementation of 1975 marked the beginning of the rectification work on all fronts. Minister of Railways Miles led working group to focus on rectifying successively in Xuzhou and other serious problems Railway Bureau. Focus on solving the problem of leading bodies, within a time limit; maturity does not change, take dismissal, decisively removed from their original units and other organizational measures, re-equipped with the leadership team. Inciting trouble factionalism, protest, downtime villains brought to justice 33. After the consolidation of one or two months, the situation of the railway transport has improved remarkably. To create the highest level in history, the number of average daily loading of the national railway train punctuality rate is also much higher. (Lssdjt.com) <br>'
+);
+
+?>

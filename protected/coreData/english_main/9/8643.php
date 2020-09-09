@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-9-9
+	create time:2013-01-02 01:38:04
+*/
+
+return array(
+'title'=>'The United Nations said in a report published global gap between rich and poor continues to widen',
+'class'=>0,
+'cont'=>'September 9, 1998 (July 19) Tiger years, the United Nations published a report that the global gap between rich and poor continues to widen. In In September 1998, 9 (the L $ dj¦Ó.§«§§T) United Nations Development Programme (UNDP) report pointed out that deepening the gulf between rich and poor in the world, and the world&#39;s population 1/5 of the wealthy enjoy 80% of the world&#39;s wealth. <br> published by the United Nations Development Programme 1998 Human Development Report said the world of material wealth has reached unprecedented affluence levels, public and private consumption will reach a record $ 24 trillion in 1998 than in 1975 more than two times, but there are still about 10 million people in the world is completely excluded from this wealthy beyond. (Lssdjt.cn) <br> report said, accounting for 1/5 of the world&#39;s total population of about 12 million rich people consume 45 percent of the world&#39;s meat and fish, and 1/5 the poorest people consume only less than 5% meat and fish. Similarly, 1200000000 rich consume 58% of the world&#39;s energy, with 74% of the telephone, consumption of 84% of the paper, and owns 87% of the car. (Lssdjt.com) <br> In contrast, the world&#39;s 2.6 billion people still lack basic sanitation, (on www.TodayOnHistory.com) 15 million people in poor housing and poor, 20 million people can not drink in line standards for drinking water, 1/5 of the world&#39;s children less than five years of education, the same percentage of child malnutrition. wealth <br> According to the American Institute for Economic Research announced on September 7, a social survey results show that, since 1989, the gap between rich and poor in the United States continued to expand in recent years, the U.S. economy continues to boom among the vast majority of installed into the pockets of the rich. <br> this survey reported that, from 1989 to 1997, the average net income of the enterprise management personnel equity income and bonuses counted doubled, while the average net income of workers increased by only 1. 4%. The report also said that American workers for the little growth has paid a high price, because their work hours increased. In 1996, for example, this year a typical two-income worker&#39;s family and his wife both work time than in 1989, an increase of 247 hours. <br> report obtained so far in the 1990s, U.S. companies record profits, partially achieved at the expense of the hourly wage of the workers. The report notes that in 1997 the average hourly wage for American workers is only $ 11.13, down from $ 11.30 in 1989. <br>'
+);
+
+?>

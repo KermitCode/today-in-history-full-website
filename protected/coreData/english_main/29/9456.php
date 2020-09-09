@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1951-9-29
+	create time:2013-01-02 01:06:54
+*/
+
+return array(
+'title'=>'The central authorities have decided to carry out the intellectuals Thought Reform',
+'class'=>0,
+'cont'=>'September 29, 1951 (, Xin Mao August&#39;s Eve), the central authorities have decided to carry out the reform movement of intellectuals thought. Chinese Academy of Sciences Committee of the Faculty of <br> in the discussion of the ideological transformation learning plan <br> the late September 1951, more than 3,000 people in 22 institutions of higher education teachers in Beijing, Tianjin and Shenzhen carried out to transform the teachers thought reform of higher education for the purpose of learning movement. <br> September 29, Zhou Enlai in Beijing, Tianjin university teachers and learning report at the meeting made the report of the \"transformation problem\" intellectuals, intellectuals revolution stand, viewpoint and method to talk about his experience, calling The teachers strive to transform themselves to become the cultural front of revolutionary fighters. In October, the Beijing-Tianjin College Learning Committee was established. January 30, 1950, the CPC Central Committee issued a \"school of thought reform and organizational cleanup instructions universal ideological transformation requires above all, in primary and secondary schools, staff and high school students, and on this basis more students in schools and staff specialist, the organization is honest and faithful to settle the historical movement to clean up one of the counter-revolutionaries. <br> according to the instructions of the CPC Central Committee, the schools in the country will soon set off the learning reform movement. Carry out the purpose prepared rectification learning movement in literature and art at the same time, the literary and artistic work toward the development of a sound direction, shortly, has issued the movement&#39;s decision to carry out the ideological transformation of people from all walks of life to learn, so intellectuals transformation of learning movement begins with education gradually expanded to The majority of the intellectuals of the art, science and technology, democratic parties, government agencies, people&#39;s organizations, the business community, religion, and the formation of a national scale Ideological Reform of Intellectuals learning movement. <br> through this learning movement, intellectuals clear political and ideological influence of imperialism, feudalism and bureaucrat-capitalism, and establish the idea of &#8203;&#8203;serving the people, and to some extent on pure team. Requirements but due to too fast, too high, the method is simple, this movement hurt part intellectuals feelings. <br>'
+);
+
+?>

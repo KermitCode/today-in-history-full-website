@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1867-9-14
+	create time:2013-01-02 00:58:41
+*/
+
+return array(
+'title'=>'First volume of &quot;Das Kapital&quot; published',
+'class'=>0,
+'cont'=>'(On August 17 Dingmao), September 14, 1867 \"Das Kapital\" published in the first volume. the <br> \"Das Kapital\" Volume I 1867 the Hamburg first edition <br> 1867, after Marx repeatedly revised the final version of \"Das Kapital\" Volume I, published in Hamburg, Germany. This is a major event in the history of human society thinking and epoch-making in the history of the international communist movement. (Lssdjt.com) <br> Marx is writing the book with the full 20 years. Marx proceed from the interests of the proletarian revolution in order to complete the study of the political economy, he Hengmeilengdui the crazy political persecution imposed by the class enemies and some exiles scum despicable personal attacks spread, despite the poor at individuals and families, day and night engaged in a tense theoretical research work. Letter to Engels in 1857, he said: \"I am frantically overnight summarize my economics research. Is to figure out at least some of the basic issues before the flood. \"This work is very necessary, it can make the public recognize the substance of things. \"<br>\" Das Kapital, \"the first volume from the analysis of commodity paper discusses the theory of surplus labor to create surplus value, reveals the secret of capitalist exploitation. <br> 1867, 16, 2009, when a feeling of great joy and excitement Marx read a proof of the first volume of \"Das Kapital\" last wrote to Engels said: \"This volume is complete. Its able to do so, I only have to thank you! Did not you sacrifice for me, I must not be the completion of the tremendous work of the three books. \"<br>\" Das Kapital \"Volume II, Volume III after Marx&#39;s death, after Engels serious study and careful finishing, respectively, was published in 1885 and 1894. Engels deathbed entrusted Kautsky finishing the remaining value of studying history, as published in the fourth volume of \"Das Kapital\". But Kautsky against the will of the Engels and treat it as independent works in 1904, 1905 and 1910 respectively, published in three volumes. Still as the fourth volume of \"Das Kapital\" incorporated \"Collected Works of Marx and Engels. the <br> \"Das Kapital\" This masterpiece first deep analysis of all the development of the capitalist process, like mathematical accuracy to prove the direction of this development is sure to lead to the establishment of the socialist revolution and the dictatorship of the proletariat. \"Das Kapital\" armed proletariat become a powerful theoretical weapon of the proletarian revolutionary struggle, is the treasure house of Marxist theory glorious scientific work. (Lssdjt.cn) <br>'
+);
+
+?>

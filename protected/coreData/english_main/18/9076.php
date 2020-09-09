@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-9-18
+	create time:2013-01-02 01:26:49
+*/
+
+return array(
+'title'=>'Former U.S. football star OJ Simpson on the dock',
+'class'=>0,
+'cont'=>'(Rat August sixth days), September 18, 1996, former U.S. football star OJ Simpson on the dock. <br> 1995 in Los Angeles, a predominantly black jury verdict of \"not guilty\" to charges of murdering his ex-wife and her boyfriend American football star OJ Simpson, go again today in a white community in Los Angeles on the dock. <br> Ethiopian origin Simpson this time facing a civil suit, civil trial and criminal trial last year, some of the same places, such as most of the witnesses or the people about whom the plaintiff and the defendant&#39;s lawyer will continue in court on the debate around the DNA blood sample inspection report, hair, fiber, and blood gloves and other evidence found at the murder scene. However, due to the different environment, the specific circumstances and the nature of trial, this trial with the last criminal trial there are many differences. , Simpson unlike last time, as everything arranged by the lawyer on behalf of said, this time he must be opening to defend himself and answer the interrogation. <br> Simpson criminal trial case caused a sensation last year in the United States, the counsel for the accused in court and out of court, played the \"race card\", blacks accounted for the overwhelming majority of the jury to believe that Simpson&#39;s guilt is framed by the police fabricated thus sentenced to not guilty. The whole trial daily television marathon live broadcast to the nation, leaving the United States the whole country utter confusion, worry about the judgment of the Simpson case might lead to another large-scale ethnic conflict in the United States. This time, the judge prohibited the TV and photographers into the courtroom, the trial may not be televised, defense lawyers are not allowed in the court cited the case to the direction of racial discrimination. <br> in order to prevent outside pressure and influence, the judge last 12 jurors \"under house arrest in a hotel for up to several months, they are not allowed to go home to sleep, they are not allowed to contact the phone contact with family and friends, they are not allowed to watch television, for fear that they were outside News reported assimilation. This time, the 12 jurors can enjoy the freedom of the person, they will not be received death threats in letters and phone calls, but also do not have to worry about Their decision may spark a race riot in the local. <br> The civil trial case may last four to six months (history www.lssdjt.com) If the jury Simpson killed his ex-wife Nicole and their patriarchal Goldman can not shirk responsibility for the loss of hundreds of millions of dollars that he will be compensation to the families of the deceased. <br>'
+);
+
+?>

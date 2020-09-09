@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1931-7-11
+	create time:2013-01-02 00:02:04
+*/
+
+return array(
+'title'=>'Otsuka, Japan&#39;s well-known original painter Kang Sheng was born',
+'class'=>4,
+'cont'=>'July 11, 1931 (May 26), Xinwei, Otsuka, Japan&#39;s well-known original painter Kang Sheng was born. the <br> Otsuka, Kang Sheng (Yasuo Ootsuka), supervising animator, artist, representative figures of the first generation of Japanese animation out. July 11, 1931 Born in Shimane Prefecture, the official firm has worked the Yamaguchi Prefectural Office General Statistics Courses and Kanto Koshin&#39;estsu, drug banned. The 1956 map ANIMATION first phase of the identity of the students involved in the production of \"White Snake\", \"An Shou and the cook king pill\" theater masterpieces east. A PRODUCTION, retirement community in 1968, served as the supervising animator Lupin III \", the\" sun prince Hulse Adventure, \"a group of famous works. 1978 Exit A PRODUCTION, year established TELECOM ANIMATION Number of FILM become pillars of character in the studio, and in 1998 was 3rd ANIMATION Kobe Special Award in 2002 by the Japanese Agency for Cultural Affairs Executive reward. Otsuka <br> 1991, (lsjt.org) Kang Sheng was born \"target =\" _blank \"> Otsuka Kang Sheng served as a consultant lecturer in Yoyogi Animation Academy is committed to developing the industry&#39;s talent in 1994 from TELECOM ANIMATION FILM retirement community leave animation after first-line Institute as a new guiding Ghibli, Toei ANIMATION production company sponsored several exhibitions, lectures, publishing related books at the same time contribute to promote the development of Japanese animation. addition, he the military also founded the independent issue of military vehicles research magazine \"auto research Zhi MVJ the <br> masterpieces <br>\" Lupin III \"<br> Lupin III - Lupin VS human cloning - \"<br>\" Lupin III - Karios Castro&#39;s City - <br> Panda ¡¤ red panda \"<br>\" panda red panda - Rainy Day circus ... \"<br>\" Future Boy Conan \"the <br>\" the Sun Prince Hulse big adventure \"<br>\" Legend of the White Snake \"<br> juvenile ape fly Sasuke\" <br> \"Journey to the West\" <br> \"An Shou and the cook king pill\" <br> \"the naughty Prince warfare serpent\" <br> \"Sherlock Holmes the\" theatrical <br> grassland son of Tan Geli \"<br> \"Lupin III\" in many animated masterpieces; Otsuka Kang Sheng had served as supervising animator and production staff, its solid paint to make these works to the audience left a deep impression on recent years, he served as TELECOM Animation school principals, is also committed to to host military vehicles magazine. <br> famous figures of the Japanese animation industry, a high level of painting skills, profound skill, has published a large number of books on animation, done a lot to promote the development of Japanese Animation contribution. <br>'
+);
+
+?>

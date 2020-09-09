@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1926-12-29
+	create time:2013-01-02 02:42:02
+*/
+
+return array(
+'title'=>'Warlord Xu Shuzheng Langfang&#39;s assassination',
+'class'=>0,
+'cont'=>'(Bingyin the winter months 25), December 29, 1926, assassination of warlord Xu Shuzheng Langfang. <br> \"murderer\" Xu Shuzheng Langfang assassination \"target =\" _blank \"> Xu Shuzheng In December 1926, the cunning and varied famous at home and Xu Shuzheng in Langfang Railway Station Feng Yuxiang men shot to death. Xu Shuzheng is one of the central figures of the Group of Anfu political is called Duan soul. Xu and von known as contradictory political views, who has withdrawn von sixteenth the mixed brigades Brigadier duties in 1916, 1917 years and Lu Jian Zhang the booby traps Von years Zhiyu Executive, both beneficial deep grudges. <br> in December, Xu Zihai outside returning, Lu Jian Zhang of the in Lucheng Wu learned that Xu message to Beijing, seeking von avenge his father. von allocated from the pistol team of 20 soldiers masquerading as followers opportunistic act. because Xu prevention strict, no start, that Lu Zhonglin notice of the whereabouts of Xu Xu, 29, graduated in Beijing thing, given on the same day by car Fanjin The deer telegraphed in Zhangjiakou, Feng Yuxiang Feng telephone order \"disposal Xu Shuzheng way, is the arrest of the firing squad!\" deer Fengtai station, Xu car has passed Fengtai lie in Langfang of Zhang Zhijiang perform thorn Xu task sheets that waiting to send the General Staff Zhang Yue collar the Guards east station. Cheung Yuet Ling Xu car to Langfang men owned Xu and get off Xu outbound is, gunmen killed a deer that sent people to inform Lucheng Wu arrived overnight in Langfang Station 30, all the newspapers are posted the Lu to avenge his father&#39;s News. <br> Xu Shuzheng in the early Republican political arena is a pivotal figure in that he was born in 1880, died in 1925, lived a 45-year-old word and Zheng, the Xiaoxian people of Jiangsu (now part of Anhui ), nicknamed \"fan\" the 13-year-old scholar, the 22-year-old cast Duan, 25 years old, Duan be sent to Japan to study, learn military into the Japanese military academy two years after graduation to return any paragraph Regards Rui 1 Army General Staff, 34 years old any the Beijing Government Minister of the Department of the Army, 36 years old any of the State Council, secretary general of the Beijing government. he is a go-getters of the northern warlords the Wanxi leader Duan won Duan high regard. fact, Chang Tso-lin and Xu Shuzheng not start mutual hatred. exchanges between them, can be roughly divided into three stages: the first stage, the honeymoon period of use of each other; second stage, the battle of mutual hatred; Stage 3 the attempted assassination period. (L $ dj¦Ó.c¨­m) <br> Xu Shuzheng personal letter <br>'
+);
+
+?>

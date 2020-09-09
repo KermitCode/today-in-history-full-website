@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1314-11-29
+	create time:2013-01-02 01:54:58
+*/
+
+return array(
+'title'=>'The death of the French king Philip IV',
+'class'=>3,
+'cont'=>'November 29, 1314 (Jiayin October 22), the death of the King of France, Philip IV. <br> <br> Philip IV (handsome man) Philippe le Bel (1268 -1314 years November 29) France King Capet dynasty (1285 -1314 year reign), the Navarra King (1284, known as Philip I). He Capet dynasty late one of a series of powerful monarchs. Philip IV power or even forcing the Vatican to yield a century later, Pope resident moved to Avignon, France. Philip IV <br> basic policy is a continuation of the Capetian dynasty ancestors established practice, the suppression of feudal princes and strengthen the powers of the king. In 1284 he succeeded to the throne before of Navarre Queen Juana I married Capet dynasty crown of Navarre. Navarra royal champagne hereditary lords, it will also lead to falling into the royal family in the hands of the champagne this important feudal. So Philip IV has ascended the throne after the territory is sufficient to support his action to establish the absolute authority of the king. In the fight against all enemies, Philip IV was tenacious, cold and cruel. Philip IV <br> 1294 is intrusion the Plantagenet key territories in France Keane (Aquitaine), hope annexing here. King of England, Edward I, then in 1297 crossed the sea to attack France, 1300, the French army has actually been driven from their capture of the site. Philip IV and Edward I, the conferences, the latter still has Gascony and France with Philip&#39;s sister Margaret married. After this setback, Philip IV in 1308 and 1312 successively mergers the An Guwa and Lyon. Territorial expansion and expanding source of income since 1300, Philip IV sustained offensive in Flanders. French military defeat in the 1302 war, but in 1304, defeated the Flemish people. Philip IV of Flanders ambition achieved only limited success. Because these wars, he took a variety of means exacting, including the expulsion of the Jews and confiscated their property in 1306. <br> 1296 -1303, the Philip IV advocate religious right is higher than the the kingship of Pope Boniface VIII serious conflict. Access to the nobility and urban residents to support his struggle with the pope, Philip IV was the convening of the first three conference on the history of France. The result of the conflict, resulting in the Vatican in years actually controlled by the king of France. <br> is likely due to the requirements of Philip IV, the Pope announced in 1312, the most important one of the monks, the Knights of the Knights Templar heresy. Banned Knights Templar may bring huge benefits for Philip IV, the Knights have amazing wealth. Philip IV banned the Knights Templar and a member of the brutal killing of (mostly to be put to death for heresy charges). <br> Review: French history as powerful monarch <br>'
+);
+
+?>

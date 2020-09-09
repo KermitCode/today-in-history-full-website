@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1986-5-11
+	create time:2013-01-01 22:15:29
+*/
+
+return array(
+'title'=>'&quot;Pronouns of cases,&quot; Professor Xia Chengdao&#39;s death',
+'class'=>3,
+'cont'=>'April (Bingyin third), May 11, 1986, the death the Pronouns cases, \"Professor Xia Chengdao. the <br> \"pronouns cases the death of Professor Xia Chengdao\" target = \"_blank\"> Xia Chengtao In May 1986, China&#39;s famous words sociologist Professor Xia Chengdao illness died in Beijing. word Qu <br> Mr. Xia Chengdao Zen, late Qu beard, was born in 1900, Zhejiang Wenzhou. graduated from Wenzhou Normal School in 1918. liberation ARTS successive Hangzhou Zhijiang, Zhejiang University professor after the liberation of a former Chinese Academy of Literature Adjunct Research Fellow Institute, Chinese Academy of Language and Literature Research Center of Zhejiang Branch Director and researcher; editorial board of the literary magazine, the editor-in-chief of the \"word study\" Chinese Tang Dynasty Literature Association adviser he was the CPPCC Zhejiang Provincial Committee of the Chinese Writers Mr. Xia Chengdao the Association. <br> known as \"word learning guru\", before and after the 30-year-old who specializes in word learning, Hong Bo intensive, played a significant role in the development of the word science in China. his the side inherited successive word learning of a face traditional word learn made many pioneering and innovative, to test letter realistic attitude research body of the word, the word music, word law, and the word history, greatly expanding the field of word study, word learning to science , systematic and theoretical track made outstanding contributions. <br> crystallization of the writings of Mr. Xia Chengdao lifelong effort nearly a million words, word monograph published nearly 30 species, more than 100 papers is not compiled and there are a variety to be compiled and published the writings of the Tang and Song chronologies, Tang and Song FORUM \",\" ginger Whitehead word chronological ¼ã school \"are rare since the word school Monumental He also created a lot of poetry, its representatives as \"Xia Chengtao word set\", \"day wind Court poetry\", and write a unique \"day wind COURT learn word diary\". Xia Cheng Dao Mr.&#39;s academic achievements to get international height evaluation. < ; br> from teaching 60 years, Mr. Xia adept incentives talent, foster backward. peaches and plums walls and doors, a large pool toast. however, he \"started the trend for the division, never to the teaching profession itself out of the Charpy subglottic are deeply give without constraints, some of the independent development of the academic Mr. Xia is a dedication to the motherland nurture talent mentor attracted foreign scholars came all the way to the study of Chinese classical poetry came to him and ask for advice a constant stream. now his students throughout the world. <br>'
+);
+
+?>

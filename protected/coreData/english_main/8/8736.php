@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1943-9-8
+	create time:2013-01-02 00:27:08
+*/
+
+return array(
+'title'=>'Italian unconditional surrender',
+'class'=>0,
+'cont'=>'On (Ram August ninth day), September 8, 1943, the unconditional surrender of Italy. In In 1943, the Allied landing in Sicily forced the collapse of Mussolini&#39;s fascist government, composed by 巴多格利奥, the new government began secret negotiations with the United States and Britain, but in whether \"unconditional surrender\" on the issue of bargaining, repeated delays, Hitler get plenty of time to strengthen its forces in Italy. In early August, Rommel led his troops across the border into northern Italy, to support the the Kesselring Marshal stationed in southern Italy, eight German divisions. seizing Sicily <br> the Allies on August 17, decided to continue to attack the Italian mainland. Ground assault troops commanded by British General Alexander 15th Army Group, under the jurisdiction of Montgomery&#39;s British Eighth Army, and Clark commanded the U.S. 5th Army. <br> 9, the representative of Italy and its allies on behalf of the secret signing of the Armistice Agreement, the early hours of the morning, the British Eighth Army, Gap narrow Strait of Messina from Sicily tide, landed in Italy&#39;s Apennine peninsula south of the Italian fast advance. <br> September 8, the Allied commander, General Dwight D. Eisenhower and Italian Badoglio government respectively broadcast truce declaration of announced Italy unconditional surrender. Since then, German, Italian, Japanese fascist axis actually disintegration. <br> 9 am, Clark commanded U.S. Army landed at Salerno Bay. Alert the Germans have already heard the news that 800,000 Italian Army immediately disarmed and arrested a large number of officers of the Italian Army, and occupied Rome on September 10, control of the south to Naples, Italy native. Italian king and 巴多格利奥 fled by submarine to flee to the southern end of the Allied occupied territories. September 13, Hitler sent SS commandos will be imprisoned in the Gran Sasso Peak Hotel Mussolini rescue, followed by Mussolini in support of Hitler, was established in northern Italy \"Italian Social Republic & rdquo ; puppet 巴多格利奥 government of confrontation. Reference October 13 巴多格利奥 government officially quit the Axis alliance, declared war on Germany. , British, American, and Societ Union government also issued a declaration recognizing Italy to jointly combat party. (L $ djτ.ЙЁT) In June 1944, the liberation of Rome. Allied forces in the Italian campaign, a total of more than 320,000 casualties in 65.8 million people, wiped out the Germans. <br>'
+);
+
+?>

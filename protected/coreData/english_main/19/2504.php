@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1279-3-19
+	create time:2013-01-01 22:09:15
+*/
+
+return array(
+'title'=>'Lu Xiufu back the young Emperor Touhai martyred Southern Song perished',
+'class'=>3,
+'cont'=>'March 19, 1279 (JiMao February sixth days), Lu Xiufu back the young Emperor Touhai martyred Southern Song perished. <br> the of Lu Xiufu and Shaodi? m like <br> Yuan Jun Gongpo Lin&#39;an, divide our forces to catch up Song. (On TodayOnHistory.com) Southern Song Dynasty Minister Lu Xiufu, Zhang Shijie, Wen Tianxiang, etc. crowned 8-year-old Wei Wang Zhao? M doing emperor replaced reign Xiangxing, moved to Guangdong Xinhui County South 80 Caspian island?? Mountain. Difficult terrain, you can cling to. Official, China, and soldiers are still over 20 million, mostly living in the boat. Shanan and Guangdong people also have to respond. Yuan government sent the army of Mongolian and Han shunt into the soldiers, Zhang Hongfan attacks Zhangzhou to Danzhou Shi tide benefit 3 states, Li Heng to Buji attack Guangzhou, Ali Hague Mongolian soldiers to attack Qiongzhou. <br> 1279 In the spring, Zhang Hongfan rate navy into the passage of any mountain. Zhang Shijie stick to knot boat. Yuan military burnt Song boat home on board painted wet sand, fire burn one o&#39;clock vain. Zhang Hongfan send someone to the house boat and said that in addition, Zhang Shijie, and no one should be by military and civilian. The Yuan army guarding the sea, off the south of the water, the Southern Song Junshi eat the main stream to drink seawater, causing vomiting, diarrhea. Zhang Hongfan the army was divided into four groups. Offensive multiply when the lake rose to ship. <br> Southern Song Dynasty army north and south by the enemy, March 19, 1279 (Southern Song Xiangxing 6 early February 2012), Lu Xiufu back Zhao? m Touhai martyred death of the Southern Song Dynasty. Zi Jun of the (lsjt.net) <br> Lu Xiufu (1236-1279) real, Chuzhou Yancheng, CKI Lane (now Jiangsu Province, the Jianhu xiangyangzhen) people. Late Song politicians, and Wen Tianxiang, Zhang Shijie and called the \"Late Song three heroes. (Lssjt.cn) <br> Zhang Shijie (? - 1279) famous Southern Song Dynasty, Zhang Sophie nephew, Jin Du Road, Zhuozhou Fan County (now Zhuozhou City). Mongol gold, Zhang Shijie defected to the Southern Song Dynasty, became the most important of the commander in chief of the Southern Song Dynasty. \"Song\", said: \"Zhang Shijie, Fan Yang. Less from Zhang the soft Shu Qi, guilty, then Ben Song. Li Huai soldiers, nothing is renowned. \"Zhao? M even ordered and Zhang Shijie do TaiFu (emperor teachers). Zhang Shijie was ordered to hang on Royal Park?? Mountain, also ordered the massive construction projects to the people, for the Queen Mother, the emperor built the palace, also used the opportunity to teach war spare Zhao? M literacy. Zhao? M also very obedient, Zhang Shijie say what he would do. (有身d芋y身里h貝 $ 而身ry.c身m) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1907-6-17
+	create time:2013-01-01 23:02:25
+*/
+
+return array(
+'title'=>'United League of internal differences, of Zhang Binglin with Sun Yat-sen opposition',
+'class'=>0,
+'cont'=>'The May seventh day) (DingWei years, June 17, 1907, the United Democrats of internal differences, Zhang Binglin and Sun Yat-sen opposition. <br> 1907 17, Sun Yat-sen in Hong Kong for the launch domestic revolution, sent the Japanese Kayano 2,000 buy the Murata-fast gun back to Japan, with a bomb of 600 rounds each. <br> Murata fast gun is outdated weapons, things the Hirayama and Tasaburo, Kita Ikki Japanese friends learned that convey Zhang Binglin and Song Jiaoren Zhang Binglin big anger, said: \"Sohn purchased arms Murata, this formula not long ago in Japan, used the Chinese comrades went not so vain lost their lives? Visible Sohn is really not the truth, we want to destroy him! \"<br> So of Zhang Binglin diameter clearly telegraph to hit Hong Kong, China Daily, said mechanically inferior and difficult to use, please stop to purchase another. Sun Yat-sen think he leaked military secrets, very angry, they condemned write to the headquarters by Hu Hanmin Zhang Binglin, vowed to enforce discipline. Then also sent Lin Wen return to Tokyo, prohibited Zhang Binglin, Song interfere with military issues. the <br> Sun Yat-sen and wrote Miyazaki Torazo, said that since then no longer trust the the Hirayama weeks Kita Ikki, Hotan work in Japan to be one of Miyazaki force any of its difficult \", the United League headquarters, China newspaper people, without whom deliberations. the <br> Liu Coyett, and thus communicated Huang Xing, wrote to von freedom, Hu reference Wanfang guilty of the crime in one of the warnings, Feng, Hu take the blame and apologize to persuade Sun Yat-sen to Tokyo United League headquarters. Sun Yat-sen reply: \"disputes within the party, but the fact is sufficient to solve, without taking the blame and the reason at all. \"And said that, from the prime minister post, but it must be acknowledged in the United League headquarters and Zhang Binglin wrong when. <br> Huangxing written reply that: \"the revolutionary force party members and issues of life and death, rather than personal fame. Sun Premier respected gentlemen such as seeking revolution was successful, and begging not to be misunderstood and attracted to uphold, and Free trap Hing unjust. \"The the Huangxing attitude quell the infighting of the United League. Sun Yat-sen Since then, no longer willing to say in the United League headquarters, United League organization then increasingly lax. <br>'
+);
+
+?>

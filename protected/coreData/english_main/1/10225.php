@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1911-11-1
+	create time:2013-01-02 01:54:41
+*/
+
+return array(
+'title'=>'Shanghai Guangfu, ho military captaincy of Shanghai',
+'class'=>0,
+'cont'=>'November 1, 1911 (September 11), Xinhai Guangfu, ho military captaincy of Shanghai Shanghai. <br> ho In November 1911, the Shanghai revolutionaries decided on the evening of 3 uprising. Ho Israeli government on behalf of the appointment book Shanghai civil affairs chief, Li Ping and Wu Ting-fang served as Minister of Foreign Affairs. The afternoon of the 3rd, Zhabei police officers Chen Hanqin mobilize people occupied Patrol Administration, the Zhabei First retrocession. Afternoon, business groups, students, death squads in the Huxi nine acres of land pledging, ho rate Battalion Go to seize Manufacturing Bureau. Ho inside alone to persuade the soldiers to surrender, was seized. The uprising masses rise up attack, throwing bombs. 4 am, will eventually manufacture Bureau of occupation, the ho the survivors, Li Xie and pushed interim commander-in-chief. Li Ping the book Home Total Length identity Notice Anmin. 6, 2009, the Shanghai Army Military Government was established, ho pushed Shanghai military captaincy Dudufu Command length by Chen concurrently, Huang Fu any of the General Staff of Ministers, button Wing built any military affairs Minister, Wu Ting-fang as Minister of Foreign Affairs, Li Ping book knowing of, Shen unadorned cloud as the Secretary of the Treasury, Wang Yiting Transport Minister Mao Zhongfang Secretary of the Navy. [History today. Cn] <br> followed by Shanghai established a republican construction, to push Yao Zailiang as president. Proposed the establishment of a republican form of government, social reform political platform. Yao Hui, Cheng Ying, etc. initiated female profession Association Sponsor will, around and Overseas Chinese donations to support the South China Army, and established Shanghai Women&#39;s Northern Expedition death squads, Shen Police sound any captain, a member of more than 70 people, to launch women to join the army in politics and help the militia combat. Zhou Lu, Sun Xinqi initiated the formation of the the intercalated China Northern Expedition group compiled student, Too Late the two teams march to retake the north and south Beijing \"for the purpose of\" speed line. Another by Hehai Ming, Hu Yang initiated the establishment of aid Hubei group of volunteer Daredevil, push Chen blood Cen as the chief representative for the purpose, to the early reply Jianghan destroy Youyan, get rid of the republican all obstacles. after <br> Revolutionary Army occupied the Road Department <br> Shanghai uprising success, Nanjing Road colored flags fluttering in the breeze <br>'
+);
+
+?>

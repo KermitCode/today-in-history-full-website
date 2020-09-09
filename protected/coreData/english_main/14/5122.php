@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-5-14
+	create time:2013-01-01 20:53:06
+*/
+
+return array(
+'title'=>'France Carpentras events',
+'class'=>0,
+'cont'=>'May 14, 1990 (April 20) Gengwu France Carpentras events. <br> 1990, Paris, 14, 200,000 people marched angrily condemned the anti-Semitic crimes committed by a handful of people. Ruling of President Fran&#231;ois Mitterrand, the person in charge of the Rocard prime minister and parliament, political parties participated in the march. A Jewish old man said, his family died in concentration camps after the war he lived for decades, and have never participated in political activities, and today, in the face of racist provocation, no longer was silent. <br> happened in a Jewish cemetery in the French southern city of Carpentras, May 9, 1990 to the 14th. Scene the two women Shangfen found a solemn past the cemetery was actually an appalling: tombstone rickety, broken marble pieces by, a encoffining the near elderly body was pulled from the coffin, the body is poked on a sun umbrella ...... graves smashed as many as 34. 14 days in Paris and in the field, discovered three graves desecrated the spoilers still gravestone graffiti fascist mark. the <br> After the incident, the French national outcry. For several days, TV broadcast continuous information on the frame, newspapers speech, denouncing the extreme racist and anti-Semitic crimes committed by a handful of people. President Mitterrand called for the \"nasty behavior is\" incredibly tragic event \", and went to find the murderer Jewish Archbishop Joseph Seater Luke be punished. \" <br> Carpentras is the French Jews concentrated in the city. On May 14, the Jewish Archbishop presided over the scene in the cemetery a religious ceremony attended by tens of thousands of Jews, tributes to the victims. Some other French cities also held a similar event. One young man said, criminals can spoil elders siblings can be smashed gravestones, but can not stop the tide of the fight against racism. [1 $ dj¦Ó.c¨­m] <br> Since 1980, France has 9 similar events occurred. French media circles generally Carpentras events in France is not accidental. Since the 1980s, the French anti-Semitism as racism appear and development surge of neo-Nazism. The far-right organizations, led by Jean-Marie Le Pen, National Front representatives in this regard. They openly advocate the \"Franco-French\" anti-immigration. The opinion also believe that such crowding Semitic incidents are the result of the development of the French social crisis. Youth unemployment crisis, the gap between the rich and the poor, rising prices, deteriorating law and order, welfare insecurity problems, an attempt to seek sustenance from the Nazi spirit. They complain that the immigrants brought unemployment, extremely hostile aliens, driven by a small number of young people took to the road of neo-Nazism. (Lsjt.net) <br>'
+);
+
+?>

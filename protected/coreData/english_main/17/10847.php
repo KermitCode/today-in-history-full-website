@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1858-11-17
+	create time:2013-01-02 02:13:49
+*/
+
+return array(
+'title'=>'British utopian socialist Robert Owen&#39;s death',
+'class'=>3,
+'cont'=>'November 17, 1858 (October 12), Wu Wu, the death of British utopian socialist Robert Owen. the death of Robert Owen, <br> <br> \"target =\" _blank \"> Owen (Robert Owen, 1771 -1858, November 17), the British utopian socialists, is also an entrepreneur, philanthropist <br> Owen was born poor, worked as an apprentice, the manager, and later became a factory boss in his own factory initiative to shorten labor time, improve welfare conditions and raise wages. 1824 Owen bought 1,214 hectares of land in the U.S. state of Indiana to start a new harmony immigration area experiment, but the experiment failed. Irving first time in history reveals the causes of poverty proletariat, from productivity standpoint of public ownership and large-scale production of the close relationship he later raised advocate of communism. <br> most famous writings for a new social concept \"new moral world book in 1823, his entire property Indiana, in the United States to establish a \"New Harmony Village, the communist labor commune\" experimental. <br> education with productive labor combined, (而身d芋y身里h貝 $ 而身ry.c身m) Owen of human a major contribution of the treasure trove of educational theory., to foster the intellectual, moral and Sports-round development of the new generation, education and productive labor combined. <br> Owen advocates the establishment of the education system to universal education, implementation of education legislation. \"educate the next generation is the most significant thing,\" the highest interests of every country, governments around the world, \"\" an overriding mission-critical in order to make Owen every child background of working people especially children, from birth to the best education (history today www.lssdjt.com) Owen advocate shall immediately arrange for the working class of a national education system, the adoption of a joint of all the poor and the working class of the Kingdom of the Education Act. \" (L $ dj而.妨壯T) Owen also detailed enumeration of the specific terms of the Education Act, such as the determination of the leading candidate of the education sector, teacher training, and the expenditure of funds; teaching content, teaching plans, teaching methods; family education and social education and so on, and argumentation and elaborate the reason of the legislation. <br> Review: \"father of modern personnel management, one of the three utopian socialists <br>'
+);
+
+?>

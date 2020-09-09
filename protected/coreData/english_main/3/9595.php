@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1928-10-3
+	create time:2013-01-02 01:31:13
+*/
+
+return array(
+'title'=>'National Government to declare the period of political tutelage',
+'class'=>0,
+'cont'=>'(Boshin August 20), October 3, 1928, the National Government to declare the period of political tutelage. <br> 1928 10, 172 KMT Central Standing Committee meeting and announced the \"political tutelage Programme, a total of six. The basic contents: a period of political tutelage by the National People&#39;s Congress of the Chinese Kuomintang leadership nationals exercise regime, the regime has entrusted the Executive Committee of Chinese Kuomintang Chinese Assembly intersessional. In accordance with the election of Sun Yat-sen&#39;s \"Reconstruction\", recall, initiative, referendum four kinds of political rights, gradually introducing training nationals. The right to rule is divided into executive, legislative, judicial, examination, monitor five entrusted to the National Government Overview perform. 4. Guidance and supervision by the Central Executive Committee of the Chinese Kuomintang political meeting major State for the purposes of National Government. <br> the same day, the KMT Central Standing Committee have formulated and adopted five unicameral governmental organizations. The provisions of the National Government, under the supervision of the KMT Central Political Council \"dominate the governing power of the Republic of China\". National Government by the Executive Yuan, the Legislative Yuan, the Judicial Yuan, the Examination Yuan, the Control Yuan of the five branches. 8, the Nanjing government announced the National Government Organization Law, on the same day by the KMT Central Standing Committee appointed Chiang Kai-shek, Tan Yan? Hu Hanmin, 16 members of the National Government, Chiang Kai-shek as the chairman and the land, sea and air military commander-in-chief of the National Government, Tan Yan ?, Hu Hanmin, Wang Chong-hui, Cai Yuanpei, Dai points to any of the Executive Yuan, the Legislative Yuan, the Judicial Yuan, the Control Yuan, the Examination Yuan Dean. 10, 2009, Chiang Kai-shek in Nanjing, the KMT headquarters auditorium held a swearing-in ceremony. (History TodayOnHistory.com) October 26 <br>, National Government issued a declaration. The Declaration claims that the military and political period has ended, the tutelary period has already begun. The launching of the period of political tutelage, the key lies in the implementation of the Industrial Plan. And social stability, and the troops to save money section rates and organize finance for Industrial building two prerequisite. Political construction, economic construction and education building is the main content of the actual construction of the three. <br>'
+);
+
+?>

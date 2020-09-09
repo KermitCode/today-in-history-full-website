@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1982-9-1
+	create time:2013-01-02 01:08:03
+*/
+
+return array(
+'title'=>'The 12th CPC National Congress Party Central Committee is no longer a chairman only set general secretary',
+'class'=>0,
+'cont'=>'(Saigon July 14), September 1, 1982, the 12th CPC National Congress Party Central Committee is no longer a chairman only set general secretary. the <br> Congress venue <br> 1982 September 1, 2009, the Twelfth National People&#39;s Congress of the Communist Party of China opened in Beijing in the morning. Deng presided over the opening ceremony and delivered the opening, Hu Yaobang on behalf of the Central Committee entitled \"Comprehensive create a new situation in the socialist modernization\" of the report. He pointed out that the overall mission of the Chinese Communist Party in the new historical period: to unite the people of all nationalities, self-reliance, hard work, the progressive realization of industry, agriculture, national defense and science and technology modernization and build China into a highly civilized, highly democratic socialist country . 6, 2009, the General Assembly adopted a resolution on the report of the Eleventh Central Committee of Hu Yaobang&#39;s report was approved. Adopted a resolution on the Constitution of the Communist Party of China \". The new Party Constitution stipulates that the CPC Central Committee is no longer a chairman only set general secretary. The morning of the 11th General Assembly to elect the 210 members of the Central Committee of 172 members of the Central Advisory Commission, 138 Central Committee alternate, the Central Commission for Discipline Inspection of 132 members. General Assembly adopted a resolution on the work report of the Central Commission for Discipline Inspection, Xiannian closing statement. The second session of a plenary session was held on the 12th. The meeting elected Deng Xiaoping, Ye Jianying, Li Xiannian, Chen Yun, Hu Yaobang, Nie, Xu Xiangqian, Peng Zhen, 25 man-made member of the Political Bureau of the CPC Central Committee: Yao Yilin, Qin Jiwei, Chen Muhua as alternate member of the Political Bureau of the CPC Central Committee. Miles, Xi Deng Liqun, Yang Yong, Yu Qiuli, Gu Mu, Chen Pixian, Hu Qili, Yao Yilin, the CPC Central Committee. Qiao Shi, Hao alternate secretary. Election Hu Yaobang as general secretary of the Central Committee. Hu Yaobang, Ye Jianying, Deng Xiaoping, Li Xiannian, Chen Yun, a member of the Standing Committee of the Political Bureau of the CPC Central Committee. The meeting decided to Deng Xiaoping as the Chairman of the Central Military Commission. Ye Jianying, Xu Xiangqian, Nie, Yang Shangkun as Vice-Chairman. Yang Shangkun as Executive Vice President. <br> Ye Jianying (right), Deng Xiaoping in conversation the twelve representatives <br> purchase celebrate XII convene stamps <br> of twelve rest'
+);
+
+?>

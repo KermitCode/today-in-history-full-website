@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2007-8-8
+	create time:2013-01-02 00:18:33
+*/
+
+return array(
+'title'=>'The opening of the 24th World University Games',
+'class'=>0,
+'cont'=>'August 8, 2007 (June 26), Chinese New Year, the opening of the 24th World University Games. In In August 2007, 80 colorful angels ascending and descending, the Kingdom of Thailand&#39;s most unique white elephant - the teeth through slow line 40 riding knight valiant, brilliant fireworks far and near, the Universiade the delegation Jianbu Admission. (? V history today?? Com) <br> they are young people, they supple skill, they are in their prime, they want to Hui Fang exclusion Emirates. \"ALL BECOME ONE\", one world, the much-in-one. Young people around the world united together, is to promote a new impetus to the development of the world. On evening of <br> 8, the opening of the 24th World University Games in Bangkok. This the exquisite oriental culture, brilliant religious art and modern science and technology in a great city, to usher in the the 158 delegations 12,000 people attended this youth sports event. In In 8 at 20:00 local time on the whole, the start of the 24th World Universiade theatrical performances. the <br> strong bursts of drums, the ground covered with starry. The ancient sailing in the waves of the sea of &#8203;&#8203;humanity through the waves coming bow drum is anxious, the wind is Yifan hanging. Heaven and earth have good news, gave birth to a new world power. The identity of the other brightest players at random while sitting, laughing, whims and African dance, moving to a period of admission after to jump an Australian operation. The surging foot drums, crisp triangle bell, melodious long Xiao Di, unity sounds, welcome guests, sports build future New World. Different cultural backgrounds, such as the magical colors in the field, a great deal of diversity. The sport of <br> activities people can work together the best performance of human unity. Sports as a can of different nationalities, different groups of people linked to the international language. Juggling, BMX, hip-hop, the innovative new sports movement, reflecting the rich imagination of young people, Superman creativity and surging power forward, people&#39;s blood boil. the venue of <br>, the huge model changing with magnificent lights, cute the auspicious cartoon rabbit haunting. Flowery fireworks sky, on behalf of youth vitality. (Lssjt.cn) <br> Bangkok tonight will not go to sleep, looking forward to tomorrow Universiade exciting performances. Youth, such as the rising sun, today Universiade encounter bound achievements of the Beijing Olympic Games next year memorable friendship. Today the first test of the skill of the Universiade, pregnant with the classic moments of the Beijing Olympic Games next year. <br> Review: of Thailand really good <br>'
+);
+
+?>

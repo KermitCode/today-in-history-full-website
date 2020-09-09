@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1578-8-4
+	create time:2013-01-01 23:53:30
+*/
+
+return array(
+'title'=>'Portugal&#39;s King Sebastiao drowning in Mahajanga River',
+'class'=>0,
+'cont'=>'August 4, 1578 (two days) July Tiger years, the Portuguese King Sebastiao drowned in Mahajanga River. Sebasti&#227;o I, <br> <br> Sebasti&#227;o (1554 1 20 4 August 1999 -1578 years ago has been 434 years), was born in Lisbon, Portugal, the first 16 King Joao III of the Sun. (L $ dj¦Ó.§«§§T) Joao Prince and Charles V&#39;s daughter Juana&#39;s only son. Because his father died young, two weeks before he was born, so he became the successor of the Portuguese throne, his succession to the throne after a period of three years. When he was a baby, by Katrina, belonging to the Spanish Habsburg grandmother Regent, after 1652, by the Duke of tert-Zuai Evora Cardinal Enrique regent. During this period, the Portuguese empire extended to Angola, Mozambique, Malacca and Macao. [L $ j¦Ó.c¨½] his childhood by the profound impact of the Jesuits, a mystic, and had tried for a long time hunting and fasting. His physical and mental suffering from the disease rarely ask the conduct of public affairs, and all day to indulge in occupation and expansion of Christianity dream. He believes he will become a commander of the African Muslim conquest in the name of Jesus. His top priority is the occupation of Morocco. <br> his reign in 1568, shortly after the foreign crusades, and in the case of no heirs, he set out for a jihad in Fes, Morocco, Philip II of Spain refused to take part in this war, and his daughter Sebastiao wedding adjourned. In 1574, his first offensive Morocco shall fail, but his fanaticism no less. The summer of 1578, he was ready for an invading army, the lack of army combat effectiveness, lax discipline, organizational laxity. Even hand he waste with Morocco Sultan Mohamed ÄÂÌ©Íß»ùÀÕ-led army landed in Tangier, he refused to accept the recommendations of the men deep into enemy territory alone. Aug. 4 and the Moroccan prime µ¤°¢²·¶Å¶û Malik in of Mahajanga River near Al Kassel ¡¤ Ji Bier (Al Quasr al-kibr) I launched the most bitter battles in the history of Portugal. The Moroccan army equipment is slightly inferior to a remuneration, but very ferocious attack, the Sebastiao led the Portuguese army had to retreat, when he crossed Mahajanga River, drowning, aged 24 years old. Abdullah Malik I died the next day due to serious illness (history www.TodayOnHistory.com) war in history known as the \"Battle of Three Kings. <br> Comments: Portugal Patriots in the eyes of the legend, \"the sleeping King. <br>'
+);
+
+?>

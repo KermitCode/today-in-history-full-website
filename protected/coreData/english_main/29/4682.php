@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1830-5-29
+	create time:2013-01-01 22:45:38
+*/
+
+return array(
+'title'=>'The Paris Commune heroine Michelle&#39;s birthday',
+'class'=>4,
+'cont'=>'(Summer of Gengyin-eighth day of April), May 29, 1830, the Paris Commune heroine Michelle&#39;s birthday. January 9, 2011, <br> 1905 (lsjt.net) French heroine of the Paris Commune, the birth of Louis Michel \"target =\" _blank \"> Michelle died in Marseille, her body was returned to Paris , the people of Paris, with a lofty tribute held a grand funeral for her. (on TodayOnHistory.com) <br> Michelle was born on May 29, 1830 in France furlongs Gul Castle Marne here from Britain and France during the Hundred Years War heroine Joan of Arc hometown just a few miles from the Normal School graduate, she do not want to swear allegiance to the Government of the Second Empire, are not allowed to teach in public schools, returned to his hometown to do a private lived a very poor life. French outbreak of the great revolution of the Paris Commune in 1871, she was actively involved in the revolutionary struggle, and many women join the barricades, commune \"Bulletin praised as revolutionary heroine. <br> commune failed, she once escaped the raids of the enemy. taken away by her mother, in order to rescue the mother, she voluntarily surrender after Versailles molecules in prison, her morally contempt for the enemy all the threats she said firmly : \"We have all these 1871 people are good at to meet death and unafraid of death.\" enemy trial, she refused to lawyers defense, said: \"My whole body is a social revolution, I declare that I want to own all actions responsible for. \"She fearlessly requirements together with other comrades died in the execution ground. her grim declared:\" If you let me live, I will constantly call for revenge! \"her awe-inspiring righteousness shocked out of court in the second day of the trial, the famous writer Victor Hugo wrote for her than men great poems. a (l $ dj¦Ó.¨­r¨À)] <br> court judgment Michelle exiled. In December 1873, she was escorted to the French colony in the Pacific island of New Caledonia. exiles living conditions are very harsh, suffered all kinds of torture, but she was unwavering. sympathy for the sufferings of the people in the colonies, enthusiasm child literacy to teach local Kanaks her spirit by the admiration of his comrades-in-arms, known as \"red virgin\" in July 1880, the French government amnesty commune members, she returned to Paris, She is \"commune\" and \"Memoirs of a review of the course of fighting, the Acura Paris Commune revolutionary spirit. <br> the'
+);
+
+?>

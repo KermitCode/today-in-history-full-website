@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-6-22
+	create time:2013-01-01 23:34:39
+*/
+
+return array(
+'title'=>'Writer Xiao Jun&#39;s death',
+'class'=>3,
+'cont'=>'June 22, 1988 (, Boshin May ninth day), writer Xiao Jun&#39;s death. <br> Xiao Jun was born in July 1907 in Liaoning Province the Yixian shenjiatai Town Nianpan Village. As the family was poor, he only went to primary school. He began his military career in 1925 as a probationary officer, military and martial arts teaching assistant positions. Started his writing career in the army. 1932 (on www.TodayOnHistory.com) Xiao Jun Harbin pseudonym \"Saburo\" officially began his literary creation, and the underground Communist Party members, the progressive youth together to carry out the literary and artistic activities. After nearly a year of hard work, Xiao Jun&#39;s death \"target =\" _blank \"> Xiao Jun creation of the novel\" The performance of the anti-Japanese struggle of the Northeast People&#39;s Revolutionary Army in the village in August. Progressive literary and art circles, and the progress of the masses of this book unanimously praised, known as the literary side against the Japanese imperialist aggression banner Lu Xun is specially made for the book preface, he wrote: \"I&#39;ve seen several tells about the Northeast occupied fiction,\" eight the villages of the month \"that is a good one.\" <br> Japanese War broke out, Xiao Jun has been engaged workers amateur art teaching work and participated in the anti-Japanese movement in 1940, he arrived in Yan&#39;an, in Yan&#39;an five He was the Yan&#39;an branch director of the China Federation of literary and art circles against the enemy Association, director of the Director-General of Lu Xun Research, \"Arts Daily editor-in-chief, the Lu Xun Academy of Arts faculty rank, also took part in the the Yan&#39;an Forum. <br> National Liberation future , the Xiaojun continued to engage in research and creative work of literary art, opera Wuwangfazhou \", the novel\" May mine, \"past era\" and so are his works of this period. <br> Cultural Revolution persecution, Xiao Jun, had been held for as long as eight years after the smashing of the \"Gang of Four\", his return to the literary world, finishing more than 800 first poetry Old annotated Xiao Hong, Lu Xun&#39;s letter to him in 1979, Xiao Jun attended the 4th Congress of the Chinese literary and art workers, elected Quanguowenlian members, China for the Association June 22, 1988, Xiao Jun unfortunately died, his will to the family said: \" is a poor scholar, did not leave any property. donate a little meager savings hometown own heritage, the book will be donated to the Liaoning Jin County Xiaojun Archive and the cultural sector. \"<br>'
+);
+
+?>

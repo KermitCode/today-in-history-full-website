@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1936-9-29
+	create time:2013-01-02 01:06:42
+*/
+
+return array(
+'title'=>'Italian Prime Minister Silvio Berlusconi was born',
+'class'=>4,
+'cont'=>'September 29, 1936 August 14 (Rat), Italian Prime Minister Silvio Berlusconi was born. Silvio Berlusconi (Silvio Berlusconi), <br> September 29, Sunrise, 1936 Born in Milan, a bank staff family. He has a middle-dwarf stature, dark brown curly hair and smile normally open weekdays, hospitality and adventurous spirit. However, the children of the Milan ordinary bank staff childhood reveal the amazing business acumen. The student Berlusconi fully shows his business talents, high school, to help the less advanced students tuition to earn pocket money, but if his tuition students failed the exam, Fenwenbuqu. Learning into the judicial department of the University of Milan University law graduate. College, good Chuiladanchang along with several students organized a four-member band performances in schools outside their own money on University. (Lssdjt.cn) <br> 1960 began working in the construction industry. Established in 1962, the first company in Milan joint site company. \" Builders since become famous, and was awarded the title of the Republic of Italy, the Knights of Labor, has the alias of \"Knight\". Began to shift in the late 1970s, the media and telecommunications industry, created in 1978 family business 煤譴峇佴杻 Group chairman. Founded in the 1980s, Italy&#39;s first national private television station Channel 5, then buy the Italian television and TV 4 \", has three television stations, the TV magnate. He controlled in the 1970s, \"Today News\" was purchased in the 1980s, Italy&#39;s largest-circulation magazine, \"smiling and TV Music Weekly to enter the munda Dorian Publishing Group, 1989, (而身d芋y身里h貝 $ 而身ry.c身m) and its development Books Publishing Group, Italy&#39;s largest. In 1986, he was appointed the Chairman of the AC Milan football club. Been \"Forbes\" ranked 14 of the world&#39;s billionaires. In 1994, entering politics, created Forza Italia, he served as party chairman. In March of the same year, Berlusconi in combination with other right parties win in the 12th parliamentary elections, formed in May 53rd Italian postwar government and served as prime minister. Resignation in January 1995. In April 1996, he led the center-right coalition in the parliamentary elections to become the second largest party. In May 2001, he again won the election victory, arbitrary the postwar the 59th Prime Minister in June. Resigned on April 20, 2005, the then Prime Minister again, to form a new government. <br> Review: famous romantic the \"Pui mouth\" <br>'
+);
+
+?>

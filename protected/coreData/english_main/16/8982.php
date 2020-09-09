@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-9-16
+	create time:2013-01-02 01:10:46
+*/
+
+return array(
+'title'=>'East China Field Army launched Jinan Campaign',
+'class'=>0,
+'cont'=>'September 16, 1948 (Lunar August 14), the East China Field Army launched Jinan Campaign. <br> commandos through a breakthrough to the Jinan city initiated the assault <br> 1948 09 16, 2009, the PLA East China Field Army launched Jinan Campaign, ends after 10 days of fierce fighting victory. This war, the F KMT army to 10.4 million people. On September 9, the People&#39;s Liberation Army a self Jining march to Jinan. On September 10, the People&#39;s Liberation Army one from Taian to Jinan to enter. 17, 2009, the People&#39;s Liberation Army is a captured Various enemy peripheral stronghold. 18, 2009, the People&#39;s Liberation Army a F Kuomintang army reorganization the eighty-four Division one, close to the commercial port, the airport blockade with gunfire. In the dawn of the 20th, the People&#39;s Liberation Army occupied the commercial port west of Qilu University outside all positions, encroaching upon the city, the 23, the People&#39;s Liberation Army inward City general attack. Wang Yaowu led his troops in the desperate resistance, resulting in fierce fighting, assault nor successful. Adjusted deployment, at 2:00 on the 24th People&#39;s Liberation Army again launched a surprise breakthrough into the city at dawn ago. Wang Yaowu absconded in disguise captured, and was surrounded by the enemy to surrender. September 19 (lssdjt.cn) <br> East China Field Army of the PLA launched Jinan critical moment of the battle, the Kuomintang reorganization of the ninety-sixth Junjun president and division of the eighty-fourth, the Jinan West lines Commander Wu Hua-wen led his troops uprising. Wu of Ministry of Kuomintang troops in a motley crew. Communist China pay great attention to the fight Wu Hua-wen. After the war, the CPC has set up a special leading group responsible for the fight of Wu of work, well send people to Wu Ministry to carry out secret work. Wu Hua-wen after repeated hesitation and vacillation, the final determination of the uprising. September 16, Jinan battle started. On the morning of the 19th, Wu Hua-wen to request PLA receives Fangde of. At night, the route designated by the People&#39;s Liberation Army began to retreat. Jinan West line of Fangde to 21, were handed over to the People&#39;s Liberation Army. At this point, Wu Hua-wen rate reorganization the eighty fourth division one hundred fifty-one brigade the the one hundred sixty-one Brigade and ninth 36 independent brigades of about 2 million people uprising. <br> Wang Yaowu the captured <br> Shouguang County led the troops after the uprising of the Wu Wen (right) <br> entered in Jinan City People&#39;s Liberation Army < br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-6-3
+	create time:2013-01-01 21:58:50
+*/
+
+return array(
+'title'=>'Iran&#39;s religious leader Ayatollah Khomeini died',
+'class'=>3,
+'cont'=>'April 30 (Baba), June 3, 1989, Iranian religious leader Ayatollah Khomeini died. the <br> masses toward the coffin mourning <br> The exiled for 15 years for the elderly, launched his 78-year-old Islamic revolution, Iran&#39;s real leadership to become Iran religious leaders. From then on, he was trying to be a \"Western cultural alienation\" of the Islamic world to bring back Islamic fundamentalism \"on track\". (Lssdjt.cn) <br> After Iran into a political struggle, President Bani Saad, was ousted by Congress in exile, followed by his successor&#39;s Raj died in the bombings by Khomeini confidant Meinei Yi was elected president. <br> Khomeini to return the following year, the outbreak of the Iran-Iraq war will come to. Because both sides refused to make concessions, the war lasted nearly eight years after the ceasefire under the mediation of the United Nations, but has resulted in millions of casualties and damaged many foreign oil tankers traveling in the Persian Gulf. Reference in February 1989, the British writer Salman Rushdie&#39;s \"Satan Psalms book aroused the dissatisfaction of the Ayatollah Khomeini, issued a announced Khomeini sentenced British author Salman Rushdie to death\" target = \"_blank\"> order the killing of Salman Rushdie, the UK and Iran, two countries and thus broke off diplomatic relations. <br> extreme mobilize the world&#39;s most intense religious feelings against the West this \"invasion\" Modern most notorious dictators \"in the eyes of his sworn enemy, he is, and let Iran\" backwards centuries, but for the love of his people, but he is a can not alternative to God. either oppose or support him, people recognize: he is a knowledgeable, a very wise person, at the same time is an extremely frugal, compassionate hearts and minds of people. <br> thousands of Iranian desperately squeezed into the go trying tear yixingbandian and shroud to take home forever enshrined lose the spiritual leader of great sorrow, they still believe that the items close to him will be able to transfer his spirit. <br> ; June 5, 1989, this Associated Press London bureau photo was taken in as a religious leader Ayatollah Khomeini&#39;s funeral was held on the Iranians. the crowd manifested at this time of crazy and self-control impulse, performance infinitely sad to lose this seems to be able to lead them to achieve the victory of the revolution, the religious leaders. <br> Khomeini was accepted gastrointestinal bleeding after surgery two weeks of treatment, the condition suddenly deteriorated, died on June 3, He was 88 years old. <br> people frantically pushed his coffin before <br> just to tear off a small piece of shroud as enshrined thing <br>'
+);
+
+?>

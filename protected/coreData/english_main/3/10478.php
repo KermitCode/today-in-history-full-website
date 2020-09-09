@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-11-3
+	create time:2013-01-02 02:31:55
+*/
+
+return array(
+'title'=>'Bill Clinton was elected President of the United States',
+'class'=>0,
+'cont'=>'Ninth day of October (Renshen years), November 3, 1992, Bill Clinton was elected President of the United States. the <br> Clinton and his running mate, A - Al Gore, the former governor of Tennessee to celebrate the victory <br> November 1992, the quadrennial U.S. presidential election announced (history. cn ) Democratic candidate William - Jefferson - Clinton won an overwhelming majority. , (L $ j¦Ó.c¨½) will serve as the forty-second U.S. President to the White House. the <br> Clinton was born on 19 August 1946 in U.S. Southern Arkansas town of Hope. He grew up poor families, four months before the birth, his father died in a car accident, and childhood once by operating shops grandparents custody. <br> Clinton attending schools to study hard, the results are excellent. He graduated from Georgetown University in 1968 and a Bachelor of Arts degree and received a Rhodes scholarship to go to Oxford University in 2 years. After returning home, he test Ruye Lu University and received a law degree in 1973. After that, he taught at the University of Arkansas School of Law and a law practice. the <br> 1978, 32-year-old Clinton was elected as governor of Arkansas, then the youngest governor in the United States. In 1980, he ran for governor for re-election failed, but in 1982 he was re-elected governor of Arkansas, for re-election so far. Clinton is still the U.S. Foreign Relations Committee and a member of the Trilateral Commission. October 3, 1991, Clinton formally announced his campaign for the Democratic presidential candidate. <br> campaign, he raised the slogan of \"revitalization of the United States\". In domestic policy, the proposition to raise taxes on the rich, tax cuts for the middle class, to give preferential treatment in the tax on business investment; increase investment in education; implement conservative federal government spending policies. In foreign and defense policy, he advocated a substantial reduction of the armed forces and military spending, the Western allies to bear more defense obligations, also stressed that the United States should take on the world leadership duties against isolationism. <br> Clinton&#39;s wife, Hillary, was his classmate at Yale University, and his family was wealthy. In this election, she was the strength of his aides. They have a daughter. <br> 1963, Young Clinton and President Kennedy met so his firm determination of politics <br> Clinton with his wife and daughter <br>'
+);
+
+?>

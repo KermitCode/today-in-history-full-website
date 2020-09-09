@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1906-9-18
+	create time:2013-01-02 01:09:34
+*/
+
+return array(
+'title'=>'Hong Kong Heigo hurricane occurred.',
+'class'=>0,
+'cont'=>'(, Heigo In August, the first day), September 18, 1906, Hong Kong Heigo hurricane occurred. <br> Heigo hurricane occurred on September 18, 1906, the day a strong typhoon hit Hong Kong, causing about 15,000 people were killed, 1,349 missing and 220 people were injured, become the most serious in the history of Hong Kong natural disasters and record hurricane since most deaths. (L $ dj¦Ó.c¨­m) <br> According to the survey report, the typhoon is estimated in Hong Kong waters near the rapid formation of small diameter, but its strength Meng strong and mobile speed quickly, near the weather station in Hong Kong failed to reconnaissance abnormal condition, the age of the lack of equipment and technology of advanced weather forecast, the Hong Kong Observatory beforehand not to make an accurate forecast. According to the Observatory, 1906 Annual Report, the Observatory On the morning of 7 37 hanging black drum, said 300 miles gale, then 8:17 p.m. gun gales forecast harbor. However, the storm force wind reached the harbor after 6 minutes, the highest wind speed after an hour and a half more per hour 77 sea? The umbrella L¨· Reeling? The Babbler goblet the midges Aya ©³ security? Turns dagger pocket She? Fei Shao goblet Benedict Ping-dan?? Xin Chin? leaven minister fatigue? Xun of Weng ¨· constriction Cong bad o maintain just a few hours, but because the authorities have not made good enough time to wind measures and evacuees (especially the large number of offshore residents), resulting in about 15,000 deaths (accounted for about 320,000 of the population in Hong Kong was about 5%), and the other nearly 3,000 fishing boats and 670 ocean-going vessels sank in Hong Kong&#39;s history to lead up people were killed in the hurricane. China Guangdong Pearl River Estuary <br> shares Typhoon invasion, causing serious casualties and economic loss, it is also known as the \"1906 Pearl River Estuary typhoon. The [lsjt.net] <br> According to the records of the Hong Kong Observatory, in fact, in this two days after the hurricane and 10 days, that is September 20 and September 28 May, have also strongly Typhoon, September 20 the date recorded average wind speed for an hour 49 sea?? September 18th hour 45 sea?? September 28 recorded the highest winds of less than 78 sea?? September 18th hour 77 sea ??, but due to the Hong Kong Observatory to make timely and effective forecasting, so the number of casualties is less than more severe on September 18. (Lsjt.net case) <br> hurricane reached Victoria Harbour, the waves lapping the shore, Pictured stem Connaught Road waterfront <br> Royal gunboat Phoenix crash stranded < ; br> Comments: natural disasters, irresistible. <br>'
+);
+
+?>

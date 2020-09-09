@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-11-29
+	create time:2013-01-02 01:59:24
+*/
+
+return array(
+'title'=>'Kong Fansen killed in the line of duty',
+'class'=>0,
+'cont'=>'November 29, 1994 (Awake October 27), Kong Fansen line of duty. Kong Fansen <br> movies <br> Kong Fansen <br> 1994 November 29, 2010, Kong Fansen in border trade on the way to visit Tacheng, a result of a car accident who died, at the age of 50 years old. <br> Kong Fansen, the Shandong Liaocheng tangyi Wuli Dun village, enlisted in 1961, a glorious September 1966 joined the Communist Party of China, the 1967 demobilization back to Liaocheng, Liaocheng technical schools, she served as Revolutionary Committee, deputy director of the Communist Youth League Liaocheng Prefectural Party Committee Standing Committee of the CPC the Liaocheng Prefectural Party Committee Propaganda Department, Deputy Minister. In April 1979, Kong Fansen to the interests of the party and the country as the most important, consciously obey organizational arrangements, decided to abandon the old saying \"the Diocese in, do not travel to distant lands,\" farewell septuagenarian mother, sickly wife and three still at an early age of the children, the first from their homeland, to more than 4700 m above sea level hand the Tibet Autonomous Region Gamba County, a county deputy secretary, which lasted for three years. 1988, have any Liaocheng Deputy Commissioner of Administrative Kong Fansen away from their homeland, he served as the vice mayor of Lhasa. In December 1992, the second in Tibet has expired, due to work requirements, the regional party committee hope Ali area of &#8203;&#8203;any party secretary, he went to the more arduous conditions, he again homes \"Little House\" Gu \" any party secretary, remained, to be known as the roof of the \"roof of the world,\" Ali area. In less than two years time, the wealthy travel more than 80,000 km, traveled to 98 of the 106 townships in the region, Fangpinwenku research, seek the Ali region out of poverty, to achieve the revitalization of the road. However, the unfortunate thing happened, and November 29, 1994, Kong Fansen inspection at Tacheng border trade on the way, who died in a car accident, was only 50 years old. Kong Fansen comrades after the founding of New China, an outstanding representative of the outstanding leadership cadres generation grew up in the training and education of the Party. He has the interests of the whole, a strong party spirit of selfless dedication, love the people, serve the people&#39;s enthusiasm, hard work, integrity noble quality and pioneering spirit, realistic and pragmatic fine style. the <br> reports: \"Kong Fansen\" movie story excerpt <br>'
+);
+
+?>

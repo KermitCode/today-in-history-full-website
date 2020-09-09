@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1901-3-5
+	create time:2013-01-01 22:45:56
+*/
+
+return array(
+'title'=>'Chinese sociologists WU Jing beyond the raw',
+'class'=>4,
+'cont'=>'Fifteenth (1901), March 5, 1901, the Chinese sociologist WU Jing beyond raw. <br> sociologist. Anhui Huizhou (today Shexian),. Born March 5, 1901. May 7, 1968 and died in Beijing. Tsinghua School in 1915, admitted to the United States in 1923, enrolled into the University of Minnesota, and a bachelor&#39;s degree. 1925 to 1928 into the University of Chicago, and has won the Masters, doctorate. He returned to China in 1928, Ren Jinling University Professor and Chair of the Department of Sociology. 1931, he was appointed professor at the Department of Sociology, Tsinghua University, and urban economic survey. Serving in the National Government in 1935, and 1947 returns Tsinghua University, Department of Sociology, taught. His major works include: \"social organizations\" (1929), \"Urban Sociology\" (1929), \"Social biological basis\" (1931), \"the way out of a fourth country (1936),\" after the robbery disaster Li \"( 1947). In in 1952 after teaching at the Department of Economics of the Renmin University of China. 1957 Manner of Wu was wrongly classified as a famous social circles the rightist (1). Manner of Wu in his masterpiece, the way out of the \"fourth state\" theory of the development of the city to the relief of rural \". He divided the nations of the world in terms of population density and Occupational two standard 4 that China is the fourth country, lies in: the full use of domestic resources; improved production technology; implement equitable distribution; the temperance population, and to promote by mechanical production methods, to replace Kinniku production methods. He is a representative of one of the earliest sociology of urban sociology, focused on the research community, especially the urban society from an economic point of view, and also discusses the ideal city, and other issues. <br> Manner of Wu is one of the representatives of the earliest Chinese sociology of urban sociology. He focused on the research community, especially the urban society from an economic point of view. \"Urban sociology,\" a book he clarifies the scope of the study of urban sociology, research methods Western urban sociology, and clearly defined \"urban area\" and \"urban area\" two different concept that The metropolitan area includes not only the city itself, but also the city outside the vassal, while the urban area is mainly refers to the case of the city itself. He further discusses the ideal city, and other issues. <br>'
+);
+
+?>

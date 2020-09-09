@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1704-7-3
+	create time:2013-01-01 23:07:41
+*/
+
+return array(
+'title'=>'Russian female regent Sophia °¢ÁÐ¿ËÐ»Ò®·òÄÈ, died',
+'class'=>3,
+'cont'=>'July 3, 1704 (Jiashen June, the first two days) the Russian female regent Sophia °¢ÁÐ¿ËÐ»Ò®·òÄÈ, passed away. Sophia °¢ÁÐ¿ËÐ»Ò®·òÄÈ, <br> °¢ÁÐ¿ËÐ»Ò®·òÄÈ <br>&#39;s death \"target =\" _blank \"> °¢ÁÐ¿ËÐ»Ò®·òÄÈ (Russian: §³§à§æ§î§ñ §¡§Ý§Ö§Ü§ã§Ö§Ö§Ó§ß§Ñ September 17, 1657 -1704 on July 3) is a female regent on Russian history, Peter the Great&#39;s half-sister. reign Peter the Great, she tried to seize power fails, and Peter banished for the Nepalese until death. < ; br> Sofia Tsar Alexei I and his first wife, Maria Miroslav Kaya three women in 1682 his brother, the new Tsar Fyodor Alexeyevich mortality, Sofia in order to maintain the status of the mother&#39;s family Miroslav Sharansky family by shooting military forces launched musketeers coup legislation Ivan V and Peter I the same for the Tsar, his term of office regent she became regent after the time only 10-year-old half brother Peter and their mother a family exiled to Tsarskoye Selo;, Ivan V the low energy frail, and Vasily Gori Tianjin total dominion. <br> soon after in the same year, the the opposition rebellion, Sofia, and the government was forced to flee from the Kremlin to the Holy Trinity St. Sergius monastery for which she nominally forced to give up the regency seat to Ivan Fok Stravinsky, but in shooting Army support, she still retains the real power <br> Sofia in power, some concessions had to flee serfs cause landlords dissatisfaction. addition, she came to power during the Russian major major: 1686 signed a non-aggression pact with Poland; 1689 years Nerchinsk treaty signed with the Qing Dynasty; crusade was part of the Ottoman Empire in the Crimean Peninsula. <br> 1689 Peter I married and ready Chikamasa the Sofia does not intend to return political firing military leaders Shake Luo Vitti is suggested that she directly said Nvsha Huang. and shooting army mostly in Peter&#39;s residence outside Moscow, conspiring to know Peter. Sofia knew Paul, sent an emissary to plead Peter asked Peter to take care of the royal mutual affection. Peter is not move, the execution É³¿ËÂåÎ¬µÙ and exile Gori Tianjin. Sofia senate convince enter the Novodevichy Convent, in the case of official ceremony. <br> decades later, shooting army plot to multiply Peter abroad the opportunity to welcome Sofia complex right but Peter quickly back to insurgency. the suspicion which Sofia is so officially Niger, and in addition to the Easter outside even other nuns shall see, six years after his death. <br>'
+);
+
+?>

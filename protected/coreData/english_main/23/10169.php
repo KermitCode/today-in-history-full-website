@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1956-10-23
+	create time:2013-01-02 01:45:32
+*/
+
+return array(
+'title'=>'Hungary October outbreak',
+'class'=>0,
+'cont'=>'October 23, 1956 (September 20) Bingshen, Hungary October outbreak. <br> street barricades downtown Stalin&#39;s like to be pulled down <br> Hungary after the establishment of the people&#39;s political power, Prime Minister, the first secretary of the party&#39;s Rakosi copying the Soviet model, the one-sided economic development of heavy industry, politically manufacturing cult of personality, undermining the rule of law, caused strong dissatisfaction of the people. The Twentieth Party Congress in 1956, (history cn) Hungary from all walks of life lashed Rakosi error. In July of the same year, Gro succeed of Rakosi any party first secretary, but the situation remains unstable. <br> 10 23, Budapest nearly 200,000 college students and the masses held demonstrations require Gro resignation, Najib took office. The marchers tear down the city&#39;s Stalin cast like armed conflict with the security forces. 24, 2009, Nagy became prime minister, the Hungarian labor Peasant Party declared martial law, and the Soviet military intervention. The next day, Gro sacked, Kadar took over as first secretary. Najib called on to end the bloodshed, to restore order, and at the same time announced the dissolution of the security forces, and the agreement with the Soviet Union on the Soviet withdrawal problems. In the chaotic situation in Hungary when the imperialist send a large number of spies into Hungary, the domestic counter-revolutionaries also took the opportunity to undermine the situation in a loss of control. October 30, some people are inciting offensive Budapest Municipal Building, the party secretary and the building security personnel were killed, over the killing communists and security personnel. On the same day, Najib announced the end of one party rule. November 1, announced Hungary to exit the Warsaw Pact Organization, the implementation of neutral. 4, 2011, the revolutionary government of workers and peasants led to Kadar&#39;s Hungary was established. The same day, Soviet troops again entered Budapest, Nagy government collapsed. November 23, Nagy was arrested. June 16, 1958, in order to counter-revolutionary crimes was sentenced to death in July 1989, the Hungarian Supreme Court declared Nagy innocence, before the judgment is invalid. Hungary during the events of 1956, more than 2,000 deaths and tens of thousands of people were injured, the economic losses amounting to more than 200 million forint. (TodayinHistory.cn) <br> events in Hungary, the only 16-year-old girls also took part in the team against the Soviet invasion <br> left after fierce street fighting The embroiled unrest Soviet officer carcasses and destroyed tanks <br> women (the L $ dj¦Ó.§«§§T) industrial workers and the Petofi Club intellectuals <br>'
+);
+
+?>

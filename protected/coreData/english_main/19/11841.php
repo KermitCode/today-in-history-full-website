@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1742-12-19
+	create time:2013-01-02 02:13:51
+*/
+
+return array(
+'title'=>'Famous Swedish chemist Scheler&#39;s birthday.',
+'class'=>4,
+'cont'=>'December 19, 1742 (Saigon winter months 23), the famous Swedish chemist Scheler&#39;s birthday. , <br> Carl Wilhelm Scheler (Carl Wilhelm Scheele) (1742 ~ 1786) <br> when the man was dying of suffocation when the doctor as soon as the skin of oxygen tube inserted into the The nose of the patient, the patient will soon drawn breath, this is called \"pick oxygen, we can see how important it is oxygen for the human body. However, this oxygen is who discovered it? <br> found oxygen called Scheler. He is a famous Swedish chemist. December 19, 1742, born in Sweden Stralsund. His family was poor. 13-year-old to Gothenburg, a pharmacy as an apprentice in his spare time to self-study chemistry. Later, he worked in Malmo, Stockholm and Uppsala pharmacy as a pharmacist. During this period, he and another young chemist with, were extracted from tartar tartaric acid experiments and written two papers sent to the Swedish Academy of Sciences, he is an ordinary pharmacist, the Swedish Academy of Sciences, looked very contempt, has not been published, no doubt, this is not a small blow for young Scheler. But he was not discouraged, more energetic and engaged in research work, After numerous experiments, and finally in 1773 discovered oxygen, and wrote the book \"On the air with fire\". In 1774, he found that the chlorine and confirmed by the British chemist David, which strengthened his confidence in the research chemical. <br> 1775, Scheler engaged in research work in order to better, he resigned from the duties of a pharmacist, to copping this town, opened a pharmacy. Even though he received the Berlin and UK hire book, but he never left the town. Here, he dedicated to engaged in chemical research, has found that fluoride, ammonia, hydrogen chloride, hydrofluoric acid, tungstate, molybdate and arsenate in many aspects of the chemical has been found, make a huge contribution. He was elected a Fellow of the Royal Swedish Academy of Sciences. (L $ j¦Ó.c¨½) <br> Scheler has a strange habit, he will personally \"taste\" of what he discovered chemical elements. It is fortunate that he did not die of hydrogen cyanide poisoning. He will not be so lucky: look at the symptoms of his death, he seems to die of mercury poisoning. Scheler after the death of the Swedish people to reminisce about him, his 150 and the 200 anniversary of the birth of people held a solemn commemoration to him, this meeting is also a place of academic exchanges become chemists. Scheler&#39;s posthumous work, most of the editing and publishing. Establish a commemorative statue in Branch pyongsong and Stockholm, before the legislature has a simple square tombstones in the cemetery, the relief of the monument is a strong and handsome man, were holding a burning torch high. <br>'
+);
+
+?>

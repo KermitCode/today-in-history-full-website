@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1965-7-19
+	create time:2013-01-01 23:35:23
+*/
+
+return array(
+'title'=>'China established diplomatic relations with the Islamic Republic of Mauritania',
+'class'=>0,
+'cont'=>'July 19, 1965 (, Otomi June 21), the establishment of diplomatic relations between China and the Islamic Republic of Mauritania. <br> establish diplomatic relations with the Islamic Republic of Mauritania \"target =\" _blank \"> in Mauritania in northwest Africa, the Sahara desert to the west, the capital Nouakchott. <br>, Mauritania, the earliest inhabitants of the Balfour black nationalism. the Berber people move into the gross northern. 7th century Arabs into Mao 1920, Mao became the French colony in West Africa \"under the jurisdiction of the semi-autonomous republic in 1956, September 1958 the French Community, the Islamic Republic of Mauritania in November announced the formation of November 28, 1960 declaration of independence, the Daddah any president. (L $ dj¦Ó.§«§§T) <br> Mauritania mineral resources are iron ore reserves estimated at 8.7 billion tons. other reserves: 22 million tons of copper ore, about 40 million tons of gypsum, phosphate, 140 million tons. abundant fishery resources, reserves of 400 million tons of oil and natural gas resources estimated reserves of rich oil-producing countries in February 2006 of the total forest area of &#8203;&#8203;47,440 hectares. <br> Mauritania Agriculture, Animal Husbandry and Fishery output accounted for 25% of the gross domestic product (GDP). Gross existing arable land area of &#8203;&#8203;502,000 hectares, industrial underdevelopment, the main mining and small-scale processing industry. mining owners to be mining iron ore output accounted GDP12% and 54% of exports in total exports (2001). annual mining capacity of 12 million tons, the annual extraction volume is about 10 million tons. years, the production of iron ore of 10 million tons, and exports worth $ 225 million, are mainly exported to France, Italy, Belgium and other countries. (lsjt.org) In 1965, July 19, 2010, China and the Islamic Republic of Mauritania, the establishment of diplomatic relations. < ; br> drug abuse <br> <br> Mauritania woman for fertility <br> Mauritania woman terrorist fattening way for obesity and proud <br> Ma Mude said, want to change the way people not an easy task. traditional view of sexy men hope that obese women, so women are becoming obese, \"she said,\" women want men to skinny, then men, all of them are very thin. \"In fact, according to the traditional view of the Mauritanians, the obese man does not act like a man, and very lazy. <br>'
+);
+
+?>

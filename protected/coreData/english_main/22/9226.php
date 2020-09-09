@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-9-22
+	create time:2013-01-02 00:26:47
+*/
+
+return array(
+'title'=>'International archaeologists team found the earliest human fossils',
+'class'=>0,
+'cont'=>'(Awake, August 17), September 22, 1994, international archaeologists team found the earliest human fossils. In In 1994, September 22, 2010, an international team of archaeologists discovered in Ethiopia 4.4 million years ago the remains of the earliest human ancestor fossils, which filled the blank in the history of evolution between humans and apes. reports, <br> British \"Nature\" magazine pointed out, this discovery allows scientists to conduct a more detailed study of human origins. international group visit yuan Professor <br> by Asfaw Dr., the Ethiopian Ministry of Culture, Professor Tim White of the University of California, and the University of Tokyo, Japan Suwa composed northeast, over the past two years in Addis Ababa 23O km in the Awash Valley of Allah surgery Andean village found 50 17-20 are 440 million years ago, a member of the hominid skull. Teeth and the upper arm bone fragments. the these fragments <br> is found so far the earliest direct human ancestors residual sea Prior to this most ancient human ancestor fossils South Suwa of the University of Tokyo professor found ancient silly \"Lucy\" fossil , dating back 360 million years. <br> teeth provide evidence that these newly discovered early humans may belong to the great apes and humans just the period of the \"separation\". During this period, are scientists looking for but has not found a link. (L $ dj¦Ó.c¨­m) <br> In recent years, genetic evidence shows that scientists collected from modern humans and great apes, humans and apes \"separation\" occurred dating back 500 million years to 900 million years between. However, an international team of scientists discovered the Apes \"separation may occur in the latter part of this period, about 450 million years to 550 million years before that. <br> scientists put their new-found fossil named Australopithecus root, the scientists say, they basically eat Sok, but also carnivorous. Consumption may the collective hunt small beast. They will not be manufacturing stone tools, and sleep in the trees for safety, although they could walk upright like modern, but intelligence is still in a stage of great apes. Professor <br> Tim White said the findings so that we were able for the first time from the roots of the human family tree to study human ancestors, also confirmed that the earliest roots of human evolution, Charles Darwin in Africa found that the prophecy. <br>'
+);
+
+?>

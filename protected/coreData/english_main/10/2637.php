@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1957-3-10
+	create time:2013-01-01 22:35:50
+*/
+
+return array(
+'title'=>'International terrorist Osama bin Laden was born',
+'class'=>4,
+'cont'=>'March 10, 1957 (, Ding February ninth day), the international terrorist Osama bin Laden was born. In In March 10, Sunrise, 1957 Born in Jeddah, Saudi Arabia ranked 17th of 52 brothers and sisters. Osama bin Laden received primary and secondary education in Jeddah, after entering the Department of Civil Engineering, University of learning and obtained a bachelor&#39;s degree in civil engineering. He worked as engineer, fortune rely on oil and the construction industry, with a number of companies in Saudi Arabia and Western countries, estimated at billions of dollars in personal property. <br> Osama bin Laden was born in a wealthy family, (l $ j而.c里) he is one of the 18 the son of a construction magnate in Saudi Arabia, like to watch movies about karate theme. (有身d芋y身里h貝 $ 而身ry.c身m) Bruce Lee (Bruce Lee&#39;s English name) is one of his very favorite actor. He likes to go hiking at the mountain to the Syrian border with Turkey, like horseback riding. \"Used to work in the family business for a while, but the job did not make this young Muslim idealists feel happy. <br> Osama bin Laden after the events of September 11, 2001 Although the U.S. government has repeatedly designated action and a large amount of money to apprehend its people, but so far, including the U.S. government can not be confirmed that Osama bin Laden is dead or alive, his life and death became a mystery. However, to date, recording or video of Osama bin Laden has not been interrupted in a series of important events. (L $ dj而.妨壯T) In September 2001, the terrorist organization of Osama bin Laden hijacked plane hit the World Trade Center in New York and the Pentagon in Washington, causing the 2998 deaths, the World Trade Center twin towers collapse, the Pentagon damaged . Osama bin Laden - Osama bin Laden, <br> suspected terrorist incidents <br> 1993: World Trade Center bombing. 6 people were killed and hundreds injured. In June: <br> 1993 attempted murder of Jordan, Crown Prince Abdullah. In January: <br> 1995 attempted murder of Pope John Paul II. (L $ dj而.c身m) In June 1995: the murder of Egyptian President Hosni Mubarak attempted. <br> 1995: U.S. military barracks bombings in Riyadh. Five people were killed. November: <br> 1995 the Egyptian embassy bombings in Pakistan. 17 people were killed. (L $ dj而.c身m) <br> 1996: Dhahran U.S. Air Force shelter bombing. <br> 1997: Cairo, foreign tourists and bus bombings. August: <br> 1998 U.S. embassy bombings in East Africa. 257 people were killed and 5,000 injured. <br> 2000: Yemen and USA \"Cole warship bombing. 17 people were killed. Reference 1, 2011, Obama announced that Osama bin Laden has been the U.S. military killed. <br>'
+);
+
+?>

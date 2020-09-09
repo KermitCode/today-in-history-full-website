@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1777-8-14
+	create time:2013-01-02 00:49:08
+*/
+
+return array(
+'title'=>'Danish physicist Hans Christian Oersted was born',
+'class'=>4,
+'cont'=>'August 14, 1777 (July 12), Ding, Danish physicist Hans Christian Oersted was born. <br> <br> Hans Christian Oersted (Hans Christian &#216;rsted, 1777 August 14, 2011 -1851 years 9, 2011), the Danish physicist chemist, discoverer of the magnetic effect of current. (The history www.TodayOnHistory.com) In In In 1777, 14 Born in the Lange Lang Island Ludeqiaobin of, a pharmacist family. Admitted to the University of Copenhagen in 1794, and received his Ph.D. in 1799. 1801 to 1803 went to Germany, France and other countries to access, and became acquainted with many of the physicists and chemists. In 1806, he was appointed professor of physics at the University of Copenhagen, the Permanent Secretary of the Royal Society of Denmark since 1815. (Lsjt.org) 1820 Copley Medal of the Royal Society of the United Kingdom due to outstanding discovery of the magnetic effect of current. 1829, he was appointed Dean of Copenhagen. March 9, 1851, died in Copenhagen. <br> he had too many aspects of physics, chemistry and philosophy. Firmly believe that the forces of nature can be transformed into each other due to the impact of natural philosophy in the philosophy of Kant and Schelling, a long time to explore the link between electricity and magnetism. Finally found the role of current on the magnetic needle, that the current magnetic effect in April 1820. On July 21 of the same year was published his findings. \"Experiment about the the needle power-conflict role This short paper great shock physics community in Europe, leading to the emergence of a large number of experimental results, which opened up a new field of physics йд йд electromagnetics. <br> he is an enthusiastic emphasis on scientific research and experimental teachers, he said: \"I do not like the kind of boring lectures experiment, all scientific research from the beginning of the experiment. So welcome by the students. He is excellent lectures home and natural science popularization workers, advocated the establishment of Denmark Advancement of Science Association, created the first physics laboratory in Denmark in 1824. <br> 1908 Danish Natural Science Association for the Advancement of establishing \"Oersted Medal, in recognition of physicists to make a significant contribution. \"Oster\" in 1934, naming the unit of magnetic field strength in the CGS system of units. In 1937, the American Association of Physics Teachers set up \"Oersted Medal incentive to contribute to physics teaching physics teacher. <br> Comment: In the CGS system (centimeter - gram - second system of units) in the magnetic field strength in units of Oersted (Oe). <br>'
+);
+
+?>

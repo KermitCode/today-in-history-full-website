@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-6-18
+	create time:2013-01-01 23:10:13
+*/
+
+return array(
+'title'=>'Bosnian Serbs announced peacekeeping force hostages have been released',
+'class'=>0,
+'cont'=>'(Otsugase May 21), June 18, 1995, the Bosnian Serbs announced the release of all hostages of the peacekeeping force. <br> May 25, Air Force, NATO&#39;s bombing of Bosnian Serb military targets. the 26 am <br> 5, NATO Air Force bombing wave of Hesse control zone target again. <br> the day, peacekeepers and NATO announced that the Bosnian Serbs on the 26th, at least 10 peacekeepers and soldiers buckle as hostages, and about 100 peacekeepers and military siege around heavy weapons guarded point in Sa. <br> to get the news in the evening of the 28th, the Bosnian Serbs snatch peacekeepers has reached 320 people, including 17 tied handcuffed on Serb targets. <br> data peacekeeping force spokesman said on the 28th, 288 soldiers of the peacekeeping force of 320 officers, 32 unarmed observers from France, (L $ dj而.c身m), the United Kingdom, (L $ dj而 c身m), Canada, Russia, Poland, Czech Republic, Ukraine and Brazil and other countries. In May 30, 2009, six French soldiers in the area of &#8203;&#8203;Sarajevo siege allowed to leave the besieged point, which is trapped in the blue helmet for the first time to the the Blue Helmets hostage crisis caused by NATO air strikes not Serbs free. <br> Bosnia and Herzegovina, the Republic of Serbia, \"Foreign Minister Buha on behalf of the Pale authorities said peacekeepers to be released, peacekeepers leaders of these hostages trapped in the unfortunate situation of facing life-threatening, he expressed regret. He said that due to the appeal of President Milosevic, the leader of the peacekeeping force decided to stop air strikes Serb targets, the international community issued through secret diplomatic channels NATO no longer air raid signal going to resume the peace process, the Serb taken new position. He said that if these signals continue and become serious, binding international documents, the Serbs will continue to release the remaining detained peacekeepers. <br> since the NATO bombing of Serb targets in Bosnia and Herzegovina on 25 May, the Serb total detained about 370 peacekeepers, to form the most serious crisis since the Bosnian war. In June, late at night, 108 peacekeepers detained by the Bosnian Serb released. Special Envoy of the President of the Republic of Serbian Milosevic escort arrived in the Yugoslav city of Novi Sad, in the early morning of the 7th. This is the second release of hostages of the Bosnian Serbs. In the afternoon of May 18, <br> 6, the Bosnian Serbs announced the day of the last 26 peacekeeping troops hostage have been released in exchange for the peacekeeping force last month seized four Serb prisoners of war. <br>'
+);
+
+?>

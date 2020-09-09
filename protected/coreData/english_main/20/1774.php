@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1886-2-20
+	create time:2013-01-02 08:30:47
+*/
+
+return array(
+'title'=>'Kuhn, founder of the Hungarian Communist Party Bella&#39;s Birthday',
+'class'=>4,
+'cont'=>'(BingXu first month 17), February 20, 1886, the birthday of the founder of the Hungarian Communist Party Kuhn Berra. <br> 1886 2 20, is the birthday of the founder of the Hungarian Communist Party Kuhn Bella. Kuhn was born in the Transi the Vanni Yalai column Village. Middle school, he joined the Social Democratic Party of Hungary. After the outbreak of the First World War, he was conscripted captured in Russia warfare. The summer of 1917, he took part in the Russian Bolshevik Party. November 6, 1918, he was based ÃûÐ»°ÝÊ²½Ý ¡¤ Emil Major returned to Hungary. <br> then, Hungary, due to the impact of the October Revolution and the Austro-Hungarian Empire military defeat, rising domestic democratic national revolution. November 16, 1918 Habs dynasty was overthrown, announced the establishment of the Republic. Hungarian liberal bourgeoisie but the theft of the fruits of the victory of the revolution is the support of foreign powers, and has endeavored to prevent the development of the revolution. November 20, 1918, the Hungarian Communist Party was founded, Kuhn was elected to the Party Central Committee secretary, lift bourgeois armed, armed proletariat, the establishment of Soviet power \"slogan put forward to the whole party, the revolutionary struggle to continue development. In February 1919, the bourgeois government arrest the vast majority of Hungary&#39;s total Central Committee headed by Kuhn. In March 1919 the Hungarian government was forced to step down due to humiliating, giving way to the Social Democratic Party. Social Democratic Party in order to obtain the support of the Communist Party, released Kuhn. March 21, 1919, the Hungarian Soviet Republic was established, Kuhn will become the de facto leader of the new regime. April 16, the new regime armed invasion by foreign powers across the board, Kuhn workers to immediately launch the masses to rise up to defend the new regime. Finally, the end result as the Red Army chief of staff of the Ruliyeer betray and failed thousands of revolutionaries were killed and imprisoned, Kuhn also forced into exile abroad. October 1924 and secretly returned to Vienna. And was rebuilt in 1925, the Hungarian Communist Party. In 1928, Kuhn arrest, sentenced to deportation for revolution against Austrian side. After that, he has been residing abroad, until his death in November 30, 1939. People to remember him in the capital, Budapest still has Kuhn Berra Square, stands his statue. (1 $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

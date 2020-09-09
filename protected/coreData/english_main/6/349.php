@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1983-1-6
+	create time:2013-01-01 20:53:14
+*/
+
+return array(
+'title'=>'Yong&#39;s death, the People&#39;s Liberation Army Deputy Chief of Staff',
+'class'=>0,
+'cont'=>'January 6, 1983 (Saigon winter months 23), the People&#39;s Liberation Army Deputy Chief of Staff Yang Yong&#39;s death. the <br> Yong (1912-1983), born to a peasant family in Liuyang County, Hunan Province wenjiashi 1912. February 1930, joined the Chinese Communist Party. Same year to participate in the Chinese Workers &#39;and Peasants&#39; Red Army. Any the Hong Sanjun fourth division 10th regiment political members of the Committee participated in the Central Base Area, two, three, four, five times a struggle against \"encirclement\". Long March, led the troops to charge forward, fought bravely, World War Tucheng Loushanguan the the Zunyi, crows Hill Siduchishui. The War of Resistance Against Japan to participate in the Pingxingguan war. May 1940, he was appointed the first fifteen Division brigade President and Luxi the three hundred forty-three Brigade Military District Commander. In 1945, he was appointed commander of the seven vertical. Wan East campaign in 1948, Zhengzhou campaign, Huaihai Campaign. February 1949, he was appointed commander of the Fifth Corps of the Second Field Army. In January 1950, Yang became the Chairman of the People&#39;s Government of Guizhou Province, Guizhou Military Region commander. To participate in the War to Resist U.S. Aggression and Aid Korea in April 1953, has the Chinese People&#39;s Volunteers XII Corps commander, the Volunteers third deputy commander and chief of staff, the volunteers commander duties. Was granted the rank of general of the Chinese People&#39;s Liberation Army in 1955, won a eighty-one Medal, an independent Medal of Freedom, a Liberation Medal. After returning home in October 1958, was appointed as the commander of the PLA Beijing Military Region. October of the following year, deputy chief of general staff of the Beijing Military Region Commander. \"Cultural Revolution\" in the subject framed and persecuted. In May 1972, Yang Yong appointed deputy commander of the Shenyang Military Region. August 1975, he was appointed the second secretary of the Xinjiang Military Region Commander, Military Region party committee. In August 1977, he was selected as a member of the Eleventh Central Committee of the Chinese Communists. In September of the same year, he was appointed deputy chief of staff, secretary of the General Staff party committee members and attending the Standing Committee of the CPC Central Military Commission. Session of the 12th CPC National Congress in September 1982, was elected as the 12th Central Committee and the Central Committee. <br> in Beijing on January 6, 1983, died at the age of 70. <br>'
+);
+
+?>

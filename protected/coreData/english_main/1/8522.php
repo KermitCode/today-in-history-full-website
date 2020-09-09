@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1449-9-1
+	create time:2013-01-02 01:16:28
+*/
+
+return array(
+'title'=>'Tumu',
+'class'=>0,
+'cont'=>'September 1, 1449 (August 15), Baba, Tumu. 01, 1999 - (Yingzong orthodox August fourteen years Saigon), <br> 1449 Yingzong held hostage by Wang Zhen foreign crusades Mongwa thorn five hundred thousand troops. Day civil Fort (now Huailai County, southwest) by Waci army surrounded, Hidemune captured. This is the Tumu. [L $ dj¦Ó.¨­r¨À] <br> <br> orthodox fourteen years (1449) August Yingzong, Zhu Qizhen foreign crusades Wala Army anti-captured events. Occur in civil Fort (Huailai Southeast), hence the name. Yingzong Zhu Qizhen the throne when he was only 9 years old. Eunuch JT Wang tube Sili Jian, dominated the political affairs. At that time, growing stronger and stronger the northern Mongolian Waci Ministry, constitute a threat to the Central Plains. Wang Zhen on the northern frontier defense combat preparedness. 1449 (Orthodox 14 years) July The, Waci chief Esen led his army south to attack the Ming Dynasty, the main encroaching upon the Datong. Yingzong Wang Zhen demagogic and hijacked, despite the civil and military officials discourage determined foreign crusades. As the and Wang Zhen bungled military aircraft, the Ming army surrounded Civil Fort (this Huailai East) by Waci military. (Orthodox 14 August 14) August 31, 1449, Waci army launched an offensive across the board collapse of the Ming army. The melee, Wang Ming Fan loyalty to flog strike dead, Yingzong by Waci military captives Ming army of more than 500,000 dead and injured more than half. The battle, known as the Tumu, also known as \"civil Fort variable. Tumu Ming Dynasty national strength has been seriously weakened, became a turning point in the mid-Ming Dynasty by pre-entering. The Change of <br> Civil shocked the world, not only Ming Hidemune reduced to Wala military prisoner, and the whole capital is in jeopardy. Distress to come forward and take the lead, in charge of the Ministry of War of Yu Qian he military attache Tongwen, both inside and outside minister Yong Li Zhu Qi Yu became the emperor, to re-establish the political core of the Ming Dynasty. Led all forces against the common enemy, to defend the capital. Repel the invasion Wala military support of the capital residents. The Esen For with Hidemune as hostages, extortion, forced down, but did not succeed. Esen extortion not invade another is to fight in the Jingtai reign (1450) to put back Hidemune. This is the only one captured and the safe return of the emperor in history. Be put back after the Hidemune six overlord calm in the palace, and finally in the running for the door of the change in 1457 after the re-sit the emperor&#39;s throne. Reviews of <br>: Ming Dynasty can be really messy. <br>'
+);
+
+?>

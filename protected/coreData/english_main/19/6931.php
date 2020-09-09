@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1893-7-19
+	create time:2013-01-01 23:31:18
+*/
+
+return array(
+'title'=>'Soviet poet Mayakovsky&#39;s birthday',
+'class'=>4,
+'cont'=>'July 19, 1893 (Kimi June seventh day), the birth of the Soviet poet Vladimir Mayakovsky. the <br> Soviet poet Vladimir Mayakovsky&#39;s work \"is good! \"Chinese translation cover <br> Mayakovsky Poems <br>. Mayakovsky Soviet Russian poet (1893 -1930 on April 14, 2011). Born in Georgia Baghdad Yoshimura. The Russian Revolution of 1905, a significant impact on his. Joined the Bolsheviks in 1908, engaged in a secret revolutionary propaganda work. Pants First Minister poem \"cloud\" (1914-1915) critique of the capitalist system, deny the dark realities. Works before the October Revolution in general with the imprint of the formalism. Poet called \"revolution\" of the October Revolution, the early days of the victory of the revolution to write the \"march\" (1917), \"Revolution Song\" (1918), to the art of the army command \"(1918),\" Left March \"(1918), poetry, and drama\" religious farce \"(1918) praises the revolution, reflecting the fierce struggle for socialism and capitalism. Christophoros Window \"from October 1919 to February 1922 to participate in the creation of many straightforward, humorous and pungent satire encouragement poems, satirical poems and posters, posters, art overcome futuristic the formalism impact gradually embarked on the path of realism. The the irony bureaucracy poem \"meeting fans\" (1922) was praised by Lenin. Lenin&#39;s death in 1924, a deep tone, he wrote the poem \"Lenin\", expressed great sorrow of the working people, and reproduced on a broad background of the revolutionary history of the glorious image of Lenin. 1922-1929 years had visited France, Spain, Cuba, Mexico, and the United States, wrote a series of international theme of Psalm tactics to expose the money domination of the capitalist countries, class oppression, racial discrimination and other social ills (\" poems about American \", etc.), to express their love for the Soviet motherland and pride (\" Soviet passports, etc.). Commemorate the tenth anniversary of the October Revolution in 1927 the creative poem \"good! \"This long poem has a strong sense of romanticism, Lunacharsky bronze statue called the\" October Revolution \". The satirical comedy \"bug\" (1928) and \"Bath\" (1929) with the traditional style of Gogol, Shchedrin. The poem \"open the throat singing\" (1930) to his last works. In a poem, he summed up how the proletarian revolution surface engaged in the creation of life. How proletarian revolution in the creation of life. Since then factional fighting of the literary and art circles, and ideological contradictions \"personal reasons\", the poet committed suicide on April 14, 1930. <br>'
+);
+
+?>

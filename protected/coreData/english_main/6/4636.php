@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2003-5-6
+	create time:2013-01-01 22:36:48
+*/
+
+return array(
+'title'=>'The National Development and Reform Commission formally',
+'class'=>0,
+'cont'=>'(¹ïÎ´ April sixth days), May 6, 2003, the National Development and Reform Commission formally. <br> of the Tenth National People&#39;s Congress once some of the functions of the State Council reform plan adopted by the Conference, incorporated into the State Commission for Restructuring the functions of the former State Development Planning Commission and the former State Economic and Trade Commission was reorganized as the National Development and Reform Commission, May 6, 2003, the National Development and Reform Commission has formally. <br> National Development and Reform Commission is a comprehensive study of the development of economic and social development policies, the overall balance, and guides the overall economic system reform, macro-control departments. The main functions are: to develop and organize the implementation of national economic and social development strategies, long-term planning, annual planning, industrial policy and price policy, monitoring and regulating the operation of the national economy, improve the balance of the total economy, optimize the structure of major economic, arrangements for major national construction project, guiding and promoting economic reform. Entrusted by the State Council Development and Reform Commission will report to the National People&#39;s Congress for national economic and social development plan. (History cn) <br> According to reports, after the reorganization of the National Development and Reform Commission in the functions of configuration, institutional settings have some new features. From the the functional configuration point of view, the first is to develop and reform mutual promotion; macroeconomic regulation and control the microeconomic run organic; Third, investment in capital construction and technical transformation investment unified management, helps to reduce overlapping functions, improve administrative efficiency, in favor of concentrate its limited financial resources to do big things, to avoid redundant construction; overall consideration of development plans and industrial policies; Fifth emphasis on conservation and comprehensive utilization of resources; emphasize the promotion of employment, adjusting income distribution, improve the social security, and is conducive to economic and social coordinated development. From their internal structure and functions of this reorganization, the establishment of the 26 functional departments (bureaus) to streamline the 7. <br>'
+);
+
+?>

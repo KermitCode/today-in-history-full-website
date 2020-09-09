@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1942-8-20
+	create time:2013-01-02 00:07:38
+*/
+
+return array(
+'title'=>'Belgium was occupied by Germany',
+'class'=>0,
+'cont'=>'August 20, 1942 (, Imo July ninth day), Belgium was occupied by Germany. <br> August 1914, the German army of 1.2 million troops occupied the after neutrals Luxembourg. The next day without a declaration of war, and on across the border, began to march to the neighboring countries, Belgium. Offensive across both sides of the River Meuse high slope, the diameter range of about 10 miles Liege fortress (1 $ dj¦Ó.c¨­m) but was the stubborn resistance of the Belgian defenders. On the morning of August 4, the German advance force approximation Wiessee on the Meuse River, just found that the bridge had been bombed than soldiers gathered in the West Bank. The German commander General Otto von Emich, then ordered the two south Cavalry Regiment galloped 3 miles, wading across the river. In this case, than the army stationed in Visalia for fear of being surrounded quickly retreat to Liege. Evening, German infantry also Wiessee crossed the River Meuse to the fortress marching Liege. <br> during the invasion of Belgium, the Germans frantically gun killing of unarmed civilians pass through shelling or burning of the village people Scotia committed heinous atrocities. Than military commander General Gerard Le Mans was stationed Liege arm of less than 40,000 troops, but he still refused to capitulate in Emich withstood several violent attacks of the German ground and air, is determined to The stubborn resistance postpone the forward speed of the enemy, stick to the law, the British reinforcements&#39;s arrival. And in extremely harsh environments and conditions, sent a division to provide support to defend the capital, Brussels, King army. <br> fighting continued until August 9, the Germans have paid the heavy casualties consideration of 30,000, before the bodies of those killed in the Fort mountains. August 10, Emich remnants, newly arrived in Germany made a giant howitzer \"Big Bertha\" under the cover of artillery fire, and spent six days, and finally in August 16th Liege fortress overcome. This fierce battle, General Le Mans face the enemy several times already, there is no fear, bravery, the Allies later quickly to reverse the situation in the entire war, and made a great contribution. Therefore, the injured captured by enemy heroic courtesy. After that, the Germans up a victory to move forward, (lsjt.net) defeated in a border war in the French reinforcements sent to Belgium. <br> 8 May 20, 2009, the Germans entered Brussels, Belgium declared the fall. <br> Comments: until the end of the First World War, Belgium was recovered. <br>'
+);
+
+?>

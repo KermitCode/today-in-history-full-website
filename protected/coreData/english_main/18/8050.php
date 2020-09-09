@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1977-8-18
+	create time:2013-01-01 23:54:33
+*/
+
+return array(
+'title'=>'CPC XI &quot;by the new party constitution',
+'class'=>0,
+'cont'=>'(, Dimba July fourth day), August 18, 1977, the Chinese Communist Party \"XI\" by the new party constitution. <br> Congress venue <br> 1977 on August 18, 2010, the Chinese Communist Party, the third plenary meeting of the Eleventh National People&#39;s Congress unanimously adopted the new \"Constitution of the Communist Party of China. Articles of Association of the Chinese Communist Party is the political party of the proletarian vanguard nature; basic program of the party in the historical period of socialism, the gradual elimination of the bourgeoisie and all classes, with the triumph of socialism over capitalism. The party&#39;s ultimate aim is to realize communism; provisions of the Party&#39;s guiding ideology and theory based on Marxism, (lsjt.net) Leninism, Mao Zedong Thought; provisions of the organizing principle of the whole party to adhere to democratic centralism, the implementation of the democratic based on centralized and under centralized guidance democracy; provisions of the party members must be admitted that the party&#39;s charter, voluntarily participate in an organization of the party and work actively in one of the implementation of the resolutions of the party, to abide by party discipline, and pay membership dues. Apply to join the party, you must fulfill to join the party formalities individual. XI party constitution to restore the probationary period for new members. The XI Party Constitution new provisions the three basic principles of the whole party to adhere to Marxism and not revisionism to unity not division, not to engage in intrigue be open and aboveboard. For violation of the three basic principles of the trend, to have the courage to oppose the revolutionary spirit. XI Constitution is under the influence of \"leftist\" erroneous ideas represented by Hua Guofeng, when the lessons of the history of the \"Cultural Revolution\" movement had a chance to systematic scientific summary, so this particular history, follows the party constitution and reserved the wrong formulation of the \"Cultural Revolution\" movement, the Party&#39;s basic program to make a one-sided interpretation, and continuing the revolution under the dictatorship of the proletariat \" under the conditions of the specific meaning of the error point of view, the provisions in the basic program of the party; Mao Zedong&#39;s personal role, again into the Constitution; affirmation of the \"Cultural Revolution\" movement, and so on. <br> <br> Ye Jianying for a report on the revision of the Party Constitution <br> Hua Guofeng, Ye Jianying, (TodayinHistory.cn) Deng Xiaoping, Li Xiannian, Wang Dongxing (from left) Deng Xiaoping in the party&#39;s 11. the approximate closing remarks <br> the XI of China on the rostrum <br>'
+);
+
+?>

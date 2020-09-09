@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1908-8-12
+	create time:2013-01-02 00:37:27
+*/
+
+return array(
+'title'=>'The famous Wheat Breeding and Cultivation scientist Mei Ji Fang was born',
+'class'=>4,
+'cont'=>'August 12, 1908 (, Shigenobu July 16), the birth of the famous wheat breeding and cultivation scientist Mei Ji Fang. Mei Ji fang of the <br> was born \"target =\" _blank \"> Mei Ji Fang, (1908-1983), wheat breeding and cultivation scientist. born August 1908 Funing County, Jiangsu Province. hometown located in the coastal areas in northern Jiangsu Province, is a \"common reed catkins rare\" backwater, extensive farming, extensive cultivation, farmers living odd bitter. (on www.TodayOnHistory.com) youth Mei Ji Fang by \"five the impact of the \"movement, advocating science, determined to learn farming advocate Scientific Ideas. admitted to the first agricultural school of Nanjing in 1922, 1929 Agronomy student into the University of Nanking, in 1934 after graduating from staying in school, Assistant Professor, Lecturer 1940 Summer Refresher graduate courses in 1942 received a master&#39;s degree, still stayed on as an associate professor summer of 1943 went to the Hubei Enshi any of Hubei Agricultural professor has been to the United States in 1945, Washington State University, Cornell University research internship. learning in the United States during , he turned in wheat breeding research and had extensive contacts with the major U.S. wheat genetics and breeders, to make him more open ideas, expand their horizons, enhance the confidence to catch up with the international advanced level in this area of &#8203;&#8203;expertise 1946 Mei Ji Fang returned from the USA and strength. faced with the choice of three jobs: First, go to the Ministry of Agriculture and Forestry official, enjoy simple any treatment, a high salary and status; back of a professor of the University of Nanking, work lofty; Third, to central agricultural experiment when the specialists, do research, but only he who nominates a treatment Mei Ji Fang decisively chosen to Central Agricultural Experiment continue to engage in his wheat breeding research However, due to the shortage of funds for scientific research units, the poor condition of the War of Liberation, the only patriotic heart is difficult to give their talents in order to achieve the aspirations of Scientific Ideas. <br> Mei Ji Fang devoted his life to higher agricultural education and crop research career, bred \"East No. 1,\" early maturing wheat varieties planted in the middle and lower reaches of the Yangtze River; organize resistance to scab of wheat breeding and earliness breeding and cultivation, applied basic research needed to adapt to the restructuring aspects make a positive contribution. <br>'
+);
+
+?>

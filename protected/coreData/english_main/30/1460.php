@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-1-30
+	create time:2013-01-01 21:59:07
+*/
+
+return array(
+'title'=>'Jiang Zemin put forward propositions into the process of peaceful reunification of the motherland 8:00',
+'class'=>0,
+'cont'=>'(Awake 30 years of the twelfth lunar month), January 30, 1995, Jiang Zemin put forward propositions 8:00 into the process of peaceful reunification of the motherland. <br> 1995 1 30, the CPC Central Committee and the Taiwan Affairs Office of the State Council Taiwan Affairs Office of the units held a New Year tea party. a number of important issues <br> Jiang Zemin delivered a speech, \"and continue the struggle to promote the completion of the reunification of the motherland\" At the moment the development of cross-strait relations and advancing the process of peaceful reunification of the motherland, the proposed 8:00 proposition (referred to as \"Jiang eight point \"): First, adhere to the one-China principle. Second, the development of non-governmental economic and cultural ties by Taiwan with other countries, we have no objection. Third, the cross-strait talks on peaceful reunification. The negotiation process, we can absorb the cross-strait political parties, groups representative to participate. Under the premise of one China, any issue can be discussed, including the Taiwan authorities are concerned about a variety of issues. As a first step, the two sides can be on officially ending the state of hostility between the two sides to negotiate and reach an agreement. On this basis, common obligations to safeguard China&#39;s sovereignty and territorial integrity, and planning the future development of cross-strait relations. , (L $ dj¦Ó.§«§§T) efforts to achieve peaceful reunification, the Chinese do not fight Chinese. We do not undertake to renounce the use of force is not directed against Taiwan compatriots, but against the foreign forces to interfere in China&#39;s reunification and to engage in \"Taiwan independence\". Vigorously develop the cross-strait economic exchanges and cooperation, in order to facilitate cross-strait economic co-prosperity, to the benefit of the entire Chinese nation. We advocate that political differences should not affect or interfere with the cross-strait economic cooperation. Practical steps should be taken to accelerate the \"three direct links\" to promote cross-strait talks on routine matters. The compatriots on both sides should jointly inherit and carry forward the fine traditional Chinese culture. To fully respect Taiwan compatriots lifestyle and desire to be their own masters, and to protect all their legitimate rights and interests of the Taiwan compatriots. Eight, we welcome the visit of the leader of the Taiwan authorities in an appropriate identity, we are willing to accept Taiwan&#39;s invitation to visit Taiwan, may be common to come and discuss, you can also exchange views on certain questions first. (L $ j¦Ó.c¨½) <br>'
+);
+
+?>

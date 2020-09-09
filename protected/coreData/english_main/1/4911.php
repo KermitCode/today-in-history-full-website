@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2004-6-1
+	create time:2013-01-01 23:26:13
+*/
+
+return array(
+'title'=>'The death of famous Opera performing artist Chang Xiangyu',
+'class'=>3,
+'cont'=>'(Jiashen April 14), June 1, 2004, the famous Opera performing artist Chang Xiangyu died. The the <br> famous Opera Masters Chang Xiangyu death \"target =\" _blank \"> to Chang Xiangyu stills <br> June 7 in the morning and 6 (history today www.lssdjt. com) famous Opera performing artist Chang Xiangyu Henan Provincial People&#39;s Hospital, passed away at the age of 81 years. <br> Chang Xiangyu, Opera performing artists, Henan Gongxian, born in 1922, formerly known as Zhang Miaoling-year-old father Zhang cents to take classes to study drama, worship Zhai Yan body weeks seawater as a teacher and renamed with the foster parent surnamed Chang Xiangyu. beginner niche, to be born, Wu ugly after who specializes in foot once. profound young power-year-old stage, the 13-year-old starred in 6 \"West Wing\", were full of Kaifeng. tune original music in western Henan, and gradual integration Yudong, Xiangfu tune in after the show, and absorb the Quju, sinker, clapper, Shanxi, Hebei Clapper Opera, Peking Opera and some singing, not innovation cavity. 1938 illness can no longer Yanwu play concentrated on studying the Tsing Yi, artistes performances and said the White reforms in 1941, went to Shaanxi and Gansu performances. Xiangyu Drama Club founded in Xi&#39;an in 1948, is committed to developing young actors to support the War to Resist U.S. Aggression and Aid Korea in 1951 Tour northwest and southwest parts of southern China rate Drama Club performances, performances income donated a \"Xiangyu Drama Club\" fighter \"patriotic artist,\" Fitch in 1952 to participate in the first session of the national opera observe performances Conference honors award the same year to play overseas in June 1994 won the \"Best Asian artist Lifetime Achievement Arts Award\" by the State Council granted the title of \"National Advanced Worker\" in 1995. joined the Communist Party of China in 1959, served as Dramatists Association, vice chairman of the Henan Branch Vice President, Dean of Henan Opera, Henan Opera School principals, one, two, three, five, six, and the Seventh National People&#39;s Congress <br> masterpiece \"Mulan\" the Khao red \",\" Broken \"\" great sacrifices pile \",\" Renhuanmajiao \",\" The Red Lantern \". known as\" Opera Queen \". <br> famous Opera The Master Chang Xiangyu&#39;s death \"target =\" _blank \"> Chang Xiangyu the stills <br> Chang Xiangyu, with the daughter to pay tribute to the theatergoers <br>'
+);
+
+?>

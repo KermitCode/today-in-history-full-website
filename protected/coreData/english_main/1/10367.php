@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1963-11-1
+	create time:2013-01-02 02:16:13
+*/
+
+return array(
+'title'=>'Our military to shoot down U-2 spy plane in Taiwan',
+'class'=>0,
+'cont'=>'November 1, 1963 (September 16), mao, our military to shoot down U-2 spy plane. pictures <br>: American U-2 spy plane <br> 1963 November 1, 2009, US-made Taiwan a U-2 high-altitude reconnaissance plane a harassed to me over the East China espionage I Air Force of the Chinese People&#39;s Liberation Army shot down. This is the second aircraft I knocked People&#39;s Liberation Army Air Force after September 9, 1962, following US-made Taiwanese U-2 high-altitude spy plane. This is the Chinese people to give the U.S. invaders and Chiang Kai-shek once again a serious warning and a heavy blow. after <br> happened, the U.S. government, like 1962 years ago, the panic and rushed out claims that this aircraft is not the United States, the Group of Chiang Kai-shek from the Lockheed Aircraft Corporation purchased a vain attempt to prove this an incident has nothing to do with the United States, to deny the U.S. deliberately violating Chinese mainland airspace to gather military intelligence guilt, this is really guilty conscience. False confession admitting their guilt, \"the U.S. government is not fooling anyone. Yes, Chiang Kai-shek execution of the spy flight, but everyone knows, the U-2 aircraft stationed in Taiwan are all controlled by the United States, direct services for the U.S. policy of aggression and war policy. Supply, maintenance, use, and commanding power of this aircraft is entirely in the hands of the United States. Drive the aircraft&#39;s the Chiang pilots, Air Force Intelligence Agency nominally under the Chiang&#39;s troops, in fact, all actions, wholly controlled by the intelligence agencies of the United States to grasp. 1962, when we shoot down aircraft U-2 aircraft, the U.S. government the sorts of Jiaolai the while, has confessed to recognize that the United States is to obtain information from the activities of the spy plane, the U-2 aircraft again shot down, U.S. imperialism evil black hand again we seize. The stolen goods permit all escape responsibility, U.S. imperialism on China has repeatedly carried out espionage culprit. <br> the Chinese People&#39;s Liberation Army troops since 1959, which is already knocked out seven American gangsta Chiang spy plane. These aircraft, B-17, R B-57D, RF-101, P2V and U-2 and other various models. Some come from high-altitude, some from low, some during the day, some night to come, no matter what they use thinking clever way, are not able to escape the ignominious fate was shot down. The U-2 plane was shot down, and once again pointed out to the Taiwan Air Force personnel: harassed the mainland will not end well. <br>'
+);
+
+?>

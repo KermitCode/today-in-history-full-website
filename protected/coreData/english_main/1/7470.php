@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1935-8-1
+	create time:2013-01-01 23:39:50
+*/
+
+return array(
+'title'=>'(CPC) Central Committee Anti-Japanese National Salvation Army Declaration &quot;',
+'class'=>0,
+'cont'=>'(July seeing in the third), August 1, 1935, the CPC Central Committee published the anti-Japanese National Salvation Army Declaration. , <br> 1935 8 1, 2009, the Red Army during the Long March of the Chinese Soviet central government, the CPC Central Committee published the book \"for the anti-Japanese national salvation divisions of all compatriots\", the famous \"August 1 Manifesto. the <br> Declaration exposes the national crisis caused by the Japanese imperialist aggression crimes traitorous civil war and Chiang Kai-shek&#39;s Kuomintang government policy, discusses the patriotic officers and men in the \"918\" national hero followed one after another, the heroic combat, survival and salvation in great spirit and triumphalism after complete exposition front of the party&#39;s anti-Japanese national united front strategy, advocated compared to August Declaration has many characteristics with the previous United Front slogan. Declaration money, guns and guns, grain Payroll, Youlichuli expertise expertise \"slogan, landlords, bourgeois, all troops are being included in the united front. <br> Declaration advocated a joint anti-Japanese, more than at the conclusion of agreements, the cessation of hostilities, mutual support joint, but the establishment of a unified national defense government \",\" a unified anti-Japanese coalition forces, \"forming a unified this army headquarters \", requires a more effective, more advanced joint. <br> Declaration has not yet include the Chiang Kai-shek in the united front, but called on the parties to abandon the stereotypes of the past, \"Brothers net wall Imperial insult\" the spirit \"to fight for the sacred cause of the anti-Japanese national salvation . \" <br> Declaration of the anti-Japanese national salvation Ten-Point Programme 1934 the six Programme, mentioned more complete. published <br> Declaration is no longer for strategic considerations, but in good faith requires the payment of practice require all immediate consultations, negotiations, convened the Congress from all walks of life to discuss the practical work of the anti-Japanese national salvation, and said The CPC is willing to promoters. <br> \"the Bayi Declaration published, signs the fronts basic formation of the Communist Party of the establishment of the anti-Japanese national united front strategy. In practice, it won the enthusiastic support of the people and the people from all walks of life, great political influence in the Kuomintang areas, strongly encouraged and promoted the development of the anti-Japanese national salvation movement. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1843-6-15
+	create time:2013-01-01 22:53:28
+*/
+
+return array(
+'title'=>'Norwegian composer Edvard Grieg&#39;s birthday',
+'class'=>4,
+'cont'=>'June 15, 1843 (mao, May 18), the Norwegian composer Grieg&#39;s birthday. the death of Edvard Grieg, Norwegian composer <br> \"target =\" _blank \"> Grieg (Grieg, (on TodayOnHistory.com) 1843 to 1907) <br> 1843 June 15, the lyrical music composer Grieg was born in Norway the Bergen. <br>, Grieg&#39;s ancestors were Scots and his father is a businessman and his mother was Norwegian, is also an excellent piano hand, the Grieg Piano elementary education began in his mother in 1858, in the famous small handle Ole Bull strongly persuaded, Grieg was sent to Leipzig to receive special education after four years of studies after he left in 1862, the Leipzig Since then, Grieg went to Copenhagen, visited the the Nordic great composers Kayo, this line benefited after returning home, Grieg met a the patriotic young musician Noel NASDAQ Noel NASDAQ impact, (1 $ dj¦Ó.c¨­m) Grieg decided to do a national musicians. Grieg said Noel NASDAQ feelings, write a piano piece \"Humoresque\" dedicated to Noel Grieg, specially written to commemorate a good friend a \"funeral march\" NASDAQ 24. Knoll NASDAQ, age, premature death, and personally played Alaska, Virginia, Cleveland <br> 1867 Music Association, Grieg in the Association as a playing conductor for seven years in 1874 due to funding from the Government of Norway, Grieg was able to devote himself to composition, the number of works are skyrocketing in February 1876, by Grieg adaptation of Norwegian writer Ibsen&#39;s drama \"Peer Gynt\" in Alaska, Virginia, Cleveland National Theatre staged he choose a certain song, adapted into orchestral suites, the whole song is divided into two parts, each containing four paragraphs. Suite No. 1: \"Morning Song,\" Isaac&#39;s death, \"An Nitan Dance\", \"mountain king hall\"; Second Suite: Ingrid sigh \",\" Arabian Dance \",\" Peer Gynt normalized Township, \"Sur the Vichy Song\", which is representative works of Grieg the <br> Grieg ^ 32 ^ mp3 \"name =\" mediaplayerfile \"> Morning Grieg <br> 1885 years, Grieg seclusion in Troldhaugen far away from the homeland, half a lifetime spent here peace. And his wife, he often went to travel abroad to perform, they held several concerts in Leipzig, Rome, Paris, London. The summer of 1907, he was again employed by British conductor playing old disease attack, Grieg or promised to go. But on the board before he was taken to the Bergen hospital, and died in the hospital. many <br> Grieg&#39;s piano pieces, and most of them are lovely and beautiful works of lyrical ditty set, including \"Butterfly\", \"Message spring. Song \"dew\", \"Swan\", \"I love you\", lyrical idyll tone is Grieg music. <br> <br> <br>'
+);
+
+?>

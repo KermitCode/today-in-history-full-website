@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1895-8-1
+	create time:2013-01-01 23:15:05
+*/
+
+return array(
+'title'=>'Furuta Missionary Cases',
+'class'=>0,
+'cont'=>'August 1, 1895 (June 11), Yi Wei, Furuta lesson plans occurred. <br> Furuta Missionary Cases \"target =\" _blank \"> Gutian lesson plans is the 21st year of Guangxu (August 1, 1895), June 11 Gutian County, Fujian Province, a lesson plan of the day, Furuta vegetarian Anglicans Gutian Huashan summer British missionaries Shi Luo Bo and his wife and children and accompanied by the other female priests attacked, killed or injured more than ten people, burned houses two the Gutian lesson plans before the Boxer Rebellion (1899 - 1901) China attacked Westerners of the most serious clashes in the history of the Church in China can be compared only occurred in 1870 in Tianjin lesson plans. <br> events of the time history of Luo Bo, a priestess in his sleep, only a few children playing outside, 11 people were killed in the riots, History Luo Bo himself, the other victims are defenseless women or children. because the mob after the houses and the bodies burned, the details of the killing is not clear, when many Western media reports describe different: some say, the mob not before slaughter torture victims; Some said that the mob quite brutal means, in addition to torture them, the last also they throat cut or burned alive. <br> Furuta lesson plans only five people survived, which is the child of the history of Luo Bo: a broken side of the knee, another poke blind one eye. <br> Qing government prior attempt to blockade the news and not timely filing the capture of punishing the murderer, and thus the Anglo-American accused accomplice accomplice and asked the tough protests to put pressure on the military. Anglo-American consul stationed in Yung jointly organizing the investigation Furuta and a delegation to participate in the joint trial. Finally, the leader of the Church of the Gutian Lent were all beheaded dozens of other accomplices were sentenced to life imprisonment and life-long exile, Furuta magistrate Wang Rulin and other local officials were dismissed. incident, national Minister associated title protest British warship marched Fujian demonstrations and organizations Furuta, Anglo-American Consul-finding mission to participate in joint trials. Baoquan side electrical life of the Qing government \"to do so. Finally, Liu Xiangxing 26 people were killed, 66 were sentenced to life imprisonment and lifetime banishment , local officials Tang Youde, Furuta magistrate Wang Rulin were dismissed. (lsjt.org) <br> Chinese officials and the Anglo-American consular the triage site <br> <br> Furuta lesson plans of the four chiefs <br> <br> execution sites <br> missionaries funeral <br> the victim graveyard <br> < ; br>'
+);
+
+?>

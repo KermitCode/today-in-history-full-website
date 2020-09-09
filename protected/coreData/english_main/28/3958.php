@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1975-4-28
+	create time:2013-01-02 09:02:39
+*/
+
+return array(
+'title'=>'The national railway transport after rectifying the situation improved',
+'class'=>0,
+'cont'=>'(Mao, March 17), April 28, 1975, the national rail transport has been improved to rectify the situation. the <br> Deng Xiaoping as a breakthrough by railway rectification Economic <br> 1975 April, the national railway transport after rectifying the situation improved. <br> CPC Central Committee held a meeting the secretary of the party committee in charge of the provinces, municipalities and autonomous regions, industrial solve the railroad problem. Deng Xiaoping made a speech entitled \"talk about the overall situation of the whole party, and boost the national economy\" speech. 1974 national railway throughout the year than in the previous year due to the interference of the Pi Lin Pi campaign in 1974, less shipped 43.21 million tons of cargo, cargo traffic fell by 5.3%; New rail investment declined by 3.9% over the previous year. The track laying mileage has decreased by 21.5%; railway industry GDP decreased by $ 2.4 billion over the previous year. 1975, the situation worsened. The problem is not solved, rail transport were all disrupted production deployment, the entire plan will come to nothing. Deng Xiaoping was determined to solve this problem. Deng Xiaoping pointed out that the way to solve the railway problem is to strengthen the centralized and unified. The necessary rules and regulations must be restored and the sound, Deng Xiaoping severely criticized factionalism, and said: \"I heard that some comrades now only willing to grasp revolution, dare not grasp the production, saying that &#39;grasping revolution insurance, grasping the production of hazardous &#39;. This is a big mistake. \"The meeting adopted a decision on the strengthening of the railway work, as the CPC Central Committee document issued. Deng Xiaoping&#39;s important speech to convey, and this document is issued for implementation in 1975 marked the beginning of the rectification work on all fronts. <br> after the meeting, the Minister of Railways Miles led the working group has to go to Xuzhou and other places, focus on rectifying the serious problem Railway Bureau. Concentrate on solving the problem of leading bodies, within a time limit; maturity does not change, take dismissal. Removed from the original units decisive organizational measures, re-equipped with the leadership team to prosecute 33 to incite trouble factionalism, resorting to violence, work stoppages discontinued villains. After the consolidation of one or two months, the situation of the railway transport has improved remarkably. The number of average daily loading of the national railway to create the highest level in history, the train punctuality rate is much higher. (Lsjt.org) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-2-25
+	create time:2013-01-02 08:42:22
+*/
+
+return array(
+'title'=>'Deng Xiaoping met with U.S. President George W. Bush',
+'class'=>0,
+'cont'=>'(Baba in the first month on the 20th), February 25, 1989, Deng Xiaoping met with U.S. President George W. Bush. <br> U.S. President George W. Bush and his wife Barbara arrived in Beijing after Tiananmen Square, President Bush and his wife met with the public <br> 1989 February 25, 2010, just more than a month of his inauguration the President of the United States George ¡¤ ; Bush 40 hours working visit to China. February 26, Deng Xiaoping pointed out that in the talks and Bush: China&#39;s problem, the overriding need to stabilize. Without a stable environment, what are blowing, and what has been achieved will be lost. Our country to reform, reform is necessary to have a stable political environment, leave it, what can be done. China is proceeding from the fundamental interests and the development of domestic and foreign policy, we do not play cards, do not engage in an expedient, we have the historical events, the characters make a rapid, appropriate evaluation. Evaluation can not be too much, can not be out of line, because the negation of a historical figure, means to negate their own piece of history of the country. China in the development of economic processes, such as the pursuit of formal democracy, the result is both impossible to achieve democracy, the economy is also lack of development, only national chaos, lose morale situation. We have a deep understanding, because we have the experience of the \"Cultural Revolution\", saw its consequences. China must persist in reform and opening up, this is the hope to solve the Chinese problem, but the need for a stable political environment. Chinese people, each have their own views, today&#39;s demonstrations, tomorrow the demonstrators, 365 days, every day there will be demonstrations, then it simply does not engage in economic construction. Overall, the Chinese people support the reform policies, the vast majority of students support the stable, they know to leave the question of reform and opening up the stability of the country. Our ultimate goal is to develop socialist democracy, but to engage in a hurry does not work. The United States has twelve hundred years to engage in election experience. If we engage in the election of billions of people, will appear to the chaos of the \"Cultural Revolution\". Different opinions among the young appears to Chairman Mao said that \"out civil war. The civil war does not necessarily need guns, fists, stick. Democracy is our goal, but the country must remain stable. <br> Bush in February 1988 had been to China. <br>'
+);
+
+?>

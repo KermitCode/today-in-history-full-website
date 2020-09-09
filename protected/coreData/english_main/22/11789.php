@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-12-22
+	create time:2013-01-02 02:06:32
+*/
+
+return array(
+'title'=>'Tokyo Supreme Court verdict Azuma Shiro losing',
+'class'=>0,
+'cont'=>'December 22, 1998 (the Tiger the winter in early four), the Tokyo Supreme Court sentencing the Shiro Azuma losing. Azuma Shiro <br> 8 6-year-old on the Court of Final full of confidence <br> December 1998, the Tokyo High Court \"pushed do not think there described as tyrannical behavior diary & rdquo The Japanese manufacturing Nanjing Massacre offense; grounds, sentenced to expose the original Japanese soldiers, 86-year-old Azuma Shiro losing. <br> since the \"of Azuma Shiro Diary losing case following the Tokyo District Court handed down two-and-a-half years ago, (L $ dj而.妨壯T) Japanese judicial authorities once again made in disregard of historical facts, unfair judgment. (L $ dj而.妨壯T) <br> original Japanese Army Kyoto 16 Division Fukuchiyama the 20 Mission Mountain Infantry Azuma Shiro in 1937, took part in the invasion of the city of Nanjing fighting witnessed the atrocities of the Japanese all the tragic. In 1987, Azuma Shiro is to uncover the truth of the Nanjing Massacre 40 years of military service diary and battlefield records available to the public, will be sealed, bear in mind the lessons of history and development of the two peoples, the Sino-Japanese friendship from generation to generation, and later compiled and published . However, a group deny historical facts of aggression the diehards encouraged Azuma Shiro diary records the massacre with the parties concerned - Koji Hashimoto (plaintiff) sued Azuma Shiro \"reputation infringement\" on April 15, 1993 , denied that there had been as cruel acts, thus completely negating the \"Nanjing Massacre\". April 26, 1996, the Tokyo District Court made Shiro Azuma pay 500,000 yen honorary damages \"reversing black and white judgment on the ground.\" Diary from common sense unnatural \" <br> Azuma Shiro, 22 in the press conference held after the verdict of the court issued a protest statement. Azuma Shiro said angrily, partial to the High Court denied the plaintiffs of the \"Nanjing Massacre\" party unjust judgment, heaven tolerate. He said that will continue to appeal to the Supreme Court, the of Azuma Shiro diary and the \"Nanjing Massacre\" truth constantly telling the world wider struggle in the end. notarized <br> test results show that the Notary Office <br> Nanjing-site test of the whole process: the perpetrators have time to escape, and to avoid injury. <br> <br> burning grenade test site. <br> Japanese lawyers and staff the explosion recorded during the test. <br> test Azuma Shiro diary written three hand grenades tied equipped with analog pocket. <br> Azuma Shiro will be accompanied by the army of half a century wartime diary and other evidence to be donated to the Japanese invaders in Nanjing Massacre Memorial Hall. (L $ dj而.c身m) <br>'
+);
+
+?>

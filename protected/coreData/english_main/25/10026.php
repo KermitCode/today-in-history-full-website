@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1987-10-25
+	create time:2013-01-02 01:19:12
+*/
+
+return array(
+'title'=>'The Thirteenth National Congress of the Communist Party of China held in Beijing',
+'class'=>0,
+'cont'=>'(On September Dingmao third), October 25, 1987, the Thirteenth National Congress of the Communist Party of China was held in Beijing. <br> Deng Xiaoping presided over the opening ceremony Reference 25 October to 1 November 1987, the Thirteenth CPC National Congress was held in Beijing from October 25 to November 1 <br> 1987 the Thirteenth National Congress of the Communist Party of China held in Beijing. Official on behalf of 1936 people to attend, invited representatives of 61 people. On behalf of more than 4,600 million members nationwide. The theme of the meeting is to accelerate and deepen the reform. Deng Xiaoping presided over the opening ceremony of the General Assembly. Zhao Ziyang made a presentation entitled \"forward along the road of socialism with Chinese characteristics,\" the report commissioned by the 12th Central Committee. The report presents a theory of the primary stage of socialism, the party in the primary stage of socialism, \"a center, two basic points\" basic line, developed in three steps into the middle of the next century, the modern development strategy, and made the task of political reform. The meeting considered and adopted the resolution on the report of the 12th Central Committee of the resolution on the amendment of certain provisions in the Party Constitution, the resolution on the work report of the Central Advisory Commission, \"the resolution on the work report of the Central Commission for Discipline Inspection . Zhao Ziyang made a closing statement. <br> elected by the General Assembly of 175 members of the Central Committee, alternate member of the 111 people, 69 of 200 members of the Central Advisory Commission, the Central Discipline Inspection Commission members. <br> 11, the convening of the 13th CPC Central Committee, the first plenary session, elected 17 members of the Political Bureau of the CPC Central Committee, an alternate member; 5 of the Standing Committee of the Political Bureau; 4 CPC Central Committee, an alternate secretary, election Zhao Ziyang as general secretary of the Central Committee, Deng Xiaoping, Chairman of the Central Military Commission, Chen Yun as director of the Central Advisory Committee, Qiao Shi as secretary of the Central Commission for Discipline Inspection. <br> newly elected member of the Standing Committee of the 13th CPC Central Committee Political Bureau. From left: Zhao Ziyang, Li Peng, Qiao Shi, Hu Qili, Yao Yilin <br> Congress venue <br> Deng Xiaoping at the 13th CPC National Congress meeting <br> deputies vote <br>'
+);
+
+?>

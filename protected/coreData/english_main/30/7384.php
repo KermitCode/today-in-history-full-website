@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1898-7-30
+	create time:2013-01-01 23:23:56
+*/
+
+return array(
+'title'=>'&quot;Iron Chancellor&quot; Bismarck&#39;s death',
+'class'=>3,
+'cont'=>'July 30, 1898 (the Hundred Days, June 12), the \"Iron Chancellor\" Bismarck&#39;s death. 1898 7 30 <br> <br>, known as the \"Iron Chancellor\" Bismarck&#39;s death <br> <br> Otto von ¡¤ Bismarck is a pivotal figure in Germany&#39;s modern history. As the most famous Prussian German Junker bourgeois politicians and diplomats, he is a \"top-down\" unified German representative. Bismarck in April 1815 Sunrise born in Prussia Blankenburg µÇ±¤°¢¶ûÌØ Mark Snow grace Stockhausen Manor a large Juncker, aristocratic family. Childhood well-educated, had to study law at the University of G&#246;ttingen and the University of Berlin, history and foreign languages. During college, he worked with students for more than 27 duels. Military service after graduation. Bismarck wiry, boorish personality can do anything in order to pursue the goal of holding the attitude of realism. After 1839, he returned to their own territory, operating manor economy, and the introduction of new farming methods, improved farm implements, crop rotation, and commodity production. In 1847, Bismarck became Prussian Parliament; 1851-1858 was appointed representatives the the Prussian Landrecht in the Federal representative will either in the Russian envoy in 1859, and in 1861 he was named Minister to France. In 1862, he was appointed Prussian prime minister and Foreign Minister, pressing ahead with the \"blood and iron\", advocated by war, by Prussia unified Germany. (Lssdjt.cn) have launched a war against Denmark, Austria and France, the progressive realization of the reunification of Germany. 1871 Bismarck served as the prime minister of the newly established German Empire, and a glimpse of the Duke. After 20 years, his right inone. Internal powers of to strengthen Prussia and Imperial Government to promote the Union and the economic benefits of the Junker and bourgeois repression of workers&#39; movement; foreign take realism hegemony in Europe and overseas aggressive expansion, he became half of the 19th century European politics The arena&#39;s Person of the Year. In 1890, he was the resignation of the New Emperor Wilhelm II command back to the manor. His death in 1898. <br> Comments: Bismarck is one of the most prominent politicians of the 19th century, he was appointed the prime minister of Prussia through a series of successful reunification of Germany in a war, and became the first prime minister of the German Empire. <br>'
+);
+
+?>

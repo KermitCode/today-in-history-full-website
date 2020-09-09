@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-11-18
+	create time:2013-01-02 02:19:53
+*/
+
+return array(
+'title'=>'U.S. President Ronald Reagan proposed the &quot;zero option&quot;',
+'class'=>0,
+'cont'=>'(Yau, October 22), November 18, 1981, U.S. President Ronald Reagan proposed the \"zero option\". <br> 1981 11 18, U.S. President Ronald Reagan on limiting medium-range nuclear weapons in Europe to put forward a \"zero option\". The central element of this program is: If the Soviet Union, the new missiles in its European region to deploy SS-20 and SS-4 and SS-5 vintage missile are removed out, (lsjt.net) in Western Europe, the United States will not deploy Pershing ¢ò type missiles and land-based cruise missiles. <br> What is the \"zero option\"? <br> 70 mid-ago, the Soviet Union and NATO are roughly in balance of power in the intermediate-range nuclear forces in Europe. Soviet deployment of SS-4 and SS-5 missiles in its European region, the NATO deployment of U.S. Pershing I missile and spears missiles in Western Europe. But from 1977, the deployment of new SS-20 medium-range missiles that can hit Western Europe any corner in the Soviet Union in the European region, which makes the Soviet intermediate-range nuclear forces in Europe to obtain the advantages of NATO. This change is very disturbed. It NATO&#39;s decision in December 1979 to promote the deployment of 572 Pershing II missiles and land-based cruise missiles in West Germany, the United Kingdom, Italy, the Netherlands, Belgium, starting in 1983. At the same time, the United States also promised to negotiate with the Soviet Union on limiting medium-range nuclear weapons in Europe. Thus, starting in 1980, the United States and the Soviet Union on this issue was held in Geneva negotiations. earliest <br> \"zero option\" was originally proposed by the visit to the Soviet Union in July 1981, the West German Social Democratic Party Chairman Brandt Brezhnev. Then West German Chancellor Helmut Schmidt in favor of this proposal, that it can become the basis of the US-Soviet negotiations. <br> Reagan administration originally opposed to this program, and later given to relations with West European allies, to accept the recommendations of the Federal Republic of Germany, the official presentation of this claim as their own recommendations, welcomed by the countries of Western Europe. (History today www.lssdjt.com) <br> Soviet Union the \"zero option\" in the United States opposed. Soviet leader Yuri Andropov, the new stage called the program a \"joke\" type of proposal, and that is unacceptable. He also reiterated that, if the United States does not deploy new missiles in Europe, the Soviet Union is willing to deploy it reduced the number of medium-range missiles in Europe. The Soviet Union, the proposal was the refusal of the United States. <br>'
+);
+
+?>

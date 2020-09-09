@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-12-7
+	create time:2013-01-02 02:35:02
+*/
+
+return array(
+'title'=>'The Armenia earthquake affected population of 100 million',
+'class'=>5,
+'cont'=>'December 7, 1988 (October 29 Boshin years), the the Armenia earthquake affected population of 100 million. <br> a man ask in the coffin of their loved ones crying <br> 1988 year-end, the unrest has been continuously plagued year of the Soviet Republic of Armenia, but also by new tragedy and Devastate. The cities Lieningnakan Spitak into a pile of rubble after a massive earthquake. (L $ dj¦Ó.c¨­m) <br> earthquake occurred at 11:41 on December 7. The city has 80% of the buildings were destroyed, and more than 50 villages have been destroyed, causing economic losses of 100 billion rubles (? V history today?? Com) more than the loss of the accident at the Chernobyl nuclear power plant. Soviet dispatched civil aircraft from 3752 to the relief of military aircraft of 2426 sorties, 82,000 relief workers. Soon receive national contributions to relief funds and 1.2 billion rubles. Foreign also donated more than 100 million US dollars, and deployed 286 aircraft emergency transportation of relief supplies and rescue workers. Has convinced the deaths of as many as 100,000 people in the catastrophe. 98% of the bodies were dug out from under the rubble. Disability of 1.9 million people, as many as 100 million people affected. The survivors of the catastrophe had to be extruded outside the rubble of their homes has become a pile. Spitak Stadium coffin piles up the mountain, there are at least several thousand with. Then, there was a large-scale rescue operations commenced survivors with bare hands to unplug the the brickbat bad watts, hoping to find missing relatives and friends. Armenian authorities quickly set up a disaster relief committee. Rescue forces erected countless tents housed the victims and to provide food, medical teams provide disaster victims with medical assistance. The disaster occurred in the final stages of the already troubled year. In February, the Soviet south of the Republic of Armenia, the Republic of Albania, and not in the case of the Soviet Union were the most serious peacetime national riots torture. Prior to this, it has been called on Armenians accounted for the majority of Nicholas - Niagara Buck should return to Armenian control, Albania refused this request. The Armenian population accounts for 3/4 of the region after the 1921 Niagara Buck has been a part of Albania. Armenian capital Yerevan and the entire disputed area mass demonstrations. In addition in Sumgait, Albania, the parties to violent clashes. <br>'
+);
+
+?>

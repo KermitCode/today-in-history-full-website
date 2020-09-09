@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1952-3-8
+	create time:2013-01-02 08:33:27
+*/
+
+return array(
+'title'=>'New China train the first batch of all female pilots',
+'class'=>0,
+'cont'=>'March 8, 1952 (February 13) Imjin years, the New China train the first batch of all female pilots. <br> founding of New China, the CPC Central Committee and Chairman Mao Zedong made to train female pilots in the decision-making. In April 1951, the first batch of 55 women from all over the country, participants were assigned to the of Mudanjiang seventh aviation school. Its predecessor is famous northeast old aviation school. Conditions for learning and living environment of the aviation school was very hard, not only to the barracks is worn, and even the use of the aircraft is also worn, lack of equipment, small parts, only a few aircraft share a propeller, shared a tire. They began the study of theory and flight training in these extremely difficult circumstances. March 8, 1952, the Chairman Zhu De and other central directorate in the west of the airport to participate in the ceremony of their flight test. Women from all walks of life in the capital on behalf of more than 7,000 people (on com) the diplomatic envoys wife as well as Chinese and foreign reporters gathered in the western suburbs of Beijing airport to watch the female pilots take off by reading ceremony. <br> 13:10, by reading the 6 \"-2\" takeoff, neatly follow-up formations to accept the review of the party and the people. <br> Chinese girl to fly overhead friends! Good news spread to Zhongnanhai. <br> 3 24 afternoon, Mao Zedong, Liu Shaoqi, Zhou Enlai and other Party and state leaders in Zhongnanhai Dy Nien Church cordially received the first batch of all female pilots. (L $ dj¦Ó.c¨­m) <br> 5 o&#39;clock, Chairman Mao, Premier Zhou tall and robust figure appeared in the doorway. Ranks immediately broke out in applause and cheers. <br> Chairman Mao his voice, walking toward them with a kind smile. Beloved Premier Zhou pleased to give them an introduction. They heartily applauded, cheered enthusiastically. lovingly <br> Chairman Mao watching them, and asked the Air Force commander: <br> synthesizer you? \"<br>\" Synthesizer. \"Air Force commander answered. <br> Chairman Mao nodded with satisfaction. To sit down together, and they took pictures. the <br> Chairman Mao said: \"fine sister is not simple, fly well ah! To train the pilots of the people, not when the table Actor. \"<br> Chairman Mao intimate care (history TodayOnHistory.com) give them much encouragement! <br> ceremony by reading, the first batch of female pilots were ordered to set up a new Air Force units. In the Korean War, the young group of female pilots on heroic war, the implementation of the airlift mission. <br>'
+);
+
+?>

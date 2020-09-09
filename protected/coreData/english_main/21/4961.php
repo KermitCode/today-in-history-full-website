@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1951-5-21
+	create time:2013-01-01 23:35:31
+*/
+
+return array(
+'title'=>'China and Pakistan established diplomatic relations',
+'class'=>5,
+'cont'=>'May 21, 1951 (, Xin Mao April 16), the establishment of diplomatic relations between China and Pakistan. <br> Pakistan established diplomatic relations \"target =\" _blank \"> the Pakistani flag <br> Pakistan, the full name of the Islamic Republic of Pakistan. Persian meaning\" the pure live at \"Urdu Italy \"holy nation\" in the South Asian subcontinent northwest area of &#8203;&#8203;796,095 square kilometers. population of 122,500,000 (July 1993), mainly Punjabi family, Shun Tak family and Bataan family, respectively, accounting for 56.1% of the country&#39;s population. , 22.6%, 13.1%. official language is English, more than 96% of the residents of Muslim capital, Islamabad. mineral deposits such as natural gas, oil, iron, coal, copper, marble, precious stones. economy is dominated by agriculture dependent on foreign aid, one of the low-income countries. gross national product per capita of 11,393 rupees (1992/1993). currency name Pakistan rupees main crops are wheat, corn (history cn) rice, cotton, sugar cane. buffalo, cattle, sheep, horses and camels. livestock exports rice, cotton, cotton fabric, leather products, fish, fruits, cement; imported oil, building materials, transport equipment, iron and steel products, electrical products, light industrial products. railway length 8775 km road length of 169,502 km, the main port of Karachi, and air links with the major countries of the world. Pakistan, formerly part of British India. colonized the entire subcontinent in 1858 and June 1947, the United Kingdom agreed to the partition of India in August the 14th Palestinian declaration of independence, became a dominion of the British Commonwealth, including East and West Pakistan. (National Day) the establishment of the Islamic Republic of Pakistan on March 23, 1956. March 1971 the eastern announced the establishment of the People&#39;s Republic of Bangladesh, formal independence in December. pursue an independent and non-aligned foreign policy, focusing on the development of relations with the Islamic countries and China, is committed to maintaining peace and stability in South Asia. diplomatic relations with China on May 21, 1951. <br> Karachi modern Pakistani capital held at the Jinnah mausoleum \"target =\" _blank \"> mosque <br> Karachi Mohammad Ali Pakistan\" father of the \"birth of Jinnah\" target = \"_blank\"> <br> the the colorful bus <br> that houses before threshing floor <br> Punjab villages <br>'
+);
+
+?>

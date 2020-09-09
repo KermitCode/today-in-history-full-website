@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1909-8-12
+	create time:2013-01-02 00:37:38
+*/
+
+return array(
+'title'=>'Plant pathologists, agricultural educator Chenshan Ming was born',
+'class'=>4,
+'cont'=>'August 12, 1909 (, Jiyou June 27), plant pathologists, agricultural educator Chenshan Ming was born. the the birth of <br> Chenshan Ming \"target =\" _blank \"> Chen Shanming, August 1909, Sunrise was born in an intellectual family, ancestral home is in Tianjin father Chen Baoquan former Beijing Higher Normal School (predecessor of Beijing Normal University ) the President, 1926, graduated from Beijing Normal University Affiliated High admitted to Nankai matriculation. admitted to Tsinghua University in 1927, graduating in 1931, staying in any of the Department of Biology, Li Dong assistant under the direction of Professor Li Jidong, engaged physiological studies of ginkgo fruit development after the National Beijing Normal University to teach, Jingsheng biological investigations are part-time in 1936, into the United States Department of Plant Pathology, University of Minnesota degree under the guidance of Professor Stackman engaged in small Maisi nuclear pathological study of the bacteria. study of genetic variation in fruit trees Sclerotinia sclerotiorum, 1943 Ph.D., Sigma-Xi honorary membership at the same time. Professor Zou Bingwen in 1944 [L $ dj¦Ó.c¨­m] Chen Shanming suddenly received call from Washington telephone and urged him to return home immediately. Chen Shanming give up the invitation of the Florida State University Experiment Station at that time, decided to return home. candidates in the central agricultural experiment Senior Specialist. presided pest Laboratory, responsible for the whole room work plans and arrangements, and sorghum smut study the formation of the Chinese Academy of Agricultural Sciences, 1956 (on www.TodayOnHistory.com) Chen Shanming either the Plant Protection Research Institute researcher and deputy director, responsible for the Service dedicated to wheat stripe rust research in 1982 has carried out the rust fungus genetic and physiological studies, plant disease-resistant variant cell selection, soil-borne biocontrol weak domestic research projects, and on this basis the formal establishment of the Plant Pathology biotechnology issues Group. <br> Chenshan Ming has served Phytopathological Society executive director, vice president of consultant; Plant Protection Society executive director, consultant; Plant Protection magazine editor-in-chief; Plant Protection of Plant Pathology deputy editor; Chinese Academy of Agricultural Sciences Degree Examination Committee members and other staff. <br>'
+);
+
+?>

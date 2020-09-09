@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1891-4-24
+	create time:2013-01-02 08:59:30
+*/
+
+return array(
+'title'=>'Prussia and the German Chief of the General Staff, the famous military strategist Moltke&#39;s death',
+'class'=>3,
+'cont'=>'April 24, 1891 (, Xin Mao on March 16), the death of Prussia and the German Chief of the General Staff, the famous military strategist Moltke. <br> Helmuth Karl Bernhard von Moltke&#39;s death \"target =\" _blank \"> Moltke (1800 to 1891), Chief of Staff, the famous strategist in the S & P Austrian war, the Franco-Prussian War, defeated the Austrians and the actual organization of the French army commander, also known as mao odd, to their nephew the hairs odd distinguish. born in 1800 in a dilapidated Ã·¿ËÂ×±¤ÅÁ¶û Rahim noble family The father is former Prussian officer, and later moved to Denmark. Moltke from the 8-year-old Holstein Tolstoy, due to education, the 10-year-old into the Royal Military Academy in Copenhagen, the 18-year-old into the Danish army. pass the exam, he transferred to the Prussian army in 1822, was the rank of second lieutenant. following year, into the Army Academy in Berlin for further study. 1838 published \"On the military mapping outline\" great importance by the military, was transferred to the General Staff Headquarters Bureau of Surveying and Mapping work from 1835 to 1839, was sent to Turkey, served as military adviser to the Ottoman sultans. transferred back to Berlin in 1840, served in the 4th Corps Staff in 1842, his part in directing the construction of the railway in Hamburg to Berlin, which recognize the major role of the railway army maneuvers and logistical after served as adjutant of Prince Henry, 8 Corps and 4 Corps Staff for grades. <br> 1855, Moltke was transferred to Prince Friedrich Wilhelm adjutant from who later became the King of Prussia and German Emperor Friedrich III in close contact, use the \"sword\" to the last moments of life for the king in 1857 to 1888 due to the king&#39;s trust and promoted long-serving general Army chief of staff, the term bold restructuring of the General Staff, arms expansion, improvement and equipment. Meanwhile, the actual charge of the operational command of the Prussians in 1864, led his army to victory over Denmark in 1866, made the victory of the War of the Austrian. July 1870, after the outbreak of the Franco-Prussian War, he led three corps against the French army achieved a decisive victory in the Battle of Sedan, made a significant contribution for the realization of the German Unification the king therefore called him a good use of the sword \" , to him as Earl, promoted to the rank of Field Marshal, after he retired in 1888, he was appointed as the Chairman of the National Defense Commission of Mao Qijun things Proceedings and military lessons (war preparation) \"in military history. a great impact, it is worthy of future study. <br>'
+);
+
+?>

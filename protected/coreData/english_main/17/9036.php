@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-9-17
+	create time:2013-01-02 01:19:37
+*/
+
+return array(
+'title'=>'British Prime Minister John Major said the declaration of war to the &quot;rogue culture&quot;',
+'class'=>0,
+'cont'=>'(Awake, August 12), September 17, 1994, British Prime Minister John Major said the declaration of war to the \"rogue culture. <br> 1994 9 17, Major urged the court to take stringent action against the offenders. And commitment for minor crimes carried out blitz once (on com) to destroy the British \"rogue culture. <br> He said: \"the punishment can be imposed on them, can also be in jail. \"He asked the court to issue a\" clear and unequivocal message \": those who violate the law will be punished, the victims will be supported. He also advised people not to use too much admonition way. <br> Major guaranteed to make a large number of detailed measures, including a three-year anti-drug abuse and trafficking scheme, to reduce the action of the streets drunk, and strengthen prison management. <br> Major uses dramatic language, the appeal of a felony and minor offenses are sentenced to severe prison sentences, and said that the United Kingdom will be the implementation of the ID card system. He also called for \"a national co-operation\", special police, the municipal council, the local courts, schools and communities to join forces to combat criminals. <br> Major public hope that the government crackdown Avenue becomes a frightening place. Because of fear, people are afraid to go to the downtown, people worried about their own safety. He called on to carry out a national \"combat rogue culture\" movement, calling for teachers and respect teachers consciousness, the municipal council to use its power to eliminate the phenomenon of public drunkenness. <br> Major said: \"we can through our own attitude and example to show that we condemn and reject rude, wanton destruction and crime, public places cluttered with no thought anywhere graffiti graffiti &#39;artists&#39; indignation. Too much crime taken forgive attitude, we tend to let the young people to develop all sorts of bad habits for forgiveness and has just exhort. Early child taken measures may cause them to embark on the right path. \"<br> However, the most striking Major called on the court to draw on the powers given to them by the government. He said, if only to seize the criminals did not let him suffer, to rehabilitate them and deter other criminals \"penalty, then there is no meaning. <br> said plum lanterns, will set aside more funds for guidance in schools to prevent student drug use, and will require the superintendent to make greater efforts to put an end to the phenomenon of child apprentice students. He promised to conduct a blitzkrieg of drug abuse in the prison. He said: \"I hope people come out from the prison to rehabilitate, not degenerate into a group of drug addicts. (? V history today?? Com) \"<br>'
+);
+
+?>

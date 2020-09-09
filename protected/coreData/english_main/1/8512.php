@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-9-1
+	create time:2013-01-02 01:14:53
+*/
+
+return array(
+'title'=>'Taiwan purposes of the Sunshine Act. &quot;',
+'class'=>0,
+'cont'=>'September 1, 1993 (July 15) 對衃, the purposes of the Sunshine Act. <br> 1993, Taiwan&#39;s Legislative Yuan passed a so-called \"sunshine laws\" both the Public Functionary Assets Disclosure Law, and will be effective as of September 1 of the same year. After the introduction of this law, many overseas media comment on. Hong Kong Express in its editorials, \"say goodbye to the dark political corruption, corruption! Said: \"This is an important opportunity for clean politics for the first time over the past century Chinese society, worth in letters. (L $ dj而.c身m) \"<br> According to the introduction,\" Public Functionary Assets Disclosure Law \"stipulates that the object should declare his assets including: president, vice president and deputy dean of the five branches of payroll president representatives of the people above the one in charge of the House Yew, national policy adviser and strategic consultant, Administrative Officer, ten levels above the heads of government agencies, or the equivalent of state-owned enterprises, the principal military chief Major General, heads of government agencies in the township level and above, the county or city level declare the necessary personnel and job special. These people should be reporting for duty within 3 months of reporting and regular annual reporting. In addition, above the reporting person&#39;s spouse and minor children, but also in the case of the scope of the declaration. (有身d芋y身里h貝 $ 而身ry.c身m) <br> commented, \"sunshine laws\" finally came out, this is a victory of public opinion in Taiwan are not satisfied with the ruling authorities in Taiwan would be forced to accept. In 1949, the corruption of the political wind is one of the main reasons for the collapse of the Kuomintang regime. (Lssdjt.com) KMT moved to Taiwan, \"authoritarian rule\" does not have lessened the corruption of the wind; Taiwan&#39;s rapid economic development in recent years, also exposed the dawn of democracy, however, is still by authoritarian political transition to \"money politics\" collusion situation has reached the point where the indignation of the man of God. (1 $ dj而.c身m) <br> now, this includes \"mandatory reporting\", \"mandatory disclosure\" (declare his assets are regularly published in the bulletin), \"Force Trust property (declared by the government The trust industry recognized agency management) \"Sunshine Act\" finally brought a glimmer of hope for the people of the Independent Commission Against expectations. <br>'
+);
+
+?>

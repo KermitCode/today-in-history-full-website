@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1955-11-14
+	create time:2013-01-02 02:03:27
+*/
+
+return array(
+'title'=>'Playwright Robert Sherwood&#39;s death',
+'class'=>3,
+'cont'=>'November 14, 1955 (, October first day), Yi Wei, playwright Robert Sherwood&#39;s death. the death of Robert Sherwood, <br> \"target =\" _blank \"> Sherwood In in 1955 11 14. 4 times the 59-year-old won the Pulitzer Prize Sherwood died of heart onset of the disease he was born in a family full of humor tradition - his father, founder of the Harvard Lampoon his tragedy and hi brush works are outstanding <br> height of two meters Sherwood war intelligence at work he met Roosevelt and is responsible for drafting his speech in 1949, he wrote \"Roosevelt and Hopkins\" and therefore won the Pulitzer Prize, he wrote a series of three plays, \"Idiot Joy\", \"sub- Bo - Lincoln in Illinois \"and\" there will be no night \"won the Pulitzer Prize, his greatest works, however, the\" Petrified Forest \"but did not win. drama reveals the fantasies of people during the Great Depression. < ; br> Sherwood (1896-1955), American playwright, whose works reflect the social and political issues of concern, poor performance in school Milton Academy and Harvard University, but in performances on outstanding performance in 1917 years without graduating enlisted service to France, has been (gas smoked down, retired in 1919) 1919-1920, he served as \"Vanity Fair\" magazine drama editor, and to join the New York literary colleagues D-Parker, R-Benchley Another small groups Algonquin Round Table luncheon. ,1924-1928, 1920-1924, he served as the humor magazine \"Life\", deputy editor of the editor in chief. wrote the first script, \"the road leads to Rome\" (1927) criticized the war boring, this theme throughout many of his plays later depicted in the Petrified Forest \"(1935),\" idiot joy \"(1936) the hero are Zimingqinggao the youth, and finally realize that they themselves losers as fellow self-sacrifice. \"Abel - Lincoln in Illinois\" (1939), \"there will be no night\" (1941), the pacifist hero decided to fight, the author&#39;s argument is that a person only to sacrifice themselves for others, to make their lives meaningful, \"Lincoln,\" a drama he wrote he was introduced to the E-Roosevelt and eventually become the F-President Franklin D. Roosevelt&#39;s speech drafters and advisers. because of his efforts to make employment for political figures, on behalf of write The article became a respected professional Marshall became Special Assistant to the Minister ,1941-1944, Marshall became the overseas branch of the Secretary of the Ministry of Intelligence Bureau in 1940 and 1945, the Admiralty Special Assistant to the Minister, his wartime work in F-Roosevelt side master large amounts of material, write \"Roosevelt and Hopkins, in addition to\" We live in the golden age \"(1946) Academy Award, after World War II did not write what wonderful screenplay. <br>'
+);
+
+?>

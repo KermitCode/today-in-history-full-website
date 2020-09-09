@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1928-1-25
+	create time:2013-01-01 21:20:02
+*/
+
+return array(
+'title'=>'The former Soviet Foreign Minister, the President of the Republic of Georgia, Shevardnadze&#39;s birthday',
+'class'=>4,
+'cont'=>'January 25, 1928 (, Boshin flood the temple), the former Soviet Union Minister for Foreign Affairs of the Republic of Georgia, President Eduard Shevardnadze&#39;s birthday. the <br> Edward Shevardnadze <br> Edward Eminem Fuluo Xi Ye Weiqi Shevardnadze (Eduard Shevardnaje, 1928.1.25-) also translated Eduard Shevardnadze, the foreign minister of a Georgian politician, Georgia second term (1995 - 2003 November 23) President Gorbachev, the former Soviet Union during the administration (1985 - 1990). Fraud in the 2003 election period, members of Congress adjourn protests and public pressure, announced his resignation on the evening of 23 November 2003. In January 25, Sunrise, 1928, was born in a family of teachers in the Georgian Black Sea coast, Georgia. 18-year-old served as second secretary, Communist Youth League the the Kutaisi District Committee of Ministers, he served as district committee. 1957, he was appointed the first secretary of the Georgian Communist Youth League Central. 1961, he served as Georgia Mtskheta District Committee of the Communist Party first secretary of the party first secretary of the Tbilisi City on May. In 1964, he was appointed First Deputy Minister of the Georgian Ministry of Internal Affairs Minister from 1965 to 1972. In 1972, he was elected as the first secretary of the Georgian Communist Party Central. In 1976, Shevardnadze was elected member of the Central Committee of the CPSU. In July 1985, served as a member of the Politburo, was appointed at the same time as the Soviet Foreign Minister (1985 to December 1990) to take over any of the Soviet Union outside as long as 20 years Gromyko. <br> 1992, served as the Chairman of the Council of State of Georgia. In October of the same year, he was elected to the grid Parliament President (Head of State). Ren Xincheng legislation in November 1993, the Chairman of the Citizens Union of Georgia. In November 1995, an overwhelming majority of 74.3%, he was elected as the first democratically elected president of independent Georgia. 80.8% of the vote in the presidential elections held in April 2000, he again was elected president, and played a positive role in the end of the domestic political strife and quell civil unrest. November 2, 2003, Georgia held parliamentary elections, the opposition to the authorities in the election fraud grounds, refused to recognize the election results, and organized large-scale demonstrations requirements Shevardnadze to resign, causing political unrest. Shevardnadze was forced to resign as president was announced on November 23. <br>'
+);
+
+?>

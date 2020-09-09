@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1924-7-17
+	create time:2013-01-01 23:19:50
+*/
+
+return array(
+'title'=>'Hong Kong actress Li Lihua was born',
+'class'=>4,
+'cont'=>'(JiaZi June 16), July 17, 1924, Hong Kong actor Li Lihua was born. <br> <br> of Li Lihua <br> Li Lihua was born Liyuan family, parents Peking Opera stars Li Guifang and Zhang Shaoquan. In 1936 he moved to Peking, studied with study Peking Opera. In 1940, 16-year-old Li Lihua enter Shanghai Yihua Film Company and starred in \"Three Smiles\" fame. After in Yihua Pictures starring sent thousands of miles Jingniang seventeen films. <br> of Li Lihua <br> screen, \"Yang\" - of Li Lihua born Liyuan family, parents are China&#39;s famous opera star. In 1940, 16-year-old Li Lihua enter Shanghai Yihua Film Company and starred in \"Three Smiles\" fame. 1948, to Hong Kong filming. <br> Li Lihua play road is wide, capable of performing a variety of roles in the 1960s, she darling Shaw starring \"Yang\", has since become a costume dramas. Followed by \"the ancient capital Dreaming\", \"last forever\" and other films, has repeatedly hit the highest box office record, her salary up to a two-thirds of the cost of film production. Li Lihua, the Chinese movie star to break into Hollywood and world cinema. [Lsjt.net] In 1942 Vanda, Chinese film starring \"Spring grudge\" and other films. 1946 Mandarin Pictures starring satirical comedy \"false phoenix imaginary Phoenix\". 1948, traveling to Hong Kong movie, worked in the Great Wall, Ma, Yonghua, Shaw Pictures film, starring \"lying world,\" Dividing Wall \",\" money worship \"and\" Red Rose \" potherb mustard \"and\" Yang \",\" ancient capital Dreaming \". was founded in <br> 1954 the Lihua movie company filming the \"blockbuster\" movie. Yan Jun joint 1957 the dragon movie company filming \"Prince and the Showgirl\" movie. <br> Li Lihua play road is wide, capable of performing a variety of roles in the 1960s, she darling Shaw starring \"Yang\", has since become a costume dramas. The next piece of the ancient capital of Repose \"and\" last forever \", repeatedly hit the highest box office record, her pay was as high as a two-thirds of the cost of film production. Li Lihua, the Chinese movie star to break into Hollywood and world cinema. 1958 Li Lihua was invited to Hollywood famous film star Victor. McCue with shooting \"Tiger&#39;s Angels\", but refused to shoot with the actor kissing scene and then returned to Hong Kong development. Break of 1983, emigrated to the United States. Li Li-hua <br> now, <br> 80-year-old Li Lihua, to settle in the United States, and his starring in over 140 films, (L $ dj¦Ó.c¨­m) contemporary fans, who often are filed the yield actress, is the star on a Chinese film exudes a dazzling light throughout. the <br> comment :40-60&#39;s the Mandarin film star, cinema evergreen tree known. <br>'
+);
+
+?>

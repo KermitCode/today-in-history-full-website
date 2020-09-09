@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1971-2-2
+	create time:2013-01-01 21:48:28
+*/
+
+return array(
+'title'=>'The signing of the Convention on Wetlands',
+'class'=>0,
+'cont'=>'February 2, 1971 (Xinhai first month, seventh day), the Convention on Wetlands signed. ground-the Ramsar Hotel <br> the <br> Convention on Wetlands, signed 1971 February 2, 2010, which lasted for eight years, representatives from 18 countries in Iran&#39;s southern coastal town of Ramsar signed a aimed at the protection and rational use of the conventions of the world&#39;s wetlands - \"International Importance especially as Waterfowl Habitat, the Convention on Wetlands, the Convention on Wetlands\"). The Convention entered into force on December 21, 1975, to April 2007, there were 154 Parties. China acceded to the Convention on Wetlands in 1992. In order to improve the awareness of the people to protect the wetlands, the 19th meeting of the Standing Committee of the Convention on Wetlands in March 1996 decided that from 1997 onwards, the annual February 2 as \"World Wetlands Day\". <br> wetlands, forests, oceans and that the world&#39;s three major ecosystems, but also the most valuable ecosystems. According to the definition of \"wetlands Convention\" of, wetlands include marshes, peatlands, wet meadows, lakes, rivers, stagnation flood storage area, river deltas, beaches, reservoirs, ponds, rice Tian and low tide water depth of six meters of waters Strip . Wetlands with water conservation, water purification, flood control, soil erosion control, groundwater recharge, landscaping, regulating climate, maintaining vital ecological functions of the carbon cycle and protect the coast, is one of the biodiversity birthplace, also known as the \"kidney of the earth\", \"natural reservoir\" and \"natural species library. The wetland is the world&#39;s most valuable ecosystems, authoritative research data, according to the United Nations Environment Programme in 2002 showed that one hectare of wetland ecosystems created in each of the value of up to $ 14,000, is seven times the tropical rainforest, farmland ecosystem 160 times. <br> global wetland area of &#8203;&#8203;573 million hectares. China&#39;s first wetland resources survey of existing wetlands area of &#8203;&#8203;38.48 million hectares (excluding rice fields), ranking first in Asia and fourth in the world. 1992 through the first seven Wetland Reserve (tie Tuen, Heilongjiang Province, Jilin Province to the sea, Jiangxi Province, Poyang Lake, East Dongting Lake in Hunan Province, Hainan Dongzhaigang and Qinghai Province, Bird Island, etc.) included in the \"International Important Wetlands. \" (L $ dj¦Ó.¨­r¨À) <br>'
+);
+
+?>

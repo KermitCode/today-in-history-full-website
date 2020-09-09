@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-12-7
+	create time:2013-01-02 02:31:53
+*/
+
+return array(
+'title'=>'Taliban to Kandahar, the new regime to disarm',
+'class'=>0,
+'cont'=>'December 7, 2001 (October 23), Government House, to the new regime of Kandahar by the Taliban to disarm. <br> message from Kabul [history. cn] soon to be appointed Chairman of the Transitional Government of Afghanistan, Hamid Karzai, today, December 7, 2001, said his leadership of the local armed forces are entering the southern city of Kandahar, and said local Taliban has fully disarmed. The (lsjt.org) <br> Karzai said his troops into Kandahar City, and another part is the way to Kandahar. Karzai said the Taliban are peaceful surrender of control over Kandahar, but Mullah Omar unaccounted for. <br> another, according to the Afghan Islamic Press agency reported, according to the decision of the Afghan Taliban supreme leader Mullah Omar, the Taliban forces on the morning of the 7th to the new regime led by the local Pashtun tribal leader Najibullah in Kandahar disarm . <br> reported that the new members of the Administration in Kandahar, including the local tribal elders, religious scholars and some resistance during the invasion of the former Soviet Union the \"holy war\" generals. The the <br> former Taliban Pakistan chief representative Zaeef subsequently confirmed to the media Taliban disarm news. Its supreme leader, Mullah Omar&#39;s personal safety will be guaranteed according to the agreement between the Taliban and the opposition, the Taliban disarmed, he said. But soon to be appointed Chairman of the Transitional Government of Afghanistan, Hamid Karzai, said Omar must face war crimes charges. (History www.TodayOnHistory.com) <br> According to another report, the 6th U.S. Secretary of Defense Donald Rumsfeld said that the United States will never accept any agreement that allows the Taliban leader, Mullah Omar escape punishment, because the United States that he will not surrender. <br> Rumsfeld said the United States will not allow Omar \"Happy outer\" and live a decent life \"agreement. He said that if the Afghan opposition conflict with the position of the United States in dealing with the problem of senior Taliban leaders, the cooperation and assistance of the relationship between the U.S. and Arab opposition will happen \"turning point\", the United States will seek to cooperate with other people. <br> White House spokesman Ari Fleischer said the same day, U.S. President George W. Bush strongly advocated the need to provide shelter for terrorists are brought to justice. Bush, he said, that Omar asylum for terrorists. <br>'
+);
+
+?>

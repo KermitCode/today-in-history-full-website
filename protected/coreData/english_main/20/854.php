@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-1-20
+	create time:2013-01-02 06:52:22
+*/
+
+return array(
+'title'=>'Communist China rebuild the New Fourth Army',
+'class'=>0,
+'cont'=>'January 20, 1941 (the Dragon Year of the twelfth lunar month 23), the Chinese Communists to rebuild the New Fourth Army. <br> Figure: Chen Yi, on behalf of the New Fourth Army commander (front) and part of the cadres photo <br> 1941 1 20, the CPC Central Military Commission released the reconstruction of the New Fourth Army command. Command Huazhong General Headquarters based reconstruction of the New Fourth Army. The agent for the New Fourth Army commander appointed Chen Yi, Liu Shaoqi as political commissar, Zhang Yunyi deputy commander, Lai Chuan-chu, chief of staff, Zihui director of the Political Department. <br> 1 23, issued a joint inauguration of the New Fourth-generation Army Commander Chen Yi, deputy commander Zhang Yunyi, political commissar Liu Shaoqi Lai Chuan-chu, chief of staff, director of the Political Department Zihui energized. The energization said sworn in command of Chen Yi, in compliance with the Revolutionary Military Commission of the CPC Central Committee, \"Three Principles of the People oath compliance, obey Premier wills, and the root of all evil enemy, Japanese imperialism and its lackeys pro-Japanese struggle in the end. Called on the Kuomintang troops, \"Do not treacherous blinded denial of civil war, consistent with the enemy\". (History cn) In 28, the New Fourth Army was established in Yancheng. According to the central command, the activities in Longhai Road, south of the Eighth Route Army, the New Fourth Army troops unified reorganized into seven divisions and an independent brigades: the first division of the Su Yu, political commissar Liu Yan, the second division of the Zhang Yunyi (Chairman), political commissar Zheng bit president and political commissar Huang Kecheng three Third Division Division, Fourth Division Division president and political commissar Peng Xuefeng, president and political commissar of the Fifth Division Division Xiannian, Sixth Division Division president and political commissar Tan Zhenlin, Seventh Division Commander Zhang Dingcheng, political commissar Zengxi Sheng; Eighth Route Army to teach the Fifth Brigade adaptation independent brigades. New Fourth Army&#39;s new strategic plan is: the second, fourth division in the Huaihe River consolidate Jin Pulu East adhere Jin Pulu West defense KMT diehard troops attack; the fifth division independent adhere Hubei, Henan, and one along the river , open up contact with the Seventh Division; the Seventh Division insist Anhui area, and the Wannan behind enemy lines to carry out guerrilla war; the sixth division adhere to Sunan; first and third divisions persist in northern Jiangsu, the establishment of the Northern Japanese Base. <br> Figure: After the reorganization, the New Fourth Army Seventh Brigade, Third Division <br>'
+);
+
+?>

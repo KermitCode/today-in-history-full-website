@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1917-5-21
+	create time:2013-01-01 22:00:08
+*/
+
+return array(
+'title'=>'First government hospital dispute',
+'class'=>0,
+'cont'=>'May 21, 1917 (, Dimba In April, the first day), the battle of the first government hospital. The government hospital <br> dispute refers to the power struggle between the Presidential Office and the State Council of the Republic of five to six years (1916-1917), based on Li Yuan-hung, led by the Office of the President Group and headed by Duan struggle, the struggle for power between the State Council Group in essence reflects the contradictions of the contradictions and the United States, China and Japan compete for Chinese interests within the ruling group compete for forces. <br> 1916 Yuan&#39;s death, former first Vice President Li Yuan-hung succession to the presidency in accordance with the law, Duan any Prime Minister, paragraph to the Northern Orthodox leader itself, attached to the Japanese warlords to grasp the political and military power, and Li Yuan-hung rival . The the <br> first issue of the appointment of the Secretary-General of the State Council, Li and Duan occurred dispute, (1 $ dj¦Ó.c¨­m) by Shichang come forward to settle. After another, not to participate in World War I, declared war on Germany on this issue, the two sides struggle fiercer. <br> In order to achieve the purpose of the main battle, Duan the hands of more than a dozen military governor called Beijing, composed of the Governor Legion \"to put pressure on Li Yuan-hung, but without success; later Duan also known as wrote the declaration of war against Germany to be the President of the stamped Li Yuan-hung, in order to calm the storm, barely above in the file Chapter. Even so, Duan still not satisfied, the Congress met to discuss, and wantonly interfere in finally touched outrage. <br> Just at that moment, Duan privately to Japanese borrowers regarding disclosure. May 21, 1917, Li Yuan-hung Chouzhunshiji then ordered the withdrawal of his prime minister, the Duan angrily left Beijing atrazine, and under the Provisional Constitution, the president no right to withdraw the prime minister, does not recognize the dismissal order of Li . Office of the President, because the party is one of the State Council, the battle between them is known as the \"battle of the government hospital. <br> after Li Yuanhong Governor the Legion head of Zhang Xun mediation into Beijing on June 14. Zhang Xun into Beijing, crowned the Xuantong restoration. Event Duan repression, Li resigned from the presidential post after the president replaced by Feng Guozhang served. The government hospital dispute come to an end. <br>'
+);
+
+?>

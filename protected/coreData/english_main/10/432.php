@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1914-1-10
+	create time:2013-01-01 21:12:28
+*/
+
+return array(
+'title'=>'Commercial Press founder of the Xia Ruifang assassinated',
+'class'=>3,
+'cont'=>'(Guichou the twelfth lunar month 15), January 10, 1914, the Commercial Press founder of the Xia Ruifang assassinated. <br> Commercial Press in Shanghai established \"target =\" _blank \"> Commercial Press in general manager Xia Ruifang like <br> Xia Ruifang, Jiangsu Spring Pu (Shanghai), word Nazi Fang, early in Shanghai when the compositor born in 1871. fund raising was founded in Shanghai Commercial Press in 1897. manager. become a modern Chinese publishing industry&#39;s oldest publishing houses of the central group (moved to Beijing in 1951). founder <br> 1897 with such as abalone salty grace to raise funds Commercial Press. has published \"Huaying elementary\", \"Huaying Advanced\" and other books. <br> 1900 buy Japanese Xiuwen Printing Office. following year changed the Printing House for the Corporation, with himself as the general manager and founder of \"Diplomacy\" magazine. <br> 1902 with the publication of textbooks as a center of business, additional printing, compile and issue the. <br> 1903 years to the Sino-Japanese Joint, still the general manager. <br> founded the Oriental magazine \"Education magazine,\" Novel Monthly \"1904 onwards, and the establishment of the Primary Teachers Training Institute, Arts believers schools. partisan prevent ho Taoyuan Command set up in Zhabei Fuzhou Hall assassination. <br> the same time, in-country training, publishing talent, the organization went to study abroad, the introduction of advanced printing technology, has made an important contribution to the early development of the Commercial Press. <br> 1914 assassination. (lssjt . cn) <br> Zhang Yuanji 1902 to enter the Commercial Press, participation, chaired the leadership Commerce nearly 60 years <br> the first half in the 20th century, Commercial Press and Zhonghua and world standing, in modern China and the most important two publishers. founded the continuation of the length of time the publishing market occupies a large share of the huge social impact point of view, the publishing industry is no third publishing house can be compared with the two. these two Press to make a comparison, it can be said is like a modern Chinese education and culture in the history of the Peking University and Tsinghua University. again, if Peking University and Tsinghua University is not a good separation of undiscriminating, Commercial Press and Zhonghua can be said as the champion and runner-up in the contest . <br>'
+);
+
+?>

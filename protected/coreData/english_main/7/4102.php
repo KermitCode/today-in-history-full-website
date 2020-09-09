@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1912-5-7
+	create time:2013-01-01 20:49:16
+*/
+
+return array(
+'title'=>'The birth of the violinist, composer and music educator Sicong',
+'class'=>4,
+'cont'=>'May 7, 1912 (, Yam Tze March 21), was born violinist, composer and music educator Sicong. <br> Sicong (1912-1987), violinist, composer and music educator. Guangdong Haifeng person. May 7, 1912, in the courtyard of a young stone streets born in Haifeng County, Guangdong. In 1923, 11-year-old Ma got the birth of a \"target =\" _blank \"> Sicong Big Brother came to France, has studied at the Nancy Conservatory violin studies at the Paris Conservatoire. Early 1929, returning home due to family mutation in Hong Kong, Guangzhou, Shanghai to performances, etc., known as the \"musical prodigy.\" again in 1930 in France, to the completion of energy Peng (Binembaum) studied composition in 1931, the Guangdong provincial government official fee funded again went to France to study in the second year normalized president of the country, he served as the first modern private Conservatory, mainly engaged in performances in Guangzhou, Hong Kong, Shanghai, Nanjing, Peking;, and has taught at the Guangzhou Institute of Music, the Central University School of Education Department of Music 1932 Ma got married with his female students Wang - management after the outbreak of the Sino-Japanese War in 1937, many years of shipping from southern China, insist on engaging in frequent performances throughout the Southwest, and she served as the professor of Sun Yat-sen University, China Symphony Orchestra, Guiyang Museum of Art groom. and other staff in 1945 after the war, served as Taiwan Symphony Orchestra Conductor, Head of the Department of Art Music in Guangzhou, Shanghai China music school principals, Hong Kong and China Institute of Music Dean Central Conservatory of Music in 1950, he served as the first dean, and concurrently China Musicians Association, vice chairman of the music creation editor rank. (l $ dj¦Ó.¨­r¨À) <br> reasons because of the Cultural Revolution, in January 1967, went to settle in the United States engaged in composing, teaching work in 1987 May 20 death of Philadelphia December 14, 2007, died Sicong exotic ashes Guizang Guangzhou 20 years later, the same day the Sicong Works the Yibo Institute in Guangzhou book launch. the the Premier Zhou lifetime once said something: & ldquo ; in my life, I have two things deeply regret, one of which is Sicong over 50-year-old to leave his home to go to the United States, I&#39;m sorry. \"<br> Sicong affiliated high school in the guidance of the Central Conservatory of Music students practicing < br>'
+);
+
+?>

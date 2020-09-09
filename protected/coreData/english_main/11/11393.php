@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1911-12-11
+	create time:2013-01-02 02:20:38
+*/
+
+return array(
+'title'=>'The Qian Xuesen the birth of the &quot;Father of Space&quot;',
+'class'=>4,
+'cont'=>'December 11, 1911 (on Xinhai October 21), the \"father of China Aerospace Qian Xuesen&#39;s birthday. <br> Qian Xuesen, born in Shanghai in December 1911, in 3 years old with his father to Beijing, Mongolian nursing homes (kindergarten), Female Normal school to school to Normal and Normal University High School. After graduating from high school in 1929, Qian Xuesen as a revival of the motherland, determined to learn engineering, was admitted to the Department of Mechanical Engineering, National Chiao Tung University. <br> 1930, Qian Xuesen first come into contact with scientific socialism, great interest in this theory. He read Plekhanov&#39;s \"Art of the Bukharin&#39;s\" materialism \". When Qian Xuesen began to come into contact with the peripheral organization of the Communist Party, to participate in the many small discussion, (L $ dj¦Ó.c¨­m) from where he knew the presence of the Red Army and the liberated areas. <br> 1934, the Qian Xuesen from the Mechanical Engineering Department of Shanghai Jiaotong University graduated the same year to obtain a scholarship to study abroad, Tsinghua University, a doctorate in aviation and mathematics in the United States was in 1939. Learning in the United States during the study period, Qian Xuesen in collaboration with others, \"long-range rockets comments and preliminary analysis\", laid the theoretical basis of the ground-to-ground missiles and sounding rockets; hypersonic flow theory, along with others, for aerodynamic learn the development of the foundation. <br> 1955, Qian Xuesen return to its motherland under the care of Premier Zhou Enlai personally intervene. Four months later, he submitted to the State Council on the establishment of the aviation industry of China&#39;s national defense submissions. In 1956, the State Council and the Central Military Commission, according to his proposal, the establishment of a missile, the leadership of aviation science research institutions --- Aviation Industry Committee, Qian was appointed as a member. 1956, Qian Xuesen was ordered to set up China&#39;s first rocket, missile Institute --- Department of Defense Fifth Research Institute and served as its first president. He presided over the completion of a jet and rocket technology to establish planning to participate in a short-range missiles, short-range missiles and the development of China&#39;s first man-made earth satellite, the direct leadership of the use of short-range missiles carrying atomic bomb \"two bombs combined \"test, involved in the development of China&#39;s first interplanetary aviation development planning, development of engineering cybernetics and systems science. <br>'
+);
+
+?>

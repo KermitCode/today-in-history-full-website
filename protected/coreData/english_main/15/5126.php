@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-5-15
+	create time:2013-01-01 20:53:56
+*/
+
+return array(
+'title'=>'The opening of the G-8 Summit',
+'class'=>0,
+'cont'=>'May 15, 1998 (April 20), the Tiger, the opening of the G8 Summit. attend the conference of <br> part of the heads of state <br> 1998 May 15, 2010, the G8 Summit in Birmingham (UK) opening (17 day closing). The final communiqu¨¦ issued by the end of the meeting that the growing economic globalization has increased interdependence among countries deepen. At the same time to promote the process of globalization, we should ensure that we improve the quality of life of the peoples of the world. the <br> meeting focused on three major challenges facing the world is about to enter the 21st century, that is to achieve sustainable economic growth while protecting the environment and promoting good governance; increase employment; against drugs and transnational crime. <br> the communique think, the basic situation of the world economy is still good, but since last year by the temporary impact of the Asian financial crisis. The communique reiterated, strongly supports efforts to rebuild the economic stabilization and recovery of growth in the Asian region, and the support of international financial institutions, which play a key role. The communique think the successful recovery of the Asian economies will bring important benefits to the participating member states. (Lsjt.org) <br> the Heavily Indebted Poor Countries (HIPC) debt relief issue communique to encourage the participation of eligible countries as soon as possible, and hope that all eligible countries can join the process in 2000, seeking to make debt problem to give a permanent solution. <br> The communique also said it would continue to cooperate in order to prevent the production of weapons of mass destruction and their export control efforts. <br> G8 incumbent President in a press conference held after the closing of the summit, British Prime Minister Tony Blair today praised the firm commitment of the Chinese government not to devalue to help ease the financial crisis in Asia, and China due to adopt a cautious the right fiscal and monetary policies to maintain stable economic growth congratulations. <br> French President Jacques Chirac at a press conference, also spoke highly of the series of measures taken by the Chinese after the outbreak of the Asian financial crisis. He said, if not adopt such a position, the Asian financial crisis hit the world economy would be catastrophic. <br> Chirac also said that the G8 countries should be expressed \"deep gratitude\" responsible attitude, because this practice is to pay a huge price. (1 $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

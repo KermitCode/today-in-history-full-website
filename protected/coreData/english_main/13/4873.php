@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2003-5-13
+	create time:2013-01-01 23:19:02
+*/
+
+return array(
+'title'=>'Of Luling coal mine gas explosion accident 86 people were killed',
+'class'=>5,
+'cont'=>'May 13, 2003 (April 13) ¹ïÎ´ Luling coal mine big gas explosion killed 86 people. Reference May 13 at 16 am, in Huaibei Mining Group Company in Luling Coal Mine level 104 Mining District 1048 face big gas explosion occurred underground disaster area with 114 workers, after the rescue of 28 life also, 86 miners were killed. The (Lssdjt.com) <br> ventilation system was damaged, the the 1048 Heading Face of carbon monoxide and methane concentration and temperature is high, the 1046 the coalface machine Lane adjacent water, rescue work disruption. Advance to the scene of the Deputy Secretary of the State Administration of Work Safety, Zhao Tiechui instructions, the efforts to rescue the missing personnel, and to ensure the timely treatment of the injured. <br> accident, the central leading comrades attaches great importance to, the requirements do everything possible to rescue personnel. The State Administration of Work Safety Bureau after receiving the accident report, the accident rescue treatment work to the General Office of the People&#39;s Government of Anhui Province put forward specific comments. Compliance with the instructions of the State Council leaders, Wang Xianzheng Secretary, Deputy Secretary Zhao Tiechui rate relevant personnel rushed to the scene to assist in the rescue of accident, accident investigation and handling of the Organization work. <br> \"5.13\" mine, the largest since 2003, a coal safety of major accidents. After the accident, the leadership of the CPC Central Committee and the State Council attach great importance instructed to try to rescue workers do their best to do a good job in the rescue and relief work. At present, China&#39;s coal mine accident in more than 80% of the gas explosion, one of major accidents in the more than 10 people died in gas explosion accident and they account for more than 90%, the State Administration of Work Safety spokesman Huang Yi said. Gas prevention ability, level, as long as the measures put in place to prevent gas, large mines are fully capable of preventing gas explosion accidents. Luling coal mine gas explosion accidents can be avoided if preventive measures are in place. Accident technical team of experts from the 18th to reach the scene of the explosion to carry out investigation and evidence collection, to confirm the accidental explosion point, and as soon as possible to analyze the causes of the explosion. <br>'
+);
+
+?>

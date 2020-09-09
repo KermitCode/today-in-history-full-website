@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1963-5-22
+	create time:2013-01-01 21:51:27
+*/
+
+return array(
+'title'=>'The establishment of the Organization of African Unity',
+'class'=>0,
+'cont'=>'April 29 (mao), May 22, 1963, the OAU was established. the <br> 31 African heads of state meeting in Addis Ababa from 22 to 26 May 1963 announced the establishment of the OAU, through the resolution of the OAU Charter. The meeting by the <br> \"OAU Charter announced:\" The determination to defend and consolidate hard to win independence and sovereignty and territorial integrity of our countries, the fight against neo-colonialism in all its forms. \"OAU\" purpose: \"to promote the unity and solidarity of the African countries, to coordinate and strengthen cooperation between them and the efforts to improve the lives of African people, and to defend their sovereignty, territorial integrity and independence, the eradication of all forms of colonialism on the African continent, to promote international cooperation in the case of respecting the United Nations Charter and the Universal Declaration of Human Rights. The \"<br> Charter, the OAU set up four major agencies, countries and Summit, the Council of Ministers, the General Secretariat, mediation, conciliation and arbitration committee. Of State and Government Summit of the supreme body of the Organization of African Unity. This meeting is to meet at least once a year. Each Member State has one vote, all decisions decided by a two-thirds majority of the Member States. <br> meeting adopted resolutions on decolonization decided to establish a special fund to provide the necessary practical and financial assistance to countries in the national liberation movement, the resolution requirements all African independent deadline. (L $ dj¦Ó.§«§§T) <br> provisions of the resolution as \"African Liberation Day\" on May 25, 1963. (History cn) <br> resolution requires that all African countries to sever diplomatic and military relations with the Government of Portugal and South Africa, and the foreign trade of the two countries to implement effective boycott: prohibited from these two countries Imports of goods. Second, Africa and Hong Kong and the airport did not open their vessels and aircraft. Third, the the ban two countries aircraft flying over the airspace of all African countries. The resolution condemned \"all forms of racial discrimination in Africa and around the world <br> conference on apartheid and racial discrimination. The meeting decided to establish a fund to provide financial assistance to the South African anti-apartheid movement, and demanded the immediate release of Mandela, Sorbian Quevedo, and South Africa, all other political prisoners. (History. Com) <br>'
+);
+
+?>

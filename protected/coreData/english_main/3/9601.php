@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1954-10-3
+	create time:2013-01-02 01:32:15
+*/
+
+return array(
+'title'=>'Chairman Mao and Khrushchev in Zhongnanhai formal talks',
+'class'=>0,
+'cont'=>'On September seventh day (Jiawu years), October 3, 1954, Chairman Mao and Khrushchev in Zhongnanhai formal talks. <br> 1954 10 (lsjt.org) Chairman Mao Zedong and the Soviet Communist Party first secretary Nikita Khrushchev formal talks at Zhongnanhai. Talks, Mao Zedong is euphemistically put forward: \"We are interested in on the atomic bomb, nuclear weapons. \"And ask if you can get the help of the Soviet side. Khrushchev heard this, revealing a look of surprise, and said: \"Our family has been a nuclear umbrella on the line. \"<br> Khrushchev If you really engage in nuclear weapons, is the power of the existing cast into not enough. If China is really interested in nuclear weapons, the Soviet Union can help China to the construction of a nuclear reactor, in order to cultivate a group of cadres, and to receive Chinese students to study in the Soviet Union. after <br> heard this, Mao Zedong not words, he knows that at this time, China is in the second year of the first five-year plan began, even airplanes and cars are not made out. But the United States during the Korean War, continue to the implementation of the nuclear threat of the new China, has aroused the indignation of the people of the country. To China among the world powers, to achieve national rejuvenation, it is necessary to have the atomic bomb. [L $ dj¦Ó.c¨­m] euphemism the <br> Khrushchev&#39;s refused, showed a nuclear monopoly and China, \"Big Brother\" mentality, which Mao Zedong worried. autumn <br> 1954, came from Guangxi found message uranium, which undoubtedly strengthened the determination of the Republic of the first generation of leaders of the development of the atomic bomb. (History today www.lssdjt.com) <br> 1955 January 15, 2010, Zhongnanhai held enlarged meeting of the Secretariat of the CPC Central Committee. The central leadership of Mao Zedong pointed around dozens Siguang and Sanqiang come to the meeting, said: \"We have these people when pupils, on issues related to atomic energy you on lesson. \"Followed, Siguang and Sanqiang with uranium ore and instruments in the field explain and radiation demo. Mao Zedong solemnly said: \"when the arrested. \"<br> A great idea was born in the hearts of the Republic&#39;s first generation of leaders. (This part of the contents from the book \"Secret Atomic City\") <br> Comments: The wheel of history is always to continue moving forward, not forever friends and enemies <br> of'
+);
+
+?>

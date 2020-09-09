@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1960-10-12
+	create time:2013-01-02 01:51:52
+*/
+
+return array(
+'title'=>'The Japan-China Friendship of Asanuma rice Jiro assassinated',
+'class'=>3,
+'cont'=>'October 12, 1960, August 22 (Boxer), the Japan-China friendship of Asanuma rice Jiro assassinated. Japan Socialist Party chairman of <br> of Asanuma rice Jiro assassinated \"target =\" _blank \"> Asanuma Rice the Jiro&#39;s assassination <br> of Asanuma rice Jiro (1898 to 1960), the former chairman of the Japan Socialist Party, the former congregation Members, Tokyo, in 1923, graduated from the Economics Department of Waseda University political student movement had organized during the school after graduation to participate in the workers &#39;movement and the peasant movement had joined the miners&#39; union, was sent to prison for participating in foot tail Tongshan strike. 1925 to participate in the organization of farmers Labor Party and served as the party&#39;s secretary-general. participate in Japanese workers and peasants party after the party&#39;s dissolution. 1930 Serving as the Farmers struggle Minister, guidance Farmers movement and the establishment of the national mass party of workers and peasants in 1931, any party member of the Central Executive Committee and Chief Ministers of the Organization of the Second World War period in any of the the community Party Central Executive Committee and the Ministers of the Organization in 1932. 1933,1937 was twice elected to the Tokyo City Councilman from 1936 repeatedly elected to the House of Representatives., [l $ j¦Ó.c¨½] had participated in \"jihad consistently Members Alliance, and served as a member of the the Tojo Cabinet the National Story consideration will postwar participate in the establishment of the Japan Socialist Party, he served as the Executive Committee and Chief Ministers of the Organization of the CPC Central Committee, 1947 any of the party&#39;s secretary-elected in 1948, Tokyo, Parliament, after the Vice-Speaker of the Socialist Party split into a left-right divide in 1951, he was elected general secretary of the right-wing of the Socialist Party when he was secretary of the Socialist Party in 1955, the two factions to re-merge in 1960 any of the chairman of the Socialist Party. Socialist Party in 1957 per annum goodwill envoys to visit China, with the Chinese People&#39;s Institute of Foreign Affairs signed a joint statement to create two Chinese conspiracy to promote the restoration of Sino-Japanese diplomatic relations and oppose the main content. during his visit to China in 1959, in opposition \"two-China\" issue, the attitude is more explicitly October 12, 1960 by the right-wing thugs the Yamaguchi vector two assassinate. <br>'
+);
+
+?>

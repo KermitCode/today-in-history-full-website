@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1939-4-10
+	create time:2013-01-01 20:39:43
+*/
+
+return array(
+'title'=>'Austria held a &quot;referendum&quot; merge to become a province of Germany',
+'class'=>0,
+'cont'=>'April 10, 1939 (February 21) JiMao, Austria held a \"referendum\" merge to become a province of Germany. <br> Stu Carter Nazi legal experts. He rushed to the forest Subsequently, the night rushing the text of the law in accordance with Hitler&#39;s instructions, March 13 draft laws were handed over to of Seth - British Marquardt and Hitler. Hitler see the draft law at the beginning of the first sentence reads: \"Austria is a province of Germany. \"Happy could not help shedding tears. The Anschluss, signed by Hitler, and promulgated on the same day in the forest heir. The Anschluss Act: April 10 to hold a \"free and secret referendum (Lssdjt.com) Austrian decision\" to merge with Germany&#39;s problems in this referendum. <br> 3 14 afternoon, Hitler arrived in Vienna. He came to the the Hapsburg royal Palace Hofburg opposite the review stage to accept the cheers of the people of Vienna, reviewing the German armored forces and the Austrian Nazi SS. Speech he happily announced that Austria has been incorporated in Germany, called on people to vote in favor of the Anschluss in April 10. <br> from March 15, he went to Austria and Germany over the visits. In each place, he attacks the Shushi Nigg, inciting people to vote in favor of the Anschluss. March 18, he returned to Berlin, a speech to Congress, announced that the German Anschluss referendum should. He then went to around patrolling pull in favor until the end of his cruise until April 9. In April 10 to hold a referendum. Each polling station to put two boxes, a box filled in favor of the Anschluss tickets, a box Sheng votes against the Anschluss. Ballot boxes sitting next to the Nazi the \"scrutineers members&#39;, pen in hand and the book to see who vote against it, put his name down. Saw this posture, in addition to the very few people who dare to vote against it? Announced voting results quickly. German official announcement: Germany 99.08%, and Austria, 99.75% of the people voted in favor. <br> Austria annexed by Nazi Germany. The Shushi Rummenigge was arrested, first off the secret police headquarters in a small house, sleep deprivation, forced to go to the SS men to clean the room, brush the toilet down the slops pail, suffered all kinds of humiliation; later Off into the concentration camps in Germany. Austria&#39;s Jews were insulted and persecuted thousands of Jewish men and women were forced to sweep the streets, sweep the toilet. Tens of thousands of Jews were imprisoned in concentration camps. <br> Jewish property was confiscated, looted. Over 400 million Jews and Germans against the Anschluss Nazi massacre. Austria plunged into the white terror, have suffered the pain of subjugation of the people. <br>'
+);
+
+?>

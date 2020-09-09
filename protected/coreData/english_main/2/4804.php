@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1963-6-2
+	create time:2013-01-01 23:06:07
+*/
+
+return array(
+'title'=>'Xu Tingze flew uprising glorious return of',
+'class'=>0,
+'cont'=>'(Mao-year leap April 11), June 2, 1963, Xu Tingze flew uprising glorious returned. The Xu Tingze flew uprising glorious return of landed <br> \"target =\" _blank \"> Xu Tingze by the PLA officers and men welcome <br> 1963 June 2, 2009, the original Chiang Air Force the second Wing, 11 Battalion 43 Squadron Captain pilots the Xu Tingze driving US-made F-86F fighter jets uprising, returned to the mainland. of such defections owed by domestic warm welcome to people from all walks of life, Marshal Lin Biao awarded him the rank of Major, and were awarded gold 2500 two. ( l $ j¦Ó.c¨½) People&#39;s Republic of China, Marshal Ye Jianying, Vice-Chairman of the National Defense Commission, Zhang Zhizhong, vice chairman of the National Defense Commission, Fu Zuoyi, Cai Tingkai met him. Marshal Ye Jianying Xu Tingze said: \"Your uprising, the performance of the love of the motherland, pursuit of light, is a revolutionary action, (lssdjt.cn) all the officers and men of the people of the motherland and the People&#39;s Liberation Army warmly welcome you, and trust you completely. \"Vice Chairman Zhang Zhizhong said that in 10 years, our country has undergone a tremendous changes in these changes is the old China can not be compared. expectations Xu Tingze future learn to work and contribute to the great motherland. Vice Chairman Fu Zuoyi said, under the wise leadership of the Communist Party and Chairman Mao, the victory of the Chinese revolution. people are the country and strive to achieve the industrial modernization of the motherland, the modernization of agriculture, science and technology modernization and modernization of national defense and a great motherland, the Taiwan Kuomintang military personnel is a powerful attraction. to Cai Tingkai vice chairman said, after the liberation of 10 Over the years, great achievements in construction of the motherland, the people&#39;s living a happy, in the history of China has never been before and he hoped Xu Tingze have the opportunity to various places to visit, to see for themselves the great achievements of the socialist construction of the motherland encouraging Zhang Zhizhong, Fu Zuoyi, Cai Tingkai three Vice-hope Kuomintang military officers in Taiwan, it is possible to see the situation clearly, control their own destiny, as opposed to the U.S. invasion, the liberation of Taiwan, the complete reunification of the motherland, and to make their own contribution. <br>'
+);
+
+?>

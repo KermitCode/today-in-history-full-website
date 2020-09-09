@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1420-12-1
+	create time:2013-01-02 02:05:04
+*/
+
+return array(
+'title'=>'Hundred Years War: Henry V occupied Paris',
+'class'=>0,
+'cont'=>'December 1, 1420 (October 26), the Boxer, the Hundred Years War: Henry V occupied Paris. <br> <br> December 01, 1420, the Hundred Years War: Henry V occupation of Paris. Lancaster dynasty king (Henry V, 1387 or September 16 -1422 years 31 days) Henry V, <br>, England (1413 -1422 years bits). In the nine-year reign during his short, he has made any one of the medieval king of England, have not made the military glory. the <br> Henry V, King Henry IV&#39;s son, mother, Marie de Bonham. Born in Monmouth (Wales). When he was born, his father, Lord Derby. When Lord Derby exiled during Henry King Richard II, adoptions, and received a good education. Lord Derby usurper, sealed Henry, Prince of Wales. March 20, 1413, Henry V was crowned King of England. <br> Henry V renewed fighting in the Hundred Years&#39; War, and he even made a greater victory than Edward Triple. When the French the internal contradictions heavy long-term mentally ill: King Charles VI; the two aristocratic Group Orleanists and the Burgundy faction bloody conflict. Henry V 11 be used. In fact, he made the Duke of Burgundy fearless John betray their own country in favor of the United Kingdom. <br> 1415 Henry V officially invade France. Facts have proved that he is more adept than Edward Triple World play England longbowmen the power of the commander. He first took over Le Havre, then march to the coastal city of Calais. During this period, Henry V declared that he wanted to get to the French crown. Almost destroyed the morale of the French to win with fewer Agincourt (1415). After the British forces continue to win, all conquest of Normandy in 1419, and then northern France, the first city of Rouen surrendered. Henry V <br> 1420 forced Charles VI signing of Troyes treaty. This treaty is incredibly huge victory for England: the provisions of the Treaty, Henry V, the daughter of Charles VI Valois Catherine (the French reading Catherine) married, and Charles VI after the death of its French throne by Henry V inheritance (deprived of the the French dauphin Charlie inheritance rights). Henry V actually became regent of France. (Lsjt.org) <br> Henry V can be described Albatron proud, However his brilliant fleeting. When he achieve the pinnacle of power in the political death quietly approached him. In 1422, in vincennes near a battle, typhus claimed the young life of Henry V. <br> <br> Comments: the resentment of the United Kingdom and France for a long time. <br>'
+);
+
+?>

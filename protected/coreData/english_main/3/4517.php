@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1927-5-3
+	create time:2013-01-01 22:13:04
+*/
+
+return array(
+'title'=>'The Warner production company launched the first movie in the history of sound film',
+'class'=>0,
+'cont'=>'May 3, 1927 (Dingmao third) in April, the the Warner production company launched the first movie in the history of sound film. the sound film <br> the birth <br> 1927, the famous Warner production company launched the first movie in the history of sound film, has brought a tremendous revolution to world cinema. <br> should be said, the movie is never silent. Sound into the movie before with the musicians to the soundtrack;, even have a special rap actor in Japan, to explain the contents of the film screenings, to rap form. With music by musicians under the screen to show the plot riffs; Some films (history. Cn) such as the 1908 French movie \"Duke of Guise was stabbed\" by the famous composer Saint - Saens Composer specifically for it. Show, the musicians played according to the composer of the score. Needless to say, the scale depending on the conditions and played: Solo by a musician (piano or violin), sometimes by several musicians ensemble, occasionally dispatched symphony orchestra. Jazz Singer <br> (1927) Directed by: Alan Crosland <br> sound movie in the United States in 1927, the situation happened fundamental change. The sound is no longer just a soundtrack; environmental sound and dialogue broke into the silver screen, to make the mature art image facing retrofit crisis. Prior to this, the movie is \"silent colorless\" to become a new kind of art. It not only did not regret for the \"silent colorless\", on the contrary, the \"silent colorless\" it is precisely the movie to become one of the basic conditions of the art. Sound intrusion is bound to break the \"element balance. So, in the early sound movie, artists and film theorist sound skeptics also understandable. However, the attitude of the movie audience sound is consistent be welcomed. the <br> The Jazz Singer (1927) director: the Alan Crosland <br> image formed in the silent era art facing the crisis itself is submerged. The film artists sound attitude to doubt, opposition to the adoption of the changes into the development of the \"opportunity\" to make this \"crisis\". Eisenstein et al about sound chip Declaration, \"Pictures Montana odd\" theoretical propositions and artistic practice, is a typical representative of the above changes. <br> 3O years, the sound has become an indispensable element in the art of film. Due to the emergence of sound film genre has emerged in the silent era, more mature, more diversified; As for the musical comedy, gangster film, if there is no sound can not appear and develop. Sound film performance conditions for a more realistic effect. <br> in \"Pictures Arts mature 1930s realist thought affected almost all film work. <br>'
+);
+
+?>

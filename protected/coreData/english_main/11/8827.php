@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1862-9-11
+	create time:2013-01-02 00:43:23
+*/
+
+return array(
+'title'=>'The American novelist Europe Henry&#39;s Birthday',
+'class'=>4,
+'cont'=>'September 11, 1862 August 18 (Saigon), American novelist O. Henry&#39;s birthday. 1862 11 <br> Henry <br>, O. Henry, American novelist, was born in a small town in the state of North Carolina, USA Minas the original Ming Weilian Sidney ¡¤ ; Potter, his father is a doctor. From the age of 15, he apprenticed in his uncle&#39;s pharmacy Later, he let go two years cattle, worked as Accounting Clerk, Land Office clerks and bank tellers. <br> 1896, O. Henry arrested for bank less the sum of a few exhausted and no reason has been sentenced to five years in prison. In prison, he was the pen name \"O. Henry,\" At that time the famous \"Maikelver\" magazine published short stories. After his release, he came to New York, were removed from the theater and other places of the tavern, apartments, parks, taverns, slums and under. He said that he is the one in New York \"4000000\" man in the street, instead of \"400\" millionaire one. <br> Writing diligence, O. Henry short stories to newspapers almost weekly one speed, he wrote about 300 novels. Divided by subject matter, basically fall into three categories: write to Central America, write the western United States and write in New York City, especially Manhattan. One of the best written in New York. His little restaurants along the streets of Manhattan, New York, dilapidated apartment atmosphere rendering is very realistic, it is Manhattan&#39;s poet laureate said. O. Henry&#39;s life is quite a lot of hardship, and the \"little people\" share a common destiny. His novel has both the humor works to bring a \"the tearful smile\" effect, but also deepen the social significance of the reality of the work. <br> O. Henry&#39;s best dozen short stories, still have a lot of readers. \"Gift of the Magi\" and \"The Cop and the\" last leaf \",\" The Furnished Room \",\" municipal report, \"oriole in the post\" and \"We chose the road\" chapter are popular Famous. Description of the author of American social life, love and hate, frustrated abjection of little people deeply sympathize with the the tearful smile ridicule capitalist society. O. Henry&#39;s works, the circumstances are dramatic and often unexpected outcome at the end. His unique novel approach, a great influence on the American short story creation. <br> O. Henry short story of the beginning of this century popular readers welcome. Illness and excessive drinking often because of his economic constraints, and finally, in 1910, died prematurely, aged 49 years old. <br>'
+);
+
+?>

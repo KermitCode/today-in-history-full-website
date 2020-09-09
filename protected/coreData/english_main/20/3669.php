@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-4-20
+	create time:2013-01-01 22:42:13
+*/
+
+return array(
+'title'=>'Wang Ming is open for inspection to the CPC Central Committee',
+'class'=>0,
+'cont'=>'April 20, 1945 (, Yiyou March ninth day), to the CPC Central Committee, Wang Ming open for inspection. In 20, <br> 1945 the CPC Central Seventh Plenary Session adopted the \"Resolution on Certain Questions in the History. Former CCP leader Wang Ming for this relates to his file to Ren Bishi, wrote a long letter, and Ren Bishi read turn you Comrade Mao Zedong and seven Plenary. Wang Ming said in the letter: \"I correct ideas of Comrade Mao Zedong and the correct line for the Seventh Plenary Session made especially Third &#39;left&#39; pour routes in the political, organizational, ideological committed a serious error of the substance of its major hazards and such wrong social and historical roots analyze and estimate the full consent and endorsement. \"Wang Ming went on to say:\" I&#39;m not only the qualifications of a party member, standing on the stance of the organizational point of view, completely obey this resolution; indicated by such central dump route to a third &#39;left&#39; began to form the main representative of the status and standing in the position of the ideological and political views seriously study and accept this resolution, as all aspects of their own today to correct the political, organizational, ideological serious error guide. \"The reason I made dogmatism &#39;left&#39; route route error, not accidental, completely do not understand the reality of Chinese society and the Chinese revolution did not understand Marxist theory and basic situation, and do not have to study the history of China&#39;s political, military and cultural facts and historical experience, and simply do not know the results of international experience and national traditions. In particular, there is no experience of the masses and not the view of the masses. \"<br> Wang Ming said in conclusion:\" I focus Statement: determination on any party designated by lower job, to learn, to learn from all the cadres and party members to Chairman Mao and the Central comrades to the working masses learn everything from scratch by learning everything from the new start, so that in the long-term work of the masses, to become a good useful party members of the party, the party&#39;s cause, for the cause of liberation of the Chinese people, the ability to do a small servants and responsibility to the amount of compensation due to their own errors shortcomings caused significant loss of party work in case! \"<br> Wang Ming publicly for the first time to the CPC Central Committee system to check their own mistakes. <br>'
+);
+
+?>

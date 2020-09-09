@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-10-12
+	create time:2013-01-02 00:49:46
+*/
+
+return array(
+'title'=>'The rice genome research was significant progress',
+'class'=>0,
+'cont'=>'(August 26) Government House, October 12, 2001, the rice genome research has been significant progress. <br> Chinese Academy of Sciences, the National Planning Commission, Ministry of Science and Technology in Beijing on October 12, 2001 announced, Chinese rice (indica) genome working draft \"and the database has been completed and published data for global unpaid shared . On behalf of the State Council, member of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Wen Jiabao sent a letter to the Chinese Academy of Sciences, congratulated the Chinese scientists have completed this major scientific and technological achievements \"with the international advanced level. <br> Wen Jiabao said in his congratulatory letter, \"China&#39;s first independently significance and economic value of the rice genome &#39;working draft&#39;, indicates that China has entered the forefront of the world Genome Research. This major scientific and technological achievements, will greatly promote the rice research and agricultural development worldwide. On behalf of the State Council to extend our warm congratulations to the scientists and staff engaged in the research and who have made outstanding contributions to, and pay high tribute. Wen hoped that scientists make persistent efforts, for the full completion of the rice genome \"fine drawing of agricultural scientific and technological progress and agricultural economic development, and make greater contribution for the benefit of the human life sciences. <br> the Branch Associate Dean Chen Zhu sequence of the rice genome analysis is the study of the genetic variation of rice, the basis of the development and evolution, in particular, to cultivate the basis of fine varieties of high-yielding, high-quality, delicious. Study its genome, and help to understand of Gramineae crops of wheat, corn, and other gene group. Undertake and complete this world-class topic, Chinese Academy of genome bioinformatics center cum Genomics Research Center, L $ dj¦Ó.§«§§T] and its main co-operation with the Chinese Academy of Sciences, Institute of Genetics and National Hybrid Rice Research Center. This working draft and database Yuan Longping Chinese hybrid rice cultivation paternal indica 9311 \"hybrid rice genome and development program launched in May 2000, the first part of the study, its detailed map will be completed next year. The (lsjt.org) <br> assembly and data analysis, Chinese rice (indica) genome working draft \"and the database has an international leader. It&#39;s done, indicates that China has become the second world countries have independently completed a large-scale whole-genome sequencing and assembly analysis capabilities. <br>'
+);
+
+?>

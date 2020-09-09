@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1951-2-18
+	create time:2013-01-01 22:32:09
+*/
+
+return array(
+'title'=>'Central put forward the idea of &#8203;&#8203;&quot;restore three decades building&quot;',
+'class'=>0,
+'cont'=>'February 18, 1951 (, 13 Xin Mao first month), the central idea of &#8203;&#8203;\"restore three decades building\". <br> 1951 2 18, the CPC Central Committee issued a resolution points of Mao Zedong&#39;s drafting of the Political Bureau of the enlarged meeting of the inner-party briefing: Central held in mid-February, the central bureau, attended political meeting to discuss the eight important issues: (a) 22-month preparatory work; (b) of the War to Resist U.S. Aggression and Aid Korea&#39;s education campaign; (c) land reform; (d) the suppression of counterrevolutionaries; (e) work in the cities; (f) the whole Party and the Party Building; (g) unified The fronts work; (h) Rectification. Central pointed out: \"three years to prepare, the ten-year program of economic construction,\" thinking, to make provincial and municipal cadres understand. Preparation time, now, 22 months, must all aspects of intensification of work. May 7, Liu Shaoqi explained to a 10-year economic plan, after 3 years to prepare (16 months), we report in the Communist Party of China, the first National Conference on Propaganda Work. The face of the new China 10 years later, we must change, then we will not only have a strong agricultural, but also have our own strong industrial and China into a prosperous country. By that time, our country can take into account the problems of socialism. Can not raise this issue. Now some people talk about socialism, I said, this is about early to speak at least 10 years earlier. The Liu Shaoqi Then socialist when engaged in only to see the actual situation in order to answer the question. After 10 years, you can take some socialist steps; also possible after 10 years, still can not take this step, we have to wait a few years. Liu Shaoqi also criticized the kind of thought 10, 8, 30, 20 farmers to organize themselves, land, livestock, farm implements common use by the primary form of agricultural cooperatives, mutual aid teams can go directly China&#39;s agricultural socialist idea, pointing out that this is a socialist agricultural utopia. Workers stage help and leadership, the farmers themselves can not engage in socialism, it is impossible to rely solely on the power of the farmers to the socialist. If you think that the so called socialism, and called on farmers together to organize agricultural cooperatives to launch a mass movement, it is necessary to have committed a big mistake. <br>'
+);
+
+?>

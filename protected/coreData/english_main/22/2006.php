@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1957-2-22
+	create time:2013-01-01 20:28:50
+*/
+
+return array(
+'title'=>'Tsung-Dao Lee and Chen Ning Yang, the Chinese-American scientists proposed parity nonconservation law',
+'class'=>0,
+'cont'=>'February 22, 1957 (the first month 23) Ding, Tsung-Dao Lee and Chen Ning Yang, the Chinese-American scientists asked the the parity nonconservation law of. <br> parity conservation means in any case, the mirror image of any particles and the particles In addition to the spin direction, have identical properties. The law was proposed in 1926, have been proven in force, electromagnetic force and gravitation was confirmed in 1956, but does not hold in the weak interaction, and this conclusion by Chen Ning Yang and Tsung-Dao Lee, Chinese-American scientist, and therefore won the Nobel Award. [History com] Reference in 1956, Chen Ning Yang (right) and Tsung-Dao Lee (left) jointly published an article overthrow of the center, one of the physics - & mdash ; parity conservation? performance of elementary particles and their mirror image is identical. The parity nonconservation law of movement asymmetry in weak interactions, mirroring each other substances. 1956 Cobalt 60 by CS Wu verification. Chen Ning Yang and Tsung-Dao Lee received the Nobel Prize in 1957. the <br> Chen Ning Yang October 1, 1922, born in Hefei, Anhui Province, graduated from Southwest Associated University in 1942, the Institute of Tsinghua University. Two years later, a master&#39;s degree, and was admitted to publicly funded Returned Students from the United States into the University of Chicago in 1945, received his Ph.D. in 1948. In 1949, Yang entered the Institute for Advanced Study in Princeton, a postdoctoral fellow, particle physics research cooperation with Tsung-Dao Lee and Chen Ning Yang contribution to a wide range of physics, including particle physics, statistical mechanics and condensed matter physics. Addition to the outside of the parity violation is found together with Tsung-Dao Lee and Chen Ning Yang also took the lead with Mills (RLMills) Yang - Mills gauge field and Baxter (R.Baxter), founded the \"Young - Bacchus equation. American physicist and Nobel laureate the segue (E.Segre) praised Chen Ning Yang decades around the world can count to three theoretical physicist rounder one. [L $ dj¦Ó.c¨­m] <br> Tsung-Dao Lee, born on November 25, 1926 in Shanghai. Chinese-American physicist, University of Chicago Graduate School of study in the United States in 1946, three years after the \"special insights and achievements\" by the doctoral thesis of reply, the 23-year-old known as \"child prodigy Dr., 1956 the age of 30 he was promoted to professor at Columbia University. (Lsjt.net) 1974 May 30, 2010 meeting with Chairman Mao Zedong, the proposed creation of a Youth Class at the University of Science and Technology of China, his recommendations have been adopted. (L $ dj¦Ó.§«§§T) <br>'
+);
+
+?>

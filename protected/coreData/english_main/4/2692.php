@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1917-3-4
+	create time:2013-01-01 22:46:18
+*/
+
+return array(
+'title'=>'Prime Minister Duan exodus Tianjin government hospital dispute intensified',
+'class'=>0,
+'cont'=>'March 4, 1917 (, Dimba February 11), the Prime Minister Duan exodus Tianjin Government and Congress are gaining strength. early <br> 1917, Duan and other concocted \"join the Allies conditions abridged\" abridged \"key points: (1) cease Germany, Austria and China, reparations, suspension of ten years to pay the Allies reparations; (2) agreed to China will increase the import duty to 7.5%, subject to the Abolition of the Lijin, increased to 12.5%; [lsjt.org] (3) cancel the Boxer Protocol which do not permit the terms of the Chinese garrison in Tianjin . <br> 3, adopted by the Conference of State of Germany Dear John&#39;s message to the Congress and joined the Allies conditions abridged. 4, paragraph personally led cabinet members to the presidential palace, Li Yuanhong in Germany Dear John&#39;s message on stamped cross Congress passed, and joined the Allies conditions abridged \"distributed Chapter Zongxiang, in consultation with the Japanese government. Li stakes needed careful for the resignation refused stamped. The segment anger left that night that announced his resignation and Leaves Beijing to Tianjin. Once to ease the struggle of the government hospital sudden intensification. <br> Duan exodus Tianjin, Li took the opportunity reshuffled his cabinet. 5, 2011, he invited Shichang, Wang Shizhen and Vice President rushed to Beijing to negotiate diplomatic issues the Feng Guozhang together to the presidential palace of procedure. Li Yuanhong Please Shichang Wang Shizhen, respectively, became prime minister and army chief, Xu and Wang repeatedly Zuo Yi, Jingxiebumin the. Feng Guozhang since went to Tianjin to persuade Duan reinstatement. 6, 2009, the Northern Department, the provincial authorities have also begun called the telegraph, the the retain segment \"force any difficult.\" Li Yuan-hung last resort Feng Guozhang go to the Tianjin persuade segment reinstatement. Feng Lai suppliers Before his departure set the conditions for reinstatement of the paragraph: (1) the Cabinet determined by the foreign policy of the president is no longer opposed; (2) order drawn up by the Cabinet, the President shall not refuse stamped; (3) The Cabinet instructed diplomatic envoys , the military governor, governor, president may intervene. Duan see Li Yuanhong compromise, the night for Beijing. The next day, the segment density electrical provinces and overseas Minister claimed that the foreign policy of the Cabinet on Germany, has been the President agree the provinces \"Never renewable objection\". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1982-12-15
+	create time:2013-01-02 02:54:23
+*/
+
+return array(
+'title'=>'The first Mao Dun award ceremony held',
+'class'=>0,
+'cont'=>'(Saigon years of winter and the beginning of the month), December 15, 1982, the the inaugural the Mao Dun awards ceremony held. <br> 1982 12, 15, 600 arts and today in the Great Hall of the People attended the first award ceremony of the Mao Dun Literature Award. Medal of six writers, holding copper (history today. Cn) Mao forward to congratulate the people to pay tribute. The (lssjt.cn) <br> came to the podium with an earthy Zhou Keqin said: \"I did not feel the joy of success, is ashamed and disturbed, I think since the shoulder just rural Sichuan burden Shen, the body of the heavier tasks. <br> \"Orient\" of Wei Wei&#39;s heart, only filled one sentence: to serve the people. The [TodayinHistory.cn] <br> decades dedicated to historical themes creative like Yao, the reward as a spur. He said, \"Li Zicheng\" Volume is not finalized, I want to change it even better. <br> winning amateur creative MOK Fung (General Yin author) firmly on the road of literature. He said: \"I&#39;m willing to efforts in building a Chinese style the new literary Building on added a brick. Li Guowen (\"Winter Spring\" author) through rough <br> in authoring and life on the road, told reporters he was not disappointed with the suffering, because did not leave the party and the people. In the future, he will use his own pen to answer the care given by the party and the people and honor. <br> 40-year-old ancient Chinese, the excitement I calmly think: winning, only shows that in the past, the future, the road is still long. \"I want hard deep into life, assiduous pursuit of art, and the young and middle-aged of a climb to the Mount Olympus of contemporary literature! The \"<br> literary predecessors watching this since the founding of the literary world&#39;s biggest awards event. Ba Jin wrote a written statement in his sick bed. <br> Zhou Yang&#39;s speech raised an important question: to adhere to the \"double hundred\" policy to promote artistic comment on the work carried out. He said that the discussion and competition, in order to make the film, television, literature and art thrive development. The art form, style and diverse, in-depth study of the art on the issue, make the writers both ease of mind, have a sense of social responsibility. He also highlighted, to care for the talent and literary creation breakthrough. The (lssjt.cn) <br> inconspicuous seats, also sitting in the six winning entries Editor. They who paid a \"very hard\" the publication of the novel \"glorious\", but do not want to share today. <br>'
+);
+
+?>

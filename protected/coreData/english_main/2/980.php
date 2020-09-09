@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-2-2
+	create time:2013-01-02 08:24:08
+*/
+
+return array(
+'title'=>'Qin Jiwei death of Comrade',
+'class'=>3,
+'cont'=>'February 2, 1997 (25) Rat In the twelfth lunar month, the death of Comrade Qin Jiwei. comrades portrait of <br> Qin Jiwei, February 2, 1997, 58, vice chairman of the Standing Committee of the National People&#39;s Congress, former state councilor, member of the Central Military Commission, the Department of Defense Minister Qin Jiwei comrades, illness is invalid in Beijing , died at 82 years of age. <br> Qin Jiwei comrades Hubei Hongan, born in November 1914. Jute uprising in 1927, to participate in the Red Army, in 1929, joined the Chinese Communist Party in 1930. Agrarian Revolutionary War, served as platoon leader, manager at the guardianship of the Red Fourth Army even camp company commander of Headquarters pistol, less total international group company commanders, guards regiment, red thirty-one Army regiment, the Red Fourth Army the General Staff supplementary Division Commander, participated in the Long March. Anti-Japanese War, he served as the Eighth Route Army 129th Division guerrilla detachment commander, Shanxi, Hebei and Henan Military Region General Staff Director, Deputy Brigade Commander of the 129th Division New eleventh trip Taihang Military Region the first Military Commander of the CPC party secretary . During the liberation war, he served as the Taihang Military Region Commander Shanxi Military ninth Column commander, 15th Army commander of the Second Field Army. After the founding of the Chinese People&#39;s Volunteers, 15th Army commander, Military Region Deputy Commander of Yunnan, Kunming Military Region Deputy Commander, commander of the Yunnan Provincial Party Committee secretary of the Secretariat, the commander of the Chengdu Military Region, the second political commissar of the Beijing Military Region, the first political commissar and commander and other staff. In 1955, he was awarded the rank of lieutenant general, and in 1988 was awarded the rank of general. He is the third member of the National Defense Commission of the Chinese Communist Party Tenth, eleventh and 12th Session of the Thirteenth Central Committee of the 12th Central Politburo alternate member, the thirteenth member of the Political Bureau of the CPC Central Committee. L $ dj¦Ó.c¨­m] Qin Jiwei, <br>, pictured with Jiang Zemin <br> Qin Jiwei (left) during the War to Resist U.S. Aggression and Aid Korea, command post in the 15th Army and annihilating program <br> < ; br> Qin Jiwei the commanding the combat <br> Qin Jiwei <br> the Cultural Revolution Qin Jiwei devolution the labor <br> Qin Jiwei General family portrait <br> a farm in Hunan'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-9-16
+	create time:2013-01-02 01:13:40
+*/
+
+return array(
+'title'=>'Lan-Xin Railway double-track laying across the board',
+'class'=>0,
+'cont'=>'September 16, 1994 (Awake, August 11), Lan-Xin Railway double-track laying across the board. September <br> 1994 16, \"85\" key national construction projects - Lan-Xin Railway double-track advance across the board laying the State Council of the Lan-Xin Railway double-track-laying call to congratulate. The message said, Lan-Xin Railway double-track line-laying, is another major achievement in China&#39;s railway construction, and its completion will greatly improve the transport conditions of the northwest region of the to promote northwest region and the country&#39;s economic development, social progress and the strengthening of national unity has a very important significance. <br> This project was approved by the State Council in March, 1991, the project started in September 1992. Tens of thousands of road construction force, top hot sun, fighting the cold, wearing desert, the more the Gobi, to break down the Tianshan Mountains across Daban swamp, only two years on the quality and quantity to complete the 1622 km long double track railway to create another miracle in the history of railway construction in China. the <br> Lan-Xin Railway double track east from the Wuwei South Station, West arrived in Urumqi, via Jinchang, Zhangye, Jiayuguan, Hami, Turpan western city. Erection of 151 large and medium-sized bridges across the board, 12 hole through the tunnel, laying 1,622 kilometers of main line station line laying 131 km. Its completion Lan-Xin Railway transport capacity from 12 million tons in 1992, up to 30 million tons, forward up to 50 million tons. <br> CPC Central Committee and the State Council of the Lan-Xin Railway double-track construction attaches great importance, Premier Li Peng, Zhu Rongji, Vice Premier of the State Council leadership has repeatedly listening to the reports and made important instructions. -Laying ceremony held this afternoon on behalf of the State Council Vice Premier Zou Jiahua all employees to contribute to the new double-track construction in blue, the Government and the people of all ethnic groups to care for and support the new double-track construction of the blue along warm congratulations and heartfelt thanks. <br> the full range of 1024 km line is operational. Expected by the end of June next year, Lan-Xin Railway double track will be fully operational. When the \"bottleneck\" in northwest China railway transport is expected to greatly ease. [1 $ dj¦Ó.c¨­m] <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-12-29
+	create time:2013-01-02 02:43:31
+*/
+
+return array(
+'title'=>'Guatemala ended 36 years of civil war signed a peace agreement',
+'class'=>0,
+'cont'=>'December 29, 1996 (the Rat the winter on 19), Guatemala to end 36 years of civil war signed a peace agreement. the Guatemala flag <br> <br> 1996 December 29, 2010, the Guatemalan government and guerrilla organization National Revolutionary Union signed a permanent peace agreement, declared the final end of the 36 years in this Central American country long civil war. Reference 5:00 pm on December 29, 2011, the signing ceremony at the presidential palace hospital. Minister of Foreign Affairs of Manchester read \"permanent peace agreement, four representatives of the Government Peace Commission, and four representatives of the National Revolutionary Union in the text of the agreement was signed. Subsequently, the Secretary-General of the United Nations Ghali also the text of the agreement was signed. <br> signed representatives and guerrillas on behalf of the Government Peace Commission made a brief speech, satisfied with the achievements of the peace negotiations, also said the \"historic agreement\" should strictly carry out efforts for the reconstruction of Guatemala . <br> Ghali, the Secretary-General, in his speech, Guatemala signed a permanent peace agreement is conflict both sides as well as long-term joint efforts of the international community. Ghali, in his speech, also praised the international community, especially crises friendly group of countries (Colombia, the United States, Mexico, Norway, Spain, and Venezuela) of the peace process for the Guatemala peace efforts and contributions. <br> Guatemala permanent peace agreement includes both several years in human rights, Indian rights and status, socio-economic and land issues, guerrillas reintegration, to modify the Constitution and electoral laws reached 11 peace agreement. In today&#39;s signing ceremony, the two sides also announced today they finally reached the implementation of a permanent peace agreement schedule. According to this schedule, the 2000 Full implementation of the above agreement. <br> Guatemalan civil war broke out in 1960. Guatemalan government troops and anti-government guerrilla groups to fight each other for 36 years, people being trampled on, more than 170,000 people died, more than 40,000 people missing, more than 100 million people from their homes to become refugees, the country&#39;s economy from bad to worse, the people living life in squalor. Both the risk of conflict from peace negotiations in 1987, which lasted 10 years before they finally reached the country to achieve a permanent peace agreement. <br>'
+);
+
+?>

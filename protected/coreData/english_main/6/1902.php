@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-3-6
+	create time:2013-01-02 08:41:44
+*/
+
+return array(
+'title'=>'China Electronics scientist, educator, Fung Ping Chuen&#39;s death',
+'class'=>3,
+'cont'=>'March 6, 1980, the first month on the 20th (Gengshen years), China Electronics scientist, educator, Fung Ping Chuen&#39;s death. <br> electronic scientist and educator. October 20, 1910, was born in Hebei Province, the new county. Died March 6, 1980. Graduated from Tsinghua University in 1930, after the Lingnan University, Department of Physics, assistant. Into Yenching University in 1932 to study in 1934, a Master of Science degree. The same year, back to the Lingnan University lecturer, he served as an associate professor, Department of Physics, Acting Director. In 1940, went to Harvard University PhD. 1943 doctorate, he served as a lecturer, researcher. After returning home in 1946, Lingnan University, Department of Physics, Department of Electrical Engineering, Professor, Department Head, polytechnics Hospital Administrator. Dean of Lingnan University in 1948, 1951 Chief physics department. Ren Huanan Institute of Technology in 1952, member of the Preparatory Committee, Professor. 1955 provost Ren Huanan Institute of Technology. Twice Ren Huanan Associate Dean of Engineering in 1962 and 1979 respectively. Fung Ping Chuen many pioneering research work in the broadcast transmission technology, electro-acoustic sound of water and other disciplines. Important papers he published more than 20 articles. Such as \"power oscillator the board extremely efficient, powerful oscillator phase angle compensation,\" Determination of strength tube static characteristics of a new method, the mutual inductance coupling some of the characteristics of the double-loop oscillator \". His monograph the electroacoustics foundation \", the radio transmission equipment (on the next volume) was used as the national general textbook. 1965, write important book oscillation theory. Radio broadcast transmission equipment in recent years, the development of \"a book he had written in 1975, won the first prize for the 1983 World Communications Year National Excellent communication technology books. Fung Ping Chuen, a former Chinese Institute of Electronics vice chairman and Circuits and Systems Professional Committee chairman, the vice chairman of the China Institute of Acoustics, Chinese Physical Society director, the president of the Institute of Electronics, Guangdong Province, President of the Association of Science and Technology of Guangdong Province, Guangdong Province, the president of the Physical Society and so on. Fung Ping-chuen was awarded the title of National Model Worker. <br>'
+);
+
+?>

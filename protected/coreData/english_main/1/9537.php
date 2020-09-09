@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1958-10-1
+	create time:2013-01-02 01:20:40
+*/
+
+return array(
+'title'=>'The establishment of the United States National Aeronautics and Space Administration',
+'class'=>0,
+'cont'=>'October 1, 1958 (August 19), the Reform Movement, the United States National Aeronautics and Space Administration was established. In In 1958, October 1, 2010, the United States National Aeronautics and Space Administration was established to replace the same day, the dissolution of the National Advisory Committee for Aeronautics. <br> NASA, the full name of the United States National Aeronautics and Space Administration, is the world&#39;s largest civil space agencies. October 1, 1958, NASA formally established. Headquartered in Washington, District of Columbia. The United States National Aeronautics and Space Administration&#39;s vision is \"to improve the life here, to extend life to there, to find other life in the more distant\". The United States National Aeronautics and Space Administration&#39;s goal is to \"understand and protect the survival of the planet; exploration of the universe, to find extraterrestrial life; revelation of our next generation to explore the universe. In addition to the space program, the U.S. National Aeronautics and Space Administration also long-term civilian and military aerospace research. United States National Aeronautics and Space Administration is widely regarded as the leader of the space agency in the world within. All Department of Defense under the non-military rocket and space program under the President&#39;s Executive Order classified NASA, including the ongoing Pioneer plans and explorers plan, and all U.S. science satellite program. Three laboratories: Plateau National Advisory Committee for Aeronautics (NACA) Langley Research Laboratory, Lewis Research Laboratory, Ames Research Laboratory incorporated into NASA, renamed Langley Research Center (history com) Lewis Research Center, Ames Research Center. Edwards Air Force Base flying laboratory was renamed Flight Research Center, part of the Pioneer program of the Naval Research Laboratory classified of NASA Goddard Space Flight Research Center, set up in Maryland. June 1960 to take over the the von Braun leadership of the Army Ballistic Missile Bureau, the formation of the Marshall Space Flight Center in Huntsville, responsible for a large launch vehicle research program. Later, NASA also have adjusted to the formation of the Kennedy Space Center, Johnson Space Center, the spacecraft center. Today, NASA has become the aerospace and pioneer of human space exploration in the world. <br> Reviews: human exploration of the cosmos institutions <br>'
+);
+
+?>

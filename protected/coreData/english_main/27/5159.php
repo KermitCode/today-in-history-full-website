@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-5-27
+	create time:2013-01-01 21:00:24
+*/
+
+return array(
+'title'=>'Beijing opera artist Zhang Junqiu&#39;s death',
+'class'=>3,
+'cont'=>'May 27, 1997 (, Landmarks April 21), the death of Peking Opera Master Zhang Junqiu. <br> Zhang Junqiu \"target =\" _blank \"> Zhang Junqiu <br> an outstanding member of the Communist Party of China, China&#39;s famous Peking Opera master and drama educator, the Eighth CPPCC Standing Committee, China Literary and Art Circles of the death of Federation vice chairman of the Chinese Opera Institute consultant Comrade Zhang Junqiu, illness in Beijing at 12:20 on May 27, 1997, passed away at the age of 77. (history TodayOnHistory.com) <br> Zhang Junqiu since young love of opera art, 13-year-old started to learn Peking Opera Tsing Yi, less than 20 years old on the popular north and south under the direct care of Premier Zhou Enlai in 1951, he returned from Hong Kong to Mainland. Zhou Enlai and other party and state leaders met with him several times, birth of New China has entered a new realm of his artistic career, he pioneered the formation of the Third Regiment of Beijing opera, in-depth factories in rural areas, to participate in the DPRK condolences, enthusiasm for the workers, peasants and soldiers performances 1956, he with Ma Lianliang, Tan Fuying, Qiu Shengrong formation lineup Beijing Peking Opera Troupe (now Beijing Opera), famous blend of good play one after another, so that the prosperity of the opera reaches new heights, make an important contribution for the promotion of ethnic culture, prosperity Peking Opera. <br> Zhang Junqiu not only famous Peking Opera master, was also an outstanding members of the Communist Party of China after ten years of the \"Cultural Revolution\", his body and mind have been seriously ruined, but he has always been for the party&#39;s beliefs. smashing of the \"Gang of Four\" his recovery stage of life, he served as the Associate Dean of the School of Chinese Opera did the first thing, is to the party to join the party to turn in a solemn application form June 1981, he joined the Communist Party of China glorious. He served as the fifth member of the National Committee of the Chinese People&#39;s Political Consultative Conference, sixth, seventh, Honorary President of the Standing Committee of the Eighth National Committee of the Chinese People&#39;s Political Consultative Conference, the fifth, sixth Quanguowenlian Vice Chairman, Vice-Chairman of the National Drama Association China Peking Opera Art Foundation. <br> ; <br> \"Teng temple\" Zhang Junqiu decorated Wang Baochuan <br>'
+);
+
+?>

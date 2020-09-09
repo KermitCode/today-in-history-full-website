@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-10-3
+	create time:2013-01-02 01:15:32
+*/
+
+return array(
+'title'=>'Split the 45 years of German re-unification',
+'class'=>0,
+'cont'=>'October 3, 1990 (August 15) Gengwu, split the 45 years of German re-unification. In In October 3, 0, (L $ dj而.妨壯T) split up to 45 years in Germany re-unified \"target =\" _blank \"> Germany reunified <br> the 1990 10 month at 0:00 on the 3rd, (lsjt.org) for the 80 million people of the German Democratic Republic and the Federal Republic of Germany, is an extraordinary moment, before the Reichstag in Berlin, (L $ dj而.妨壯T) along with the Federal Republic of Germany the national anthem, a special flagpole slowly rising black red, yellow, tri-color flag of the Federal Republic of Germany. ceremony announcing to the world, split for up to 45 years of German re-unification after World War II, Germany split the German Democratic Republic and the Federal Republic of Germany, the two countries in 1955 were added to the Warsaw Treaty Organization and NATO, the long-term mutual confrontation of the two Germanys. the end of 1989, (lssdjt.cn) German Democratic Councils drastic changes occurred in March 1990 , came to power cabinet the main 炟肅繩ょ除 of the Christian Democratic Union, the two Germanys government official negotiations on the issue of reunification. May 18, the State Treaty was signed on the establishment of the two German monetary, economic and social alliance. regulations from July 1, two Germany are using the deutsche mark, the country&#39;s economic base is the social market economy, the implementation of labor laws in West Germany. Aug. 31, has signed a national treaty implementation of political unification of the two Germanys. provisions of national recovery in 1952 five states formed in the month before the reform of administrative divisions, East and West Berlin merge into a single state, joined the Federal Republic of Germany on October 3 by West Germany&#39;s \"Basic Law\" collective. September 12, the foreign ministers of the two Germanys signed with the United States and the Soviet Union the British and French foreign ministers last treaty to resolve the German question, the consent of the unification of Germany before the victors October 3, 1990, the German Democratic Republic formally joined the Federal Republic of Germany, to achieve reunification of the two Germanys full German parliamentary elections on December 2, the Christian Democratic Union win, any of the birth of former German Chancellor Helmut Kohl \"target =\" _blank \"> Kohl after the reunification of Germany&#39;s first prime minister. In In 1990, the former East German flag lowered slowly, (l $ dj而.身r阱) to split the 45 years of the two German forthcoming unified <br>'
+);
+
+?>

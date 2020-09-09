@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-5-12
+	create time:2013-01-01 21:38:26
+*/
+
+return array(
+'title'=>'Sijie Pa Shen was elected Acting Prime Minister of Russia',
+'class'=>0,
+'cont'=>'May 12, 1999 (March 27) JiMao Sijie Pa Shen elected Russia&#39;s acting prime minister. <br> Sijie Pa Shen was elected Russia&#39;s acting prime minister \"target =\" _blank \"> Sijie Pa Shen <br> May 12, 2011 11, 1999 33, Russian state television stop suddenly being played \"Animal World\" program, announced: \"10 minutes ago, the Office of the President of the Information Services Department distributed a statement by President Yeltsin, said that President Yeltsin has lifted the Primakov government as prime minister. (lssdjt.cn) <br> President Boris Yeltsin said in a statement, he had appointed Sijie Pa Shen, First Deputy Prime Minister of the Government acting prime minister and as prime minister candidates submitted to the State Duma for approval. Yeltsin stressed that Sijie Pa Shen as a candidate for prime minister Primakov August 1945, the Soviet Red Army to send troops to the northeast. According to the heads of state of the Soviet Union, the United States and Britain signed the Yalta Agreement, northeast after the liberation of the Soviet Navy Pacific Fleet remained in Lushunkou not go March 2, 1952, born in China Lushunkou Soviet naval officer old Sijie Pa Shen home a boy, he is Sergei watts quarter Abramovich ¡¤ Sijie Pa Shen (history Today TodayOnHistory.com) <br> may be affected by the impact of the tutoring Sijie Pa Shen graduated from high school, was admitted to the Soviet Ministry of the Interior Leningrad Higher Political School, graduating in 1973, was assigned to the Ministry of the Interior Special Forces, engaged in political work. Later Sijie Pa Shen and obtain the highest institution of the then Soviet political sector - Lenin Military and Political College, graduating in 1981 to the Higher Political School of the Leningrad Department of the Interior to teach (history today www.lssdjt.com) Sijie Pa Shen obtain a 1983 graduate of the Lenin Military and Political College, graduating in 1986, vice doctoral dissertation is entitled: \"Great Patriotic war fire fighting forces in the Leningrad party&#39;s leadership in 1991, Sijie Pa Shen any of the Russian Federal Security Bureau deputy director and Chairman of St. Petersburg and Leningrad State Secretary of the Federal Security Service, the Russian Security Vice Minister in 1992, he was appointed First Deputy Minister of the Russian Federal Security Service, from September 1993 to December 1993 to 1994, he was appointed the first deputy director of the Russian Federal Anti-Spy Administration. <br>'
+);
+
+?>

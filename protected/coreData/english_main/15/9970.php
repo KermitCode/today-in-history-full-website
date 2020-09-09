@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-10-15
+	create time:2013-01-02 01:10:29
+*/
+
+return array(
+'title'=>'Haitian exiled President Jean-Bertrand Aristide returned to power',
+'class'=>0,
+'cont'=>'October 15, 1994, September 11 (Awake), the exiled President of Haiti, Jean-Bertrand Aristide returned to power. <br> Haiti&#39;s democratically elected President Jean-Bertrand Aristide returned to power \"target =\" _blank \"> Aristide reinstatement <br> 1994 10 15, the end of the 1111 days of life in exile, the democratically elected president of Haiti, Jean-Bertrand Aristide morning and left the United States to return <br> 42-year-old Jean-Bertrand Aristide, the first democratically elected president of Haiti in 1804 after independence, but he was only in power for more than seven months to be Cedras, commander of the Armed Forces of Haiti coup ousted, was expelled from the country in exile since. <br> 8:45, President Aristide and his party and the delegation, led by U.S. Secretary of State Warren Christopher arrived in Andhra Lutz airfields in Maryland. Aris Tead President made a brief speech at the airport, and thanked the United States and the countries concerned on the support of the restoration of democracy in Haiti, Christopher said in a speech, President Aristide to return marks restored democracy in Haiti, said the United States will continue to abide by their promised and and the international community to provide Haiti with humanitarian aid. <br> Christopher Aristide to go to Port-au-Prince on the same plane, the same plane to Haiti, the U.S. delegation, including government officials and members of Congress. 9 am President Aristide&#39;s plane took off, flew to Haiti direction four hours after he arrived in Port-au-Prince, and then taken by helicopter to the presidential palace. (lssdjt.cn) Aristide supporters are preparing a grand welcome Aristide. <br> However, the situation in Haiti is not stable, violent bloodshed constantly. For safety reasons, the U.S. troops in Haiti today to strengthen public security. Aristide returned after the security of the United States due to fears company with a retired American security personnel, the State Council has signed a three-month contract, this amounted to a $ 850,000 contract, (L $ dj¦Ó.c¨­m) the company will send a professional security experience personnel to assist the Haitian security forces to ensure the security of Aristide. <br> President Clinton held a farewell ceremony for Aristide, and signed an executive order, the abolition of all economic and trade sanctions imposed by the United States on Haiti. Clinton said Aristide Germany returning home will bring second democratic opportunity in Haiti Aristide reassured after returning to national reconciliation, not to engage in retaliation. <br> Haitian military leader General Cedras (right) and 1994 Haiti President of the Supreme Court, was appointed interim president Emir - satisfied holy <br>'
+);
+
+?>

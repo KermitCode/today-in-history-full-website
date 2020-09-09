@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1929-8-1
+	create time:2013-01-01 23:39:37
+*/
+
+return array(
+'title'=>'The KMT reorganize and discharge surplus implementation meeting',
+'class'=>0,
+'cont'=>'(Baba June 26), August 1, 1929, the KMT reorganize and discharge surplus implementation meeting. l <br> 1929 (lssdjt.cn) KMT reorganize and discharge surplus Implementation Conference held in Nanjing. Jiang Department of military officials and Feng Yuxiang and Yan Xishan and the Northeast Army represented more than 300 people attended the meeting. The Council passed the \"national army troops cut to stay reorganize and discharge surplus Standard,\" Guojun reorganize and discharge surplus Commission inspection of the implementation of the regulations \", the Army compilation principles, inspection of tissue Ordinance, the provisions to reorganize and discharge surplus area the army of the number of compression to 7 to nine divisions, each division is 1.1 million less than the original provisions of 2-4 divisions. 50 divisions of the country&#39;s military establishment from the original total number of currently scheduled amplified to 65 divisions, the total number by more than 500,000 to 800,000. Reorganize and discharge surplus during the period, the military budget for 1300 million. Chiang Kai-shek&#39;s attempt to reorganize and discharge surplus area approach to increase the compression of others army and expand their own power, so the more the intensification of the contradiction between Chiang warlords. on <br> 8 6, reorganize and discharge surplus reorganize and discharge surplus the implementation of the Universal Declaration of Closure of the meeting \"Declaration cited reorganize and discharge surplus meeting twice after all the doubts and criticisms: (1) Some say reorganize and discharge surplus military ability to implement when the apparent how the government&#39;s authority, the government has full authority, the central authorities have decided the way to be able to the purposes, if the lack of government authority, repeatedly meeting to no avail; (2) Some people say that our existing troops, at least when more than 200 people . Should be repatriated home accounted for 60% of the bit in a hurry to seek treatment; (3) Some people say that soldiers should indeed be cut, but should be the first chip placement, if they do not prepare, wanted to reorganize and discharge surplus, tens of thousands of redundant official million redundant soldiers, Xiling severance everywhere flow as gangland, fear more social losses; (4) Some people say, reorganize and discharge surplus Implementation Meeting to focus only on the balance of power, and do not pay attention to the quality of troops, the dance of international shrinking military mistakes. <br>'
+);
+
+?>

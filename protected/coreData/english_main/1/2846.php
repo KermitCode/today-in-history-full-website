@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1969-4-1
+	create time:2013-01-02 08:38:38
+*/
+
+return array(
+'title'=>'Ninth Party congress held in Beijing',
+'class'=>0,
+'cont'=>'April 1, 1969 (, Jiyou February 15), the ninth Party congress held in Beijing. <br> ninth Party congress held in Beijing <br> 1969 April 1, 24, 2009, the Ninth National Congress of the Communist Party of China was held in Beijing. <br> main agenda of the General Assembly: one (on cn) Lin Biao on behalf of the CPC Central Committee for Political Report;, modify the party Tong; Third, the election of the party&#39;s Central Committee. Mao presided over the meeting and delivered the opening and hope that the General Assembly \"can open into a general unity, victory in the General Assembly\". <br> Assembly elected Mao Zedong as the President of the Bureau, Lin Biao as the Vice-Chairman of the Bureau, Zhou Enlai, the Secretary-General of the Bureau. Lin Biao for political report on behalf of the CPC Central Committee; modify the Constitution of the Communist Party of China; election of the party&#39;s Central Committee. the <br> Mao Zedong and Lin Biao and into the the congress \"venue <br> Lin Biao&#39;s political report, drafted by Kang Sheng, Zhang, Yao Wenyuan, Mao Zedong personally modify the final version. Report on the preparation of the Cultural Revolution the process, Dou Pigai, the consolidation and construction of the Party, Chinese and foreign relations issues explained. Report as the guiding ideology and the Cultural Revolution of the socialist revolution theoretical basis for the theory of continuing the revolution under the dictatorship of the proletariat \"affirm, legitimize the theory and practice of the Cultural Revolution. first class struggle will be <br> report center the guiding ideology requirements for the basic line of the historical period of socialism, provisions of the the Dou Pigai task. Report exaggerated the danger of a world war, the revised Party Constitution draft submitted to the General Assembly for discussion and made a wrong description of Marxism-Leninism, Mao Zedong Thought, the nature and mission of the provisions of the party&#39;s one-sided, the Lin Biao as a close ally of Comrade Mao Zedong and The successor \"write masterplan. The General Assembly unanimously adopted the Lin Biao and on behalf of the CPC Central Committee for political reporting and the Constitution. The Nine affirmed the theory and practice of the \"Cultural Revolution\" <br> strengthen the status of the CPC Central Committee of the Lin Biao and Jiang Qing, et al. Historical practice has proved, nine in the ideological, political and organizational guidelines are wrong. <br> Mao Zedong, Lin Biao podium <br>'
+);
+
+?>

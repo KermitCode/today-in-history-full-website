@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1922-10-31
+	create time:2013-01-02 02:00:24
+*/
+
+return array(
+'title'=>'Norodom Sihanouk&#39;s Birthday',
+'class'=>4,
+'cont'=>'October 31, 1922 September 12 (Saigon), Norodom Sihanouk&#39;s birthday. <br> 1965 (history cn) Sihanouk&#39;s Birthday \"target =\" _blank \"> Prince Sihanouk and Monique princess with Chinese Communist leaders Mao Zedong, Liu Shaoqi and other in Tiananmen Square Tower on the Prince <br> Norodom Sihanouk was born October 31, 1922 In 1941, the death of his grandfather Sisowath King Sihamoni Wang of 18 year-old successor to Sihanouk King of the Kingdom of Cambodia. March 1945, on the eve of the end of World War II, Xi Hanu Lectra announced that Cambodia as an independent sovereign state, but after the Japanese surrender, the French colonialists in 1945 October re-enter Cambodia, Sihanouk led the Cambodian people and the French colonialists resolute struggle, forcing France admitted in November 1953 that the Cambodian Independent In, in March 1955, Sihanouk in order to be able to concentrate in the political activities, decided to abdicate the throne in favor of his father, Norodom Sura Maarit his own Prime Minister and Foreign Minister He also announced the establishment of the People&#39;s Socialist League in this year, as the alliance President 1960 April, Norodom Sura death of Mali Specter, June (the L $ dj¦Ó.§«§§T) national parliamentary elections, Sihanouk as head of state. U.S. imperialism has been working in Cambodia to engage in sabotage and subversive activities. < ; br> May, 1963, the People&#39;s Republic of China President Liu Shaoqi&#39;s visit to Cambodia, the United States in the Intelligence Bureau conspiracy to blow up from the Phnom Penh airport en route to the capital to take advantage of Sihanouk, accompanied by Liu Shaoqi&#39;s car, did not succeed due to be cracked. 1963 November, Sihanouk initiative, the alliance of the National Assembly of People&#39;s Socialist passed a resolution: \"to terminate all military, economic, technological and cultural aspects of the assistance given by the United States.\" <br> 1965, the United States aircraft bombed border areas of Cambodia, Sihanouk resolutely declared that the disruption of diplomatic relations and the U.S. In 1970, (lssjt.cn) to take advantage of Sihanouk and his wife went to France convalescence support Lon Nol rightist Group held coup (on www.TodayOnHistory.com) to overthrow Sihanouk. Sihanouk in Beijing in March appealed to rally the National United Front of Cambodia, to the armed struggle to overthrow the Lon Nol regime in May, he in Beijing announced the establishment of a government of national unity of the Kingdom of Cambodia, to carry out a variety of diplomatic activities abroad, in order to isolate the Lon Nol regime. Sihanouk&#39;s anti-imperialist great spirit in Cambodia as well as enjoy a high prestige in the international arena. <br>'
+);
+
+?>

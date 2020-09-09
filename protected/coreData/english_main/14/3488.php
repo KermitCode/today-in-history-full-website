@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1918-4-14
+	create time:2013-01-01 22:06:16
+*/
+
+return array(
+'title'=>'Mao Zedong launched in Changsha Xinmin Society',
+'class'=>0,
+'cont'=>'(Wu Wu, March fourth day), April 14, 1918, Mao Zedong launched in Changsha Xinmin Society. some members of <br> \"Xinmin Society photo. Second row, fourth from left weeks Shizhao; left eight Shuheng; the five row fourth from left is of Mao Zedong <br> student in Hunan Normal School Mao Zedong. She was admitted to the school last spring. April <br> 1918 14, Xinmin Society convened the inaugural meeting in the the the Changsha Yuelu Yamashita Liujia table Hesen home. Mao Zedong, Cai Hesen, Shuheng, Xiao, Third and 13 to participate in the inaugural meeting, before the meeting with Li Weihan, Zhou Zhao, Chen Chang, a total of 21 basic membership. The meeting discussed and adopted a constitution drafted by Mao Zedong, Zou Yi Ding. The constitution provides that the Society for the purpose of \"innovative academic temper conduct, improved morality and custom. Discipline Member for: (1) hypocrisy &#39;(2) lazy; (3) does not waste; (4) do not gamble; (5) Visiting Prostitutes. The <br> meeting elected Xiao son promoted Director-General, Mao Zedong, Chen Shunong as Director-General. Society is headquartered in Changsha. The constitution also provides for strict admission procedures, require serious member life and a bright personality, thought up, promising the ambition to do things by the State and the nation. After the founding of the Society, after another development in the progress of students and young teachers in each school in Changsha members. <br> in the May Fourth Movement, (L $ dj¦Ó.c¨­m) from 1919 to 1920, the expulsion of the warlord Chang Ching-yao movement, from September 1920 to December Hunan Autonomy Movement and early publicity Marxism various activities, learn played a major role. Since the summer of 1918, many members participated in the study in France, work-study activities. May 8, 1920, Liu Hu Member and ready to go to France Member meeting in Shanghai, Mao presided over the proposed Society for the principle of \"the transformation of China and the world.\" <br> 1921 New Year&#39;s Day in Changsha open New Year Assembly, Mao Zedong reiterated Society guidelines criticism of social democracy and anarchism to advocate labor physiocrats, \"class dictatorship\" to achieve \"the transformation of China with the purpose of \"the world. Since the second half of 1920, many members recruit participants Hunan communist group, the Socialist Youth League. After the founding of the Communist Party of China, learn to gradually stop activities. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2010-10-16
+	create time:2013-01-02 01:16:41
+*/
+
+return array(
+'title'=>'&quot;My dad is Li Gang&quot; butt incident',
+'class'=>0,
+'cont'=>'October 16, 2010 (in September Chujiu GY), \"My dad is Li Gang\" butt incident. In In 2010 On October 16, the evening of a black car hit two girls large school district in Hebei dead and another injured, the driver not only failed to stop, but continues to take his girlfriend to go to school dormitory. Way back from the students and security stopped the perpetrators not only does not care about the injured, or even indifferent and arrogant attitude, shouting: \"have a skill you told to go, my dad is Li Gang!\" <br> Proven understanding The man named Li Qiming, father Li Gang Baoding Public Security Bureau Deputy Secretary. The matter quickly became a focus of heated debate of friends and the media, \"My dad is Li Gang,\" the statement quickly became the network&#39;s hottest buzzwords. As of this morning, more than 360,000 comments Post. , <br> 2010 10 20, 2009, World topics, users River Volunteer \"a post detonated network, has reached 47 million hits as of yesterday evening. This post describes the campus car accident together. the evening of October 16 <br> 2010 9:40 the supermarket entrance of Hebei University New Area EBEY, two playing skating girls in the school dormitory area supermarket entrance is a hit by a car, knocked those are Hebei Chamber of Commerce and Industry College Freshmen. [L $ dj¦Ó.c¨­m] <br> post, said: \"The speed was very fast, about 80 to 100 yards. The girls knocked vacated particularly high and the car gave the driver and did not slow down, run over by the rear wheels from a girl&#39;s body. After \"<br>\" hit man, he should continue to travel, want to run away from the gate, after the students stopped by security. Get off the perpetrators did not show the slightest apology, (lssjt.cn) he actually said: \"I look at (the) car (to) shaved! Do you know who my dad is? My dad is Li Gang! skill you report go! \"<br> drink the accident, also bluster\" My dad is Li Gang \", which caused great indignation and concern of friends. The website was launched called \"&#39;My dad is Li Gang&#39; sentences contest activities, simultaneously spoof song,\" My dad is Li Gang \"have also spread rapidly in the network. <br> \"My dad is Li Gang,\" the popular, Beijing Normal University communications professor Zhang Hongzhong, \"sentences actions\" the seemingly humorous behind, in fact, is people spontaneously formed on one of the power elite condemnation. <br> Chongqing streets of performance art spoof \"My dad is Li Gang\" <br>'
+);
+
+?>

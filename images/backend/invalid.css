@@ -1,0 +1,66 @@
+.button {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+#main-content TABLE TFOOT TD .bulk-actions SELECT {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.pagination A.number {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+FORM INPUT.text-input {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+FORM TEXTAREA {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+FORM .wysiwyg {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+FORM SELECT {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+SELECT {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.dp-popup {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.content-box {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.content-box-header {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+UL.content-box-tabs LI A.current {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.shortcut-button {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.notification {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.communcity_img_notification {
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px
+}
+.content-box-header {
+	-moz-border-radius-bottomleft: 0; -moz-border-radius-bottomright: 0; -webkit-border-bottom-left-radius: 0; -webkit-border-bottom-right-radius: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0
+}
+.closed-box .content-box-header {
+	-moz-border-radius-bottomleft: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-left-radius: 6px; -webkit-border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px
+}
+UL.content-box-tabs LI A.current {
+	-moz-border-radius-bottomleft: 0; -moz-border-radius-bottomright: 0; -webkit-border-bottom-left-radius: 0; -webkit-border-bottom-right-radius: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0
+}
+.shortcut-button SPAN {
+	-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px
+}
+DIV.wysiwyg UL.panel LI A {
+	opacity: 0.6
+}
+DIV.wysiwyg UL.panel LI A:hover {
+	opacity: 0.99
+}
+DIV.wysiwyg UL.panel LI A.active {
+	opacity: 0.99
+}

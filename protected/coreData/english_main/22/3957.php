@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1970-4-22
+	create time:2013-01-02 09:02:35
+*/
+
+return array(
+'title'=>'The world&#39;s first &quot;Earth Day&quot;',
+'class'=>0,
+'cont'=>'(Gengxu March 17), April 22, 1970, the world&#39;s first \"Earth Day.\" In In 1970, April 22, 2010, approximately 20 million people throughout the United States to participate in massive demonstrations and a variety of gatherings designed to arouse the awareness of environmental protection and the rational use of resources. The event prompted the U.S. government to take some measures to control environmental pollution. [TodayinHistory.cn] of this activity has been the approval of the United Nations. Later, April 22 was identified as the \"World Earth Day\" \"target =\" _blank \"> Earth Day. <br> 4 22 is Earth Day. The origin of the \"Earth Day\" activities in the United States in the sixties, then American factories, businesses, large and small corporate polluter complaint accused attacked a series of government policies lead to environmental pollution. In 1969, Democratic Senator Gallo - Nelson proposed park in the country schools organize workshops on environmental issues. When he was 25-year-old Harvard Law School students - Dennis Hayes soon Nielsen proposal become a expand the idea of &#8203;&#8203;a large-scale community activities throughout the United States, and the enthusiastic support of the Nelson and many young students. Stagger the final exam, Nelson proposed to launch environmental protection activities in the United States as the world \"Earth Day\" on April 22, the following year. 22 May <br> 1970 the first \"Earth Day\" hosted by Hayes, massive, hailed as the largest since World War II social activities. Congress was forced to adjourn the day, New York City Mayor bustling Fifth Avenue in Manhattan, was ordered not to proceed to the vehicle and let the rally of hundreds of thousands of people in there. the <br> 1990 years, in more than 130 countries and regions worldwide environmental organizations jointly launched the \"Earth Day 1990\" activities (history www.TodayOnHistory.com) This is the initiative launched after the first 2 times the mass of Earth Day activities. (TodayinHistory.cn) <br> Cambodian mountain farmers are continuing deforestation of the the Paris children <br> wear a mask at the Earth Day, handheld protect the Earth&#39;s placard, (lsjt.org) to wake up the world to care for the Earth <br> not complete limbs of children is not by war or landmines, but because of the environmental pollution caused by congenital diseases <br> \"Earth Day \"initiator Dennis Hayes <br>.'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1349-11-8
+	create time:2013-01-02 01:31:12
+*/
+
+return array(
+'title'=>'Arab greatest traveler pull Tuta hometown celebration',
+'class'=>0,
+'cont'=>'November 8, 1349 (Year of the OX September 27), the greatest Arab traveler pulling Tuta hometown celebration. <br> right Ibn Battuta <br> Ibn ¡¤ pull Tuta (also translated Battuta, born in 1304) is one of the greatest medieval traveler. When he was young and received a good education Law and Literature, also received professional training of judges. However, when he was 21 years old, it is time to go to the itinerary of the pilgrimage to Mecca, to make him change his mind. Spots, endemic, feelings ... a place to have a place like, so colorful, he did not want to go home, and began his life of travel. <br> pull Tuta started to go places, mainly the Arab world. Because tourism in these areas, neither language barriers, customs are quite close, easy access to food and accommodation convenient. However, with his travel in the vision of open, around exotic locales of attraction, making him more and more eager to see more new areas. In 1326, he crossed the Arabian desert, came to the Gulf side of the city of Basra. In 1330, he boarded a boat from near Mecca, Jeddah starting along the Red Sea coast, arrived in Yemen. Soon, he and along the East African coast, arrived in Somalia, Kenya and Tanzania. 1332, and from southern Iran by boat crossing the Persian Gulf to Bahrain. Reached soon, and from Syria and Asia Minor, and bypass the Azov Sea into the North Caucasus, and finally, he reached India. [L $ dj¦Ó.§«§§T] <br> pull the Tuta trip has gone quite far, but he did not meet. In 1342, he was starting and from Delhi, India, Zhuanzhan Ceylon Island (on TodayOnHistory.com) Maldives island after the Nicobar Islands, Sumatra, Siam, Sulu Archipelago, and finally landed in Quanzhou came to China homeland. He traveled all the way from Quanzhou, Guangzhou, Jianchang, Poyang, Hangzhou, and direct access to Beijing. <br> pull Tuta is a great traveler, and a lot of difficulties and obstacles he encountered along the way, but his firm will to overcome. He also encountered on the road a lot of strange unheard of, he note of. His Ibn ¡¤ pull Tuta Travels collected so much novelty so far and people are quite interested. In fact, pull out the Tuta there a maximum contribution, and that he was the local history written down, our understanding of the past history provides a lot of factual information. <br> pull Tuta 25 years passing through numerous, November 8, 1349, and finally back to the hometown. When his own experience to tell people, aroused great interest. His book, Travels writing will from this time. In the next few years, he continued to travel and at the same time through oral, written by Travels years. <br>'
+);
+
+?>

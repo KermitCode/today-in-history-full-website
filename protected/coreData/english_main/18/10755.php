@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-11-18
+	create time:2013-01-02 02:00:20
+*/
+
+return array(
+'title'=>'Meteor shower and slip away from us',
+'class'=>0,
+'cont'=>'November 18, 1998 (September 30) Tiger years, the meteor shower and slip away from us. Taiwan Yushan <br> 1998 observed meteor shower of the Leonid meteor shower is the largest in 32 years. <br> 1998 11 18 am ten thousand amateur astronomers and astronomers gathered in Hebei Xinglong, Miyun, Changping Shahe and the Shunyi niulanshan a moderate four observation points in the howling wind kept waiting the arrival of the meteor shower. mysterious universe and human have opened a joke, the constellation Leo the most brilliant performances in advance to the early morning of the 17th, the predicted meteor rainstorm 2:00 to 4:00 in the morning of the 18th into a fragmented meteor only two thirty per hour, indeed, with great expectations of the observers were disappointed. <br>. 4:00, the the Xinglong observation point the person in charge had to declare inaccuracies, the Leonid meteor shower took place on the early morning of the 17th came ahead, and despite the flash of a meteor cause of cheers greatly within an hour, about 200 visible meteors reach about 3:15. Meanwhile, the Czech Republic has also sent by e-mail, said in Beijing at 12:00 on the 17th meteor radar records reached great. It also confirmed the the Leonid meteor Ambilight rainstorm will not re-appear in the next few days. <br> It is understood that the evening of the 17th, the Purple Mountain Observatory opened Webcast 2700 multiplayer \"online watching Star\", due to the lack of information, the Internet is not a scene photos, (Lssdjt.com) many \"netizens\" expressed dissatisfaction female Internet users said that an unnamed \"disappointed\" that the revolution is not successful, comrades still have to work hard, after 33 years, aspirations remuneration. The Xinglong Station stargazers the rainstorm interest highest was undoubtedly a group spontaneously organized amateur astronomers, the early morning of the 18th, the temperature has been as low as minus 15 degrees Celsius these astronomical fans for a long time to hobble around in their own telescopes pointed at the constellation Leo, a man in the house warm for a little while, and ran telescope observations, the hand just touch the the telescope Tiejia was hit by frozen, a pumping hand sticking out of the skin, but the interest unabated. Beijing Observatory experts on the 18th morning again revealing a great boon to amateur astronomers: Leonid meteor shower November 17, 1999 may also be the best observation point in China&#39;s Tibet, Europe, and North Africa. (TodayinHistory.cn) <br>'
+);
+
+?>

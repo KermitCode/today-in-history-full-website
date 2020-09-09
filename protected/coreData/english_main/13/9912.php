@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-10-13
+	create time:2013-01-02 01:00:07
+*/
+
+return array(
+'title'=>'The table tennis outbreak hill Chi Lai &quot;storm',
+'class'=>0,
+'cont'=>'October 13, 1994 (, Awake In September, the ninth day), table tennis the outbreak of the hill Chi Lai \"storm. Zhili In October 13, the evening of 1994, a Japanese table tennis player of <br> Asian Games in Hiroshima, Hiroshima suburb of the Asian Games table tennis hall. The China Overseas Corps <br> When the the hill Chi Lai to 3:1 ranked first in the world of table tennis \"Big Sister\" Deng Yaping chopped photographed, won the Asian Games table tennis singles gold medal, important one, could not help sobbing. (Today in History www.TodayOnHistory.com) <br> witnessed countless Chinese people sitting in front of the TV this moment witnessed was the descendants of the hill Chi Lai, standing on the podium, facing the sun flag rising in Japan singing mixed feelings. <br> This is a memorable moment, but also a substantial number of Chinese people is difficult to accept the moment. People can not tolerate a grew up drinking the Huangpu river, for Chinese coach carefully cultivated athletes such major international competitions in the Asian Games, won the gold medal for the other countries. <br> \"traitor\", a \"traitor\", a \"traitor\" ... For a time, the Chinese people toward the long-unused curse word the hill Chi Lai universal condemnation. (Lsjt.org) <br> for her in the field shouting \"shout West does sound very shrill, insiders revealed that she was playing at home on the habit, but I&#39;d rather Listen to her shouting \"strike\" or other spoken language. gap <br> game, when Chinese reporters wanted to interview, she is not arrogant, is bang out a few Japanese prevarication. (1 $ dj¦Ó.c¨­m) to The Chinese reporters loss her: \"He Zhili, you could not even Chinese words will not say it? \"<br> Win a different repercussions, and Japanese hill Chi Lai is thought-provoking. <br> hill to win the next day, opened a major Japanese newspapers, the reactions are quite calm, mostly quoted reveal her own after winning no national sentiment rendering; domestic media reaction has been very strong, many The newspaper has published a Commentary, content mainly to scold hill Chi Korea and a Beijing newspaper even launched a project entitled \"the hill Chi Lai&#39;s challenge\" big discussion. Well, hills Chi Lai in the end in challenges to whom? Chi Lai challenge <br> hill, not only is challenge the Chinese table tennis circles and old sports system also challenges us in many fields unreasonable Personnel System. If we are not unreasonable bold reform of the old system, that we lost in the future on more than one table tennis gold medal. In In 1987 years of Chinese table tennis players the Zhili (left) together with the mother at home in Shanghai <br>'
+);
+
+?>

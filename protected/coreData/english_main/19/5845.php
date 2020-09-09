@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1976-6-19
+	create time:2013-01-01 23:14:50
+*/
+
+return array(
+'title'=>'Soweto, South Africa large-scale riots',
+'class'=>0,
+'cont'=>'The (hare on May 22), June 19, 1976, the large-scale riots in Soweto, South Africa. <br> Soweto large-scale riots \"target =\" _blank \"> Soweto riots <br> 1976 June 19, 2010, South Africa occurred since its inception in 1910 the most serious black people police violence at least 176 people were killed and 1228 people were injured. <br> disputes first appeared in the Soweto township near Johannesburg. stayed there for more than 1 million blacks. 6, 2009, about 2ooo secondary school students in cable Vettori procession in front of the municipal government, the Negro protest mandatory in schools to learn from the South African common the Boolean language (Afrikaans), they think that learning this language is tantamount to admitting that the Caucasian minority government. [l $ dj¦Ó.¨­r¨À] <br> ; June 16, a team protest procession was dispersed by police, a 13-year-old boy was shot and killed this led to some other areas in Soweto violence, including a black police officials were killed and a white riots began to intensify the conflict between the protesters and the police destruction of the Soweto most valuable buildings and houses were lit, the vehicle is damaged and shops were looted the civil guards wandering in the streets. South African Prime Minister John - Vorster ordered to pay all costs \"back to normal, a 1000 armed police cordon around Soweto fitted up to riot Community blockade. <br> rioters fled from Soweto Alexander ghetto near Pretoria and Johannesburg to other areas. ÄÉËþ¶ûË¹ÆÕ Rutter, and Buck Myers ghetto after another outbreak of riots. the other Negro College serious unrest, there many cars and buildings were burned. rioters with stones, slats, the knife in the Battle of Harlem to the end of the bloodshed in the end of June, 1298 people were arrested. According to estimates, only one in Soweto property damage to more than twenty million pounds, almost a municipal building unspoiled. <br> the hundreds of dead and injured, only eight whites in July, the Ethiopian Minister of Education, MC-Botha cancel the decree about learning Boolean language lead to trouble. international community condemned the apartheid policies of the South African government said the UN Security Council passed a resolution: the apartheid policy of \"offense to the conscience and dignity of mankind\" and endorsed the legitimacy of the struggle of the people of South Africa \". <br> Soweto occurred the massive riots\" target = \"_blank\"> the Soweto the riots <br> police in helicopter throwing tear gas to disperse the the crowd <br> Soweto blacks and whites <br>'
+);
+
+?>

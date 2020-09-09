@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1940-12-30
+	create time:2013-01-02 02:44:12
+*/
+
+return array(
+'title'=>'Chinese People&#39;s broadcasting career was born',
+'class'=>4,
+'cont'=>'December 30, 1940 (the twelfth lunar month, the first two days), Dragon, the Chinese People&#39;s broadcasting industry was born. In spring <br> 1940, Comrade Zhou Enlai returned by the Soviet Union, brought back to a broadcast transmitter, the CPC Central Committee decided to set up the Broadcasting Commission, by Zhou Enlai director, leadership to build a radio station. Station sites selected in Yan&#39;an City, northwest Wang leather Wan Village. <br> in Zhou Enlai organization under the leadership of communications soldiers carry forward the spirit of hard work as a cellar hole dug two holes in the hillside between the engine room and power. No electricity, on the use of charcoal production gas instead of gasoline, start the engine of the worn-out cars, driven by the motor running. Iron and steel, with wood shelf shelves since the antenna at the top of the hill, through the efforts of more than six months to the end of 1940, Radio preparation tasks basically completed the callsign test broadcast began XNCR. December 30, the red airwaves for the first time into the sky to Yan&#39;an voice in all directions, and opened the first page of the Chinese People&#39;s History of the Broadcasting. In March 1947, Yan&#39;an Xinhua Radio renamed in northern Shaanxi, Xinhua Radio. March 25, 1949, the radio station with the CPC Central Committee and moved to Peking, renamed Beiping Xinhua Radio, and in Tiananmen Square on October 1, the People&#39;s Republic of China&#39;s founding ceremony broadcast live, this is the first time in the history of our radio The scale of the live broadcast. After the founding of New China, the Xinhua Radio to become China&#39;s national radio, December 5, 1949, officially named the Central People&#39;s Broadcasting Station. (Lssdjt.cn) <br> the Central People&#39;s Broadcasting Station was founded more than 50 years, and always publicize the Party&#39;s line, principles and policies as glorious task of the party and the government work closely with the people linked. At the same time, the Taiwan timely reports on important domestic and international news, the dissemination of scientific and cultural knowledge, cultural and recreational life of the rich people, to win the trust of the people. In recent years, the Taiwan established the policy of \"shorten the front, fine to do programs, improve quality, reasonable layout, better for the socialist material civilization and spiritual civilization\", give full play to the advantages of CCTV, produced many well received by the audience favorite programs. (有身d芋y身里h貝 $ 而身ry.c身m) <br>'
+);
+
+?>

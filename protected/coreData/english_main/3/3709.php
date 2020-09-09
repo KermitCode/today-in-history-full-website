@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1963-4-3
+	create time:2013-01-01 22:50:17
+*/
+
+return array(
+'title'=>'The death of the poet Hikmet',
+'class'=>3,
+'cont'=>'April 3, 1963 (, mao March tenth day), the death of the poet Hikmet. <br> of Na Qimu Hikmet (1902.1.20 - 1963.4.3), January 20, 1902, Hikmet was born in the city of Thessaloniki (Greece). His father, a former News Director and Consul General in Hamburg, called a dignitary family in Turkey. Learning in the youth to enter the Naval Academy in Istanbul, the father wanted his naval officer&#39;s identity to the family line. He let my father down, the (history today www.lssdjt.com) he did not enter the Navy, but to the Mainland as a faculty member. Expelled for participating in revolutionary activities in 1919, began a poetry writing. During him as a faculty member in 1921, he met and progressive people, the same year went to the University of Moscow Oriental learning. The October Revolution victory shortly, the Soviet people in the struggle against the same reactionary forces at home and abroad, setting off a climax of socialist revolution and construction. (L $ dj¦Ó.¨­r¨À) Lenin the banner so young Hikmet see the total liberation of the dawn of mankind. He became a staunch socialists the, (lsjt.net) determination to fight for the liberation of the people of Turkey in the end. Returning in 1924 to work at a newspaper and other units engaged in the literary and artistic creation, and joined the Communist Party. <br> his poetry is like the powerful blasts shook the poetry, but also shocked the authorities. Poetry is cheering, a dazzling star rising, that he included in the list of dangerous elements. From the 1930s to the 1940s, became the order of the day, before and after a combined 17 years in prison. 1950, his last time out of the door of the prison. Restored their freedom, but not freedom of expression rights of the works. Authorities to take a variety of ways to persecute him, wanted him Bishangjuelu. In case of a last resort, he left the motherland, illegal immigrants went to the Soviet Union. In 1951, he was expelled from the Turkish nationality. In the Soviet Union, he actively participated in social activities, continue to engage in literary creation, was awarded the Lenin International Peace Prize. <br> 1963, The poet full of hardship feelings for the motherland, he died in Moscow. After the death of the poet, his reputation in the country is increasing. In 1966, his long poem \"My fellow group portrait\" published in Turkey. The poem describing the panorama of social and political life in Turkey during World War II, from the beginning of this century to shape the image of farmers, workers, landlords, capitalists, politicians and literati many rare works of art is the history of Turkish literature . Now in the minds of the people of Turkey, Hikmet has become a most distinguished national hero. <br>'
+);
+
+?>

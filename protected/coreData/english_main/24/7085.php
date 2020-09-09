@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1982-7-24
+	create time:2013-01-01 23:59:36
+*/
+
+return array(
+'title'=>'Liao Chengzhi sent a letter to Chiang Ching-kuo to promote reunification',
+'class'=>0,
+'cont'=>'(Saigon June fourth day), July 24, 1982, Liao Chengzhi sent a letter to Chiang Ching-kuo and promote unity. <br> Liao Chengzhi sent a letter to Chiang Ching-kuo and promoting reunification \"target =\" _blank \"> Liao Chengzhi <br> for the appeal to the KMT and the CPC for peace talks, the mainland and Taiwan reunification, Liao Chengzhi 1982 in July telegram to Taipei on the 24th, sent a letter to Chiang Ching-kuo (on com) <br> letter said: \"For three years, my party has repeatedly Initiative expensive bipartisan talks with donated hatchet, a total of actually the great cause of the reunification of the motherland, but the younger brother has repeatedly claimed that &#39;no contact, no negotiations, no compromise&#39; with the remaining period of thought not. \"\" peaceful reunification of the motherland is the lasting importance to Taiwan end shall be returned to the motherland. early settlement of the various be viable. Taiwan compatriots can live in peace and the people of all ethnic groups in the two sides separated solvable pain, all predecessors in Taiwan and mainland China to go to the station personnel can also get what they want, and is conducive to the Asia-Pacific regional stability and world peace. \"if they can make in Wudi the hands into Albert will be for the whole country respected, admired, and power in the country, go down. \"\" As for &#39;unified to the Three Principles of the People&#39; and so on, know by key thought too unrealistic, too self-deception. \"\" for your party meter test, as according to homeopathy, shoulder the historical responsibility resolutely peace talks to achieve national unity, the bipartisan long-term coexistence, mutual supervision, of plans to rejuvenate the Chinese nation&#39;s great cause. Otherwise, he sacrifice Bureau how can he protect themselves \", (L $ dj¦Ó.§«§§T)\" peaceful reunification purely internal affairs. outsiders trying to be clever, intended to Figure Taiwan this world is well known, when broken constantly, will be troubled. \"< ; br> letter concluded by saying: \"to go further, even more nostalgic as brother convenient, I when the beam mounted on the Road to Taipei to visit.\" This letter was a private communication, but enlighten them with reason, move them with situation, expressed the desire of people look forward to the peaceful reunification of the mainland 1000000000. <br> Liao Chengzhi sent a letter to Chiang Ching-kuo, want to accelerate cross-strait unification <br>'
+);
+
+?>

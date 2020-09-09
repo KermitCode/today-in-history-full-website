@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-9-2
+	create time:2013-01-02 00:57:15
+*/
+
+return array(
+'title'=>'Malaysian Deputy Prime Minister Anwar was dismissed',
+'class'=>0,
+'cont'=>'September 2, 1998 (July 12) Tiger years, Malaysian Deputy Prime Minister Anwar was dismissed. In In September, the Malaysian government announced the lifting of the duties of the Deputy Prime Minister and Minister of Finance <br> Anwar sparked a continuing several months of political turmoil <br> the Southeast Asian economic crisis in 1997 affecting Malaysia. In the face of the economic crisis, Malaysian Prime Minister Mahathir Mohamad and former Deputy Prime Minister and Finance Minister Anwar contradictions gradually revealed. Mahathir advocated the continued implementation of expansionary economic policy, and Anwar, however, want the government to cut spending, stop to engage in large-scale infrastructure projects. Malaysia continues to Mahathir&#39;s \"established policy\", after all, he is a reign of 17 years of the Prime Minister, Anwar but he single-handedly carrying the \"successor\". By the end of June 1998, the opening of the new Kuala Lumpur International Airport, Malaysia have another first in Asia. In July, the government announced a 20 million ringgit to be built in the state, with Malaysian-style luxury toilets, and good in the eyes of foreigners to establish a \"luxury\" image. However, Mahathir&#39;s economic policies are not effective. July and August, and Malaysia have announced control of foreign exchange to buy facilities. The two contradictions Then has been completely exposed. <br> Mahathir began to move. On September 2, the government announced that to get rid of Anwar&#39;s duties, the next day, the ruling party UMNO announced undo his first deputy chairman and his expulsion from the party. September 20, Anwar participate in a rally of supporters arrested. The end of September, he was accused of 10 offenses. On October 24, the anti-government protesters and police in a large-scale conflict, resulting in 10 people and injuring more than 200 people were arrested. November 2, Anwar again interrogated, accused of four embezzlement, a crime of abuse of power, three crime of unnatural sexual behavior. November 7, Anwar&#39;s supporters demonstrations require Mahathir stepped down. The international community and the world in <br> human rights organizations expressed concern about the case. During mid-November APEC Summit held in Kuala Lumpur, there are many calls for anti-government demonstrations, asked Mahathir to step down higher. In disregard of the opposition of the Government of Malaysia, U.S. Secretary of State Madeleine Albright met with Anwar&#39;s wife. While Mahathir said that they would not resign, but life is full of surprises, just like the original Mahathir and Anwar just like father and son, who would have thought they would become enemies? <br>'
+);
+
+?>

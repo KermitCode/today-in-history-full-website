@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-11-11
+	create time:2013-01-02 01:51:40
+*/
+
+return array(
+'title'=>'Sichuan, a pair of Siamese twins split surgery',
+'class'=>0,
+'cont'=>'The (Landmarks October 12), November 11, 1997, split a pair of Siamese twins in Sichuan surgery. <br> 1996 10 15, for more than 60 days ahead of a pair of Siamese twins born in Sichuan. Two children from each sternum xiphoid down to the umbilical, totally fused belly like a gourd waist as the two packages together. A Siamese parts perimeter of 23 cm. <br> such cases, Chongqing Xinqiao Hospital, never seen before; to two neonatal the dynamic abdominal surgery, which is also a problem in medicine. On October 23, the Valley brothers admitted to the Xinqiao Hospital. Siamese neonatal dissection and technological treatment group quickly established, the head of the Li-ming, director of pediatrics, members of the department&#39;s director of anesthesiology, cardiac surgery, general surgery, hepatobiliary surgery and cardiovascular surgery. In addition, the department of transfusion, inspection, pharmaceutical and equipment were mobilized to do all kinds of preparations for the surgery. <br> order to identify what are the organs connected doctors have racked their brains. Each child gained an average of only 2.1 kg, the body is so small, that have no place to put the B-probe. Through a complex examination to identify the two little guys just the liver connected, medically called for common liver. Big cock did not find anything unusual, and the small size of the boss was suffering from a right-handed heart corrected transposition of great arteries with ventricular septal defect with congenital heart disease. the <br> 11, 11, Valley brothers was sent to the operating table, operating table, busy with 25 health care workers, various tube inserted over the almost two little guys systemic. The director of the Department of General Surgery the knife lightly on the upper parts of the Siamese. \"Paul an abandoned, the incision will be\" abandoned \"on the side of the abdomen incision, to Paul another ample belly suture, and now to two full protection, knife toward you plan to in the bonding Ministry is the middle. Abdomen were cut open. Connection with the liver, which is divided into two. The doctors quickly divided into two groups, the child put the two in bed, respectively patches two children liver. Surgery from 9:00 to 14:00, more than four hours. Valley brothers were successfully separated. <br> the way back to the ward, her second child safe, the boss suddenly of cardiac arrest. Doctors to take immediate measures, walking for artificial respiration until the rescue escape into the ward. <br>'
+);
+
+?>

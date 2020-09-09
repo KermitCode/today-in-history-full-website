@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-10-16
+	create time:2013-01-02 01:16:15
+*/
+
+return array(
+'title'=>'Closure of the 12th Asian Games in Hiroshima',
+'class'=>0,
+'cont'=>'September 12 (Awake), October 16, 1994, the closing of the 12th Asian Games in Hiroshima. <br> 1994 10 16, 2009, the fight lasting 15 days, athletes from various countries in Asia tonight can finally wash away Zheng Chen, and enjoy well-prepared host whom Carnival Night - The 12th Asian Games closing ceremony. during <br> Asian Games in Hiroshima stadium has 137 times played the national anthem of the People&#39;s Republic of China, 289 rising bright flag made the race results the spiritual double harvest, the Chinese delegation will be loaded with honors celebration motherland. Huaxia Jian children proved once again that they keep with the chief position in Asia sports. Korean also very happy today, because they once again surpassed Japan, boarded the number two to the advantage of the four gold medals. Broke into the five Central Asian countries, the Asian Games for the first time also rewarding, Kazakhstan and Uzbekistan, respectively, to 25 and 10 gold medals, the third echelon. <br> the Asian Games in swimming, shooting, weightlifting and other items on a total of 44 times to break 25 world records, world record level 1; addition, 133 also refresh the Asian record, rewrite the Asian Games record of 245. The new record marks the birth of the Asian sports, there has been considerable progress in the four years. (L $ dj而.c身m) <br> in the closing ceremony, the President of the Olympic Council of Asia Fahd Fahd Cup awarded to the Asian Games will be named in his father&#39;s name, the most prominent delegation - - The Chinese delegation, (Today in History www.TodayOnHistory.com) receives the trophy from the Chinese Olympic Committee Chairman Wu Shaozu, Chinese athletes jubilation. Korean marathon runner the Huang Yongzuo due to his tenacious spirit to get the best style cup. Fahd remarks: \"Hiroshima warm reception of the people of the Twelfth Asian Games to be an exciting event. He added: \"These represent the future of Asia&#39;s young people to come together, increase friendship through sport.\" I believe this will contribute to long-term peace in the world. \"Hiroshima Asian Games Organizing Committee Chairman of Old Bridge extension into also said:\" I believe that through this event, &#39;harmonious Asia&#39; slogan has become a reality, all people are to enjoy the joy . \"<br> Fahd took the Asian Games flag of surrender by the Mayor of Hiroshima. Cn) (history will flag solemnly handed over to the Thai capital Bangkok Mayor - The 13th Asian Games four years will be held in Bangkok, the many athletes tonight solemnly Meet: Bangkok goodbye after four years! <br> at the closing ceremony, Hiroshima public performances entitled \"joy\", \"Celebration\" and \"parting\" group calisthenics. (1 $ dj而.c身m) <br>'
+);
+
+?>

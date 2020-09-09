@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-12-25
+	create time:2013-01-02 02:35:41
+*/
+
+return array(
+'title'=>'Luoyang catastrophic fire accidents killed 309 people',
+'class'=>5,
+'cont'=>'(Gengchen 30 winter months), December 25, 2000, Luoyang catastrophic fire accidents killed 309 people. In the evening of December 25, 9:00 or so, Wang too four undocumented posts welders, welding the layers separated and underground two-story underground layer of all commercial buildings in the East Sizzling fire, welding slag splash The trigger fires, Wang too water to fight the blaze invalid without alarm, that fled the scene, and entered into a conspiracy of silence to the story underground combustible. On the morning of December 27, escaped four welders is all public security organs captured, confessed their misdeeds. public security fire <br>, criminal investigation officers and technical experts have been seized at the iron plate in the upper part of the fire point welding machine, electric welding torch, welding electrodes, welding slag formed after welding and fire point extraction, identify fire welding welding slag splashed down to the basement level furniture, velvet. The identification of the conclusions of the public security organs have been circumstantial evidence was in the basement of handling cargo. Now Luoyang City public security organs have been too, Wang, Song Long, Gordon Court, the Tapping and four welders and was working in the field and afterwards perjury 8 under criminal detention according to law. <br> After carefully clean up the scene of the accident and the secondary review, Luoyang \"12.25\" disastrous fire accident investigation and handling Leading Group confirmed today that a total of 309 people were killed in the accident, most of which are due to suffocation. <br> According to preliminary investigations, the fire East are commercial buildings located in the old city of Luoyang City, has two underground, there are four on the ground. Commercial buildings in the operation has been poor, long-term leased to individual traders operate. Not long ago, commercial and Taiwan reached a contract to transform the original equipment, interior work before the fire broke out at an advanced stage. the <br> It is understood East Megaboom from the 1997 by the Henan Provincial Government as a 40 fire failed one of the units, has not been effective rectification, local cultural management department has revoked the license of their cultural. But the self-employed households illegal contracting East all commercial buildings four for operating a song and dance entertainment. <br>'
+);
+
+?>

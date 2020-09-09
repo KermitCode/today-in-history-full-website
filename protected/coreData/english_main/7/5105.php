@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1928-6-7
+	create time:2013-01-01 20:49:46
+*/
+
+return array(
+'title'=>'Sun Dianying burglar Tanglin',
+'class'=>0,
+'cont'=>'June 7, 1928 (April 20,) Boshin, Sun Dianying night Pirates Tanglin. <br> Eastern Qing Tombs <br> Sun Dianying died in June, 1928 \"target =\" _blank \"> Sun Dianying led his troops dug Tanglin stole a giant treasure. <br> Tanglin located in Jixian, Hebei the Zunhua vicinity, the total ground Mingma Lan Yu, Shan Jie and Ling Mausoleum 14 consorts Mausoleum. the extremely luxurious these the mausoleum not only the temple modification, ground countless intrauterine treasures. imperial tombs built very The sturdy. outside the 5-foot-thick walls, within three jade or iron package Golden Gate, the entrance of the tomb after there is a huge stone ball withstood able to open, non-human. building was foolproof Tanglin been Sun Dianying, exploded. < ; br> Sun Dianying name of counterinsurgency Paitan the Wenjiang rate team in each mausoleum camp, claiming that Sun Ministry to engage in military exercises, and increased gang plus whistle, guard against secretly instructed the engineers battalion commander Zhuan Sunzi Yu overnight action. <br> Engineer Battalion hides by day and come out at night, desperately digging has dug Qianlong and Empress Mausoleum Mudao, ripped through the entrance of the tomb. the Zhuan Sun Zaiyu pro with Sapper, enter the park under the close surveillance of the Sun Dianying cronies coffin chambers. first moved to take an empty display items, in turn coffin split collect the worn treasures the coffin placed and corpse exhaustively. then dragged the corpse coffin, the coffin away the corpse under the mat treasures removed all the treasures in the coffin \"feng shui points. mingled in the hectic scramble out <br> treasures stolen, Sun Dianying personal inspection patrol again, choosing the top grade back and filled five large boxes of Command. mausoleum in ruins: the coffin of the disorder, mixed with rags, the corpse was thrown in the corner, face down once mighty Empress Dowager tummy, his left hand to reverse to the back, hair disheveled, shirt torn on, socks take off half of embroidered shoes on the floor, shoes treasures no longer trace, lips, mouth dig beads and broken. <br> Qianlong mausoleum suffered even worse: the imperial robes six corpse, only one complete the remaining bones confusion illegible Qianlong of the chin broken, braids and the ribs are to be left home outside in the tomb. tomb chamber still intact, but the house offering are plunder, construction dilapidated. news spread <br> Dongling stolen, the public outcry. <br> the Qianlong Ling <br>'
+);
+
+?>

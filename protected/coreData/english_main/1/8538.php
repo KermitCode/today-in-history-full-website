@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1953-9-1
+	create time:2013-01-02 01:19:28
+*/
+
+return array(
+'title'=>'The establishment of the National University of Defense Technology',
+'class'=>0,
+'cont'=>'September 1, 1953 (, Kimi July 23), the National Defense Science and Technology University was established. In In September 1986, the People&#39;s Liberation Army of higher military academy - National Defense University held the opening ceremony. National Defense University was formally established on January 15, 1986. It is based on the People&#39;s Liberation Army Military Academy, Political Science, Logistics Institute based merging to form. Schools predecessor in Harbin Military Engineering, referred to \"Etceteras. (有身d芋y身里h貝 $ 而身ry.c身m) <br> People&#39;s Liberation Army National Defense Science and Technology University (National University of Defense Technology) referred to the National University of Defense Technology, Science and Engineering University to train personnel of the National Defense Science and Technology. Is an institution of higher learning directly under the Central Military Commission. In 1984, the first approved by the State Council, the Central Military Commission and the Ministry of Education set up a Graduate School shoulders for the entire army to develop advanced science and engineering and technical personnel and command personnel, training of senior leadership cadres engaged in advanced weaponry and key defense technologies important task. The People&#39;s Liberation Army National Defense University of Science and Technology is a national key university, is also the first country to enter the building and one of the key national institutions supported by the central special funds of the national \"211 Project\". The predecessor of <br> School, founded in 1953, the Harbin Military Engineering Institute of the PLA, referred to as \"the Harbin Military Engineering Institute. April 1, 1966, the School of Military Engineering quit army sequence. In 1970, part of the School of Military Engineering disciplines (professional) moved to Changsha City, Hunan Province, was established Changsha Institute of Technology, under the Ministry of Machinery Industry of the State Council, the seventh. In 1978, the Changsha Institute of Technology instead of the Chinese People&#39;s Liberation Army National Defense Science and Technology University, part of the National Defense Science and Technology Commission (1982 reorganized as the National Defense Science, Technology and Industry Committee). the <br> Chengengdajiang with the Harbin Military Engineering Institute of Contemporary China Press <br> In the 60s of the 20th century, (lssjt.cn) Zhang Yan generals in the Harbin Military Engineering Institute of the family portrait <br> Reviews: culture a large number of defense personnel. <br>'
+);
+
+?>

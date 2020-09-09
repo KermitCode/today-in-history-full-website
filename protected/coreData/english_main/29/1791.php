@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1964-2-29
+	create time:2013-01-02 08:32:00
+*/
+
+return array(
+'title'=>'Premier Zhou Enlai friendly visit to the successful conclusion of the 14 countries in Asia, Africa',
+'class'=>0,
+'cont'=>'(Jiachen first month 17), February 29, 1964, Premier Zhou Enlai, the successful conclusion of the 14 countries in Asia, Africa friendly visit. <br> in January 1964, Zhou Enlai and Chen Yi&#39;s visit to Sudan during a visit to the famous cotton-growing Gezira accept children flowers. <br> 60 years after entering the international situation has changed. Mao Zedong, the focus of our diplomatic work should be placed to fight for the \"two intermediate zone\", the so-called \"middle ground\", a developed European capitalist countries, their opposition to the control of the United States; another means developing countries in Asia, Africa and Latin America. <br> 1963 12 14 and 1964 29, 2010, Zhou Enlai, the Chinese delegation for a friendly visit 14 countries in Asia, Africa and Europe, accompanied by Zhou Enlai visited Chen Yi, Kong Yuan, Huang Zhen, Tong Xiaopeng, Qiao Guanhua and so on. <br> Zhou Enlai and his entourage visited Egypt, Algeria, Morocco, Tunisia, Ghana, Mali, Guinea, Sudan, (history www.lssdjt.com) in 10 African countries, such as Ethiopia, Somalia and Albania, as well as Myanmar, Pakistan, Ceylon (now Sri Lanka), three Asian countries, which lasted for 72 days, stroke 10.8 Miles. The Zhou Enlai Africa, Chinese state leaders for the first time an official goodwill visit to African countries. During his visit to Egypt, Zhou Enlai, the Chinese government the five principles of mutual relations with the Arab and African countries based on the Five Principles of Peaceful Coexistence and the ten principles of the Bandung Conference. These principles are put forward, is the Chinese diplomatic initiative. In Mali, Zhou Enlai proposed eight principles of China&#39;s foreign aid, which fully reflects the sincere desire of the economic and cultural cooperation between China and the majority of Asian and African countries. Zhou Enlai pointed out that \"the African continent as a whole is an excellent revolutionary situation in Somalia,\" Africa \"has become an awakening, fighting, advanced continent,\" an independent, prosperous and powerful new Africa must be \"well-known thesis. During the visit, Zhou Enlai with the country&#39;s government leaders were held in a frank and friendly talks, exchanged views on the international situation and issues of common concern, promote mutual understanding and friendly relations with these countries, and talks were published joint communiques. A significant and far-reaching impact of this visit is to enhance the unity and cooperation of the Chinese people of Asian and African countries to improve China&#39;s international status and prestige to the maintenance of world peace. <br>'
+);
+
+?>

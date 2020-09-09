@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-10-25
+	create time:2013-01-02 01:55:20
+*/
+
+return array(
+'title'=>'Taiwan official return to the motherland',
+'class'=>0,
+'cont'=>'October 25, 1945 (Yiyou September 20), Taiwan&#39;s return to the motherland. <br> 25, held in Taipei, the Chinese theater Taiwan Province surrender ceremony <br> 1945, in Taiwan, the Japanese surrender ceremony was officially held. Aspects of China, Chen Yi Executive, the United States the liaison officer °ØµÂ¶û×¼½« attend the ceremony. The Japanese 10th Area Army Commander and Chief Governor Ando Liji Surrender was signed. 10:00, Chen Yi on behalf of the Chinese government announced through radio: from now on Taiwan and the Penghu Islands officially reclassified as Chinese territory, the area of &#8203;&#8203;all land, national affairs are grouped under Chinese sovereignty. The end of Japan ruled Taiwan for up to 50 years. <br> Japan surrendered, the National Government in view of Taiwan, under special circumstances, is established in Taiwan and the mainland provinces the different Executive Office system. \"Taiwan Provincial Administrative Office memorandum published on September 28, and the appointment of Chen Yi Taiwan garrison commander Chief Executive and Chief of Taiwan Province. Chief Executive&#39;s Office and the Garrison Command on September 28, sent Corruption Secretary-General Ge Jingen and Taiwan Garrison General Command deputy chief of staff chanting Yao organize forward command post, and chief of the positive, the deputy director of the October 1, , the Army commander of the Chinese Air Force Zhangyan Meng was ordered to stand-alone fly to Taipei, carrying flags of the National Government raised the national flag in Taipei, October 3, Army vanguard multiply wooden sailboat arrived in Taiwan, October 5, Ge Jingen led by the chief of staff of more than 80 people , arrived in Taipei from Chongqing. This is the first batch arrived in Taiwan on staff of the Nationalist government took over Taiwan. October 16, rumors Guojun arrived in Keelung will be October 25, the people are gathered pier ready for. Since morning till night, but no army came, many people sleeping on the pier waiting. October 17, rates by Chen Kunda, the seventieth Army military as well as part of the Corruption officials, more than 40 ships traveling in the U.S. transport ship arrived in Keelung. This is the first batch landed on Taiwan Guojun. Army after landing by people warmly welcome to wait a long time. 14:40 seventieth Army entered Taipei, but also by the tens of thousands of people lined the streets to cheer the army along the road through brick the wall. Some of the Japanese obediently row standing. October 24, Chen Yi rate on its Corruption officials flew from Shanghai to Taipei in the afternoon. <br>'
+);
+
+?>

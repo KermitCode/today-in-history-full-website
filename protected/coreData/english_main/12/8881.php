@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-9-12
+	create time:2013-01-02 00:52:47
+*/
+
+return array(
+'title'=>'The insane pilot a plane broke into the White House',
+'class'=>0,
+'cont'=>'(Awake of August seventh day), September 12, 1994, the insane pilot a plane broke into the White House. am on <br> 1994, when people are fast asleep, a small plane quietly broke into the restricted area of &#8203;&#8203;the White House. Suddenly, it suddenly falling green envelops the White House South Lawn, cross a flip, slip hit the magnolia blooms on the west of the south porch, broken left wing, rolled down below the windows of the second floor bedroom of President Clinton . The debris of the plane to break a window glass, and other places were not damaged. I saw the aircraft retracted and curled up on the pilot died on the spot. That night, President and Mrs. Clinton just does not live in the White House. <br> 9 12 morning, when the reporter went to the front of the White House, the police had blocked various arteries leading to the White House. (Lssdjt.cn) reporters flocked, but circle very far outside the South Lawn of the local television trucks together into one. Viewed from afar, in front of the White House South have Rangrang. After the accident, security personnel are the most intense riot squad rushed to conduct a comprehensive inspection of the wreckage and the scene, but found no bombs and explosives. President Clinton (Lssdjt.com) <br> morning inspected the scene. He said, \"We look at this incident very seriously. Mrs. Clinton stood on the White House balcony, watching the car not be towed the wreckage said with emotion, \"the White House today is really unusual. (On www.TodayOnHistory.com) <br> aircraft is how to pilot what does he want to do? <br> experts confirmed that the fingerprints of the deceased and their loved ones to figure out this person called Cape Cod, the 38-year-old, (TodayinHistory.cn), who lives in Maryland, is a truck driver. Police said he had a history of mental illness, alcoholism, March 1994, possession of drugs and was sentenced to 18 months probation monitoring. FBI <br> 11 evening, the Cape Cod from Baltimore near a small airport stole only one engine trainer aircraft, and then fly to the capital. From the northwest into downtown Washington, south along 17th Street, and then suddenly turn around and fly to the White House. good friend of <br> Clinton, Arkansas Democratic Senator Pryor, the aircraft crashed shocked at the White House, he said, the country spend millions of dollars each year for the security of the White House, \"I do not understand why always can not afford role. \" <br> According to reports, this is the White House, the second occurrence of similar incidents. In 1974, a soldier had stolen driving a military helicopter to fly from Maryland near the White House, crashed on the South Lawn of the White House. Ford was president and in the field for the weekend. <br>'
+);
+
+?>

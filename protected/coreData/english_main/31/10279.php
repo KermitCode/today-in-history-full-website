@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-10-31
+	create time:2013-01-02 02:03:32
+*/
+
+return array(
+'title'=>'Maintenance works at Tiananmen Square starts',
+'class'=>0,
+'cont'=>'October 31, 1998 (September 12) Tiger years, start the repair works at Tiananmen Square. maintenance <br> Tiananmen Square is arguably the largest this year once renovation <br> 1998 10 31, 2009, Tiananmen Square, large-scale repair and renovation project was officially launched. In May 1999, the newly laid pale pink granite floor, bright, comfortable lighting, providing additional green space will Tiananmen Square decorate more sublime. The worldwide attention Tiananmen Square will be a new look to greet the 50th birthday of the Republic. <br> It is Tiananmen CMC director Xia Shangwu introduced: the Tiananmen Square in the founding ceremony of the 1949 large maintenance and reconstruction of the 10th anniversary of the founding, in turn both sides of the square red walls clear Tiananmen Square to further expand and build a Great Hall of the People, the Museum of Revolutionary History. After the Tiananmen Square have been big changes in 1976, built the Chairman Mao Memorial Hall. Even now, Tiananmen Square, the facilities have been rendered functional aging. The Tiananmen Square the ground Fangzhuan of an annual 20-30% damage in need of repair. Currently, at ground Fangzhuan damaged can be seen everywhere, some ground subsidence, rainy hydrocephalus. Another Tiananmen Square, PA system, built in 1959 tube equipment, audio distortion. Lighting levels, poor uniformity, glare glare. The Tiananmen Square, the main content of the repair and renovation projects are: ground paving, improved lighting, providing additional green space, update the sound reinforcement system, transform the maintenance of the underground pipe network. after the Tiananmen Square <br> converted 150,000 square meters of cement cubes will replace all the light pink natural granite. Plaza lighting brightness, uniformity will increase flood lighting will also be changed to other buildings in Tiananmen Square. Distortion the aging sound reinforcement system renovation. The green area will increase. improvement project during <br> Tiananmen Square, the square daily lift the flag ceremony as usual, to watch the ceremony, the masses will be temporarily moved to Chang&#39;an Avenue to the north side of the walkway and the Golden Water Bridge, the Chairman Mao Memorial Hall, where possible, remain open under the People&#39;s Heroes Monument visits pause. <br> It is reported that, Tiananmen Square alterations owner responsible for engineering, procurement, construction and supervision of the entire project have taken the approach of bidding. Plans to invest more than one billion. <br>'
+);
+
+?>

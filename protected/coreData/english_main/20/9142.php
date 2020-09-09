@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-9-20
+	create time:2013-01-02 01:38:38
+*/
+
+return array(
+'title'=>'The opening of the second session of the National City Games in Tangshan',
+'class'=>0,
+'cont'=>'September 20, 1991 (, Xinwei August 13), the opening of the second session of the National City Games in Tangshan. <br> 1991, 20, 2009, the second session of the National City Games torch ignited after the earthquake, the rise of new Tangshan. The raging flame shines Tangshan new looks, symbolizing the Tangshan energies aggressive new look. The participating young players from around the country converge Tangshan Stadium, the Games, attended the grand opening ceremony. <br> national multi-sport organized by the non-capital cities, the first time in our country. (L $ dj而.c身m) <br> 16:30, the venue sounded majestic agitation athletes march to the national flag, emblem and flowers, flags Lin Fang team for the pilot, referees and delegations team succession admission. After the flag-raising ceremony, the deputy director of the Central Advisory Commission Song Renqiong City Games flag granted to the the current City Games Organizing Committee Executive Director, Governor of Hebei Province Weigao. Then, both sides of the Games, flag slowly rising on both sides of the flag, fluttering in the wind. Outstanding track and field athletes in Hebei Province, Cheng Chin-lock hold high the torch, accompanied by two female athletes ran Admission circling a week, board the torch Taiwan, torch lit op City. <br> the Political Bureau of the CPC Central Committee, State Councilor Li Tieying opening statement. Li Tieying said that the major earthquake in 15 years ago, after 15 years, do city transport, National City Games was held in the re-emergence after the earthquake in Tangshan City, have their special significance. <br> Li Tieying said that the convening of the National City Games, is a major event in the spirit of the city of civilized life, is a strategy of China&#39;s sports development and reform measures. Promote urban development of sports culture sports reserve talents, is the purpose of the Games, he hoped that all the athletes, coaches, referees and abide by the \"fair competition, unity and hard work\" of sports ethics, race out of style, race out level with each other learn, discuss techniques, improve together. Hope that the emergence of a group of talented people through the National City Games glory for the country in future international competitions. (L $ dj而.c身m) <br> nightfall, brightly lit, Tangshan City, 10,000 middle and primary school students and the large-scale cultural and sports performances of \"City Lights\". <br>'
+);
+
+?>

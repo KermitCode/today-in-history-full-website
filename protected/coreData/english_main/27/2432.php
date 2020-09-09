@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1933-2-27
+	create time:2013-01-01 21:54:46
+*/
+
+return array(
+'title'=>'Hitler &quot;Congressional arson&quot;',
+'class'=>0,
+'cont'=>'On the fourth day of February (πÔ”œ years), February 27, 1933, Hitler \"Congressional arson. corner of the <br> Capitol In 1933, German President Paul von Hindenburg appointed Hitler as Prime Minister. In order to establish a fascist dictatorship government, Hitler issued a proclamation on February 1, claiming that the German economy rising prerequisite is to stop the infiltration of communist Germany. On the same day, the Hindenburg announced the dissolution of parliament, and again on March 5 congressional elections. Growing forces of the Communist Party of Germany, the fascists ability to win in the general election is not sure. So they conspiracy planned the appalling \"Congress arson, and then put the blame on the Communist Party, and paved the way for the establishment of a fascist dictatorship ruled. The Germany \"Congress arson organizers confidant of Hitler, National Conference President and Prussian Minister of the Interior Goering and Goebbels. Goering&#39;s instigation, the evening of February 27, the Berlin assault team captain Carl Ernst led a squad of stormtroopers into the Capitol by the Speaker of the House following the heating pipes, the shed where gasoline and other flammable items Speaker of the House and then withdraw from the channel. At the same time, the Dutch troops °§ Lubei ordered sneak into the Capitol arson, manufacturing a Congressional arson. Hitler slander case German communists dry, December 28 and use it as an excuse to enact emergency decree abolished the Weimar Constitution to ensure that the terms of the freedom of the person, and then in the country of communists and revolutionaries the savage repression. Within the first six weeks of fascists in power, only Communists in jail, up to 1.8 million people, the Bulgarian Communist Party leaders of the German Communist leader Ernst Thalmann and exile in Germany Dimitrov also arrested and jailed. The Communist Party was declared illegal, the union is closed, White Terror enveloped the whole of Germany. Following the Communist Party hit June 22, the Social Democratic Party was banned, thousands of Social Democrats were in jail. Other bourgeois political parties except the Nazis were forced to \"automatically dissolved. The end of 1933, Hitler announced that the party and national unity, so that the state apparatus fully into the Nazi Party&#39;s power tools. <br> Since then, Germany has entered the darkest period of the fascist dictatorship. the <br> Hitler radio address to the whole of Germany <br>'
+);
+
+?>

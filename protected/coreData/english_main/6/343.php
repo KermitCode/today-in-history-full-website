@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1959-1-6
+	create time:2013-01-01 20:52:42
+*/
+
+return array(
+'title'=>'The establishment of the International Maritime Organization',
+'class'=>0,
+'cont'=>'January 6, 1959 (the Reform Movement in the winter of January 27), the International Maritime Organization (IMO) was established. <br> 1959 January 6, 2009, the establishment of the International Maritime Organization (IMO). Headquartered in London, formerly known as \"the Intergovernmental Maritime Consultative Organization (IMCO)\", was renamed in 1982 as the International Maritime Organization. The organization is responsible for handling the problem of maritime technology, coordinating national maritime safety and the prevention of Pollution from Ships, the work of the Intergovernmental international organizations. Is a special agency of the United Nations. So far, the organization&#39;s member states has reached 158; developed by the organization responsible for the preservation of international conventions and Miriam Protocol 40, most of which is already in force. The International Maritime Organization&#39;s purpose and mission is: to promote the shipping technical cooperation among countries to encourage countries to adopt uniform standards for dealing with legal issues related to shipping to promote maritime safety and improve the efficiency of vessel traffic, and the prevention and control of pollution from ships. Its main activity is to develop and modify the maritime safety, prevention of pollution from ships, to facilitate maritime transport and improve the efficiency of navigation as well as in connection with the responsibility of relevant maritime conventions, rules, protocols and proposals, exchange practical experience in this regard and the Marine report. The most famous of the three conventions of the IMO 1974 International Life at Sea (SOLAS) Convention for the Safety (SOLAS), MARPOL 73/78 Convention (MARPOL 73) and 78/95 Seafarers&#39; Training, Certification and Watchkeeping for standard International Convention (STCW78/95) \". The three major international conventions a pipe to the safety of the ship, and the other is a pipe environmental protection, there is a pipe crew quality, very representative. In addition, there is a convention and a rule is also very important that the 1966 International Convention on Load Lines \"and\" 1972 COLREG rules \". These two are also about human life and property, and safety of navigation. The course developed by the IMO of these documents are not static, as time goes on, some files are constantly modified and supplemented. For example, a request for a new tanker construction must be double-hulled, mandatory GMDSS equipped and use, prohibit a ship from dumping garbage into the sea, and new provisions to improve crew training standards, the need to constantly update the original provisions. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-12-6
+	create time:2013-01-02 01:54:28
+*/
+
+return array(
+'title'=>'China and Russia signed two Koreas and Mongolia, the Tumen River Area Development Agreement',
+'class'=>0,
+'cont'=>'December 6, 1995 (October 15), seeing in China and Russia the two Koreas and Mongolia signed the Tumen River Area Development Agreement. December <br> 1995, representatives of the five countries of China, Russia, (l $ j¦Ó.c¨½), North Korea, South Korea and Mongolia at the United Nations headquarters officially signed three agreements on the development of the Tumen River Area. The three agreements are: representatives of the five countries signed the \"Agreement on the establishment of the Tumen River Economic Development Zone in Northeast Asia Development Consultative Committee,\" the Tumen River Area Economic Development Zone in Northeast Asia Environmental Memorandum of Understanding \"; well in Tumen River Area Development Coordination Committee on the establishment of an agreement signed by the representatives of the DPRK, Russia. This indicates that international cooperation in the joint development of the Tumen River Area, plans to enter a new phase. Coordinating Committee and the Consultative Committee <br> the Agreement provides for the establishment of mixed Secretariat will be based in Beijing. <br> at the signing ceremony, the Administrator of the United Nations Development Programme Shipei Si speech, congratulated the signing of three agreements. He said that the UNDP will continue to actively support international cooperation project, makes it typical of a sustainable development. <br> China&#39;s Permanent Representative to the United Nations, Ambassador Qin said in his speech, the three agreements confirm the political commitment of the Northeast Asian countries, opening wider to the outside world on the basis of mutual respect for national sovereignty and independence, equality, mutual benefit and good-neighborly friendship and strengthening cooperation . The signing of the agreement declared the beginning of a new stage of cooperation between these countries. <br> representatives of the four countries of Russia, North Korea, South Korea, Mongolia also signing ceremony speech. They said that they will actively participate in international cooperation in joint development of the Tumen River Area. <br> is located in the border of Russia, and Korea Tumen River Area is located in the center of Northeast Asia, rich in natural resources, strategic location, has great potential for development. The documents signed today marks the development of regional cooperation has been transferred to the research and demonstration phase to the implementation phase of investment, trade. <br>'
+);
+
+?>

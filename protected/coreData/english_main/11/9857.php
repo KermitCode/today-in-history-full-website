@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-10-11
+	create time:2013-01-02 00:50:06
+*/
+
+return array(
+'title'=>'The Harbin police killed people events',
+'class'=>0,
+'cont'=>'October 11, 2008 (September 13, Lunar New Year), Harbin six police killed event. In In the evening of October 11th, ten o&#39;clock, occurred in six of the railway police in Harbin Harbin Institute of Physical Education student Lin Songling beaten to death. Because of parking problems, the new classmate Li Xinyu deceased Lin Songling students YEUNG Sum altercation, and evolved into a fight, and then six policemen dead forest dragged away from the bar about 80 meters, took off his the deceased Lin jacket brutal killed They also shouted: \"You do not know the person, I think you know who killed you nothing!\" so over a 22-year-old young not as life! <br> After further investigation, that the identity of the six police, Qi, male, 30 years old, Kazakhstan iron under the Public Security Bureau Public Security at Interpol deputy brigade commander; Li Feng, male, 28 years old, the Zhaodong City Public Security Bureau police-the-job training in the People&#39;s University of Public Security ; Lixin Yu, male, 30 years old, the Harbin Public Security Bureau Narcotics police detachment; Jin-Gang Wang, male, 31 years old, the Harbin Public Security Bureau Xiangfang Branch police; Luan? S, male, 31 years old, the Harbin Public Security Bureau Traffic Police Detachment police; Liu Li Male Male, 31 years old, Kazakhstan iron police Public Security Bureau command center. The front four of the Department of Sarkozy, the new students, Liu Male Qi new colleagues. The police identity <br> batterer led to an outcry in the network. The reporter noted that, initially, the thread more on the behavior of the police denounced the language of the deceased hold a sympathy. 13, Heilongjiang TV broadcast scene surveillance video, so that the network public opinion turned denounced the police by almost one-sided in favor of some users believe that the behavior of the deceased also intensify contradictions suspect. have friends that <br>, Lin Songling several times a ton of bricks, lead to conflict escalation. This sound is caused greater controversy, many users say: \"as the police, why not use the legal means to solve the problem, the (historical www.lssdjt.com) but rather fight than the other Genghen? People killed? & Rdquo ; Reference on March 24, 2010, the Harbin police killed al. Harbin City Intermediate People&#39;s Court hearing. Harbin \"10.11\" The case will be heard criminal incidental civil part. This part involves personal privacy, the Court heard in public. Qi new, <br> <br> defendant YEUNG Sum, Liu Li M, (lsjt.org) (from left to right) <br> courtroom <br>'
+);
+
+?>

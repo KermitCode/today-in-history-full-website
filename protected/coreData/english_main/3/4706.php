@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-5-3
+	create time:2013-01-01 22:50:28
+*/
+
+return array(
+'title'=>'The Louvre paintings again stolen',
+'class'=>0,
+'cont'=>'The eighth day of April (Tiger), May 3, 1998, the Louvre paintings stolen again. <br> France Louvre <br> Louvre location <br> May 1998, a Sunday, the French Louvre Museum to the public as usual free and open. The visiting crowd early on in the glass pyramid entrance waiting in long lines, after security checks have moved into the museum visit. the painting hall gallery <br>, about 402 meters long <br> 14:00, a guard suddenly found a stolen French 19th-century paintings of the early painter Kolonaki Sevres road. He immediately alarm to the police station. In 15:00 Louvre export all be shut down, every visitor must accept a body search before leaving. The visit to this day, especially, the inspection work carried out slowly, until 5:30 pm, and check the work before the end, but yet to find the stolen painting. the French sculptor <br> Rodin <br> of The Louvre Management personnel, stolen is a 49 cm long, 34 cm wide landscape. From the field observations, thieves use the cutter will be kept painted glass case dug a hole, and then a knife to cut off the canvas and removed, leaving only the Frame. Little one painting Buser difficult to be found in the clothing. The Arc de Triomphe, the Louvre before <br> <br> Louvre art stolen more than this time. In January 1995, the person using the same method in 5 minutes a 19th century paintings stolen. A week later, a 17 kg heavy stone was stolen. A few days later, an anonymous telephone the museum, only in a corner of the Louvre courtyard stone carving retrieve. January 6, 1997, a 4th century BC Greek stele engraved stolen. The greatest impact in the Louvre&#39;s history paintings stolen case occurred in 1911. At that time, (L $ dj¦Ó.c¨­m) an Italian painter reached - Vinci masterpiece \"Mona Lisa,\" stolen back to the Italian, his claim to their rightful owners. The site of the world famous paintings found two years later, and returned to Paris. portrait painting of <br> world treasures, \"Mona Lisa\" <br> of view of the the Louvre artwork often stolen, the French Ministry of Culture approved in the fall of 1998, Hall strengthen security plan. Currently, there are about 1000 staff three shifts day and night and guarded this is allegedly the largest art museum in the world. Too many admiring visitors from around the world, 8,000 people a day, usually free and open Sunday up to 30,000 people, works of art thefts still hard to detect, the French government 10? Z headache. portrait painting of <br> world treasures, \"Mona Lisa,\" stolen complex was subject to special treatment. It is embedded in a double within the bulletproof glass, on both sides, there are guards. Here is the most attractive place in Lu Buddhist Temple. <br>'
+);
+
+?>

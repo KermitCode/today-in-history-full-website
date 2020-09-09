@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-9-8
+	create time:2013-01-02 00:24:24
+*/
+
+return array(
+'title'=>'Ma&#39;s Army swept the world record',
+'class'=>0,
+'cont'=>'September 8, 1993 (July 22) πÔ”œ Ma&#39;s Army swept the world record. <br> runway rolled up the red whirlwind. From left: Wang Junxia, &#8203;&#8203;Qu Yunxia, &#8203;&#8203;MEDICINE AND Li-Yan Ma, Zhang Lirong. the afternoon September <br> 1993 National Olympic Sports Center came good news: 26-year-old veteran Zhonghuan Di Junxia and Yunnan Province, Liaoning Province, 20-year-old teenager, both in the women&#39;s 10,000 m race to break the previous world record of 30 minutes 13 seconds 74 her son&#39;s grades were 29 minutes and 31 seconds 78,30 minutes 13 seconds 37. In 11, <br> 1993 Qi Yunhui track and field, swimming, weightlifting stadium and set off a formidable record-breaking whirlwind. Liaoning teenager Qu Yunxia and Junxia broke both former Soviet champion Kazankina to maintain the 13-year-old women&#39;s 1,500-meter race world record, her son&#39;s grades were 3 minutes 50 seconds, 46.3 minutes and 51 seconds 92 original record 3 minutes and 52 seconds 47. This is a world record Qi Yunhui game created two Olympic events. Several major news agency in the world and the U.S. CNN cable television (history today www.lssdjt.com) quickly reported Qu Yunxia world record messages. <br> a woman keep for many years, it seems difficult to shake middle and long distance world record, actually easily track and field in Qi Yunhui Liaoning team teenager again and again to refresh. In <br> 9, 12, 5, Liaoning girl in the women&#39;s 3,000-meter preliminaries are 8 minutes 22 seconds 62 world record breaking former Soviet Union star Kazankina for 9 years, hit a miracle in the history of the world track and field. These five players Junxia, &#8203;&#8203;Qu Yunxia, &#8203;&#8203;Li-Yan Ma MEDICINE AND, Zhang Lirong are the Ma Junren the students. the <br> 3000 m Heat, MEDICINE AND First, crossed the finish line, 8 minutes, 22 seconds, 06 Zhang Lirong followed 8 minutes 22 seconds 44! <br> 3000 meters preliminaries second group, Wang Junxia, &#8203;&#8203;Qu Yunxia easy and powerful pace, less effort ran 8 minutes, 12 seconds, 19 and 8 minutes, 12 seconds, 27 achievements, and the world record is far behind. The three arrived at the end of the Mali Yan also made 8 minutes 19 seconds 78 good results, both broke the world record. \"Ma&#39;s Army\" <br> Junxia <br> astonished the world in three days, breaking the women&#39;s 3,000 m and 10,000 m world records. Qu Yunxia (lssdjt.cn) <br> super women&#39;s 1,500 meters world record in the sprint trip. <br> Ma Junren <br>'
+);
+
+?>

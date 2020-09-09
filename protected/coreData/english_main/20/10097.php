@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-10-20
+	create time:2013-01-02 01:31:59
+*/
+
+return array(
+'title'=>'The Liaoshen Battle Montenegro blocking action',
+'class'=>5,
+'cont'=>'October 20, 1948 (September 18, Lunar New Year), the Liaoning-Shenyang Campaign Montenegro blocking action. formal declaration of independence of the Republic of Montenegro <br> \"target =\" _blank \"> Montenegro, blocking action in the People&#39;s Liberation Army artillery positions <br> 1948 10 20, the Liaoning-Shenyang Campaign the Liaoxi battle began. Northeast People&#39;s Liberation Army after the capture of Jinzhou, decided to lure the enemy deep, playing the big battle of annihilation of the guidelines, annihilated \"westward Corps&#39; main focus in Shenyang to Jinzhou second <br> Chiang Kai-shek flew to Shenyang, OK Dongjin Corps, \"and\" west Corps continued to attack to Jinzhou, attempt to regain Jinzhou, and make fifty second main army captured the Yingkou, northeast troops to withdraw inland or at sea Kannai 23, ( Corps of Lssdjt.com) \"west\" to arrive near Montenegro, dahushan, region, encountered blocking stick Montenegro tenth column to Fight the \"westward Corps\" 3 days and nights of continuous onslaught PLA main Jinzhou East into the fight for time add [而身d芋y身里h貝 $ 而身ry.c身m] Liao Yaoxiang Corps is surrounded in Montenegro. Liao Corps surrounded breakthrough blitzed to the blocking of the People&#39;s Liberation Army, October 24, Chiang have captured the People&#39;s Liberation Army three Highland when two armies stick to the hand-to-hand melee when in Stone Mountain, Chiang suddenly with artillery bombardment, both sides were killed. Stone Mountain is occupied by Chiang Kai-shek. then, Chiang has initiated several ninety-two Heights battle, but suffered heavy casualties, the People&#39;s Liberation Army an even sacrifice. PLA stick 101 Highland widowed end result of playing the best people captured by Chiang Kai-shek. 18:00, the People&#39;s Liberation Army under the cover of artillery, four points counterattack to recapture all positions Liaoyao Xiang see from Montenegro fled from dahushan has not been possible to stop the offensive against Montenegro and the 25th in the evening, \"Westward Corps to retreat Yingkou, avant-garde was in the second division of the People&#39;s Liberation Army independent intercepting forces in the north of Taian and redirection Shenyang retreat 26 six columns of the People&#39;s Liberation Army of 200,000 completed encirclement westward Corps, the night attack, split to surround and annihilate the morning of fighting to 28, wipe out the Kuomintang Army Ninth Corps and five military headquarters, 12 divisions of 10 million people, prisoners northeast destroy the total number of senior generals will be deputy commander and chief commander of the 9th Corps Liaoyao Xiang. <br>'
+);
+
+?>

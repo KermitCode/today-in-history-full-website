@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-8-8
+	create time:2013-01-02 00:01:13
+*/
+
+return array(
+'title'=>'China and Indonesia to restore diplomatic relations',
+'class'=>0,
+'cont'=>'August 8, 1990, June 18 (Gengwu years), the resumption of diplomatic relations between China and Indonesia. <br> Indonesia to restore diplomatic relations \"target =\" _blank \"> Indonesia, the full name of the Republic of Indonesia. island nation located in southeast Asia area of &#8203;&#8203;1,904,443 square kilometers and a population of 199 million (1996), there are more than 100 ethnic Javanese family accounted 47%, the Sunda family accounted for 14% of 88% of the residents of the Universal Indonesian Islam. Jakarta, the capital is rich in mineral resources, mainly oil, natural gas, tin, bauxite, nickel, copper, iron, etc.. for the Asia-Pacific Economic one of the fastest growing countries in per capita GNP of $ 1,023 (1995). food self-sufficient, the major crops such as rice, maize, cassava, rubber, quinine, palm oil, pepper production accounts for the world, also produced tea, coconut, sisal, tobacco, and valuable timber, and a variety of resin rich in aquatic resources. mining, assembly, manufacture and processing of raw materials, textile and light industry mainly exports oil, timber, rubber, plywood, clothing, gas ; imported production equipment, machinery, transport, industrial raw materials and some consumer goods. 2nd century AD, with Chinese exchanges. 3 to the 7th century established several feudal dynasties. the powerful Majapahit dynasty established in the late 13th century, its territory now the territory of Indonesia and the Malay Peninsula. 15th century, Portugal, Spain and the United Kingdom have invaded Fleet invaded the Netherlands in the 19th century, the establishment of the Dutch East Indies colonial government in 1942 by the Japanese occupation after the Japanese surrender, the outbreak of the August Revolution August 17, 1945 (National Day), declaration of independence, the establishment of the Republic of Indonesia in December 1948, the Dutch captured the capital of Indonesia, Yogyakarta. November 1949 to participate in the Dutch Indian federal August 1950, Sukarno formally announced the establishment of a unified cancel Dutch Indian federal relations of the Republic of Indonesia August 10, 1954 to pursue an independent and active foreign policy. emphasis on friendly relations and cooperation for development with ASEAN member countries to establish diplomatic relations with China on April 13, 1950 30 October 1967 Sino-Japanese diplomatic relations interrupt August 8, 1990, the two countries formally resumed diplomatic relations. <br>'
+);
+
+?>

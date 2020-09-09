@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-9-19
+	create time:2013-01-02 01:30:27
+*/
+
+return array(
+'title'=>'Deng Xiaoping review North China military exercises',
+'class'=>0,
+'cont'=>'September 19, 1981 (August 22), yau, Deng Xiaoping review North China military exercises. forces held military exercises after watching <br> in north China, Deng Xiaoping reviewing the exercise troops <br> 1981, Deng Xiaoping, Chairman of the Central Military Commission, the reviewing military forces in north China speech, he pointed out that founded the Communist Party of China, (1 $ dj¦Ó.c¨­m) the people&#39;s armed forces, military and political quality of Mao Zedong Thought armed combat. We fully believe that there is such a good army, but also the support of the masses of the people must be able to defeat any aggressor. He said that the PLA is a strong pillar of the people&#39;s democratic dictatorship, shoulders glorious mission to defend the socialist motherland, safeguard the four modernizations. Therefore, the Chinese People&#39;s Liberation Army construction must become a powerful, modern, regularized revolutionary army. To this end, he asked: (a) We must adhere to the Four Cardinal Principles, to strengthen the political and ideological construction efforts of the military to become a model for the implementation of the Party&#39;s line, principles and policies. (B) must be based on the continuous development of the national economy, improve weaponry to accelerate the modernization of national defense. (C) We must develop closer military and political, civil-military relations, and enhance the internal unity of the armed forces, the militia building, inherit and carry forward the glorious tradition of the people&#39;s army. (D) We must strengthen the military and political training to further improve the quality of the military and political efforts to improve the ability of the various armed services, coordinated operations in modern conditions. (E) We must be modest and prudent, guard against arrogance and rashness, and to further develop the \"four and three stresses, the two are not afraid\" (that is the ideal, morality, culture, and discipline, talk about the military capacity of polite, say health , are not afraid of difficulties and hardships, not afraid of bloodshed), strengthen the style of training, the military has strict discipline. (F) We must do a solid job against aggression ready to make new contributions to the defense of world peace, the defense of the territorial security of the motherland, to fight for Taiwan&#39;s return to the motherland at an early date, the sacred great cause of the motherland. the military exercises <br> modern warfare conditions the <br> <br> held in north China'
+);
+
+?>

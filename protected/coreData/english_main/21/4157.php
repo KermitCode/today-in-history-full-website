@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-4-21
+	create time:2013-01-01 21:00:08
+*/
+
+return array(
+'title'=>'Kang Shien&#39;s death, former Vice Premier of the State Council',
+'class'=>3,
+'cont'=>'April 21, 1995 (March 22), seeing in the death of former vice premier of the State Council Kang Shien. <br> 1995 April 21, 2010, the death of the former Deputy Prime Minister of the State Council, Kang Shien \"target =\" _blank \"> Kang Shien&#39;s death In Kang Shien April 1915, Sunrise was born in Huai&#39;an County, Hebei Province Tian Jia Zhuang in 1935 in Hebei Province, Li Beiping high school reading, participated in the the the famous December 9th student movement. admitted to Tsinghua University Department of Geology study in 1936, the same year to participate in the national liberation vanguard \" as Tsinghua University students Salvation Council Standing Committee of the Communist Party of China in October 1936 after the outbreak of the Sino-Japanese War in 1937, (history com) to participate in the Eighth Route Army, engaged in the anti-Japanese armed struggle and the Border Region construction in Jinsui, has served 120 division pro-democracy movement, workers, the Shanxi Province Battlefield Mobilization Committee Director, the Jinsui eight Divisional Commissioner. during the liberation war, he served as Director of Jinsui Yanmen Military Department, a wild nine divisions of the three armed services of the Political Department and other staff, to participate in the defense of Yan&#39;an watt sub Street Battle and Yulin Battle, as well as the liberation of Lanzhou fighting for the establishment of new China to make a positive contribution to the <br> the founding of the People&#39;s Republic of China, (L $ dj¦Ó.c¨­m), he served as the military chief representative of Yumen oil fields , the Northwest Petroleum Authority, the fuel industry, Petroleum Management Bureau, Mr, Assistant Minister of the Ministry of Petroleum Industry, Vice Minister of Daqing Oilfield Battle Command commander, the command of the headquarters of the North China Oil Exploration battle, the main person in charge of the Ministry of Petroleum Industry, party secretary Hubei Provincial Revolutionary Committee, deputy director and chief of Jianghan Petroleum Battle Command deputy commander, fuel the main person in charge of Ministry of Chemical Industry, Petrochemical Industry Minister, core team leader of the Party, the State Council, Deputy Prime Minister and the Director of the National Economic Council, party secretary, while serve as the deputy director of the State Planning Commission, deputy party secretary of the Finance Committee of the State Council, deputy director of the National Energy Commission, party second secretary, State Councilor and Ministry of Petroleum Industry Minister from office. <br>'
+);
+
+?>

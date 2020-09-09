@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-1-8
+	create time:2013-01-01 21:10:41
+*/
+
+return array(
+'title'=>'The new century, the birth of the first new railway line - Xikang opening of the railway operator',
+'class'=>4,
+'cont'=>'January 8, 2001 (14 Gengchen twelfth lunar month), the opening of the new century, the birth of the first new railway line - Xikang Railway operators. In In the early morning, 2001, (l $ dj¦Ó.¨­r¨À) national key construction projects in the Ninth Five-Year Plan --- Xi&#39;an to Ankang Railway year ahead of time and traffic operations. (L $ dj¦Ó.§«§§T) a train issued from the ancient city of Xi&#39;an through the Qinling Mountains, to southern Shaanxi city of Ankang City Feishi. Xikang Railway (history www.TodayOnHistory.com) <br> the new century, the birth of the first new railway line, and also the implementation of the western development strategy, the first production of the railway. It&#39;s built for passenger and freight trains solution to the northwest and north regions into Chongqing and Sichuan, transport stress, improve the the southwest region north path layout, ease the PCC, Xiangfan-Chongqing two mainline rail transport pressure, development of Shaanxi Province and along the coal and mineral resources to promote the economic development of the poor areas along the great significance. Railway North <br> Xikang even Longhai, Hou West Shenshuo package West Railway, South and Yang An Pou, Xiangfan-Chongqing, Sichuan and Guizhou, Guizhou-Guangxi, Li Zhan, Guiyang-Kunming railway connecting our North China, Northwest China into Chongqing and Sichuan, and the new channel to connect the Southwest, is an important part of the the Baotou Liuzhou channel MOR \"eight vertical and eight horizontal road network planning. Its completion means that our fifth north-south trunk after the Beijing-Shanghai, Beijing-Guangzhou, Beijing-Kowloon, Beijing and Kazakhstan is taking shape. The railway by seven counties in Shaanxi Province, a total length of 267.49 km, is a single-track railway, reserved lane, once completed electrification, the annual design capacity of cargo volume to 20 million tons, the average daily passenger 8 pairs. (Lssdjt.com) <br> Xikang Railway full capacity on December 18, 1996, a total investment of 10.25 billion yuan. Construction, 50,000 road army engineers and technicians worked tenaciously adhere to the leading technology, using a variety of new technologies, new equipment, new technology, greatly accelerated the progress of the project. Xikang line is completed by the Zhengzhou Railway Bureau to take over the operations. Understand, Xi&#39;an to Ankang original to make a detour Baoji, Hanzhong, need 15 hours by train, the Xikang the railroad, in less than five hours can reach. <br>'
+);
+
+?>

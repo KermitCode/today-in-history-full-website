@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-10-11
+	create time:2013-01-02 00:49:03
+*/
+
+return array(
+'title'=>'Potala Palace repairs started',
+'class'=>0,
+'cont'=>'October 11, 1989 (September 12) Baba, the Potala Palace repairs started. In In 1994, the Potala Palace repairs completion celebration rally held in the central building, the Potala Palace, Lhasa de <br> 1989 October 11, 2010, is located in Lhasa Potala Palace fell into disrepair, has many dangerous situations, serious hazards. Cultural treasures for the protection of the Chinese nation, and to carry forward the great motherland and the history and culture of the Tibetan people, the State Council has allocated special funds of 35 million yuan, to focus on the maintenance of the Potala Palace. October 6, a public notice of the People&#39;s Government of the Tibet Autonomous Region. At 13:30 on the 11th into start auspicious by the traditional Tibetan calendar, and divined. OpenCourseWare soil, wood and stone structure of the Potala Palace was first built in the 7th century AD, now the scale of the reconstruction in the 17th century. The main building is 13 floors high, 119 meters, the highest elevation in the world, palaces, castles, monasteries, Tibetan and Chinese architectural style in one of the magnificent building. Abdallah camp in Tibet the supreme historical, religious, cultural status. This time as the Potala Palace, the first time in 340 years, a more comprehensive maintenance. The (lsjt.net) <br> order to ensure the successful completion of this grand classical building maintenance tasks, set up by the State Council leaders as honorary head of the People&#39;s Government of the Tibet Autonomous Region, the State Administration of Cultural Heritage department heads attended maintenance Boudara Palace of the leading group, Coordination Leading Group under the Tibet Autonomous Region, maintenance engineering and construction office. <br> maintenance works force organized by the Tibet Autonomous Region; jointly responsible for technical guidance and quality of construction by the State Administration of Cultural Heritage experts and technicians of ancient architecture in Tibet. <br> maintenance work principle is: well-designed, fine construction, strengthen leadership, foolproof. In accordance with the provisions of the Cultural Relics Protection Law \"does not change the historic condition at the same time, the entire Old recovery, keep the original structure and the overall style of the Potala Palace. <br> repair the Potala Palace, the project has attracted worldwide attention. During construction, tourism, visitors continue to be open to Potala Palace pilgrims. Pagbalha - <br> vice chairman of the National Committee of the Chinese People&#39;s Political Consultative Conference Namgyai and autonomous regional Party and government officials, experts, and workers more than 200 people attended the ceremony. <br>'
+);
+
+?>

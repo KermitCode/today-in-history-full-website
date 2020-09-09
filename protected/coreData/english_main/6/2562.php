@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1930-3-6
+	create time:2013-01-01 22:20:59
+*/
+
+return array(
+'title'=>'American musician Lorin Maazel&#39;s Birthday',
+'class'=>4,
+'cont'=>'(Gengwu February seventh day), March 6, 1930, American musician Lorin Maazel&#39;s birthday. Lorin Maazel&#39;s birthday <br> \"target =\" _blank \"> Maazel (1930 -), the (而身d芋y身里h貝 $ 而身ry.c身m) American French conductor, composer, violinist. Maazel born on March 6, 1930 in the western suburbs of Paris, the town of Neuilly. 5-year-old began to study violin with Mode Lun, 7-year-old with Armitage learn to play the piano. following year with the Los Angeles Philharmonic Associate Conductor bar ﹞ ; Carlisle Kafelnikov learn command July 13, 1938, was only 8 years old Maazel unexpectedly came to power to command and visiting the University of Idaho Orchestra Schubert&#39;s Eighth Symphony; August of the following year 18, in the New York World&#39;s Fair, Maazel commanding Yinte Luo Qin Orchestra performances of Mendelssohn&#39;s \"Fourth Symphony\" (Italy), the same year the Command Master Toscanini invited, in the Hollywood Hall conductor Los Angeles Philharmonic Orchestra in Tchaikovsky&#39;s \"Slavonic Dances\" 11-12 years old, his series of command of the NBC Symphony Orchestra, New York Philharmonic Orchestra, the Montreal Symphony Orchestra, the Philadelphia Orchestra, San Francisco Symphony. ( 而身d芋y身里h貝 $ 而身ry.c身m) Maazel amazing commander, was hailed as a prodigy conductor. <br> 1946, 16-year-old Maazel officially entered the University of Pittsburgh, specializing in linguistics, mathematics and philosophy, at the same time, he violinist identity recitals in the music scene, often also engage String Quartet 1952, Maazel get a Fulbright scholarship to study in Italy, in Rome, Venice, Milan, specializing in Baroque music. December 24 of the following year, his first as a conductor commanding in Sicily, Catania Bellini Orchestra performances began his conducting career in 1962, he led the French National Orchestra to the U.S. tour, 1965 & mdash ; In 1971, Maazel became music director of the Berlin State Opera. 1965-1975, he served as Principal Conductor of the West Berlin Radio Symphony Orchestra, Maazel became music director and principal conductor of the Cleveland Orchestra in 1972-1982. invited to general manager and artistic director of the Vienna State Opera, which is the first American conductor to receive this high honor. during the period 1998-1990, he also serves as music director of the office of the French National Orchestra. <br> In addition to directing outside he was a composer, violinist, television director, artist, music, administration officials, writers, versatile, highly respected (Lssdjt.com) <br>'
+);
+
+?>

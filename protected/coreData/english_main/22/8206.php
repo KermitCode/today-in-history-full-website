@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-8-22
+	create time:2013-01-02 00:23:07
+*/
+
+return array(
+'title'=>'Feng Yuxiang victims',
+'class'=>3,
+'cont'=>'August 22, 1948 (July 18, Lunar New Year), Feng Yuxiang victims. General Feng Yuxiang <br> <br> Feng Yuxiang word Huanzhang, Anhui nest County, in 1882 (Qing dynasty eight) November 6 was born in Hebei Qingxian. 1913, he was appointed the first division of the Beijing Guards regiment, and soon was promoted Brigadier in 1914 with Miss Jianzhang into Shaanxi, in October, he was appointed of mixed brigades Brigadier 16, and into the beginning of their basic team. The from 1921 Shaanxi warlord post. Was transferred to the following year for the first time straight Fengtian War military governor of Henan. Launched the Beijing coup to lineal Third Army Commander-in-Chief post the 1924 second straight Bong war, changed his troops as Commander-in-Chief and First Army commander for the National Army, pushed any. Went to the Soviet Union in March 1926 to examine the returnees in August. In September, the National Revolutionary Jungong arrived in Wuhan in five of the original (now part of the Inner Mongolia Autonomous Region) oath-taking, announced the collective to join the KMT. Second army commander in chief of the National Revolutionary Army in April 1927. Chiang Kai-shek and Wang Jingwei has been involved in anti-Communist activities. Chiang Kai-shek Group since early 1929 and to contradictions Jubing the Chiang Kai-shek, Chiang Feng has outbreak of war with the Central Plains War. \"September 18\" Incident, an active advocate of the anti-Japanese resistance policy against Chiang. Cooperation with the Communist Party of China in May 1933, the formation of the people in the anti-Japanese allies in Zhangjiakou. Nanjing Military Commission vice chairman of the KMT in 1936. The outbreak of the War of Resistance Against Japan, he became the sixth commander of the theater, spin sacked. Continue to take the stance of cooperation with the Chinese Communists after the war, the civil war against Chiang, dictatorial policies, and Li Jishen sponsoring organizations such as the Revolutionary Committee of the Chinese Kuomintang. Study abroad Water Conservancy in 1946, I visited two years between Europe and the United States. November 1947 in the United States set up the China UCPD pushed for the President. In January 1948, he was expelled from the Kuomintang party. In August, in response to the call of the Communist Party of China, to China to attend the preparatory work of the New Political Consultative Conference, 22 high-risk Soviet \"victory\" round the fire in the Black Sea were killed. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-8-9
+	create time:2013-01-02 00:25:23
+*/
+
+return array(
+'title'=>'China set up the country&#39;s highest technology award winning amount of five million yuan',
+'class'=>0,
+'cont'=>'(JiMao June 28), August 9, 1999, China set up the country&#39;s highest technology award winning amount of five million yuan. <br> Chinese citizens who have made outstanding contributions in the field of science and technology, it will be possible to get a bonus of up to 500 million and the State Supreme Science and Technology Award certificate issued by the President personally. <br> 1999, Vice Minister of the Ministry of Science and Technology Xu Guanhua, announced to reporters, the State Council recently approved the National Science and Technology Awards Ordinance and the science and technology award system reform program, as the importance of the rewarding system reform content, the Chinese government decided to establish a State Supreme Science and Technology Award. 50 million 500 million in prize money winners of personal income, 450 million by the winners own topics for scientific research funding. State Supreme Science and Technology Award scientific and technical workers; made a major breakthrough in contemporary science and the cutting edge of technology or outstanding achievements in the science and technology development in scientific and technological innovation, scientific and technological achievements transformation and high-tech industrialization, creating huge economic benefits The scientific and technical workers. Awards every year the number of no more than 2. (L $ j¦Ó.c¨½) <br> in the establishment of the country&#39;s highest technology award, (L $ dj¦Ó.§«§§T) the establishment of the People&#39;s Republic of China Science and Technology Cooperation Award \"to retain the original\" National Natural Science Award, the State Technological Invention Award \"and the\" National Technology Progress Award. \" After three awards bonuses also raised 90,000 yuan for the first prize, second prize of 60,000 yuan. <br> Xu pointed out that the guiding ideology of the reform of the system of incentives to encourage innovation, encouraged to climb the summit of science and technology, the establishment and improvement of personnel training and the use of incentives to promote research, technological development and economic and social development are closely to promote the commercialization of scientific and technological achievements and high-tech industries, accelerate China&#39;s education strategy and the sustainable development strategy and implementing real <br>'
+);
+
+?>

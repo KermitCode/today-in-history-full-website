@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1849-7-31
+	create time:2013-01-01 23:23:19
+*/
+
+return array(
+'title'=>'Hungary patriotic poet Petofi combat only 26 years old at the expense of',
+'class'=>3,
+'cont'=>'July 31, 1849 (Jiyou June 12), Hungary patriotic poet Petofi combat sacrifice as young as 26 years old. sacrifice was only 26 years old <br> Petofi combat \"target =\" _blank \"> the Petofi ¡¤ Mountain Tuo Seoul (1823-1849), (163 years ago) Hungary patriotic poet and founder of the hero, the great Hungarian revolutionary poet, the Hungarian national literature, bourgeois revolutionary democrat. <br> 1823, 1 was born in A Fude under the rule of the Austrian Empire Danube plain small town in Hungary, his father is a poor Slavic butcher and his mother was a serf of the Magyar tribe the teenager over street life, worked as an actor, had been a soldier. \"drunkards\" began to publish works of poetry in 1842, began writing career Folk Song writing poetry, formally developed, refined language, created a lot of good Psalms. \"mature millet\" I went into the kitchen and \"evening\" 50 poems early works by Liszt. composer set to music sung, has become a Hungarian folk song to the capital city of Perth in 1844, served as assistant editor of the Perth Fashion in the poet Fu Lesi Martti funded, published in the \"poetry\", \"Aideerka of Boye grave \"love pearls and prose works\" travel notes \", and laid him in Hungarian literature, and highly evaluated by the German poet Heinrich Heine. published satirical poem\" rural sledgehammer and revolutionary poem \"Song of the Patriot\" against the king, \"renowned poetry, by the end of 1846, finishing poems, to prepare for publication the Complete Poems, the famous maxim poem\" free love \"and wrote in the preface,\" Life is precious Love is even more; if it is free, they can throw! become a poet toward the flag of the revolution, is also his oath to the revolution forward. the poetry writing involves political affairs <br> 1847, such as \"To 10 ninth century poet \"\" In the name of the people \"Psalms. (on com) 1848 15 Petofi leading students to participate in the public uprising against Austrian proletariat and the petty bourgeoisie, the insurgents the recitation political Psalm \"national song\", and wrote the Psalms to \"boil the ocean\" the King hanging on the gallows \"inspire people&#39;s struggle for national freedom and independence, known as the\" Hungarian freedomthe heroic struggle as Bem General Maj. adjutant with the Russian and Austrian armies, in July 1849, the creation of the \"moments of terror,\" the last poem, Seshi Battle of Fort disappearance on July 31 of the same year, most scholars believe he sacrificed on Seshi Fort bloody burial Lu Xun very respected Petofi, said \"indisputable good at, naturally lyric poetry\", some European literary critic praised the heroes and martyrs of the 1050 graves. Petofi is \"Magyar king lyrics. <br>'
+);
+
+?>

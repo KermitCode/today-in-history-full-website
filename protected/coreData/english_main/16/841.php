@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1885-1-16
+	create time:2013-01-01 22:27:59
+*/
+
+return array(
+'title'=>'Essayist Zhou Zuoren&#39;s birthday',
+'class'=>4,
+'cont'=>'January 16, 1885 (Jiashen the twelfth lunar month, the first day), essayist Zhou Zuoren the birth. Zhou Zuoren Zhou Zuoren <br> <br> (1885 to 1967), the modern essayist, poet. Literary translator. Formerly known as gate Shou. The word star scoop, later renamed Kui slow, since the number Meng, Qiming (also Qi Ming), Chido, the pen name of Chung secret, Medic, week-ya Shou. Shaoxing, Zhejiang. Lu Xun&#39;s younger brother. <br> 1903 into the the Jiangnan Naval College learning navy Management, studied in Japan after graduation to obtain official fee. July 1906 to Japan to study naval technology after switched to Foreign Languages. After returning home in 1911 in Shaoxing any secondary school English teacher. After the Revolution, he served as the military government of Zhejiang Province Education Department Inspectorate, the Shaoxing County Education Association, the provincial Fifth faculty. Peking University in 1917, he was appointed liberal arts professor. Editing work to participate in the \"New Youth\" published \"literary\", \"civilians Literature\", \"ideological revolution\" important theoretical articles, and in prose, poetry writing and translating foreign literary works. (Lssjt.cn) In April 1927, Li Dazhao was killed, had fled to protect Li Dazhao of sub PLATFORM own month-long. \"September 18 Incident\" in 1931, is pessimistic about the future of China. After the outbreak of the War of Resistance Against Japan, surrendered to the Japanese to as pseudo Peking literature Dean, pseudo-North China Government Affairs Committee Education Department supervision, degenerated into a traitor literati. Treason in 1945 and sentenced to imprisonment, was released from prison in 1949, after a residence in Beijing, the People&#39;s Literature Publishing House in Japan, the Greek translation of literary works and writing about memories of Lu Xun&#39;s writings. Major works: a collection of essays \"Own Garden\", \"rainy day book,\" \"Alisma set\", \"Tan Dragon Collection\", \"talk about Tiger set, collection of poems\" past life \", the collection of short stories\" orphans mind \", the paper set \"art and life\", \"Chinese New Literature origins\" theory \"European literary history\" literary historical data set, \"Lu Xun&#39;s hometown\", \"Lu Xun&#39;s youth era\", the memoirs \"knowledge Church retrospect recorded\", who has translated \"in Japan ravings Johnson \",\" Aesop&#39;s Fables \",\" Europe Euripides tragedy set \". \"Cultural Revolution\" (lsjt.org) <br> 1966 hit, Red Guards had been shut into the latrine, Nazi death on May 7, 1967, the cause of death is unknown, hasty cremation cancellation ashes cartridges also lost. <br> <br> Zhou Zuoren and his wife Yu too Nobuko photo <br>'
+);
+
+?>

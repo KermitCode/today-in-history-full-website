@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-12-12
+	create time:2013-01-02 02:52:19
+*/
+
+return array(
+'title'=>'I completed the world&#39;s first detailed map of the rice genome',
+'class'=>0,
+'cont'=>'In (Horse winter of early nine), December 12, 2002, I completed a detailed map of the the world debut rice genome. In In morning of January 12, 2002, the Chinese Academy of Sciences, the Ministry of Science and Technology, the State Development Planning Commission, the National Natural Science Foundation announced in Beijing (Lssdjt.com) Chinese rice (indica) genome \"Fine Figure & rdquo ; by Chinese scientists formally completed. This is the world&#39;s first fine map of the genome of the crop, it is possible to elucidate the genetic basis of the basic biology of rice traits to improve yield and quality of rice. <br> completed by the Chinese Academy of Sciences Genome Informatics Center and other organizations this \"fine map\" covering 97% of the Indica gene sequences, of which 97% of the genes to be precisely positioned in the chromosome; (history. cn) coverage the chromosomal localization sequence of the genome of 94% single base accuracy of 99.99%, gene Fine Figure has reached the internationally recognized standard. (Lssdjt.com) <br> CAS President Lu Yongxiang academicians said that the completion of indica rice genome fine map the genome research in the history of an important milestone, and it proved to the world that the use of existing research, Chinese scientists conditions, can make their own unique contribution. Completion of indica rice genome fine map is the result of our scientists have volunteered. This also indicates the direction and goals proposed by scientists, science and technology department to give active support, should become an important organizational form of the basic research. <br> Lu Yongxiang, the indica genome fine map \"to draw the biggest feature is a major innovation in gene sequencing tools and methodologies, and have not followed the old way of foreign gene sequencing. Closely biologists and computer experts, high-energy physicists, the original calculation software for genome assembly system, our country occupies a leading position in the emerging cross-cutting areas of bioinformatics. <br> Vice Minister Liu Yanhua said, the ultimate goal of gene sequencing, comparative genomics and functional genomics research, comprehensive clarify rice growth, development, disease resistance, stress tolerance and high yield law to promote the study of genetics and breeding. Indica rice genome fine map calibration rice molecular genetic markers, and predicted the 60,000 rice genes, prepared on the basis of a whole-genome chip, for large-scale separation of disease-resistant, high-yielding, high-quality related genes laid the foundation. <br>'
+);
+
+?>

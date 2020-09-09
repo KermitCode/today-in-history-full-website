@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2006-12-14
+	create time:2013-01-02 02:36:21
+*/
+
+return array(
+'title'=>'Chinese Navy Commander Zhang Ting died',
+'class'=>3,
+'cont'=>'(, October 24 BingXu), December 14, 2006, the Chinese Navy Commander Zhang Dingfa death. Central Military Commission member of <br> <br>, former commander of the Navy Admiral Zhang Dingfa illness invalid, died in Beijing at 3:30 on December 14th, 2006, at the age of 63 years old; Zhang Dingfa 2003 Admiralty Commander, 2004 as a member of the CMC. 22, <br> 12 Comrade Zhang Dingfa remains were cremated in the cemetery. 9:00, Hu Jintao, Zeng Qinghong and other state leaders to the remains of the first three bow last bid farewell, (Lssdjt.com) and their relatives expressed deep condolences shook hands. Zhang Dingfa comrades seriously ill during and after the death of TodayinHistory.cn Hu Jintao, (1 $ dj而.c身m), Jiang Zemin, Wu Bangguo, Wen Jiabao, Jia Qinglin, Zeng Qinghong, Huang Ju, Wu Guanzheng, Li Changchun and Luo Gan, and other comrades of sympathy and condolences in different ways . (History. Cn) <br> Zhang Dingfa resume <br> Zhang Dingfa born in December 1943, the Shanghai Wusong people. In In 1960, to participate in the People&#39;s Liberation Army, joined the Communist Party of China in March 1964. <br> 1991 promoted to the rank of Rear Admiral, and promoted to the rank of vice admiral in 1998, and promoted to the rank of September 25, 2004. The (l $ j而.c里)] <br> 1960 of March to September in 1964 in Navy submarines school learning. In In, in October 1965 the Admiralty submarine torpedo internship Long, vice captain, captain. In In 1980, the synthesis command classes into the Naval Academy. The (1 $ dj而.c身m). <br> In 1983, he was appointed Vice Captains submarine detachment. the <br> in January 1985, he was appointed assistant to the chief of staff of the North Sea Fleet, Qingdao base in August, he was appointed chief of staff. In In the period from April to July 1988 at the National Defense University, Defense Research class learning. In In 1993, he was appointed chief of staff of the North China Sea Fleet deputy commander in January 1995. <br> 1996 11, commander of the Jinan Military Region deputy commander of the Navy&#39;s North Sea Fleet. In In 2000, the Admiralty deputy commander. <br> In November 2002, he was appointed president of the Academy of Military Sciences. <br> 2003 Admiralty commander. In In 2004, at the Plenary Session of the Sixteenth CPC is added as a member of the Central Military Commission. <br> August, 2006, no longer serve as the commander of the Navy duties due to illness. <br> CCP fifteenth, alternate member of the Sixteenth Central. Review of <br>: Navy&#39;s modernization outstanding leader. <br>'
+);
+
+?>

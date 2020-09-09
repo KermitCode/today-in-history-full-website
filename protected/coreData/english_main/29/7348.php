@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1937-7-29
+	create time:2013-01-01 23:16:50
+*/
+
+return array(
+'title'=>'The Tongzhou uprising proclaimed the downfall of the pseudo North China government',
+'class'=>0,
+'cont'=>'July 29, 1937, June 22 (Landmarks), Tongzhou uprising declared the collapse of the pseudo North China government. 0:00 am on July 29, 2011 <br> 1937, the pseudo \"the Jidong Anti autonomous government\" Tongzhou Peace Preservation Corps Uprising officers and men under the leadership of the head captain Zhang Qingyu et al uprising. Mutinous troops launched attacks came under the cloak of Tongzhou Japanese garrison, after six hours fighting, killing slenderness of the Japanese secret wooden fan in the rank and file, such as the Japanese dozens of people, the eradication of the Japanese garrison, car team most all Japanese consultants, the capture of the Chief Executive of the puppet government , traitor Yan Rugeng. At the same time, the security team in Shunyi, a group instruction according to Zhang Qingyu uprising, wiped out more than two hundred Japanese troops, marched at 10:00 Tongxian. Subsequently, the Japanese counter-offensive in the dozens of aircraft bombing, mutinous troops were forced by the Peking moved westward. Transfer process was the Japanese constantly interdiction, suffered great sacrifices, Zhang Qingyu, under the command of dismembered after the Mentougou Baoding separately breakout. The word HE Xuan of the (lsjt.org) <br> Zhang Qingyu (1895-1963), Hebei Province Cangxian. The early supplier in Tianjin learning, soon abandoned business Congrong He Zhili army even, battalion, regiment, brigade commander rank. Tanggu Agreement are not allowed to the \"non-theater\" garrison in Jidong in 1933, his troops adapted for the special police team, Zhang captain, later changed to the security team of Hebei Province. 1935 the traitor Yan Rugeng again team adapted for the the Jidong security team, any of the first captain. He was not willing to attach the enemy, several Fengzhi An, Song Zheyuan July 29, 1937, the leadership of Tongzhou uprising, a heavy blow to Japanese Puppet. The afternoon that led the troops to be transferred to Baoding. (L $ dj¦Ó.c¨­m) shortly Chiang Kai Zhao in Nanjing, entrusted with the Director of Military and Political Department of the sixth supplementary training, after the appointment of the deputy commander of the the ninety-one Army, the KMT&#39;s Central Military Commission Senate rank. Zhang Qingyu Kill the old dream of attempted KMT factional strife, anger depression into the illness, retired in 1946 to go to Tianjin. Died September 18, 1963. (History TodayOnHistory.com the) <br> <br> <br> traitor Yan Rugeng execution <br>'
+);
+
+?>

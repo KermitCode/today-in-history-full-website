@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-4-18
+	create time:2013-01-02 08:53:01
+*/
+
+return array(
+'title'=>'The establishment of diplomatic relations between China and Bahrain',
+'class'=>0,
+'cont'=>'March 13 (Baba), April 18, 1989, the establishment of diplomatic relations between China and Bahrain. <br> Bahrain to establish diplomatic relations \"target =\" _blank \"> the Bahraini flag <br> State of Bahrain is located in the middle of the Gulf, is the archipelago consisting of 33 islands, with an area of &#8203;&#8203;662 square kilometers. the main island of Bahrain Island, the capital, Manama, is located at the northern end of the island. <br> 7th century AD, Bahrain became part of the Arab Empire province of Basra the British invasion of Bahrain in 1820, forced the signing of the \"Persian Gulf total peace treaty\" 1880 has actually become a British protectorate. August 14, 1971 Bahrain gained complete independence. <br> Bahrain, the country&#39;s population of 427,000, of which Bahrain over 20 million, the rest foreign official language Arabic, the former British colony, English is also very popular. Bahrain to Islam as the state religion. <br> oil and gas is Bahrain&#39;s economic lifeblood oil revenues accounted for 1/2 of the fiscal revenue. island has a large refinery Middle East&#39;s largest aluminum smelter and the world famous Bahrain dry dock date palm, citrus, alfalfa and other major agricultural products. (L $ dj¦Ó.§«§§T) coastal production pearl of Bahrain, the Gulf pearl collection center. (lsjt.org ) <br> Bahrain since independence to pursue the policy of economic diversification, the positive development of the financial sector in the development of basic industries and tourism., [L $ dj¦Ó.§«§§T] Currently more than 170 banks opened in Bahrain deposits of approximately $ 63 billion, making it one of the international financial center. Bahrain state of potential low-lying, wooded, scenic, very convenient transportation and communication. government to implement than the more open and liberal policies in other Gulf countries, Saudi Arabia - Bahrain Bridge since its opening in the end of 1986, to promote the development of tourism in Bahrain, tourism and promote the prosperity of the business. policy of economic diversification, Bahrain ranks among the Gulf wealthy countries (lssdjt.cn) <br> Bahrain to implement full publicly funded education system and free health care system. Bahrain and China trade more closely its imports, China ranks first four <br> 1989 18, Bahrain diplomatic relations with China. < br> <br> the capital of the old downtown glance the capital Manama <br> Government Building <br>'
+);
+
+?>

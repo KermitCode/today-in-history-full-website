@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-11-28
+	create time:2013-01-02 02:55:03
+*/
+
+return array(
+'title'=>'The China fuel chemical expert Zhao sultry born',
+'class'=>4,
+'cont'=>'November 28, 1904 (on Jiachen October 22), the the China fuel chemical expert Zhao sultry born. <br> <br> Zhao the sultry, China fuel chemical expert, Institute of Chemistry, Chinese Academy of Sciences academician. Sichuan Rongchang, born November 28, 1904. 1929, graduated from the Faculty of Science, Department of Chemistry, Nanjing Central University. The Technical University of Berlin, Germany Institute of Chemical Technology in 1935 went to study hospital doctorate in chemical engineering in 1939. Back in the end of 1939, former Chongqing Beibei synthetic gasoline Plant, Tongji University, Professor and Chief, Resources Committee Shenyang Chemical Factory and chief engineer, the Resources Committee Tianjin Chemical Company general manager and chief engineer of the rank. 1949, he was appointed the Northeast Industrial Chemical Bureau Chief Engineer and the of Jinzhou Petroleum 鞠釦 chief engineer, built in carbon monoxide hydrogenation of industrial production device using the Fischer-Tropsch synthesis, and organize the catalyst trial and put into industrial production of synthetic gasoline. 1960s Beginning Production Technology Division of the Ministry of Petroleum Industry chief engineer, chief engineer of the Research Institute of Petroleum Technical Committee, deputy director of the Ministry of Petroleum Industry, China Petrochemical Corporation of Economic Advisers and other staff. <br> has presided over fused iron catalyst pressure to fluidization synthetic oil intermediate test. After he had been organized by the low temperature carbonization and gasification of coal and oil shale research trials and production of construction work, and have made outstanding contributions in petroleum and natural gas the substitutes engineering and science and technology of energy conversion. 1963 recommended the development of fluidized bed combustion of new technology, and the organization successfully tested a large-scale test furnace processing of oil shale. From the late 1960s onwards, the industrial \"three wastes\" committed to addressing the pollution of the environment as well as industrial and civil energy structural reforms, received good results. The past two years, and endanger people&#39;s lives and the appearance and environmental and natural degradation of slow, near-permanent contaminated solid waste (MSW) pollution, actual research governance advice and recommendations, played a certain role in promoting. Major works also has published at home and abroad, scientific and technical reports and recommendations of over one hundred. (有身d芋y身里h貝 $ 而身ry.c身m) <br> Comments: boost industrialization while concerned about environmental protection, admirable <br>'
+);
+
+?>

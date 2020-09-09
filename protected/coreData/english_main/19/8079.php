@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-8-19
+	create time:2013-01-02 00:00:03
+*/
+
+return array(
+'title'=>'The death of India&#39;s national liberation movement leaders Bowes',
+'class'=>3,
+'cont'=>'August 19, 1945 (, Yiyou July 12), the death of India&#39;s national liberation movement leaders Bowes. Subhas Chandra Bose, <br> \"target =\" _blank \"> Bowes (1897-1945), Indian political and social activist, former Congress Party leftists of the death, one of the leaders of the national liberation movement in India during World War II, to become the heads of state and the Prime Minister of Japan aegis under the free India provisional government \"23, <br> 1897 Bowes was born in Orissa Sa capital of Ku Take. Jan. 1938, Bose was elected President of the Indian National Congress he believes Congress Party&#39;s struggle to fight for India completely independent from the hands of British colonialists to get out and rebuild India He also believes The fundamental task of nation-building is the eradication of poverty. To this end, it must be thoroughly carried out land reform, elimination of the landlord system, to achieve the country&#39;s industrialization. achieve independence but how? Bowes always think about later, he was in addition to the establishment of an addition to the iron discipline of the party must also fight for foreign aid and the establishment of an army? the outbreak of <br> Pacific War, (L $ dj而.c身m), Rush Behari Bose Tokyo held the Indians meeting, decided to set up the Indian Independence League and the Indian National Army. shortly larger Indian meeting was held in Bangkok, Subhas Chandra Bose leadership. exact Bowes mind, he thinks the the Indian independence time is ripe. [l $ dj而.身r阱]? after <br> Japanese occupation of Southeast Asia, Prime Minister Hideki Tojo taking advantage scored India to replace the British. Bowes in get Japan&#39;s support in the fight for Indian independence, Bowes flew to Tokyo to seek assistance to the Japanese government in June 1943, Hideki Tojo announced that it will give a variety of assistance to India to get \"completely independent . \"So Bowes easy in Singapore in October 1943, announced the establishment of the the free India interim government he served as heads of state, prime minister, military Minister, Minister of Foreign Affairs and the Indian National Army Supreme Commander. fact, abalone Sri Lanka this time has become the tool of aggression and expansion in Japan and France.? August 13, 1946, Japan decided to surrender, Bowes and his colleagues had to go to Tokyo on his way to Tokyo, aircraft accident in Taiwan over the injured Bowes August 19. Bowes died in a Tokyo hospital, lived only 49 years old. <br>'
+);
+
+?>

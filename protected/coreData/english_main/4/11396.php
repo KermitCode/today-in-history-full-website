@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1932-12-4
+	create time:2013-01-02 02:21:04
+*/
+
+return array(
+'title'=>'Former South Korean President Roh Tae-woo&#39;s birthday',
+'class'=>4,
+'cont'=>'December 4, 1932 (Renshen winter of early seven), former South Korean President Roh Tae-woo&#39;s birthday. Roh Tae-woo in the study, the birth of <br> Roh Tae-woo \"target =\" _blank \"> read <br> Roh Tae-woo, South Korea&#39;s former president. Gyeongsangbuk Born 1932 reached County and graduated from the Military Academy in 1955. 1960 work in the intelligence department of the army after 1968 served as division battalion commander in the capital, step after the head of the Air Force transporting special operations brigade, head of President guardhouse combat Minister assistant division commander, the garrison commander in the capital, security commander and was promoted in 1981 (history. cn) the following year either Southern chief representative of the the DPRK North and South high-level talks, the Sports Minister and Minister of Interior since 1984, has served as South Korea Olympic Committee, president of the Korea Sports Association for the reservist generals and served as the second Executive of the Government Administration Council. chairman of China is Party members, members of Congress, China is party presidential candidate, China is the party president by the end of 1987 was elected the 13th president next February officially taking office, President of the Sixth Republic in 1990 of any people is the party unified Democratic Party and the new democratic Republican merger of President of democracy in the Liberal the party (referred to as the Democratic Liberal Party). February 1993 presidential any full departure. 1988 to 1993, the ruling during accept bribes in secret political funds scandal was exposed in October 1995, his November 16 for taking bribes sin was formally arrested and imprisoned. (Today in History cn) in April 1997 by the Grand Court of the Republic of Korea \"military rebellion\" and \"civil strife\" and the crime of corruption and sentenced to 17 years in prison, and recover 262.8 billion won. December 22, 1997 by Kim amnesty. visit to China in September 1992 with the great era of the common man \"and other works. <br> weekend, Roh Tae-woo like with son \"kill\" of a plate <br> Lutai Yu Fufu not only with tree planting, they also cultivate unbreakable love In In September 1992, (TodayinHistory.cn) President Roh&#39;s visit to China with his wife, with a tour to the Great Wall. the ancient calligraphy art <br> Roh Tae-woo to bring great fun <br> 13th presidential inauguration ceremony oath < br>'
+);
+
+?>

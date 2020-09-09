@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-6-14
+	create time:2013-01-01 21:25:46
+*/
+
+return array(
+'title'=>'Shenfu Dongsheng coalfield construction in full swing',
+'class'=>0,
+'cont'=>'June 14, 1993 (April 25) πÔ”œ Shenfu Dongsheng coalfield construction in full swing. <br> 1993, China&#39;s current proven the largest coalfield - Shenfu Dongsheng coalfield development and construction is in full swing. This coalfield have the annual production capacity of 10 million tons of coal, an annual output of 30 million tons of coal the size of the key works have already started preliminary work of an annual output of 60 million tons of coal scale works ready. <br> Shendong coalfield located in southern Inner Mongolia, northern Shaanxi, the proven reserves of 23 billion tons, accounting for 1/4 of the country has proven reserves, is one of the world&#39;s eight major coalfields. Coal quality, the superior mining conditions, the central leadership has repeatedly clear requirements, before and after 2000 this coalfield built of large energy reserve base, strategic approach to achieve our energy westward movement. East coalfield building <br> God, take a completely different approach, that in accordance with the scale of the market economy, the development of mines, roads, electricity, Hong Kong, avionics integration, production, supply system, by Huaneng Fine Coal Company unified planning and organization building, unified production and management. The total construction investment is expected to 33 billion yuan (at 1990 constant prices), duration of about 20 years. Fine Coal Company <br> thousand workers give full play to the superiority of the new system, in accordance with the requirements of a high starting point, high-tech, high-quality, high-efficiency, high-efficiency and hard work for eight years, on a piece of barren occlusion land built since the criss-crossing the rail road, the construction since Daliuta Shigetai, fill even the tower, on the Bay, a seat of the large modern mine yield efficient mechanized mining equipment; the started Huojitu mine this year, production capacity of 500 tons / year, all of the introduction of foreign advanced mechanized mining equipment, full efficiency and production costs will hit a national first-class. building <br> in Sinotrans channel, more than 300 km of the highway through the mine; 170 km long Baotou-Shenmu railway has long been open to traffic, transport capacity has reached 10 million tons / year; 270 km long Shenmu - Shuozhou Railway, Shaanxi within the sections are laying, Shanxi has been fully started, Shuozhou to Hebei Huanghua Port, 580 km of railways, control engineering will also commence during the year; annual handling capacity of 30 million tons of coal a dedicated port of Huanghua Port, being the construction Ready to work. [TodayinHistory.cn] <br>'
+);
+
+?>

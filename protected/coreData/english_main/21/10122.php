@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-10-21
+	create time:2013-01-02 01:36:27
+*/
+
+return array(
+'title'=>'Seoul, the Han River Bridge collapse',
+'class'=>0,
+'cont'=>'October 21, 1994 (September 17) Awake, Seoul, Han River Bridge collapse. about <br> 1994 10 21 morning at 7, holy water, the bridge connecting the north and south sides of the Han River is a busy. Because of the gloomy weather, most vehicles are driving lights, traveling at a speed of 40 kilometers per hour speed. Suddenly, a loud crash, one of up to 48 meters from the middle of the collapse of the bridge into the river, the bridge plate, being a bus traveling on the bridge and ten sedans attendant fall in more than 20-meter-high bridge. Buses are fall face none of the overturned, a small van to be left in the fall of the bridge board, the rest of the vehicle fell into the river. <br> the passengers on the bus, mostly a hurry to go to work and school staff and students, and more than 10 police officers sitting in a small van. The day of the Korean National Police Day, they horrible disaster befell to participate in the celebration rally en route to their destinations. Due to the small van did not fall into the water, most people were less seriously injured. After the accident, the police in the small van managed drilled automotive, endured pain to get off to first rescue the wounded in a bus. Their selfless spirit of sacrifice to the people left a deep impression. <br> after the accident, the Seoul authorities and troops were deployed in more than 20 helicopters and salvage vessels for emergency treatment. The parties concerned also adjust to the divers to salvage the drowning person. As of press time, has found 32 bodies and about 20 people were injured. President <br> Kim Young-sam said that the situation is incredible. His grief expressed condolences to the victims, and instructions must identify the cause of the accident, and accountability. This afternoon, the mayor of Seoul City has been removed from office. South Korean Prime Minister on this incident to the National apology tendered his resignation to the President. <br> holy water Bridge was completed in October 1979, a steel structure bridge, 19.5 meters wide and 2000 meters long. Over the past decade, Seoul vehicle surge, the city&#39;s car ownership has nearly 2 million. The day of holy water bridge opened to traffic as high as 105,000. In recent years, public opinion has pointed out that the 16 bridges on the Han River is 13 there are hidden dangers of large-scale accidents occurring, but the authorities denied that, even the mayor of Seoul, also sees no major issues. <br> hidden for the rest of Seoul Bridge, the government has ordered an urgent examination and take concrete measures to prevent recurrence of such a horrible disaster. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-12-19
+	create time:2013-01-02 02:10:20
+*/
+
+return array(
+'title'=>'The death of the painter Li Xiongcai',
+'class'=>3,
+'cont'=>'December 19, 2001 (the Government House in the winter in early e), the death of the painter Li Xiongcai. Lingnan School of Painting Memorial <br> curator the (the L $ dj而.c身m) China famous painter Mr. Li Xiongcai <br> Li Xiongcai Born in 1910 in Zhaoqing City, Guangdong Province, early years, studied under the founder of the Lingnan School Sword Father, son from the one Biaohua Division to the representative of the Lingnan School come a legendary life. Who had served as the National Committee of the Chinese People&#39;s Political Consultative Conference Fifth, Sixth, Seventh Committee, the Guangzhou Academy of Fine Arts, consultants, the vice president of a tenured professor, curator of the Lingnan School Memorial. December 19, 2001 due to multiple organ failure and death in Guangzhou. specializes in huge Landscape <br> Li Xiongcai paintings momentum vigorous critics named Li landscape landscape painting green landscape is characterized by mood Tsinghua, since with style, renowned at home and abroad. Li Xiongcai in the 1950s on the Yangtze River levee flood, to experience painting more than 30 meters long Wuhan Yangtze River Flood Control Chart, was praised as \"flood-fighting epic\" fine arts, and open up a new path for the Lingnan School. His representative works are \"cold Yeti ape\", \"list of small hills\", \"forest\", \"eternal spring\", published by Portfolio, including Li Xiongcai landscapes spectrum, \"Li Xiongcai Selected Paintings,\" Li Xiongcai Paintings \",\" Li Xiongcai Works. (L $ dj而.c身m) <br> landscape painting, Li Xiongcai tenacious pine soft spot for his 10,000 pieces of life drawing, there are 2000 pieces of pine, described by the pine has a strong artistic infections force. Since returning from studies in Japan in 1935, Li Xiongcai long been engaged in art education, and training a large number of outstanding art educator and landscape painter. In June of this year, Li Xiongcai won the national professional academic awards 岸 岸 Chinese Art Jincai Award Achievement Award established by the China Federation of Literary and Art Circles and the Chinese Artists Association in the art world. [Lsjt.net] In December 2001, the famous painter Li Xiongcai funeral ceremony was held in Guangzhou Funeral Home. Ruihuan, Qiao, leaves election equality in different ways expressed condolences. \"Welcome Song\" the huge <br> Li Xiongcai Li Xiongcai 1975 (lsjt.net) <br> creation in painting. <br> <br>'
+);
+
+?>

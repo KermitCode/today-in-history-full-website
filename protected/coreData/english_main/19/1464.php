@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-2-19
+	create time:2013-01-01 21:59:54
+*/
+
+return array(
+'title'=>'The Nanjing Bulletin million council authorities &quot;the end of the event',
+'class'=>0,
+'cont'=>'February 19, 2002, the eighth day of the first month (Imo), Nanjing Bulletin million council authorities \"the end of the event. 19, <br> 2002 to work the afternoon of the first day after the Spring Festival, the Chinese Communist Party Nanjing municipal government held a mobilization meeting of the city&#39;s \"change their style year. The transition authorities ideological style as the first lesson of the New Year in Nanjing, which has persisted for the full 12 years. <br> not the same as in previous years, this conference, in Bulletin 2001 million council authorities&#39; activities and the handling views, to be named in recognition of the 10 departments of the Municipal Office before the sort column (lssdjt.cn) to handle the end of the five main leadership: removed from City Real Estate Board leadership positions in the party, proposed by the Municipal People&#39;s Congress removed from his administrative duties for demotion exchange arrangements; on amenity Bureau main leadership proposed Municipal People&#39;s Congress removed from his administrative duties; principal leaders of the other three rows of the bottom of the Bureau, the implementation of admonishing remarks. after the announcement of the <br> informed, the original silent the floor burst argumentative. <br> Nanjing Municipal Party Committee Secretary Li Yuanchao published in the General Assembly entitled \"people will judge\" a brief speech. He said this million council government agencies, is a real public examination, of Nanjing 6.4 million people is the exam judges. How do I know the masses \"to reflect the most prominent\" cadres, \"opinions\", [1 $ dj¦Ó.c¨­m] \"the strongest requirements\" <br> problem? A wide range of mass appraisal is an effective linkages and feedback channels. Linked to the council of the people and the party organizations appraisal done so many cadres feel the pressure, the pressure is not a bad thing, and pressure can motivate the cadres for the people to the Director-General. Conversely, if the people have felt oppressed by the heavy, cadres feel brisk no responsibility, we shall commit the wrong direction. Nanjing this year, changing the style of cadres at all levels collectively failed, still want to please the masses of the people to judge. <br> meeting after attending the 1800 Board-level leadership cadres of many comrades said, there has been a lot of vibration and education. (L $ dj¦Ó.§«§§T) <br>'
+);
+
+?>

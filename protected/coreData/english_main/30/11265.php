@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1969-11-30
+	create time:2013-01-02 02:02:42
+*/
+
+return array(
+'title'=>'Tao Zhu wronged and died during the Cultural Revolution',
+'class'=>3,
+'cont'=>'November 30 1969 (, Jiyou October 21), the Tao Zhu wronged and died during the Cultural Revolution. <br> Tao Zhu wronged and died during the Cultural Revolution \"target =\" _blank \"> Ms. Tao Zhuyu of Zeng <br> Tao Zhu was born in 1908, Hunan Qiyang people. Whampoa Military Academy in 1926 into the fifth learning He joined the Communist Party of China. served as the Secretary-General of the Central Military Commission. participated in the Nanchang Uprising in 1927 and the Guangzhou Uprising from 1929 to 1933, served as the CPC Fujian Provincial Committee, Zhangzhou Recorders secretary and other staff, has established the the Minnan Workers &#39;and Peasants&#39; Red Army guerrilla corps and the People&#39;s Armed Forces in eastern Fujian Province. (Lssdjt.com) in Shanghai in May 1933 by the Kuomintang arrest, was rescued from prison in 1937 to Yan&#39;an in 1940, served as Secretary-General of the Central Military Commission, the Secretary-General and the General Political Department of the rank of liberation During the war, she served the CPC Liaoning, Liaoji, northern Liaoning Provincial Party Secretary, Northeast Field Army political commissar of the Seventh Column. enter Peking negotiations with Fu Zuoyi, makeup Tianjin Campaign, and later took on the adaptation of the mutinous troops and organized and led the south to work in groups. after the founding, served as director of the Political Department of the Central South Military Region, the first secretary of the South China Branch secretary of the CPC Guangdong Provincial Committee, and the Central Bureau, the Politburo Standing Committee, Vice Premier of the State Council, the Central Propaganda Department long, the second and third CPPCC members post. during the Cultural Revolution, was tortured to death. <br> 1945 was transferred to the Northeast after 1949, served as vice chairman of the People&#39;s Government of Guangdong Province, Guangdong Governor first secretary of the CPC Guangdong Provincial Committee, Central and South Africa Bureau secretary and other staff. <br> 1967 January 7, 2011, Tao Zhu was suddenly struck down by Tao Zhu condition began to deteriorate in October, <br> 1969, to November 15, allowed to surgery and found that the cancer has been widely proliferation, intra-abdominal the vascular Jiaocui, surgery impossible. <br> 1969 11, 30, accused of being \"royalist\", \"traitors\" and \"bourgeois headquarters first Three People \"before the Politburo Standing Committee, the executive secretary of the Secretariat of the CPC Central Committee, Vice Premier of the State Council, the Central Propaganda Department, Tao Zhu, (lssdjt.cn) of proletarian revolutionaries Tao Zhu died in Hefei, aged 61 years. <br> ;'
+);
+
+?>

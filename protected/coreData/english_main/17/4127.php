@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-4-17
+	create time:2013-01-01 20:54:21
+*/
+
+return array(
+'title'=>'Chinese scientists confirmed the Yarlung Zangbo Grand Canyon, the world&#39;s deepest',
+'class'=>0,
+'cont'=>'April 17, 1998 (March 21) Tiger years, Chinese scientists confirmed the Yarlung Zangbo Grand Canyon, the world&#39;s deepest. 1998 April 17, 2010 <br> Zhaqu turning <br>, Chinese scientists for the first time confirmed: the maximum depth of 5382 meters, the Yarlung Zangbo Grand Canyon on Earth Valley. Since then, known as the Grand Canyon in the world, the Grand Canyon of the deep up to 3200 the Secret Roucaud barca will be relegated to secondary status. <br> The major achievements of the Chinese Academy of Sciences geographer Yang Yichou atmospheric physicist Gordon Yi, botanist Li Bo birthday unanimously introduced before, and the President of the International Union for Quaternary Research, Chinese Academy of Sciences Professor Liu Dongsheng endorsement and support. According to reports, the researchers endure the hardships and dangers, has repeatedly expedition deep into the Yarlung Zangbo Grand Canyon, the disciplines of geology, topography, vegetation, and water vapor flux depth has the status of a recognized authority. <br> these researchers to confirm the Yarlung Zangbo Grand Canyon is unparalleled in the world, the Grand Canyon, one 50,000 topographic maps and aerial picture shows the basis Namjagbarwa in the 7782 meters and 7234 meters of good pull white The barrier peak canyon Department for a standard profile, and then across the Grand Canyon for two comparative profile. The calculation results show that the Brahmaputra Grand Canyon, cut the Himalayas, the average depth of 5,000 meters above the deepest place of 5382 meters. <br> Brahmaputra Grand Canyon trough narrowest point is only 74 meters, generally between 80-200 meters wide, a total length of 370 km. It is also the world&#39;s highest elevation of the Grand Canyon. Yang Yichou researcher says the vast majority of sections through the Grand Canyon, the river raging abnormal individual lots close to the more than 300-meter-high rocky cliffs Pentium discharged, to date, no one is walking through the Yarlung Zangbo Grand Canyon. The researchers further pointed out that the presence of the Grand Canyon, is equal to provide a channel for the of India warm and humid moisture north, people usually identified subtropical northern limit here extends north about 9 Latitude. Therefore, the Grand Canyon, the tropical rain clouds, full of lush, picturesque. (Today in History www.lssdjt.com) <br> Falls <br>, pure like milk surface the spring <br> Jue grass <br> shape singular profile <br> more male pull Yamaguchi <br>'
+);
+
+?>

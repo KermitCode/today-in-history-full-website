@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1866-9-3
+	create time:2013-01-02 01:29:21
+*/
+
+return array(
+'title'=>'The first international meeting in Geneva',
+'class'=>0,
+'cont'=>'September 3, 1866 (Bingyin July 25), the first international meeting in Geneva. first international of the <br> from its inception in 1864, (lssjt.cn) under the leadership of Marx and a variety of opportunistic resolute struggle. Which anarchist Proudhon&#39;s struggle is a larger scale, far-reaching struggle. September <br> 1866, the first international first congress was held in Geneva to participate in the General Assembly on behalf of the first international 22 branch and 11 other workers groups, a total of 60 people. (Lsjt.org) French Proudhonism for confrontation with the International Committee, sent a large delegation composed of 17 people. Attempt to rely on safety in numbers, to the Proudhon view imposed to the General Assembly, in order to achieve its tampering with the nature and mission of the international conspiracy. To this end, they arrogantly to the General Assembly a total of ten principles of the \"Memorandum of Understanding\". Memorandum, they openly peddle Proudhon opposed the strike, opposed to the emancipation of women, against the proletarian revolution against the fallacy of the national liberation movement, the proletariat Proudhon liberation dogma preached by the establishment of cooperatives and other peaceful means. <br> Marx finalized in the first volume of \"Das Kapital\", not spare participation in the Geneva Conference, but Marx foresaw the General Assembly will have a fierce struggle, so pre-written \"Provisional Central Committee in respect of certain indicated problems to representatives, as the correct resolution of the main agenda of the General Assembly. Provisions in the \"instructions\" in the strikes, the workers of all countries should treat each other with mutual support: 8-hour working slogan; determine the direction of development and the revolutionary tasks of the trade unions and cooperatives; advocate the inclusion of women and children to participate in social productive labor; support an important part of the national liberation struggle. Marx clearly pointed out in the \"instructions\" cooperation system \"transformation of capitalist society\" must not, and must rely on the proletariat to grasp armed, violent revolution. Thus, Marx believed that: \"on behalf of the General Assembly should not announce any special cooperation system. Congress in Geneva, the support of the representatives of the international routes to Marx \"indicates\" weapons, and the Proudhonist by tit-for-tat struggle through the correct resolution, achieved a major victory of Marxism. <br>'
+);
+
+?>

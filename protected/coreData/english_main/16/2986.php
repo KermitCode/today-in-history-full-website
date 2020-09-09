@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-3-16
+	create time:2013-01-02 08:48:35
+*/
+
+return array(
+'title'=>'The famous writer and lyricist James Wong was born',
+'class'=>4,
+'cont'=>'March 16, 1941 (February 19), Government House, the famous writer and lyricist James Wong was born. <br> the James Wong born \"target =\" _blank \"> James Wong, James Wong (1941 to 2004), <br> See James Wong, formerly known as Yellow Cham Sen, the English name James JSWong Hong Kong famous writers, songwriters. Guangzhou in 1941, was born; eight brothers and sisters, his sixth. immigrated with his parents in 1949; early years enrolled in La Salle College, after rise HKU, 1963, graduated from the Hong Kong Department of Chinese; previous practitioners advertising, film, composer. either Hong Kong television station, radio host. along with Jin Yong, Ni Kuang, Chua Lam is known as the \"painter-poet, and Ni Kuang, Chua Lam with is called\" Hong Kong&#39;s three most famous mouth. \"write over 2000 song\" on the beach \",\" Swordsman \"as\" the classic of classics, was dubbed \"the popular lyrics Zongjiang\" representative of the popular culture in Hong Kong. 1970s and 1980s, the creation of a number of TV series theme song, and lifted the boom of Cantopop. quite a number of them are successful works by composer Joseph Koo, James Wong lyricist. later called \"Shining yellow\" combination still his relish. later Joseph Koo emigrated to Canada, (lssjt.cn) James Wong illness quit music. \"family change\", \"frenzy\" strongman \"tycoon\" The Choice \"The Storm,\" \"Legend of the Condor Heroes\" James Wong and other drama theme song masterpiece that period could not be an exaggeration to say that, in every corner of Hong Kong, everyone sang the lyrics of the song are his he began to embark on their own lyrics career peak gradually began to film lyricist composer, along with Hong Kong film \"A Better Tomorrow\" \"Ghost Story\" and \"Green Snake,\" \"Once Upon a Time,\" \"The Butterfly Lovers\" succession popularity songwriter James Wong also spread throughout the Chinese-speaking regions the word works of James Wong is the best manifestation of his chivalrous spirit and philosophy of life combined the word altar niche Lindsay Reviews James Wong said: \"to the classical strokes to write the lyrics like a line of steel line, believe it will be one-sided. learned through the Pentateuch to appreciate only. & rdquo ; far, he is still the the word altar Godfather \"recognized\" by the Hong Kong music scene around at 4:50 on November 24th, 2004, and died in Hong Kong. Koo also return to Hong Kong to pay respects to him. <br>'
+);
+
+?>

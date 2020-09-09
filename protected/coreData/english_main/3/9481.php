@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1884-10-3
+	create time:2013-01-02 01:11:17
+*/
+
+return array(
+'title'=>'Engels Family, Private Property and the origin of the state &quot;was published',
+'class'=>0,
+'cont'=>'October 3, 1884 (Jiashen August 15), Engels Family, Private Property and the origin of the state \"was published. <br> 1884 10, 03, published a book of Engels&#39; Family, Private Property and the National Origins. <br> Engels explained in Historical Materialism Morgan&#39;s research: private property, due to the development of labor productivity, and therefore the formation of classes and class antagonisms; class conflict led to a genetically related family-based old society was blown up, which is composed of the country&#39;s new social replaced; family system dominated by the ownership. According to Morgan, the American Indian society, Engels supplement his own ancient Rome (? V history today??) Greek and Germanic social studies materials, discusses the human early stage of primitive society and the slave society of early national The formation of the historical, scientific and archaeological discoveries later proved Engels&#39;s basic argument is correct. <br> book, Engels studied prehistoric cultural stage with the family of origin, the evolution and development, focuses on the characteristics of the culture of the prehistoric stage, early marriage, and developed several families from the original state form of that the monogamous family&#39;s produce and the final victory is one of the hallmarks of civilization began. Engels based on a large number of historical data on the basic characteristics of the primitive society. Analysis of the process of the disintegration of the primitive society and private ownership, the generation of the class, to reveal the origin of the country, the class nature and the law of development and disappearance. Pointed out that the national and class, private ownership, is not never there, but in a certain stage of economic development. National product of the irreconcilability of class antagonisms, political rule is economically dominant class tools, special public power above precedence over social and increasingly lose touch with society, its role is to coordinate the various classes of contradiction. The countries with the generation of the class, with the demise of the class will also die. Book Engels Application of Historical Materialism the study important achievements of the country, it is scientifically clarify the family relations of private ownership, class of origin and countries, has greatly enriched the Marxist political theory. (On TodayOnHistory.com) <br> Review: good one to explain the materialist view of history books (history www.lssdjt.com) studied philosophy should look <br>'
+);
+
+?>

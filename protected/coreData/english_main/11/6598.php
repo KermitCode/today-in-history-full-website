@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1920-7-11
+	create time:2013-01-02 00:01:53
+*/
+
+return array(
+'title'=>'A famous chemist and educator Tang Youqi born',
+'class'=>4,
+'cont'=>'July 11, 1920 (May 26) Gengshen, a famous chemist and educator Tang Youqi born. <br> <br> the TANG YOUQI born \"target =\" _blank \"> Tang Youqi (1920.7.11 ~) of China physical chemist. born on July 11, 1920, Nanhui County, Jiangsu Province, in 1942, graduated from Tongji Department of Chemistry, University of the United States to study in 1946, California Institute of Technology Ph.D. in the Department of Chemistry in 1950, working in the school year 1951 return, chemistry professor at Tsinghua University in 1952, he served as professor of the Department of Chemistry, Peking University Research Office of the structure of matter, the director of the Institute of Physical Chemistry, Institute of Chemistry, Chinese Academy of Sciences, a part-time researcher, \"Science in China\", \"Chinese Science Bulletin,\" Editorial, \"Acta Phys editor (lsjt.org) was elected in 1981 as Division of Chemistry, Chinese Academy of Sciences academician in 1986 was elected chairman of the Chinese Chemical Society. (l $ j¦Ó.c¨½) <br> Tang Youqi years of teaching and research work in physical chemistry and structural chemistry. America during Under the guidance of the famous chemist LC Pauling, the main crystal structure analysis and chemical bonding theory, study the nature of the formation of the alloy super structure and hexamethylene tetramine and metal ion complexation. opened after returning to the crystal chemistry courses, preparation the structure of the chemical laboratory, and conduct a study of the crystal structure and structural chemistry. combination of the domestic needs of the development of the petrochemical industry in 1970, to decide the key issue of the performance of several catalysts, the active ingredient in the carrier and to explore surface distribution pattern in 1979, presided over the construction of a four-circle diffractometer supporting computer-based single-crystal structure laboratory and biomolecular structural chemistry and surface structure chemistry, to carry out the research, made a lot of results He presided over the material and structure laboratory is one of the main units to participate in the insulin structure determination. published papers on the one hundred, with crystal chemistry (1957), \"Statistical mechanics and its application in physical chemistry\" ( 1964), the \"principle of chemical kinetics and reactor (1974), the symmetrical image of group theory principle\" (1977), phase equilibria, chemical equilibrium and thermodynamics \"(1984). <br> ; Comments: respected chemist fruitful. <br>'
+);
+
+?>

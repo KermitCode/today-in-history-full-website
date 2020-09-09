@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1961-7-23
+	create time:2013-01-02 00:07:03
+*/
+
+return array(
+'title'=>'The establishment of the Sandinista National Liberation Front',
+'class'=>0,
+'cont'=>'July 23, 1961 (June 11, 1901), the establishment of the Sandinista National Liberation Front. <br> 1961 23, the patriotic democratic organizations of Nicaragua, the Sandinista National Liberation Front was established in the Honduran capital Tegucigalpa. (History the cn) founder Carlos - Fonseca - Amador, Silvio - Mayorga and Thomas - Borge - Martinez. The primary goal is to overthrow the Somoza dictatorship regime through armed struggle. (Lssjt.cn) <br> 60 years of the Sandinista National Liberation Front in Nicaragua, guerrilla warfare, establishment of base areas, but suffered a serious setback. The late 1960s, the lessons learned, the development of a series of documents, such as the \"Programme of the people to fight for their rights,\" the vanguard of the Articles of Association, the routes and strategic documents \", in the early 1970s, the power savings, armed struggle and mass movement combined, linked to the organization of the rural masses and the urban workers&#39; movement. Various forms of struggle in both urban and rural areas. <br> 1975, the strategy and tactics within the event of a disagreement, the formation of three factions: sustained people&#39;s war camp, to adhere mountain guerrilla warfare; the proletarians faction, advocating the establishment of a proletarian party in the city; Uprising faction, advocated armed uprising of the urban and rural masses. In November 1976, many of its leaders were captured or sacrifice, Carlos - Fonseca killed guerrilla losses. In May of the following year, the largest number of uprisings send \"the Sandinista National Liberation Front to fight for the victory of the Sandinista People&#39;s Revolutionary political military masterplan\" on the route of the Front&#39;s program, pointing out that the Front is the nature of Nicaragua is exploited, the oppressed people, especially is the vanguard of the working class and its allies farmers want to Marxism-Leninism and the Sandinista Northrop as the guiding ideology; revolutionary task is to carry out the struggle for national liberation and social liberation struggle; the revolution object Somoza family, the landlord class and the bourgeoisie; The revolutionary power of the working class, farmers and petty bourgeoisie. Front internal ideology, organization and military in March, <br> 1979 to achieve reunification, three factions coalition of the National Revolutionary Leadership Council. Was organized in May and launched a nationwide uprising, July 17, the overthrow of the Somoza dictatorship, the establishment of the government of national revival at the core of the Sandinista National Liberation Front. The new government began a comprehensive change, the Nicaraguan history entered a new era. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-6-5
+	create time:2013-01-01 22:18:00
+*/
+
+return array(
+'title'=>'The Woodpecker to make Discovery launch postponed',
+'class'=>0,
+'cont'=>'(May seeing in the eighth day), June 5, 1995, woodpeckers Discovery launch postponed. <br> 1995 U.S. NASA decided to postpone the \"Discovery\" launch the space shuttle from the launch platform moved into the assembly hangar to repair woodpeckers in their peripheral fuel tank insulation foam on the damage caused. Peck on the insulation foam (TodayinHistory.cn) <br> Space Agency said, woodpeckers Lee mouth was rusty to open more than 70 hollow dielectric dry between 6-10 mm diameter. \"Discovered\" number to stop the launch pad in the wild, the fuel tank from the ground to a height of 47 meters, the staff have not been able to void appears at the top of the patch. (History the cn) <br> space shuttle peripheral fuel tank can be reused. Insulation foam on the one hand to prevent the ultra-low temperature liquid fuel poured into the fuel tank vapor formation on the outer surface of the ice, then fall off during launch and damage the shuttle&#39;s fuselage, on the other hand is also designed to prevent fuel tank reentry when burned. <br> \"found\" was originally scheduled for the morning of June 8 to carry five astronauts launched from the Kennedy Space Center in Florida Kara Venal angle stay for 5-8 days in orbit . <br> case. \"Discovery\" launch preparation work can only be delayed, the open air time will probably be in mid-July. To this end, came in a period of time after the \"Discovery\" space shuttle \"Atlantis\" launch schedule will advance the implementation of the launch is scheduled for June 22 or later. (L $ j¦Ó.c¨½) <br> Kennedy Space Center in Merritt Island National Wildlife Refuge. Solid often by wild animals \"harassment\" in the \"discovery\" of the launch pad, there is a woodpecker nest. 14 years of space shuttle enabled Zengyin various original Gang delayed the launch, but also the case for the first time by woodpecker interference. <br> been made public since the problems caused by woodpeckers and Space Administration received a variety of novel proposals from across the country, including the fuel tank placed woodpeckers dare close to the rubber snake, set woodpeckers uncomfortable glare or ultrasonic, and sprayed with a bitter taste or spicy preparations. (1 $ dj¦Ó.c¨­m) <br> woodpeckers to chase off the accident, more than one week before the Kennedy Space Center in the erection of \"discovery\" of the launch pad placed six plastic owls, play prerecorded owl hoots, whistles and loud sounds. Since then, no longer patronize the woodpeckers. <br>'
+);
+
+?>

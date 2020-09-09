@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-10-5
+	create time:2013-01-02 01:16:27
+*/
+
+return array(
+'title'=>'Sunland first public appearance',
+'class'=>0,
+'cont'=>'October 5, 1998 (August 15) Tiger years, sang his first public appearance. the <br> Sunland and guardian Eyes of Young <br> October 1998, the Chinese gymnast Sang Lan has appeared in activities organized by a charitable organization in the United States, this is Sang Lan, Goodwill Games in July appeared in public for the first time after the injury. (L $ dj而.c身m) <br> Sunland accompanied by guardian Eyes of Young, with a smile, sitting wheelchair slowly into the venue. Lack of appearance of Sunland was extremely excited, waving just swing the upper arm, not sitting on top of the wheelchair is simply unimaginable to her is a face lifelong disability and serious injury in the body of the patient. However, the previous stage of the recovery treatment, Sunland has been able to in the case of no help, hands, easily picked up from the plate in pastries into the mouth, chew with relish. Look at the situation from the scene, Sunland big arm swing freely, there are still many difficulties in the arm and finger movement. But Sunland still her charming smile of optimism and a strong will to win the love and applause. the <br> According to the relevant persons responsible for the treatment condition Sunland Sunland situation is not ideal, in order to fully stand unless the miracle occurred <br> Sunland Introduction In 1981 born in February 1987 5 months to enter the Junior Sports School in September 1989 into The Zhejiang Province Juvenile Sports School <br> the National Children&#39;s Championships winning enter the Zhejiang Province sports team (professional team) in 1991 in the ninth on January 8, 1990 in Ningbo City, session, Zhejiang, Games: <br> uneven bars first <br> the vault first <br> floor exercise the first <br> balance beam first <br> Almighty first 1993 December 17 into the national gymnastics team in 1995 on behalf of China to Washington to participate in the United States and Russia in the team competition <br> Nanjing National City Games: <br> all-around and vault first second, the floor exercise. <br> have to vault to second place in the National Gymnastics Championships on. 1996 to participate in the \"America&#39;s Cup\" competition on behalf of the Chinese to Dallus the Almighty seventh. <br> in to vault second place on the National Gymnastics Championships. 1997 National Gymnastics Championships on vault first. (L $ dj而.c身m) <br> vault first in the the Shanghai Eighth National Games. 1998 on behalf of China to the United States to participate in the United States the Luo Sanguo Team \", get the personal vault second <br> National Gymnastics Championships vault second <br>, Sunland the reporter asked <br> with the teammates <br> Sunland A'
+);
+
+?>

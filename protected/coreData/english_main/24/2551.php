@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1893-3-24
+	create time:2013-01-01 22:18:44
+*/
+
+return array(
+'title'=>'German astronomer Walter Baade was born',
+'class'=>4,
+'cont'=>'(Kimi, February seventh day), March 24, 1893, German astronomer Walter Baade was born. <br> Walter Bard (1893-1960), [L $ dj¦Ó.c¨­m German astronomer in the United States, spent the majority of the scientific career. Bard proposed the concept of two types of stellar population correctly distinguish between two types of Cepheid variables, and the cosmic distance scale made important amendments. (Lsjt.net) <br> Bard, born 24 March 1893 Shi Leting Stockhausen, Germany school youth in Munster and Goettingen. Received his Ph.D. in 1919. Subsequent work in the the Berger Dov Observatory of the University of Hamburg. Bud immigrated to the United States in 1931, working at the Mount Wilson Observatory. Palomar Observatory in 1948 and retired in 1958. Retired Hou Bade returned to G&#246;ttingen, June 25, 1960 death of. (L $ dj¦Ó.§«§§T) <br> Bard during the Mount Wilson Observatory, in cooperation with the American astronomer Fritz Zwicky and Edwin Hubble study supernovae and galaxies. Mount Wilson Observatory has the largest diameter of 100 inches (2.5 m) telescope in the world at that time. Bard first time factoring out individual stars in the Andromeda galaxy internal 2.5-meter telescope. He also put forward the concept of stellar population: a class of young stars, mainly distributed in the spiral arms of the galaxy, known as the Star family I. The other is the old stars located in the central region of the galaxy and halo globular clusters, known as the Star Family II. <br> the end of World War II, the Bard into the Palomar Observatory using the Palomar Observatory telescope to continue to conduct research in the new 200-inch (5 m). He found that two star family have their own unique the Cepheids family, different stellar population I Cepheids and stellar population II Cepheid period-luminosity relation. <br> Hubble first attempt to determine the distance of the Andromeda galaxy stellar population II Cepheid period-luminosity relation incorrectly applied to the Andromeda galaxy stellar population I Cepheids body, and the result is 800,000 light years. Bard correct period-luminosity relation to recalculate the distance of the Andromeda galaxy, 200 million light years. This means that almost all galaxy redshift measurement distance than the previous estimate far more than doubled, which also drove people from 20 million years to 50 million years to estimate the age of the universe to solve the age of the earth than the universe even old age difficult. <br> Bard also discovered 10 asteroids. Honor of the astronomer, asteroid 1501, a crater on the moon, a valley, as well as one of Magellan Telescope his name \"Bud\" name. <br>'
+);
+
+?>

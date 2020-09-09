@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1978-5-10
+	create time:2013-01-01 22:22:46
+*/
+
+return array(
+'title'=>'&quot;Practice is the sole criterion for testing truth&quot; published',
+'class'=>0,
+'cont'=>'(Wu Wu, April fourth day), May 10, 1978, published \"Practice is the sole criterion for testing truth\". internal publication of the Party School of the CPC Central Committee <br> theoretical dynamic \"60\" Practice is the sole criterion for testing truth, \"an article May 10, 1978, an internal publication of the Central Party School\" Theoretical Trends 60 First published validated by Comrade Hu Yaobang \"Practice is the sole criterion for testing truth\". In May 11, 2011, \"Guangming Daily\" published an article titled \"Practice is the sole criterion for testing truth\" Commentator article. Day, the Xinhua News Agency forwarded this article. 12, 2009, \"People&#39;s Daily\" and \"Liberation Army Daily\" is reproduced at the same time. The article discusses the practice of Marxism-Leninism, the first view, rightly pointed out that any theory must accept the practice test. Theory of Marxism is not a dogma pile of dead unchanged, it is in practice constantly adding new content. Of course, there are still the Bible contains is \"erroneous tendencies. (L $ dj¦Ó.¨­r¨À) This is the \"Gang of Four\" spiritual shackles imposed on people who, we must resolutely smash. The article led to a discussion of the practice is the sole criterion for testing truth. The vast majority of people inside and outside the point of view of the support and backing of the article. Although Hua Guofeng indicate certain person in charge of the central propaganda department, the discussion on the criterion of truth \"takes no position\" and \"not involved\"; accused the article by Wang Dongxing in some occasions \"is actually directed against the President&#39;s thinking, \"questioned\" this is what the central opinion? ! \"Repression. This discussion, however, by the CPC Central Committee and Deng Xiaoping, Ye Jianying, Li Xiannian, Hu Yaobang, the majority of voice to actively support, gradually carry out discussions in the country. From June to November, the central government, and military departments, most of the provinces, municipalities, autonomous regions and major military commands principal responsible comrades article or speech, agreed that adhere to the practice is the sole criterion for testing truth Marx the principles of the doctrine of great practical significance. (L $ j¦Ó.c¨½) <br> this discussion, to break through the \"two whatevers\" seriously hindered, and to promote the national liberation movement of Marxist thought, is a landmark Eleventh Party The Plenary made important mental preparation, produced a significant and far-reaching influence in the historical process of the party and the country. <br> \"Guangming Daily\" behalf of Commentator published \"Practice is the sole criterion for testing truth\" <br>'
+);
+
+?>

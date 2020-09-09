@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-2-21
+	create time:2013-01-01 20:52:00
+*/
+
+return array(
+'title'=>'Nobel Prize winners of the Canadian physician Frederick Banting&#39;s death',
+'class'=>0,
+'cont'=>'February 21, 1941 (26) Government House the first month, the death of Nobel Prize winners, the Canadian physician Frederick Banting. <br> Nobel Prize in Physiology or Medicine Prize (1923) <br> Frederick Grant Banting died \"target =\" _blank \"> Sir Banting, KBE, MC, ( Today in History www.TodayOnHistory.com) FRSC (Sir Frederick Grant Banting, 1891 11, 14, 2011 -1941 February 21) A famous Canadian medical scientist and Nobel Prize winners. <br> ; Banting was born in Ontario Ailisidun (Alliston) After graduating from the University of Toronto, he served in World War I, a member of the Canadian Army Medical Corps. <br> Banting return home in 1919, in Ann Province, the City of London to open clinics in 1919 -1920 years, he is a doctor at the Hospital for Sick Children in Toronto, at the same time he also attending orthopedic in 1920-21, and he served as the orthopedic lecturer of the University of Western Ontario, as well as 1921 -1922 pharmacology teachers. Banting obtained his medical degree in 1922 and a gold medal. <br> in the summer of 1922, when Banting and his assistant research diabetes treatment they made a injectable drugs to control blood sugar. This drug is today&#39;s man-made insulin in 1922, diabetes is an incurable disease. breakthrough medical discoveries, in 1923, Banting became Connaught Bell in Physiology or Medicine Prize winners. than half of the Nobel Prize to his assistant in 1935, King George V awarded jazz led to Banting in 1919, Canadians can no longer receive the title of head of the United Kingdom, but made an exception in 1935, the Prime Minister of Canada (而身d芋y身里h貝 $ 而身ry.c身m) Banting Banting jazz in the 1930s. (Lssdjt.com) <br> Banting forces of Nazi Germany started to pay attention, so he started a few military scientific research. \"G-suit\" is the invention in Banting&#39;s a military Royal Canadian Air Force fighter pilots in World War II, through his invented he still involved in research on biological and chemical weapons. <br> Banting in the February 21, 1941 at the peak of his career, died in a plane crash the plane he was riding should be from Newfoundland to England, though he The real reason to go to England is a mystery, but the most likely reason is to persuade the British scientists to mass production of biological and chemical weapons to resist Nazi Germany (L $ dj而.c身m) <br> Banting&#39;s remains buried in Toronto, Ontario classrooms of the Department of Medicine of the University of Western Ontario is now for his name, and Canada, the two schools are using his name <br> in 2004, organized by the Canadian Broadcasting Corporation&#39;s \"greatest Canadians elections which, Banting Top 4. <br>'
+);
+
+?>

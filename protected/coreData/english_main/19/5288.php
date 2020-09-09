@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1762-5-19
+	create time:2013-01-01 21:25:58
+*/
+
+return array(
+'title'=>'John Fichte, German philosopher, born',
+'class'=>4,
+'cont'=>'May 19, 1762 (, Imo April 26), the German philosopher John Fichte was born. <br> John Fichte (1762-1814) German philosopher. May 19, 1762, Fichte was born in Prussian Saxony La Meinuo. In 1780, he entered the Divinity School of the University of Jena to start learning. 1784, due to economic reasons, he obtained a degree before the end of his studies, after his tutor in Zurich. In 1790, he became acquainted with the famous German poet ¿ËÂåÆÕÊ©ÍÐ¿Ë, niece Johanan and she attracted Later, the two married. In the same year, he began to study the writings of Kant, this has had a profound influence on his later philosophy. In 1791, he went to Konigsberg Meet Kant. Order for Kant to know him, based on the philosophy of Kant, he wrote a the religious long article critical link between the fields of philosophy and theology study Kant \"try to comment everything apocalypse. Kant reading much appreciated, not only sponsored the publication of this article, also recommended Fichte go to university professor. Due to some unknown reasons, the article was published anonymously, so that people thought it was the long-awaited Kant&#39;s own critical writings religious. Of post-Kantian clarify the facts and publicly praised this work, this event makes Fichte reputation has been boosted in the field of philosophy. <br> 1794, Fichte became a professor at the University of Jena, presided over the philosophy of Kant lectures and perfecting his system of philosophy. After that he be released \"the basis of all knowledge learn,\" natural law foundation, knowledge Principles of Ethics System \". In 1798, when he served as the Editor of the \"Journal of Philosophy, received contributions from a religious skeptic, although Fichte disagree with the author&#39;s point of view, but because he insisted on the freedom of the press, or the article published. The article was people with ulterior motives to attack that Fichte is one atheist, forcing him to leave Jena and moved to Berlin. In 1806, the outbreak of the Franco-Prussian War, Fichte preach patriotism assume the task. In 1807, he returned to the French Army occupied Berlin delivered his famous speech \"of the German nation, and at the same time advocating the establishment of the University of Berlin. In 1810, the University of Berlin established, Fichte was the first president. The outbreak of the Battle of Berlin in 1813, the city crowded with the wounded, the plague epidemic, Fichte infected with typhus and died in January 1814. <br>'
+);
+
+?>

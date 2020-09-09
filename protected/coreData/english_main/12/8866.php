@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-9-12
+	create time:2013-01-02 00:50:14
+*/
+
+return array(
+'title'=>'The Liaoshen Battle started',
+'class'=>5,
+'cont'=>'(, August tenth day Lunar New Year), September 12, 1948 Liaoshen battle started. The overcome Jinzhou, <br> liberation Changchun, Northeast Field area to surround and annihilate in Montenegro dahushan, the aid by the Shenyang West Jinzhou the KMT army Liao Yaoxiang Corps the <br> 1948 years 9 12, Lin Biao, Luo Ronghuan rate, after Northeast People&#39;s Liberation Army attack even grams Liaoning CHANGLI, and the Luanxian and Xingcheng, Suizhong, Yixian, the KMT army was split in Jinzhou, Jinxi, Shanhaiguan. Chiang Kai-shek Jitiao North Zhongning North China the \"Suppression total\" five divisions and two divisions of Shandong, together with the original four divisions in Jinxi, a total of 11 divisions, 10 to 15 October onslaught Tashan to solution The Jinzhou Siege, but failed to break through the positions of the People&#39;s Liberation Army. On October 11, the Ninth Corps Liao Yaoxiang commanding Kuomintang army of 11 divisions and three cavalry brigades by Shenyang Deyan Jinzhou, was also prevents in Montenegro, dahushan, Northeast China. 14, 2009, the Northeast Field Army attack Jinzhou City, the 15th overcome, to wipe out the enemy troops, enemy prisoners of war 10 million people. 17, had stationed Changchun Ze students to rate the sixtieth Army 26,000 uprising, in the northeast, deputy commander-in-chief of the \"Communist suppression\" Zheng-dong country led to surrender. Chiang Kai-shek still want to recapture Jinzhou, to break off contact inside and outside the Ninth Corps continue to move forward to the Jinzhou. The main Northeast Field on July 26 in Montenegro dahushan will be surrounded by the Ninth Corps, after two days of fierce fighting, the F-10 million people, and several other senior generals Liaoyao Xiang captured. November 2 liberation Shenyang, Yingkou, nearly 15 million people and destroy the enemy. The campaign lasted 52 yao, a total of 47 million people and destroy the enemy, liberated throughout the Northeast. <br> Northeast Bureau of the CPC Central Committee meeting. From left: Lin Biao, Gao Gang, Chen Yun, Zhang Wentian, the Lu Zhengcao <br> head of the Northeast Field Lin Biao (middle) and, Luo Ronghuan (right), the Liu Yalou (left) in combat front-line <br>, the People&#39;s Liberation Army \"Tashan hero group\" <br> of Liaoning-Shenyang Campaign started \"target =\" _blank \"> the the Liaoshen Battle, Northeast Field volt ice lying snow, (l $ j¦Ó.c¨½) in Shenyang peripheral Princess the Tuen blocking KMT reinforcements <br>'
+);
+
+?>

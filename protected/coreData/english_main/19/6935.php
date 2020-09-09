@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1909-7-19
+	create time:2013-01-01 23:32:02
+*/
+
+return array(
+'title'=>'Gojong of Korea, Japan forced abdication',
+'class'=>0,
+'cont'=>'July 19, 1909 (, Jiyou In June, three days), Gojong of Korea in Japan forced to abdicate. <br> 1895, Japan defeated the Qing Dynasty began to dominate North Korea, the Japan achieved victory in the Russo-Japanese War in 1905, to send tens of thousands of army opened into Seoul, surrounded the palace, forcing North Korea signed the \"Japan-Korea Protection Compact regulations monitoring system established by the Japanese government in Seoul government, deprived of the sovereignty of the Korean domestic and foreign affairs. <br> treaty signed shortly after Gaozong Li Xi secret wrote to the heads of the four countries of the United States, Russia, Germany, France, announced that Japan and South Korea protection treaty invalid. 1907, The Hague, Netherlands, held a peace conference of nations, with a high-sectarian special envoy Li Jun, Li Wei Zhong trio caused by the letters of the Russian Tsar and traveled to The Hague to participate in the meetings of appointment, accusing Japan of aggression against the DPRK, called on countries of Solidarity. However, participants powers recognize Japan&#39;s right to protection against the DPRK, Li Jun, anger seppuku. Japan <br> matter so angry, Ito Hirobumi, Japan&#39;s Ambassador to the DPRK system monitoring instigation Korean traitors launched abdicated the movement forced King Gojong Li Xi. July 17, 1907, Lee finished with seven minister forced Gojong to abdicate, last Gojong announced \"military affair by the Crown Prince Regent, but the Japanese system monitoring government tampering edict, as\" regent \" give way. \" July 19, 1907, under the strict care of in the Japanese, the Korean Joseon Dynasty held in the palace, Christianity and Islam ceremony, Crown Prince Lee Billiton ascended the throne, King Gojong title of \"overlord\". Li Tuo <br> throne four days later, the Japanese Foreign Minister Lam Dong joint Korean Prime Minister Lee finished with the dissolution of the North Korean army, only to keep a brigade of troops in the palace guard. Li Tuo live completely became a puppet in the hands of the Japanese. (History TodayOnHistory.com) 1909 10 26 <br> Ito Hirobumi in Harbin, China Station the security re root assassinate the Korean patriots. The Japanese government took the opportunity to incite feelings of revenge, and create public opinion for the annexation of Korea. In August 1910, Japan forced Korea signed the Japan-Korea Annexation Treaty, North Korea officially become a colony of Japan. In 1926, Rio Lee, aged 52, died of illness, the end of a tragic life. (Lssdjt.cn) <br>'
+);
+
+?>

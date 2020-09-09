@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1903-12-18
+	create time:2013-01-02 02:11:09
+*/
+
+return array(
+'title'=>'The United States forced the Panama signed the &quot;Treaty of the United States and Pakistan&quot;',
+'class'=>0,
+'cont'=>'October 30 (mao), December 18, 1903, the United States forced the Panama signed the \"Treaty of the United States and Pakistan\". <br> Latin America is the mouth piece of fat in the United States, from the founding of the day, this fat appetisingly. Washington, the first president of the United States has suggested that the American people&#39;s interests consistent advocate of the \"Pan-American doctrine. With the U.S. national strength, aggression against Latin America has also been stepped up. The Spanish-American War in 1898, opened a prelude to the overall expansion of U.S. imperialism in Latin America. The inventor of the the <br> \"big stick\" policy of the old President Roosevelt, he said: \"I&#39;m very fond of the maxim of West Africa (Chau), a soft-spoken and with a Jubang, you will go further. \"He is constantly waving Jubang to interfere in the internal affairs of Latin American countries. Panama People&#39;s desire for independence, instigated a \"revolution\", (l $ j¦Ó.c¨½) Panama from the Federation of Greater Colombia independent. After he thwarted compete for Panama&#39;s rivals Britain, France, on December 18, 1903, forcing Panama signed the \"US-Pakistan Treaty, to once paid $ 10 million and the annual delivery of cheap rent $ 250,000 , grab the rights dug the Panama Canal and the Canal Zone, a permanent concession rights. Kaihe process, six, 70,000 migrants have died due to the harsh conditions, the Panama Canal, the two sides are called \"the death of the riverbank. Hole through (l $ j¦Ó.c¨½) <br> the Panama Canal in 1914, a total length of 81.3 km and 91.304 meters wide, is a vital waterway communication Atlantic and Pacific. Mid-stream line on both sides from the Canal extends 16.9 kilometers, designated as the Panama Canal Zone. The United States through the US-Pakistan treaty, the Canal Zone into the country of China. In this region, the United States Army, the United States appoints the head of the raising of the American flag, officials. Each year in the United States more than 100 million U.S. dollars looted from the canal dues. This caused the strong resistance of the people of Panama, after half a century of struggle, until September 1977, the U.S. government was forced and Panama signed the Panama Canal treaty, the new treaty provides for the repeal the 1903 Treaty, the abolition of a permanent U.S. occupation of the Canal Zone privileges. This is a victory for the people of Panama. <br>'
+);
+
+?>

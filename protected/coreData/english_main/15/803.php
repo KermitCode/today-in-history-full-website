@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1929-1-15
+	create time:2013-01-01 22:25:08
+*/
+
+return array(
+'title'=>'U.S. civil rights leader Martin Luther King&#39;s Birthday',
+'class'=>4,
+'cont'=>'January 15, 1929, the fifth day of the twelfth lunar month (Boshin), American civil rights movement leader Martin Luther King&#39;s Birthday. In In in 1929, Martin Luther King, Jr. was born in the U.S. city of Atlanta Auburn Street, No. 501, the a Victorian small building. His father was a pastor, his mother a teacher. From his mother, he learned how to love, compassion and understanding of others; learned from his father, a bold, strong, candid and frank. But he also feel the personality of the dignity of life in the ghetto, and as the suffering of blacks. 15 years old, intelligent, studious gold into the Moore House College with honors studying social science, and obtained a Bachelor of Arts degree. <br> despite the post-war economic development of the United States soon, a powerful political and military force to make it boarded the chief and the chair of the \"free world\". Domestic blacks have been in the economic and political discrimination and oppression. The face of the ugly reality, gold is determined to fight for social equality and justice for a priest. He has studied at the the Kela Ze Theological Seminary and Boston University, and a doctorate in theology in 1955, the Christian Baptist Church in Montgomery, Alabama, was Alex Pastor. In December, the police authorities in Montgomery Festival on grounds of violation of bus seats isolation doctrine <br> 1955, arrest of Rosa Parks, a black woman. Kim then with several black activists organized the Montgomery Civic Improvement Association, called on the city of nearly 50,000 black boycott of the public law and the company for up to 1 year, forcing the court to cancel the seats on local transport isolation . This is a southern U.S. blacks for the first time to own strength for victory in the struggle, which opened the prelude of the civil rights movement for more than 10 years, also Dr. King to exercise as the leader of the civil rights movement. (Lssdjt.cn) <br> 1968, gold race assassinated. <br> U.S. government regulations, since 1986, the 3rd Monday in January of each year, the anniversary of Martin Luther Jinquan Guo. [Lsjt.org] <br> Martin Luther King was born in this house <br> Martin Luther King Birthplace: Auburn Street <br>, ; The <br> center one entitled \"hope for the future the murals <br> of small Martin Luther King, Jr. the tomb <br> Ebenezer Baptist church when the pastor <br> Martin Luther King, walking in the forefront of the parade (fourth from left) <br> a person walking the streets in Atlanta <br> April 4, 1968, Martin Luther King was killed on the balcony of the hotel. His colleagues rushed to call for help, and together refers to fire a gun in the direction to go. the <br> children to bid farewell to the remains of his father <br>'
+);
+
+?>

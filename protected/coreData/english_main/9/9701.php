@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-10-9
+	create time:2013-01-02 01:50:40
+*/
+
+return array(
+'title'=>'Obama won the Nobel Peace Prize to diplomatic efforts',
+'class'=>0,
+'cont'=>'October 9, 2009 (Year of the OX on August 21), Obama won the Nobel Peace Prize to diplomatic efforts. <br> the 44th president of the United States Barack Obama was born \"target =\" _blank \"> Obama 2009 Nobel Peace Prize <br> the diplomatic efforts BEIJING, October 9, 2009 AFP, the Nobel Committee announced on the 9th, the the [history www.TodayOnHistory.com] U.S. President Barack Obama won the 2009 Nobel Peace Prize. <br> Nobel Committee the main Ï¯ÍÐ¶û±ÈÔ¼¶÷ ¡¤ Jagland (ThorbjoernJagland) (the l $ dj¦Ó.¨­r¨À) will be awarded the Nobel Peace Prize to Obama is in recognition of his \"cooperation in strengthening international diplomacy and among peoples , has made an extraordinary effort. \"<br> Nobel Committee said U.S. President Barack Obama to make extraordinary efforts to enhance cooperation in international diplomacy and among peoples\" awarded the 2009 Nobel Peace Prize Obama as its first African-American president, since he took office in January 2009, has been committed to advance the Middle East peace process and called for nuclear disarmament. <br> five members of Nobel Peace Prize winner will be selected to win a gold medal, a certificate and $ 1.4 million in prize money. lssjt.cn Nobel awards for Obama comments he said: \"Obama attracted world&#39;s attention, only a handful of people to achieve the same degree and he, he brought hope for a better future for the people. \"<br> Nobel Committee, said Obama&#39;s foreign policy core: If you want to do a \"leadership of the people of the world, values &#8203;&#8203;and attitudes shared by the majority in the world as the basis to act\" (l $ j¦Ó.c¨½) <br> Obama Introduction: < ; br> August 1961, Obama was born in Honolulu, Hawaii, USA After graduating from high school, he entered the California Western School, then transferred to Columbia University in New York, graduating in 1983, 1997, Obama entered politics, elected Illinois Senator, and served continuously for eight years. November 4, 2008, he was elected the 56th President of the United States, (L $ dj¦Ó.§«§§T) and became the first African-American president in the history of the United States January 20, 2009 Obama became the 44th president of the United States In In December 2009, U.S. President Barack Obama to receive the 2009 Nobel Peace Prize in Oslo, Norway. <br> December 10, 2009, U.S. President Barack Obama to attend the Nobel Peace Prize in 2009 awards ceremony. <br> the'
+);
+
+?>

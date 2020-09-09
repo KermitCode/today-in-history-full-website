@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1921-11-12
+	create time:2013-01-02 01:52:48
+*/
+
+return array(
+'title'=>'Washington meeting',
+'class'=>0,
+'cont'=>'(Yau, October 13), November 12, 1921, meeting in Washington. <br> after the First World War, the United States, Britain, Japan, the victors re-divide the colonies and spheres of influence in the Far East and the Pacific, meeting in Washington on November 12, 1921 to 1922 , also known as the Pacific Conference. The United States, Britain, France, Italy, Japan, the Netherlands, Portugal and Chinese Beiyang government delegation to participate. The Washington meeting is essentially a continuation of the Paris meeting, its main purpose is to solve the \"Treaty of Versailles\" unresolved between the naval balance of power in the Far East, the Pacific region, especially in China&#39;s conflict of interest. The meeting concluded three treaties signed. 1, \"the four-nation treaty. On December 13, the United States, Britain, Japan, France signed the Treaty on all Pacific island possessions and territories, known as the \"Treaty of Shikoku. The treaty provides that the States Parties to the mutual respect for the right of the island possessions and territories in the Pacific region, once subjected to the threat of the aggressive actions of other countries, the State party should take effective measures in consultation. Approval of the treaty, the Anglo-Japanese Alliance be immediately repealed. 2, \"the five-nation treaty. February 6, 1922, the United States, Britain, Japan, France, Italy five countries signed a treaty limiting naval armaments, that the five-nation treaty. Provisions of the United States, Britain, Japan, France, and the proportion of the gross tonnage of the Italian battleship 5:5:3:1.75:1.75. Provisions of the United States, Britain and Japan in the Pacific region&#39;s share of some of the island&#39;s fortress shall be to maintain the status quo, not build a naval base or fortress, (l $ j¦Ó.c¨½) but the Japanese mainland and nearby islands, the Hawaiian Islands, (L $ dj¦Ó.§«§§T except) Australia and New Zealand. 3, \"the nine countries of the Convention.\" February 6, 1922, was attended by representatives of nine countries signed nine countries about the events in China applies the principles and policies of the Treaty, known as the Nine-Power Treaty. Provisions to respect China&#39;s sovereignty and independence and territorial and administrative integrity; give completely hinder the opportunity to develop and maintain a strong consolidation of government; application of a variety of power, in order to effectively establish and maintain the countries in the whole territory of Business Industrial principle of equality of opportunity. This confirms the \"open door\" and \"equality of opportunity\" for the basic principles of foreign powers-China policy. <br>'
+);
+
+?>

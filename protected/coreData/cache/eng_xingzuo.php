@@ -1,0 +1,8 @@
+<?php
+/*
+*file:English xingzuo cache:4ÔÂ9ÈÕ
+*time:2015-04-09 21:16:18
+*/
+
+return "<a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0409.html'>Born on April-9:Gone too far,The strong-willed, persuasive and aggressive.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0713.html'>Born on July-13:Savvy speculators,Bold, goal-oriented, strong-willed.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/1221.html'>Born on December-21:Enigmatic,The strong-willed, good health, strong intuition.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0526.html'>Born on May-26:Full of contradictions,Protection, morality, and worthy of respect.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0202.html'>Born on February-2:Noble taste,Elegant, vibrant, exotic.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0615.html'>Born on June-15:Pleasant charm,Charm, pay attention to the senses, and smart.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/1206.html'>Born on December-6:Extract,Pragmatism, insight, and more talent.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/1113.html'>Born on November-13:Current affairs reviews,Charm, charming, stimulating.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0710.html'>Born on July-10:Safe movement,Patient, perceptive, observant.</a><br><a href='http://www.luo0.com/91history/en.php/HisXingzuo/view/date/0619.html'>Born on June-19:Sparks were,Close interpersonal relationships, perseverance, the courage to accept the challenge.</a><br>";
+?>

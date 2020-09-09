@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:ǰ312-m-d
+	create time:2013-01-02 08:48:23
+*/
+
+return array(
+'title'=>'Xunzi birthday of a famous ancient Chinese thinker and one of the Confucian representatives',
+'class'=>4,
+'cont'=>'-312 April 2 years (April 11), Shigenobu, a famous ancient Chinese thinker, Confucian Xunzi&#39;s birthday, one of the representatives. Xun Zi&#39;s birthday <br> \"target =\" _blank \"> Xunzi (c. 313 - before 238 ago in 2325) the name of the status word Qing, due to avoid the Western Han Xuan Di Liu Inquiry taboo, because Xun \"and\" Sun, \"the word ancient sound the same, it is also known as Sun Qing Han, Zhou dynasty late Warring States period of Zhao Yi&#39;s (now Mountain Xian Ze) people famous thinkers, writers, politicians, Confucianism, one of the representatives of when people honorific \"Xun Qing Qi Guoji Xue Gong libation three times, after Chulan Ling (now Shandong lanling) Order. Xunzi Confucianism develop, promote evil nature of humans, often Goodness of Human Nature and Mencius compare. considerable contribution on the reorganization of the Confucian classics. <br> Records &#8226; Xun Qing Biography \"records of his life. Xunzi Yu Qi Study Tour fifty years before, to of King Xiang times & ldquo ; most teacher \",\" three libation later Yat and fitness Chu, Chunshenjun the thought lanling and Chunshenjun death of Xun Qing waste, household Lan Ling, Han Fei, Li Si are his &#39;s apprentice, also because two of his disciples as Legalism representative Chronicles Some scholars doubt the Xunzi whether is a Confucian scholar Xunzi also by many scholars in the history of China lashed his disciples and. <br> in the meantime, he had to Qin, said Qin \"governance matter to have to the Zhao State with Pro Wujun of meeting soldiers in front of Zhaoxiao Cheng Wang last old died in the state of Chu he had been preaching Tuition late Warring States period two of the most famous thinkers, politicians - Han Fei, Li Si, the early Han Dynasty politician scientist Zhang Cang are the sects Takaashi. writings set Xunzi (Tang Yang?? its make note because Xunzi by The ancient scholars criticized, not many callers Until the Qing Dynasty Textual flourished the comment reviser increase the modern research Xunzi scholars representing ancient the) <br> includes Qing Wang xianqian, Republic era Michael Leung. late Qing Dynasty scholar Tan Sitong, in his \"Benevolence\" commented \"two thousand years of science (China) Xun school also, are hypocrites also.\" masterpiece of his later years \"Encouraging Learning.\" <br> The Records \"records Lisi\" is learned from Xun Qing imperial technique \", (TodayinHistory.cn) Xunzi&#39;s\" King of the surgery, the practice by Lisi later reflected Su Shi Xun Qing &#39; : \"Xun Qing Ming Wang Tao described Lile, while Lisi its school chaos to the world.\" <br>,'
+);
+
+?>

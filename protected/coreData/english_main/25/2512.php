@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1901-3-25
+	create time:2013-01-01 22:10:49
+*/
+
+return array(
+'title'=>'Defend Tolstoy',
+'class'=>0,
+'cont'=>'Sixth days of February (1901) March 25, 1901 to defend Tolstoy. Tolstoy <br> <br> the spring and summer of 1900, Tolstoy wrote two articles \"Patriotism and Government\", \"slavery\" of our times, of Tsarist Russia reactionary politics system lashed out such social evils, July, and essays \"Do not murder,\" the crimes of the Chinese People&#39;s massacre protest, including Tsarist including the Eight-Power Allied Forces, and his novel \"Resurrection\" made ruthless authoritarian regime and church expose and castigate the tsarist government evaded. After about six months, the long-planned reactionaries began his revenge. In order to combat his prestige masses. February 24, 1901, Russia&#39;s highest church authority - religious hospital announced the expulsion of the membership resolution Tolstoy. However, the Tsar Tolstoy excommunicated persecution played a counterproductive effect. Around the country provoked a wave of protest. Religious hospital resolutions announced the same day, in Moscow, there are thousands of students and workers assembled, shouting \"Long live the Tolstoy\", \"to pay tribute to the great\" slogan, and the emergence of a of numerous satirical reactionary authorities Anonymous poetry . People by letter, to send a delegation published speech, telegraphed, flowers approach, condolences and support to Tolstoy. <br> 3, 25, St. Petersburg museum organized a traveling exhibition. (Lssdjt.com) exhibits a famous Repin painting \"Tolstoy like. The visit people next to the painting lifelike portraits encrusted gorgeous blossoming flowers. Speech to the audience some of the radical college students standing portrait. From time to time the audience broke out in cheers of \"Long live the Tolstoy\", and finally to Tolstoy himself made a \"pay tribute to the electric, nearly 400 people have signed his name on the message. The exhibition almost accomplishing praises Tolstoy condemned the reactionary authoritarian government, a political struggle propaganda station. <br> happened after the government immediately ordered the removal of the portrait of Tolstoy unpopular practice is like and then poured a barrel of oil on the anger of the masses. Russian people of all nationalities throughout the country rose to solidarity with Tolstoy and his supporters to protest against the increasing persecution of the tsarist government policy. , Tolstoy leather sect it has aroused strong repercussions in the world, the czar sent a letter of protest to Tolstoy&#39;s letter of condolence to pour in from around the world. The tsarist government attempt to suppress the original Tolstoy, narrowing his influence in the cultural sector, behold its impact increases even more fame crossed state boundaries flying over alpine Ocean, spread all over the world. <br>'
+);
+
+?>

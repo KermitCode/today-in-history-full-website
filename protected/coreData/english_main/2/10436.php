@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1861-11-2
+	create time:2013-01-02 02:26:00
+*/
+
+return array(
+'title'=>'Empress Dowager Cixi launched M-coup',
+'class'=>5,
+'cont'=>'November 2, 1861 (September 30) yau, the Empress Dowager Cixi launched the M-coup. <br> November 1861, the Empress Dowager Cixi Contact Christine Prince Yi Sushun eight ministers? arrest in Beijing, (而身d芋y身里h貝 $ 而身ry.c身m) launched the M-coup \"target =\" _blank \"> Regards Cheung coup., Emperor Xianfeng Rehe palace died on August 22, 1861, 6-year-old son set out Chun to the throne, came to power by Gu Ming eight ministers Sushun, Zaiyuan end China decided next year only use \"the M & rdquo ; reign. the ancient Yi Guifei Yehenala eager to take advantage of contained Chun mother Empress Dowager&#39;s identity to take over the highest sovereignty. inspired Censor the Dong Yuan alcohol petitioned the Empress Dowager Chuilian good at the right plan met resistance from the eight ministers , Prince Gong Yi will be staying in Beijing? collusion. Nala on October 7 for \"in order to reduce their labor\" in the name, the Janissary military power lifted Zaiyuan collar; Woodland? again to win over to fight for the mastery of Gyeonggi straight Lu heavily Hyobu assistant minister the wins Paul and Senggelinqin of support. Oct. 26, Nala, carrying the young Emperor upload Chun by Zaiyuan, end China Rehe journeyed to follow from the bypass roads back to Luang Beijing. Xianfeng Emperor coffin by Sushun walk on the path escort., Nala and his entourage arrived in Beijing wins Paul sent janissaries collusion on November 1, the day with the Woodland? would Chao secret suppliers. the November 2 dawn Zaiyuan, end China has just entered the palace gates, is prior ambush on either side of David to 11 arrests. Sushun Fujiu arrive Miyun, row Pavilion arrested a take. 3, 2009, the appointment of Woodland? as government king, Guiliang, Wen Xiang et al. any military minister, to form a new Grand Council to change the reign of the Qing court, \"M-\" for the \"Tongzhi and announced Zaiyuan three outrageous, immediately give Zaiyuan end China hanged himself, five people were ousted Jingshou etc. or banish Sushun beheaded. 8 people Zaiyuan, end, Sushun, Nala even ordered enumerating counts are: to resist the Empress Dowager behind a screen, not conscientious and meeting so lose the trust of the nations of the 11th upload Chun officially Teng pole the Queen Mother hearings, the 26-year-old Yehenala usurp the power of the Qing Dynasty, began her dark rule of 48 years. 1861 is xinyou years, it is also known as & ldquo ; the yau coup. \"this change, compete in the highest ruling clique of the ruling power in a palace coup, the coup when added to the charges and the coup\" dedication and discussion \"of Sushun et al Nala Woodland? et al for the attitude of the foreign invaders, it also marks the Qing government transformation to a semi-colonial regime. <br>'
+);
+
+?>

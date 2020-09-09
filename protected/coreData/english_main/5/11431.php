@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1939-12-5
+	create time:2013-01-02 02:26:00
+*/
+
+return array(
+'title'=>'KMT climax began the first anti-communist',
+'class'=>0,
+'cont'=>'December 5, 1939 (JiMao October 25), the KMT&#39;s first anti-communist climax began. In <br> 1939, the KMT government command Hu Tsung-nan forces launched an offensive to Ningxia Border Region, has occupied Chunhua Xun eup, Zhengning, county, town original five county, and to mobilize the army ready to attack Yan&#39;an. the <br> 12, [lsjt.net] Yan Xishan command the second column of the leadership of the Communist Party&#39;s anti-Japanese Daredevil team the Japanese offensive 5th, This will enable the Department on the flank of the day stubborn situation. Therefore, the second column refuses to execute the command. Yan has announced the second column as \"rebels\" ordered \"to discuss on behalf of six army troops to Xi County, Xiaoyi along the new army attack. 3, Wangjing Guo Nineteenth Army, Chen Changjie sixty-first Army Daredevil Column one hundred ninety-six Travel Tours Division surrounded resolved. The second column had worked hard to break through, some turn to the northwest Shanxi. Yan immediately attacked the Eighth Route Army rear hospital massacre six counties in Xi County Government, Ximenghui cadres and the Eighth Route Army in the first fifteen divisions sick and wounded more than a thousand people. In, Yan Order Zhao Cheng the slow offensive the northwest Shanxi anti-Japanese Daredevil team and fifteen divisions thirty-fifty-eight trip. swearing-in of the leadership of the CPC Shanxi anti-Japanese Daredevil team <br> self-defense, resolute counterattack Jun Yan the offensive <br> in southeastern Shanxi, Jun Yan Sun Chu Ministry, dark end of the Japanese puppet offensive third column of the daredevil team to kill the leadership of the Communist Party the army of more than 600 people and kidnapped thousands of people. Qinshui, Yangcheng, Jincheng, Fushan, Changzhi anti-Japanese regime is destroyed. 4, 2010. Sun Chu destroyed of Nanyang City Ximenghui will newborn newspaper club edit Wang Liang was buried alive. <br> 1940, South Area the Kuomintang army Stone Friends of three attack the Eighth Route Army. March (on TodayOnHistory.com) Zhu Huai Chiang Kai-shek ordered ice attack Taihang the Eighth Route Army. KMT launched the first anti-communist climax, the headquarters of the Eighth Route Army 359th Brigade from the base of the Shanxi-Chahar-Hebei transferred back to the Shaanxi-Gansu-Ningxia Border Region, with the left-behind forces repulsed the attack of the Kuomintang army, destroy the the Suide partition five counties reactionary regime . Taihang area, southern Hebei District, the Eighth Route Army rose up to fight back Zhu Huai-ping, SHI three attacking and destroying three divisions Zhu Ministry Ishibe be defeated. <br>'
+);
+
+?>

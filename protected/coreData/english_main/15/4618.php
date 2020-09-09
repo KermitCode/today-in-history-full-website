@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1937-5-15
+	create time:2013-01-01 22:33:10
+*/
+
+return array(
+'title'=>'The first female U.S. Secretary of State Madeleine Albright&#39;s Birthday',
+'class'=>4,
+'cont'=>'May 15, 1937 (Landmarks April sixth days), the birth of the first female U.S. Secretary of State Madeleine Albright. of <br> two-year-old Albright&#39;s Birthday \"target =\" _blank \"> Albright innocent <br> Madeleine Albright, America&#39;s first female Secretary of State May 15, 1937, was born in the family of a diplomat in Prague, Czech Republic, formerly known as Maria Jana Korbel His father served as the Czech Republic Ambassador to Yugoslavia during World War II, his family went to London to take refuge. (history McNair domestic political changes, the family settled in the United States. graduated from Wellesley College in 1959, (l $ j¦Ó.c¨½. cn) 1948 because his father was promoted to the India-Pakistan Committee on behalf of the United Nations, with his father to the United States. marriage side work side learning) and subsequently married Joseph Albright, was LL.M. at Columbia University, a doctorate in 1976 to enter politics. former Maine congressman of the Democratic Party Muskie&#39;s chief legislative assistant 1978 a member of the National Security Council in the Carter administration, Brzezinski men responsible for liaison with Congress the Republican Reagan took office in 1981, she transferred to the academic community. breakdown of the marriage in 1982, is still in use after the divorce husband surname. went to Georgetown University professor of diplomacy course in 1983. has the electioneering for the Democratic presidential candidate, Mondale and Dukakis Sharansky, to act as their diplomatic staff officer in 1989, served as chairman of the Democratic National Policy Center. served as Clinton&#39;s 1992 campaign diplomatic adviser of the team. 1993 Clinton White House, she served as Permanent Representative to the United Nations as secretary of state in the second Clinton administration in January 1997, the appointment to the highest office in the United States women She is an expert on the Soviet Union and Eastern Europe, will speak British, French, Russian, Czech, Polish, proponents of tough diplomatic line. has visited China many times. <br> childhood white the artless <br> with the family moved to the United States <br> 1959 <br> studying at Wellesley College and married Joseph Albright the <br> Albright and twins the daughter <br> three daughters photo <br> <br> Albright was sworn in under the auspices of President Clinton like <br> ; Albright, President Clinton&#39;s right-hand man <br> Albright her three daughters <br> in Albright habits alone with the men worked <br> Albright never made a secret of his own militant ideology <br>'
+);
+
+?>

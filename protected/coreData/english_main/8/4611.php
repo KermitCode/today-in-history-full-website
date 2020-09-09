@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1753-5-8
+	create time:2013-01-01 22:31:55
+*/
+
+return array(
+'title'=>'&quot;Father of Independence&quot; in Mexico Hidalgo&#39;s Birthday',
+'class'=>4,
+'cont'=>'On April sixth days) (πÔ”œ years, May 8, 1753 \"Mexican Father of Independence\" Hidalgo&#39;s birthday. May <br> 1753, (history TodayOnHistory.com) famous leaders of the Mexican independence movement Yidaerge born in Tours Methodist Austrian River Manor, the father is the lord of the manor of Explorer. Hidalgo finished primary school at the Manor House, to the bustling city of Valladolid in 1767 to study. Nicholas Theological Seminary in 1770, Master of Arts, after studying Theology, Master of Theology in 1773. 1803, Hidalgo Dolores parish to succeed her brother&#39;s office to do parish priest. Indians living here, they lived a scantily clad, underfed life. Hidalgo&#39;s Birthday \"target =\" _blank \"> Hidalgo Indian talk with them, understand their sufferings, to promote the idea of &#8203;&#8203;independence and freedom to pass on agricultural knowledge to the Indians to help them develop the economy and improve living well received by the Indian the support of the people. (on com) In August 1810, Spain sent Weineijiasi to his successor, Governor of Mexico, continued implementation of colonial policy. Mexican the liberal organization literary and social will decide Oct. 1 armed uprising renegade informant, the Spanish authorities to send troops to the Crow Tarot city, attempt to catch. Hidalgo heard the news, to act decisively in the early morning hours of September 16, rang the church bell, Dolores and nearby residents heard about Hidalgo rostrum cried out: \"My children! you to become a free man? 300 years ago, the hated Spaniards land taken away from the hands of our ancestors, you agree to recapture this? \"His voice faded, and a passionate audience slogans sound all vigorous independence movement began a <br> in Yidaerge under the leadership of the rebel army victorious uprising of rapidly expanding in 1810 In the end of October, the rebel army was advancing to the capital, Mexico City, soon, the enactment of the Land Act and other Act on behalf of the Americas generalissimo to these decrees reflect the interests of the Indians, thereby gaining the support of the people. Jan. 1811, the Spanish colonial army crazy counterattack in retreat on his way, traitor ambush, Hidalgo captured July 31 were killed the heroic devotion Yidaerge, well received by the admiration of the people of Mexico, is known as the \"Mexican Father of Independence & rdquo ;, and his casting bronze statue, for future generations to pay their last respects. <br>'
+);
+
+?>

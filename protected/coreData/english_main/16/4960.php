@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1946-5-16
+	create time:2013-01-01 23:35:19
+*/
+
+return array(
+'title'=>'The KMT champion Zhang Lingfu was killed in Menglianggu',
+'class'=>3,
+'cont'=>'May 16, 1946 (April 16) BingXu the the KMT champion Zhang Lingfu Menglianggu region were killed. the <br> move to mobile to Menglianggu East China Field Army, <br> 1946, the reorganization of the the KMT elite troops one of the five main seventy-fourth Division East China Field Army to wipe out the division commander Zhang Lingfu region Menglianggu be killed \"target =\" _blank \"> Zhang Lingfu was killed. campaign captured the KMT army 19600, kill and wound 13,000 people. the <br> battle began, [L $ dj¦Ó.c¨­m] Yimengshan aunty the target <br> 1946, the KMT army concentrated 24 reorganized divisions 60 brigades of about 45 million people, to initiate key offensive Shandong liberated. pointing to the PLA artillery to the relatives of the main force of 255,000 to attack Lu in the new Thailand, Mengyin region 29, the KMT army occupied Mengyin East China Field Army to retreat to the main in Laiwu, Xintai, the Mengyin east region. May 11, the KMT army by Linyi, Taian front-line soldiers in three columns north, oppression of East China Field Army to retreat jiaodong narrow zone of East China Field Army main focus, to take a central breakthrough, two wings pliers strike tactics to surround and annihilate the onrush of the Kuomintang reorganization seventy fourth division, the 13th, the East China Field Army blitzed 14th the Yu Liang Kegu area on Article 74 division split surrounded. Chiang Kai Jitiao the the 10 reorganized division, to the Mengyin the young camel Temple build, was blocking. general offensive launched by the 15th East China Field Army to Menglianggu fighting on the 16th. the the seventy four divisions will be commander Zhang Lingfu were killed. the the <br> the killed of Zhang Lingfu <br> Zhang Lingfu name Zhonglin word Ling Fu. born in 1903, was admitted to Peking in 1923. after Toubicongrong, 1925 In the fall, was admitted to the Whampoa Military Academy fourth. graduation, he served as the Second Division of the First Army platoon leader, after he was promoted to the rank of company commander, battalion, regiment, 1935 due to the murder case has been sentenced to 10 years in prison, was released after the 1937 war broke out served as head teachers, deputy commander of the rank. had participated in the Battle of Shanghai, Battle of Nanjing, Wuhan Battle and cloud rejoice Medal, Baoding Medal of April 1946, or Marshall became the seventy-fourth Army in Gen. long, and served as the Nanjing garrison commander in May, the seventy-fourth Army adapted for the reorganization of the seventy-fourth division, either be teachers. spring of 1946, to participate in the focus of Shandong liberated attack, led his troops into Meng Yin Dongnan Menglianggu region. <br>'
+);
+
+?>

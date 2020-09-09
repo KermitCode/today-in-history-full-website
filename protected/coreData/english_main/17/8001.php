@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1931-8-17
+	create time:2013-01-02 01:12:47
+*/
+
+return array(
+'title'=>'Deng Yanda was arrested',
+'class'=>0,
+'cont'=>'(, Xinwei July fourth day), August 17, 1931, Deng Yanda was arrested. <br> Deng Yanda Yu Garden in Shanghai Yuyuan Road Square, was arrested in the 20th. Right Deng Yanda <br> May 17 afternoon in 1931, Deng Yanda went to Shanghai, Yuyuan Yuyuan Garden Square, on the 20th graduation ceremony attended Jiangxi uprising cadres training, the country original action committee Shanghai cadres will be responsible for Chan King fasting mutiny informant, Deng The Unfortunately arrested, also arrested at any one Jinxin Guang Deng Wen, Zhang Xiaoshan, Li Wenying, flavin, Yun-Su Qing, Huang Jingyao Fang Ju, Chang-Zhu Fengqing, Ren Shuxuan 12. <br> Subsequently, Xushou Xiang Cheng Pak duo arrested in the Weihaiwei Road and wheat root road. Catching 15 days which Ren Shuxuan under the age of 16, is the principal tenant&#39;s son, has nothing to do with the merits; Xushou Xiang chef, Zhu Fengqing wrong building numbers come in, and also has nothing to do with this case. Except Deng led Police Ming, Songhu Garrison Command investigation team participated in the raids, as well as the International Settlement the total police station of Chinese and Western detectives. In 3:00 pm <br>, Deng Yanda 13 people turned into a temporary cell Jing&#39;an Temple, a British police station is only ten feet square. At 9:00 on the 18th Concession Authorities Deng Yanda and remanded the Second Branch of the Jiangsu High Court court for trial. Provisional Action Committee of the Chinese Kuomintang (Lssdjt.com) <br> Deng Yanda organize the establishment of grassroots organizations throughout the year, 14 provinces, municipalities, and launched an armed uprising in Jiangxi. He invited the Whampoa Military Academy progressive student organizations the \"Whampoa revolution Alumni Association, Whampoa Alumni Association organized with Chiang Kai-shek&#39;s direct rival groups, constitute a great threat to the Nanjing government in the military. Chiang Kai-shek extremely jealousy of Deng Yanda revolution activities, offering a reward of 300,000 yuan to arrest Deng Yanda, the the Songhu garrison commander XiongShiHui addition to the secret order of the Ministry investigation team to apprehend Deng Yanda and his comrade-in-arms, also sent a letter to the Shanghai Second District Court of the SAR requirements & ldquo ; ordered catching Association Ji. 15, 2009, Jiangsu, Shanghai, DC District Court issued rushed summoned Deng Yanda, Shen Weiyue three quarter square \"to the court pending trial,\" the arrest warrant. <br>'
+);
+
+?>

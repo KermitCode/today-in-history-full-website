@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-6-9
+	create time:2013-01-01 21:38:35
+*/
+
+return array(
+'title'=>'World famous pianist Claudio Arrau&#39;s death',
+'class'=>3,
+'cont'=>'June 9, 1991 (April 27), Xinwei, the death of the world-famous pianist Claudio Arrau. Claudio, <br>, Aarau (Claudio Arrau ,1903.2.6-1991 .6.9), Chilean pianist. One of the greatest pianists of the twentieth century. His childhood prodigy said, went to Berlin to study, after settling in New York, continued to show career of international master, known around the world. Aarau of a wide range of repertoire, from the Baroque to the 20th century works have a unique contribution, is the authority of the German and Austrian music performer. Recorded a number of albums, the most popular recordings of Beethoven&#39;s piano sonatas. <br> Claudio Arrau, 1903 Born in Chi-Leach inexpensive. His childhood prodigy famous 5-year-old first recitals in San Diego, emerge. 8 years old, funded by the Government of Chile to study in Germany, had made rapid progress in the long-term under the guidance of the teacher, Martin Krause, 11-year-old first solo concert held in Berlin, has obtained Yi Bahe Award, (lsjt.org) Hollander Award and two Liszt Award, under the command of the conductor Ni Jishi, Furtwangler playing a piano concerto, very famous. 1926-1940 taught at the Stern School of Music. The first prize in the International Piano Competition in Geneva, Switzerland in 1927. 1935-1936 in Berlin, held a series of concerts of all of Bach&#39;s keyboard works and Mozart all piano works; four series of concerts held all the Beethoven piano sonata (1938 in Mexico, 1939 in San Diego, in 1952 in London, in New York in 1954). Settled in New York in 1941, continuing its international master performance career, known around the world. In 1949, Chile University conferred an honorary doctorate. In 1959, the Chilean government awarded the Medal of Honor, naming two streets in the name of and Aarau. In 1965, the French government awarded the literary knight medal. In 1970, the German government awarded the Federal Cross. In 1978, the Berlin Philharmonic in Germany awarded the Medal of von Bulow. 1982 (history today. Cn) Mexican government awarded the Aztec Eagle Medal. In 1983, the United Nations World Heritage Organization awarded the International Music Medal awarded the National Medal of Arts, the Chilean government, the French government awarded the Legion of Honor, granted to the Knights of Malta Government Medal, awarded the honorary Commander of the Order of the Conservatory of Rome, Italy, Oxford University conferred an honorary doctorate grant Beethoven Medal in New York City, Philadelphia City awarded the Philadelphia Bowl trophy. In 1988, the Venezuelan government awarded the Medal of Carreno. In 1990, the Royal Philharmonic Orchestra awarded the gold medal. , Died in 1991 near Vienna. <br>'
+);
+
+?>

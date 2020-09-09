@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2006-2-13
+	create time:2013-01-02 08:30:13
+*/
+
+return array(
+'title'=>'The death of the Chinese Academy of Sciences, Chinese Academy of Engineering, Wang Xuan',
+'class'=>3,
+'cont'=>'(, Sixteenth BingXu), February 13, 2006, the death of the Chinese Academy of Sciences, Chinese Academy of Engineering, Wang Xuan. Wang Xuan <br>, <br> Wang Xuan (1937-2006) Vice-Chairman of the National Committee of the Chinese People&#39;s Political Consultative Conference. Was born in February 1937, Wuxi, Jiangsu Province, the Jiu San Society members, Peking University, Department of Mathematics and Mechanics mathematics graduate, college degree, Professor, Chinese Academy of Sciences, Chinese Academy of Engineering. <br> 1958 Department of Mathematics and Mechanics, Peking University Computational Mathematics graduate. Jiu San Society Central Committee Vice Chairman from 1995 to 1996, director of the Institute of Computer Science, Peking University Founder Holdings Limited, the Chairman of the Board of Directors. 1996-1998 vice chairman of the Central Committee of Jiu San Society, vice chairman of the China Association for Science and Technology, Department of Computer Institute of Founder Holdings Chairman of the Board of Directors. In 1998, he was appointed vice chairman of the Education, Science, Culture and Public Health Committee of the Ninth National People&#39;s Congress, the Jiu San Society Central Committee Vice Chairman, Vice-Chairman of the China Association for Science and Technology, the tenth of March 2003, Deputy Chairman of the National Committee of the Chinese People&#39;s Political Consultative Conference. <br> Wang Xuan founder and technical director of the Chinese laser phototypesetting system. He led research and collective character laser phototypesetting system developed for the News, published in the computerization of the whole process of laying the foundation, known as the \"Chinese characters of the second invention of the printing press. In 1992, Wang Xuan and successfully developed the world&#39;s first set of Chinese color typesetting system. And has won the Geneva International Invention Exhibition Gold Medal, China the patented inventions Gold, UNESCO Science Prize, major national technology and equipment developed Grand Prize and many other awards, in 1987 and 1995, twice won the National Science and Technology Progress Award; 1985 and 1995 was twice included in the national top ten scientific and technological achievements, the project is only four degrees have won national awards. He was awarded the national outstanding experts in the title, and won many national and Beijing model workers, the Chinese printing industry&#39;s highest honor -, Awards and Senze of Bisheng Nobuo Award in 1987, 1995 HLHL Foundation Prize in 2001, the State Supreme Science and Technology Award. <br>'
+);
+
+?>

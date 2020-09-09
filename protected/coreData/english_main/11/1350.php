@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-2-11
+	create time:2013-01-01 21:37:06
+*/
+
+return array(
+'title'=>'&quot;Discovery&quot; lifted off to repair Hubble Telescope',
+'class'=>0,
+'cont'=>'The (Landmarks fifth day of the first month), February 11, 1997, \"found\" lifted off to repair the Hubble telescope. <br> astronaut Mark - Lee (left) and Smith equipment <br> replace \"Hubble\" In February 1997, 11 am, seven U.S. astronauts aboard \"Discovery\" space The aircraft took off, the transformation of the Hubble Space Telescope Space Flight 7 years. <br> from the middle of the night on the 13th to the early morning of the 18th, the astronauts conducted five spacewalks, the replacement for the Hubble, including the Near Infrared Camera and Multi-objective spectrometer and the Space Telescope image spectrograph 11 kinds of new equipment, and repair the telescope on the part of the peeling insulation layer. In the early morning of the 19th, the astronauts will transform a new \"Hubble\" re-released into space. 21 am, U.S. astronauts successfully return to the ground. <br> since the Hubble Space Telescope launched in 1990, a total of more than 20 countries, more than 2,000 scientists only \"space eyes to 110,000 astronomical observations, and 1346 paper have been written on the basis of analysis of the observational data. <br> The following is a design life of 15 years, \"Hubble Space Telescope main achievements of the previous seven years during their service: 1. promote human understanding of the size and age of the universe. 2. Prove the existence of some cosmic galaxy central black hole of ultra-high quality, and the majority of the center of the galaxy are possible existence of black holes. Universe in the visible spectral range, the most in-depth research and observation of thousands of galaxies, to detect primordial galaxy universe was born early, so that astronomers possible to track the history of the development of the universe. 4. Clearly show the existing environment of quasars the brightest celestial bodies in the Milky Way. 5 more clearly elaborated the process of star formation. Universe composed of heavy elements in the process of the birth of early star formation in these elements is a necessary condition of the existence of planets and life. 7 shows the complexity of the composition of the gas shell around the dead star. Many dust discs around young stars in the Orion Nebula detect Earth where the Milky Way there are other planetary systems may form. 9. Hui wooden golden collided with a detailed observations. 10, the Ministry of Civil Affairs of the climate on Mars and other planets in our solar system. 11 found that the presence of oxygen in the atmosphere of Jupiter&#39;s moon Europa and Ganymede. <br>'
+);
+
+?>

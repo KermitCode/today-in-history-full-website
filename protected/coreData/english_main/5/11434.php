@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1948-12-5
+	create time:2013-01-02 02:26:24
+*/
+
+return array(
+'title'=>'Tianjin Campaign begins',
+'class'=>0,
+'cont'=>'December 5, 1948 (Lunar New Year winter and beginning of the month five), Tianjin Campaign began. the <br> Tianjin Campaign began \"target =\" _blank \"> Tianjin Campaign <br> December 1948, the Chinese People&#39;s Liberation Army Northeast, North China Field Army in Peking, Tianjin, Zhangjiakou region of the KMT army launched Tianjin Campaign. [L $ dj¦Ó.c¨­m] the Liaoshen Battle after more than 600,000 Kuomintang troops in the region of Ping-chun, Zhang, and quickly Shousubingli, to attempt seaborne the southern escape or West channeling Suiyuan not to flee in order to stabilize the enemy of Pingjin, Communist China indication of central and Mao Zedong the Northeast Field early secretly entered Shanhaiguan, first surrounded the enemy of Tianjin, Tanggu, Lutai, Tangshan points, pending destroy the deployment is complete, but the main person in charge of Northeast Field Lin Biao refused to implement. corrections in central and Mao Zedong rightist mistakes of Lin Biao, Northeast, North China Field Army Corps and local units of 100 million people, on December 5, 1948, in front of more than 1200 in the Luanxian Zhangjiakou, launched the attack. Liberation Army The enemy isolated and surrounded in Peking, Tianjin, Zhangjiakou, new security, the Tanggu five stronghold December 22 to surround and annihilate the enemy of the new security, the thirty-fifth Army military and two divisions. capture of Zhangjiakou in the 24th, and annihilating a whole Army and seven divisions January 14, 1949, the Tianjin general offensive launched after 29 hours fighting 13 people, wipe out the enemy troops, captured alive and the enemy commander Chen Changjie liberation Tianjin So far, more than 200,000 enemy troops in Peking, completely caught strive impasse, after the People&#39;s Liberation Army, [on www.TodayOnHistory.com] to accept peace adaptation led by the Kuomintang the north \"Suppression total Commander-in-Chief Fu Zuoyi, January 31, the peaceful liberation of Peking, Beiping-Tianjin Campaign ended in victory Battle In addition to the Tanggu ShouDi more than 50,000 people from the sea to escape annihilated and adaptation of more than 520,000 people in the KMT army liberation of North China war basically ended the <br> Tianjin Campaign target = \"_blank\" > Tianjin Campaign November 29, 1948, Tianjin Campaign began, one of the three battles of the War of Liberation. Tianjin Campaign lasted 64 days, were wiped out 52 million adaptation of the KMT army. <br> <br>'
+);
+
+?>

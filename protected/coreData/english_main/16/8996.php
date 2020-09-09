@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-9-16
+	create time:2013-01-02 01:13:18
+*/
+
+return array(
+'title'=>'Beijing&#39;s Olympic bid delegation depart',
+'class'=>0,
+'cont'=>'August started (πÔ”œ years), September 16, 1993, Beijing&#39;s bid to host the Olympic delegation departed. strive to do in September <br> 1993 16, the 27th Summer Olympic Games in 2000, as the honorary head of the vice premier of the State Council, the Beijing Olympic Bid Committee Chairman Chen Xitong headed the delegation of Beijing&#39;s bid for the city this morning left Beijing to Monaco. All members of the International Olympic Committee will vote to decide the host city for the 2000 Olympic Games in Monte Carlo, Monaco on September 23. before his departure <br>, Li Lanqing said in a speech at the airport departure lounge, his current commissioned by the Chinese government to Monte Carlo to the International Olympic Committee reiterated the Chinese government&#39;s bid to host the 2000 Olympic Games to Beijing without reservation, firm and full support, but also to convey the mood of the 1.17 billion people of China for the 2000 Olympic Games hope. <br> He said: \"If Beijing was awarded to host the 2000 Olympic Games for the honor, not only conducive to China&#39;s further opening and progress, but will be conducive to the Olympic spirit to further promote and carry forward in the worldwide, for all the world Learn more about the countries is conducive to China&#39;s understanding of the world. This is a world of peace, friendship and cooperation are very favorable. \"<br> Li reiterated that if Beijing won the right to host the Chinese government will give full support to the human, material and financial resources, to ensure that the Olympic Games a success. <br> Chen Xitong, the theme song of the seventh Games of the People&#39;s Republic of China is a \"star invited pentacyclic\". The shoulder the great trust of the people of the country to go to Monaco, all the members of the delegation will work hard, \"rings\" to secure the invitation to Beijing. <br> delegation consultant, vice chairman of the National Committee of the Chinese People&#39;s Political Consultative Conference Henry Fok Ying-tung also expressed the mood to look forward to the 2000 Olympic flame lit in Beijing. The CPC Central Committee and the State Council of <br> the Political Bureau of the CPC Central Committee, State Councilor Li Tieying delegation went to the airport to see the delegation off. Go to see them off, along with State Councilor and Secretary-General of the State Council Luo Gan, and the relevant ministries of the State Council, Beijing and the Beijing Olympic Committee leaders and the officers concerned. (History TodayOnHistory.com) <br> Beijing&#39;s bid for the city delegation composed by nearly 200 people. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-3-1
+	create time:2013-01-01 22:27:50
+*/
+
+return array(
+'title'=>'The opening of the ASEM',
+'class'=>0,
+'cont'=>'(Rat-month 12), March 1, 1996, the opening of the ASEM. <br> today&#39;s world is increasingly multipolar development has been the formation of the North America, Europe and East Asia, three powerful political and economic areas. The relations between Asia and Europe, is relatively weak. To strengthen the cooperation between the two sides, from March 1 to 2 in 1996, held in Bangkok, Thailand, the first Asia-Europe Meeting. (有身d芋y身里h貝 $ 而身ry.c身m) <br> The meeting was attended by Thailand, China, Singapore, the (history cn) (l $ j而.c里) (history TodayOnHistory.com) Japan, (history Today cn) (l $ j而.c里) (history TodayOnHistory.com) Korea, Indonesia, Malaysia, (Today in History cn) (l $ j而.c里) (history TodayOnHistory.com ) Philippines (history cn) (l $ j而.c里) (on TodayOnHistory.com) Brunei, (history today. cn) (l $ j而.c里) (Today in History TodayOnHistory.com) Vietnam (history cn) (l $ j而.c里) the (history TodayOnHistory.com) British, (history cn) (l $ j而.c里) (history today TodayOnHistory.com) Germany (history, cn) (l $ j而.c里) (history TodayOnHistory.com) France (history cn) (l $ j而.c里) ( on TodayOnHistory.com) Belgium (history, cn) (l $ j而.c里) (history TodayOnHistory.com) Luxembourg (history cn) (l $ j而.c里 ) (history TodayOnHistory.com) Austria (Today in History cn) (l $ j而.c里) (history TodayOnHistory.com) Finland, (Today in History cn) (l $ j而 c里) (history TodayOnHistory.com) Ireland (history. cn) (l $ j而.c里) (history TodayOnHistory.com) Italy, Netherlands, (lssjt.cn) Portugal and the European Union Committee leaders. (L $ dj而.身r阱) four other EU countries, Denmark, (history cn) (l $ j而.c里) (history TodayOnHistory.com) Greece (Today in History cn) (l $ j而.c里) (the history today TodayOnHistory.com) Spain and Sweden sent Foreign Minister. (History cn) <br> meeting by the \"Chairman&#39;s Statement\", the statement stressed that Asian and European countries in the future at the same time to strengthen political dialogue, promote cooperation in economic and other fields. The statement stressed that countries should be mutual respect, equality, mutual non-interference in internal affairs on the basis of political dialogue. <br> leaders also decided to strengthen the academic exchanges, and recognizing the importance of arms control, disarmament and non-proliferation of weapons of mass destruction, and reiterated that the Asian and European countries will strengthen cooperation in the above areas. <br>'
+);
+
+?>

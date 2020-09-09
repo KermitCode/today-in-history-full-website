@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-6-24
+	create time:2013-01-01 23:46:09
+*/
+
+return array(
+'title'=>'General Shao Hua, Chairman of the China Photographers Association, died of illness',
+'class'=>3,
+'cont'=>'June 24, 2008 (May 21, Lunar New Year), the China Photographers Association President General Shao Hua died of illness. of the original military Wikipedia Research Deputy Minister of <br> Academy of Military Science of the Chinese People&#39;s Liberation Army, China Photographers Association Chairman Shao comrades (positive military treatment, the rank of major general), illness is invalid, June 24, 18 in 2008, 28 points in 301 hospitals, died aged 69. <br> General Shao Hua, born in October 1938 in Yan&#39;an, Shaanxi. Her family by the organization in 1939 to go along with his father Chen Zhenya, the Soviet medical treatment via Dihua, brutally warlord Sheng persecution imprisonment. (Lssdjt.cn) in June 1946 returned to Yan&#39;an, Mao Zedong, Zhou Enlai personally rescue Since then marched to follow the revolutionary ranks. After the founding of studying in Beijing in straight Yuying Primary School, Normal female middle school affiliated to Peking University. Married in 1960 with Mao Zedong and Kaihui&#39;s second son Mao Anqing. <br> the field of literature and photography from the 1950s into the lifelong love History Learning, Practicing Chairman family traditions, carefully finishing Chairman and revolutionary predecessors precious historical materials. Published literature and research monographs 60 remnants of more than 1,800 million words, photo albums, more than 20 film and television works. Masterpiece \"I love Shaoshan red rhododendron, the road of\" Mao Zedong \"; the monograph\" China out of Mao Zedong \",\" my mom - Mao&#39;s relatives Zhang Wenqiu \",\" the leader of the people of the poet Mao Zedong \"and a large stamp album\" Mao Zedong \" \"Mao Zedong&#39;s poetry manuscripts collection of stamp books\", \"our fathers Books won the 8th China Book Award and the first\" Youth Award for outstanding books \"; the photography album\" daisy shadow, \",\" charge \",\" Jiao Yang, \" General Shao Hua dance photography art. Large landscape photography album, \"My Motherland\" was awarded the first Bingxin Photography Prize for Literature. <br> served as the Academy of Military Sciences Encyclopedia Vice Minister (being military), the rank of major general; seventh, eighth, ninth and tenth members of the National Committee of the Chinese People&#39;s Political Consultative Conference; serve as Deputy Secretary-General of the Society of Military Science, China Photographers Association President, Chinese women photographers the Chairman of the Association of Chinese Writers Association. 2004 was named the \"National Top Ten Heroine excellence. (L $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

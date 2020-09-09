@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-9-18
+	create time:2013-01-02 01:26:26
+*/
+
+return array(
+'title'=>'IPU Assembly drafting a respect for and protection of human rights resolution',
+'class'=>0,
+'cont'=>'(Rat August sixth days), September 18, 1996, the IPU Assembly to draft a respect for and protection of human rights resolution. <br> 1996 9, 18, ninety-sixth General Assembly of the IPU meeting, the drafting of a resolution entitled \"to further promote the respect for and protection of universal human rights, especially women and children&#39;s rights,\" the resolution. The draft resolution submitted by the Chinese National People&#39;s Congress delegation was elected with an absolute majority of the foundation documents of the resolution. <br> issue of human rights is widely concerned about one of the topics of the conference. The parliamentary delegation of 21 countries submitted a draft resolution to the resolutions of the Drafting Committee, the meeting of the Drafting Committee, the National People&#39;s Congress of China the delegation draft was chosen as the base document. (? V in the history of this?? Com) <br> Chinese delegation, this draft is formulated in strict accordance with the spirit of the Charter of the United Nations and relevant international conventions, as well as developing countries, including China and strive to reflect position and views. The <br> many countries, the delegation said in his speech, the Chinese delegation&#39;s draft is very comprehensive. Some Members have said, be able to provide such a successful draft, which in itself illustrates the protection of human rights, especially women and children&#39;s rights, it is very important. (Lsjt.org) <br> Chinese delegation&#39;s draft resolution called for the strengthening of international cooperation in the realization of all human rights and fundamental freedoms, to promote mutual understanding through dialogue, and jointly promote the protection of human rights on the basis of equality and mutual respect . <br> draft calls upon States to adopt a negotiated peaceful settlement of disputes and differences, and work together to promote economic and social development, and to create a favorable environment for the full enjoyment of human rights of women and children. [L $ j¦Ó.c¨½] <br> thesis that \"the current international economic order is still unfair, hindering the realization of human rights and fundamental freedoms\" in the draft of the Chinese delegation was recognized after the heated discussion. <br> in the discussion, some delegates proposed supplementary regulations should be in the resolution, and the big countries do not abuse the economic sanctions from abuse of human rights of the people of other countries. <br>'
+);
+
+?>

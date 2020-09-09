@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-11-8
+	create time:2013-01-02 01:35:40
+*/
+
+return array(
+'title'=>'Bush was elected the 41st president of the United States',
+'class'=>0,
+'cont'=>'November 8, 1988 (September 29) Boshin years, George W. Bush was elected the 41st president of the United States. <br> George W. Bush became the 41st president of the United States <br> 1988, the 1988 presidential election in the United States revealed: Vice President George Bush defeated the Democratic candidate, Massachusetts Gov. Michael ¡¤ Dukakis was elected the 41st president of the United States of America. <br> Bush swept across the southern states in the November 8 last contest winning key battles Midwest, to make the rivals Dukakis lost the traditional base of the Democratic Party. Until this day, Bush had 341 electoral votes, just get elected President of the United States more than half of the more than the total number of electoral votes under (538) (270 electoral votes). <br> Bush&#39;s running mate, 41-year-old Indiana Senator Dan Quayle was elected Vice President. <br> according to the U.S. Constitution, the newly elected president and vice president was sworn in on January 21, 1989. <br> George Bush&#39;s full name is George Herbert Walker Bush, in June 1924, was born in Milton, Massachusetts, the home of a noble family, his father is a bit successful Wall Street banker, also worked for 10 years in a row then U.S. Senator. <br> Bush in June 1942, graduated from Phillips Andover, Massachusetts schools. In the same year, Bush became a soldier of the U.S. Naval Air after 10 months accelerated training, they flew to the Pacific to participate in the war against Japan. September 2, 1944, George W. Bush ordered the bombing of the Japanese base, he accomplished the task, but his plane was hit, Bush bailed out after struggling in the sea a few hours was only U.S. submarine rescued, for which he won the air combat meritorious Cross. In early 1945, Ms. Bush and Barbara Pierce married. (L $ dj¦Ó.¨­r¨À) <br> after the end of World War II, Bush entered Yale college, graduating with honors in 1948, was a bachelor&#39;s degree in economics. Starting from the early 1950s, Bush&#39;s Texas operating offshore oil and offshore drilling equipment industry and become a millionaire. <br> 1966 Bush abandoned business for politics, success in the seventh constituency election in Texas House of Representatives, was re-elected two years later, a former member of the House Ways and Means Committee. 1971 to 1973, Bush, then U.S. ambassador to the UN; January 1973 to September 1974, he served as Chairman of the Republican National Committee; October 1974 to 1975, served as the U.S. Liaison Office in China, serving 13 months; 1976 January to January 1977, the Central Intelligence Agency (CIA) of the United States; 1980 and 1984, the Bush and Reagan twice mate to win re-election to the post of Vice President. <br>'
+);
+
+?>

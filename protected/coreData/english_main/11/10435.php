@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1851-11-11
+	create time:2013-01-02 02:25:52
+*/
+
+return array(
+'title'=>'The Yu Shi Wangmao Yam propose Please change the imperial examination',
+'class'=>0,
+'cont'=>'November 11, 1851 (September 19), Xinhai, Yu Shi Wangmao the Yam propose Please change the imperial examination. , <br> 1851 11 11, Yu Shi Wangmao Yam memorialized the Qing government, please change the imperial examination. <br> the Wang Maoyin (1798-1865), Anhui Shexian, the Daoguang jinshi. 145 years, he served as Censor, the Ministry of Shilang also responsible money Hodo affairs and other staff. After the Opium War, he the British harboring evil intentions, should be earlier in the talents of the party, according to the former Governor of Guangdong and Guangxi played three games in the imperial examination micro asked instead with five questions (Broadcom history Kam, mastery of military strategy, the system is through operator , yin and yang that know the account for climate, well versed in the Geography of the case), and cite abundantly Paul. Result, the Ministry of Rites meeting not, early next year, the sparse Chen played on, do not report. July 9, 1858, (history today. Cn) petitioned Reposted. Wei Yuan Haiguo, to make Prince minister imperial clan the Eight Banners be a teaching, and complex work the Examination, before Wubei, open Scholars the way. The Wang Maoyin respected Haiguo \"the landlord class intellectuals With requires an understanding of the world, focusing on the progressive ideological tendency to study practical problems. But Wang Maoyin the reason discussed in Volume I of \"Das Kapital\" the only minister of the Qing Dynasty, it is because of his economic ideas. In 1851, Wang Maoyin advocate notes outstanding, should pay, the urgent needs of the river, but was not adopted. Censor and left in 1853 to spend Sana&#39;a Articles of the Protocol on the issue of the official notes, and painted banknote to further against Imperial Household Minister Sushun and other cast when ten, \"When fifty\" hundred \",\" When 500 \",\" When the thousand, \"the idea of &#8203;&#8203;the big money. Pointed out that the functional set the value of money, but not limited to objects of value \", otherwise it would cause inflation and rising prices. Also to Shuqing be issued in the following year and Exchange Banknote convertible Banknote instead, and provides for maximum issue amount to \"pass Offers, Lee transporter, to prevent inflation. The results violated the the the Qing rulers by abuse coinage to plunder the people&#39;s interests. Qing Yan dismissed as \"indifferent to the affairs of state\", Patent merchants. 1858 disease-free. Ministry of War, Ministry of Personnel Shilang rank Tongzhi early reinstatement, look for small worries return, and died in the home. There are the \"Wang Shilang memorials. <br>'
+);
+
+?>

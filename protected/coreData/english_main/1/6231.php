@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-7-1
+	create time:2013-01-01 22:54:35
+*/
+
+return array(
+'title'=>'The Wang&#39;s Government Kiyosato Committee began the implementation of &quot;Kiyosato movement&quot;',
+'class'=>0,
+'cont'=>'(Government House in June, the seventh day), July 1, 1941, the Committee on the Wangshi Government Kiyosato start the implementation of \"Kiyosato sports. Puppet Regime district begging <br> family <br> 1941, the Committee on the Wangshi Government Kiyosato start the implementation of \"Kiyosato sports. <br> invading Japanese army in order to consolidate its rule in the central region, inspired Wang&#39;s regime was set up in May cleared Township Committee, (L $ dj¦Ó.c¨­m) the Wang Jingwei any chairman Gongbo week Buddha insult vice members long Li Shiqun any Secretary-General, responsible for directing the \"Kiyosato movement\", responsible for the movement by the Japanese army in the military with the puppet troops, on the political front by the Wang&#39;s regime responsible for. The Kiyosato Movement \"military and political times, suppressing and comforting and carrot\", \"one-third of the military, the seventh of the political\" for the principle of Day to carry out naturally. Is from Sunan first, followed in the Taihu Lake southeast, the Shanghai suburbs Suhuai special, other districts next commence in Zhenjiang, parts of northern Jiangsu and Zhejiang, the final implementation of some areas in Anhui, Guangdong, Hubei. <br> Kiyosato movement \"The first step is the military cleared Township: Japanese and puppet troops in Kiyosato built a blockhouse blockhouse blockade ditch, blockades, bamboo fence, pull set up barbed wire grid segmentation and block the anti-Japanese base areas, then the implementation of the \"mop-up\" anti-Japanese base; second step is political Qing Township: Wang&#39;s regime in Kiyosato widely publicized \"Sino-Japanese rapprochement\", \"peace founding of the PRC, while the masses publicity, the implementation the marshalling baojia, even sit UNPROFOR, the formation of the police security armed, surrendered to implement and instigated informant, in order to strengthen the fascist rule; The third step is the economy clear town: puppet regime Kiyosato implementation of strict materials the dirigiste and supplies embargo policy, imposing an economic blockade of the anti-Japanese base; fourth step is thinking Qing Township: Wang&#39;s regime in Kiyosato establish institutional control schools , published in newspapers and magazines, the organization \"youth group\", to carry out the anti-communist education. <br> Comments: seems Wang Jingwei Quxianjiuguo&#39;s point of view is untenable. <br>'
+);
+
+?>

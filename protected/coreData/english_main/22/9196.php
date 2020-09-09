@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1606-9-22
+	create time:2013-01-02 01:49:12
+*/
+
+return array(
+'title'=>'The late Ming peasant uprising leader Li Zicheng birth',
+'class'=>4,
+'cont'=>'September 22, 1606 (Heigo August 21), born in the late Ming peasant uprising leader Li Zicheng. Li Zicheng (1606 -1645 years?) <br> Li Zicheng birth \"target =\" _blank \">, formerly known as Sun Hung Kai, known as Chuang Wang, Chuang Li China Shaanxi the Mizhi Li moved to Walled people late Ming and one of the rebel leaders, the Dashun regime the Creator. <br> Li Zicheng, late Ming peasant uprising leader formerly known as Sun Hung Kai. childhood for Dynasty became the emperor when Li moved to Walled native Shaanxi Mizhi Li moved. to landlords shepherd (some say the family is very wealthy), who has Yinchuan posts went Chongzhen (1629) 2012 uprising, after his men Zicheng Gao Yingxiang the pathbreaker, brave know slightly. Xingyang eight Assembly, raised ·Ö±ø the directional, the four DuiGongZhan the program, endorsed by ministries chief reputation Day the following year after the sacrifice of Gao Yingxiang Following the said Zicheng. eleven in Tongguan defeated, only rate Liu Zongmin more than ten people Concealed Luo Congshan in ( Border Region in Henan and Shaanxi) the following year coming resurgence in thirteen years. trapped in the the Brazilian belly of the fish mountain (the abdomen one for complex), riding breakout at 50, enter the Henan Zhongyuan famine severe, sharp class contradictions extreme. Li Yan asked the slogan \"the Juntian Free Fu\", the majority of the people welcomed spread \"Chuang Wang Ying, do not pay taxes,\" the songs. forces development to the millions of the public, become the main force in the peasant war. Chongzhen 10 2006 (1643) New Shun Wang said in Xiangyang same year in Henan Yu Chau (now linru) annihilated the Ming Shaanxi Governor Sun Chuanting main spin up a victory occupied Xi&#39;an and the following year the first month, establishing Dashun regime reign Yongchang soon overcome, overthrow of the Ming Dynasty. forced anti Sangui the Manchu nobles entry, joint offensive peasant army leaders have committed the error of pride in the victory of the rebel army, the persecution of the families of Sangui against defeat, out of Beijing, led his army in Henan, Shaanxi Fight. in Yongchang 2002 (1645) in Hubei through the mountain Jiugongshan visits terrain, Li Zicheng mysteriously disappeared, another rebel Li Zicheng remnants surrendered to the Qing Manchu continue to resist the Qing struggle. <br> Comments: can be called generation of dignity. <br>'
+);
+
+?>

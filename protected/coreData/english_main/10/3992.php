@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1955-4-10
+	create time:2013-01-02 09:05:05
+*/
+
+return array(
+'title'=>'Beijing Zoo officially named',
+'class'=>0,
+'cont'=>'April 10, 1955 (March 18), Yi Wei, the Beijing Zoo was officially named. <br> filed Beijing Zoo, almost everyone knows, Speaking three Kaiko Garden, Wan Sheng Garden, Central Experimental Farm, however, in addition to more familiar with \"old Beijing\", young people and outsiders fear felt at a loss . In fact, the the few title refers to the Beijing Zoo. Beijing Xizhimenwai <br> Ming Dynasty, the road leading to the Xiyuan have a royal manor. Kangxi Zhuang named \"Fu Zhuang, Jiaqing years, changed its name to\" nurturance Park, the west side of the park for the the Manchu nobility the solid mountain Kaiko ancestors left a garden, it is called \" Three Kaiko garden. \" The Manchu nobility known as \"Baylor\", later Prince Dukes. \"Baylor&#39;s son was to win the title, will be called\" Kaiko \". Three Kaiko Garden is in Fukang An Beizai, three sons, a Qing Dynasty Dukes Private Mansion and Garden. Three Kaiko garden a few and its owners, received Guangxu five years for the Qing court, into the \"nurturance Park. Guangxu twenty years, the Empress has set aside millions of taels of silver trimming three Kaiko Garden, named \"Central Creek villa. Eight-Power Allied Forces invaded Beijing, the garden was a barbaric destruction. Guangxu three decades, the number of ministers to please the Empress, bought back from abroad, tigers, lions, zebras and other animals. At this time, to coincide with the Department of Agriculture to engage in farming trials in three Kaiko Garden, so bought these animals were placed in the park, the Wan Sheng Garden \"hence the name, which is the oldest zoo in Beijing. 1908, Guangxu 30 years, Wan Sheng Garden began ticketing business. Park concurrently engaged in agricultural experiments, it was renamed the Central Agricultural Experiment Station. At that time, the park animals on display is very small, not many types of animals. <br> this century, the thirties, warlords, domestic class conflicts million animal park situation year after year. The funds dwindling, plus the corrupt officials layers deduction, resulting in the animals in large number of deaths due to starvation, fewer visitors. Liberation to Beijing, the park only ostrich a very small amount of animal. <br> founding of New China, the People&#39;s Government of the Wan Sheng Garden massive renovation and expansion of the park a new look. April 10, 1955, it was officially named as the Beijing Zoo, the oldest zoo in the country open. Beijing Zoo now has become a tour ornamental resort, the place of knowledge. Many countries donated to our gift animal is here the exhibition has become a symbol of the friendly exchanges between our people and the peoples of the world. In addition, the Beijing Zoo or animal science research base of enthusiasts. <br>'
+);
+
+?>

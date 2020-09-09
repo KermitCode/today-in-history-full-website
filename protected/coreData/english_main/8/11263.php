@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1957-12-8
+	create time:2013-01-02 02:02:21
+*/
+
+return array(
+'title'=>'Indonesia announced controls the estate and opened bank planted by the Dutch in Indonesia',
+'class'=>0,
+'cont'=>'December 8, 1957 (, Ding October 17), Indonesia announced that the control of the the Netherlands planted in Indonesia manor and opened bank. <br> 1957, announced, of all Dutch plantations in Indonesia as well as plantations subsidiary factories and agricultural experiment station shall be implemented by the Government of Indonesia Indonesian Prime Minister and Defense Minister Zhu Anda as the highest military power helm controls. <br> Army Chief of Staff Nasution and Finance Minister Tesla Mette issued a joint statement in September, announced a small public banks, Anda Bank and also the three soil Public Bank ABN Amro Jakarta head office and in other places branches of military control. <br> In addition, in East Java, West Java, North Sumatra and Sulawesi, Makassar, Indonesia, workers and youth took over the Dutch bank and enterprise, to oversee the implementation of these banks and enterprises. <br> So far, the Indonesian people&#39;s struggle for the liberation of West Irian, Indonesia government control, as well as workers handed over to the government after the takeover of Dutch companies: all plantations in the Netherlands, three big banks four steamship companies, including Royal Dutch shipping company in the Dutch top five Matheson Jade Murray, International, Accor Valley Johnson and Mu Niang four major Matheson. Jakarta, Palembang, hotels, clubs, libraries and factories taken over by the workers. In addition, in the most productive areas in North Sumatra and other military authorities ordered the local Dutch companies to implement controls. <br> has control and has announced that control of the Netherlands accounted for most of the monopoly in the Netherlands, Indonesia. Because the major oil companies, Petroleum Batavia, a Dutch joint venture in the United Kingdom and the United States, it has not to touch it. <br> Currently, all regulated enterprises are still in the usual work, workers in Indonesia are closely guarded supplies and equipment in the enterprise. <br> the Indonesian government has not decided to be regulated Dutch nationalization or confiscation. The government said that the future may solve the problem in West Irian to study how to deal with the problem of these enterprises. The Government of Indonesia may be the attitude of the Dutch in West Irian issue to decide whether to be paid a sum of appropriate compensation for Dutch companies. (Lssdjt.cn) <br>'
+);
+
+?>

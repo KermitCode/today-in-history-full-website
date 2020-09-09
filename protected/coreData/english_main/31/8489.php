@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1870-8-31
+	create time:2013-01-02 01:11:13
+*/
+
+return array(
+'title'=>'Italian educator Maria Montessori was born',
+'class'=>4,
+'cont'=>'On August fifth day (Gengwu years), August 31, 1870, Italian educator Maria Montessori was born. August 31, 2011 <br> 1870, Maria Montessori was born \"target =\" _blank \"> Montessori was born in the province of Ancona, Italy, and his father is a conservative-minded soldiers. she was 13 years old to enter the engineering school of engineering group studying (at that time very few girls to enter engineering group) йд йд generated great interest in mathematics, which is the future she believes that the development of the mathematical mind \",\" culture abstract the ideological source of the ability to think the best way to \"20-year-old graduate from Davinci University of Technology to attend school during the natural sciences and modern languages &#8203;&#8203;йд йд She later the development of language and natural science teaching methods, and planted a good knowledge foundation . <br> Montessori to her talent and fighting spirit, broke through all the ordinary people difficult to overcome the shackles of 26 years old to become Italy&#39;s first female MD summa cum laude, reputed in the country; actually a prevailing social prejudices against women can not be changed, only as a physician assistant in the psychiatric clinic of the University of Rome. began to study the treatment and education of children with intellectual disabilities, in 1906, because of a chance, the support of the Association of Roman excellent building for her opportunity to bring research and to enhance the intelligence of normal children in the world: <br> 1907 January 6, 2011, the first children&#39;s home in Rome&#39;s the slums Sang Luolun multi District was officially opened, (the history of Today www.TodayOnHistory.com) three months after the second of the Montessori \"children&#39;s homes\" have been established for Montessori here for these mental children, heart developed to promote mental development various aids to enhance human intelligence, to explore the infinite potential; appreciate the role of teachers should also observed here, the world-famous Montessori Method. Montessori in 1912 to the United States by the Edison etc. celebrity welcome her education law Expo in San Francisco, the show has been its only both sides of a gold medal. During World War II, Montessori, although forced to leave her homeland to India, but her children home \"and teacher training units, after the war, but quickly spread around the world. <br> 1952 5, 6, died in the Netherlands Knut Vic, at the age of eighty and two years she is not only a famous scientist more great educator, life for children, for the revival of the human spirit and human development, devoted all her wisdom and life. <br>'
+);
+
+?>

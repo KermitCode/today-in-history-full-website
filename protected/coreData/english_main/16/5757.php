@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1922-6-16
+	create time:2013-01-01 22:58:51
+*/
+
+return array(
+'title'=>'Chen Chiung-ming shelling of Sun Yat-sen',
+'class'=>0,
+'cont'=>'June 16, 1922 May 21 (Saigon), Chen shelling of Sun Yat-sen. The retreat Yong Feng, Sun Yat-sen, <br> command counterattacks <br> 1922 6 16 morning, Chen Chiung-ming forces, more than 4,000 people are suddenly surrounded the presidential palace to the Sun Yat-sen lived in Guangdong show floor fire. on <br> 15, the Guangdong Army commander leaves cite Chen Chiung-ming secret order received military conference held in the Baiyun Mountain, decided the bear slightly siege commander, Hong Zhaolin as a vanguard, began the siege of the presidential palace. The morning of the same day, Chen Ce respective owners SUN captain meeting convened an emergency. A research contingency measures to determine Chen Ce treasure wall ship JiangFang Fleet Command, Gejian kept in strict vigilance. <br> Subsequently, Chen Ce illness went to the Presidential Palace Cantonese show floor, with the situation critical. Sun Yat-sen kindly invited to visit the fleet, so Chen Jun mutiny ordered crusade. Sun Yat-sen not been able to make up the decision. Chen Ce speed back to the fleet command the each warship Stoke anchor into the state of combat readiness, ready to strain. (Lssjt.cn) <br> at 17:00, Sun Yat-sen is still danger of change, guards, head of Chen Yu, had said: \"I race kept the (Chen Jiongming word) in recent days there is still Telegraph roundtrip to discuss Guangdong and Guangxi armaments may his subordinates arrogant soldiers hatchetman borrowed name cable angry, hard authorities rates Qing made understanding can be returned to their anti- Competing save life personality as a guarantee, I believe he did not dare to do things guilty of disorderly, and I scheduled tomorrow back to Shaoguan, Is tonight will be something you had that willing? \"<br> 15 on the evening after midnight, the rebels first occupied Shijing Bing factory, then surrounded the presidential palace, Sun Yat-sen lives are at stake. Policies in Tung Chung Jin Jiang F, hearing the news, worry about jumping from the second floor, Ben rushed back to the fleet, command approaching the wall of the ship in Long Beach Tianyu near the pier, ready to collusion of Sun Yat-sen. When the Office of the President to join the army Linshu Wei, secretary Lin straight Mian informed dangerous, and urged Sun Yat-sen to evacuate the danger zone. (On TodayOnHistory.com) <br> They support, Sun Yat-sen left Yue Xiu Building, on the way who have been rebels twice inventory, but finally arrived safely causeway Tianyu Terminal, ride boats boarded has already liter the fire anchor waiting Bao wall ship. 17, Sun Yat-sen turn Teng Yong Feng and messages, discussions Chen. <br>'
+);
+
+?>

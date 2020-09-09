@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1947-1-25
+	create time:2013-01-01 21:21:01
+*/
+
+return array(
+'title'=>'Famous Chicago gangster Capone died of stroke',
+'class'=>0,
+'cont'=>'January 25, 1947 (first month of the fourth day of Chinese New Year), the famous Chicago gangster Capone died of stroke. the <br> Capone died (history. cn) police can breathe Al Capone gang <br> ¡¤ The Godfather - Chicago king: power Time :1925-1931 < ; br> Capone era mafia Acts windbreaker, hidden submachine gun fights with grenades open, tough and brutal style of the other gang appalled. Capone personally get rid of at least a hundred times less than a hundred people lucky enough to escape the ambush. Capone left for mafia heritage: heavy machine guns, so that more than assault rifles; on time to pay taxes to the federal government;, and you have to wear a condom when having sex. <br> when part of the mafia disciples came to Chicago to become the nation&#39;s highest crime rate in the city, this is the second largest city rapidly replacing New Orleans. Al Capone Mafia thugs era \"doing my sign. (L $ j¦Ó.c¨½) <br> Capone is not Sicilian, he was born in Naples, Italy. However, when Capone Kill 322 opponents in 10 months continuous, he upgraded to the first non-Sicilian-American Mafia godfather. (1 $ dj¦Ó.c¨­m) <br> 1928 presidential election, Chicago vice squad captain Luote Shi find Capone, asking him not to intervene in the presidential campaign. Capone agreed, in return, the police promised to try not to, such as the murder of a small harassment Capone and his men. <br> However, Capone committed an error: Capone made a mistake: he can murder and arson, but shall promptly pay taxes on time. To pay protection money to the federal government is the only free-living citizens in exchange for a prison outside federal tax department in this regard has more experience than the Mafia. A federal tax detective stumbled across a casino controlled by Capone conceal income. So immediately instructed Capone checked Dier out in 1931, Capone and 69 other mafia only brought to court. In theory, they face penalties of 2.5 million years in prison. <br> Capone with five million U.S. dollars compensation taxes, Chicago authorities agreed, but was rejected by the federal judge. The Capone men with guns, and the stack of banknotes visit the 12 jurors to the upright judge, however, the day before the hearing was appointed the new jurors. Finally, Capone conceal personal income sentenced to 11 years&#39; imprisonment. Capone <br> prison remains the dignity of the king, the woman became his dispatch depressed only hobby. Unfortunately, due to security issues, he contracted the unhealed type syphilis completely turned into a eunuch. In 1939, Capone illness were released with a five million U.S. dollars to come to Florida to spend your life in bed for the last 8 years. January 25, 1947, Capone died, police can relax. <br>'
+);
+
+?>

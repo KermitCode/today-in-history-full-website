@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1621-11-30
+	create time:2013-01-02 01:59:54
+*/
+
+return array(
+'title'=>'The late Ming extravagance Chongming rebellion, the establishment of the the girders country, known as the &quot;the extravagance Ann Rebellion&quot;',
+'class'=>0,
+'cont'=>'November 30, 1621 (yau, October 18), the late Ming and extravagance Chongming rebellion establish girders country, known to history as the \"extravagance An chaos. , <br> 1621 11 30 - the Ming Dynasty the Yongning Xuanfuci extravagance Chongming rebellion in Chongqing, the establishment of the girders country, known to history as the \"chaos of extravagance Ann\" target = \"_blank\"> extravagance Ann Rebellion & rdquo ;. contradiction <br> late Ming society, the war in frequency since the to the Tian early years not only Jintai Bing arrives, things tight in Liaodong, and southwest of peasant uprisings and toast insurgency intensified. The extravagance An event that war against Ming the late Ming Yi toast extravagant Chongming, An Bangyan launched. The chaos in Guizhou, also known as Ann Emirates. The extravagance of Chongming Department Sichuan the Yongning XuanFuShi make, An Bangyan Department of Guizhou Xuanwei Si sub-prefect. Extravagance, security system Sichuan, Guizhou toast. Apocalypse the first year of the Ming court water diversion West and Yongning Bingfu the Liaodong war provoked revolt. From the the apocalypse first year to Chongzhen decade, the war lasted 17 years, spread to the four provinces of Sichuan, Guizhou and cloud Gui, dead and injured over a hundred million, large-scale war for nine years. The war, the Sichuan governor Xu Rectifiable the victims, the victims governor of Guizhou Wang Sanshan southwest commanding the prime minister of the crown Luqin defeat in committing suicide, Guizhou Chief General killed in Guiyang City. Finally, late Ming generals Zhu Xie Yuan Binh Dinh. <br> rebellion, Guiyang siege for six months, the soldiers and the people eat, reportedly fled to Guiyang city of four hundred thousand, and finally eat more than 20,000 people left, Chief General Zhang Yanfang public organizations homicide, human flesh four pounds of silver twelve. Summit Water <br> rebellion Xi&#39;an&#39;s family for 37 years, from the first year of the Later Han Lite to the Qing Dynasty Emperor Kangxi long World Water West, 1474. Deep foundation in the West Water has a long history, the Quartet marriage, most troops largest geographical. Yang sowing chaos of the southwest of counter-insurgency in the past, the Ming Dynasty are all relying on the West Water. Early as extravagant security chaos of 20 years, not Angle, even with mediocre Qian Bing, Guiyang already slumped. <br> Reviews: late Ming and social chaos <br>'
+);
+
+?>

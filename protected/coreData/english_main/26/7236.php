@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-7-26
+	create time:2013-01-02 00:25:40
+*/
+
+return array(
+'title'=>'Potsdam Proclamation published',
+'class'=>0,
+'cont'=>'July 26, 1945 (, Yiyou June 18), issued the Potsdam Proclamation. Emperor of Japan in Parliament in <br> 1945 August 14, 2011, announcing the acceptance of the Potsdam Proclamation and surrendered to the Allies. (Lssdjt.com) <br> Potsdam Proclamation, the full name of \"the United States and Britain to promote so Potsdam Proclamation, Japan surrendered, also known as the Potsdam Declaration. In the United States and Britain on July 26, 1945 meeting in Potsdam. Formally joined the Soviet Union the same year on August 8. Main elements: 1. Allies in the war against Japan until it stops the resistance so far, the Japanese government should immediately announced the unconditional surrender; \"Cairo Declaration\" must be implemented, and Japanese sovereignty shall be limited to the islands of Honshu, Hokkaido, Kyushu, Shikoku and allies of the decision of the other island; 3 Japanese army to complete the disarmament, must permanently eradicate Japanese militarism; Japanese war criminals will be brought to trial, to prevent the Japanese people&#39;s democracy must eliminate all obstacles; 5 are not allowed Japan to maintain available the rearm industrial. Potsdam Conference Berlin Conference. The three heads of the Soviet Union, the United States, Britain and Stalin, Truman, Churchill (later Attlee) and three abroad longer than July 17, 1945 to August 2, held in Potsdam. The meeting agreed to the recommendation of the Soviet delegation by the principles and other relevant decisions of the German question, including the establishment of the foreign ministers&#39; meeting, the occupation of Germany, the basic political, economic principles, German reparations, Poland western borders, control of the Black Sea Straits of Italian policy, brother Disney Fort Finally, let Luo, Paul, Hungary, Finland and the Soviet Union, policy, war criminals, Austrian territory hosting and participating in the United Nations Organization. Berlin (Potsdam) Conference Protocol and signed the \"Berlin communiqu¨¦ of the meeting. The two are basically the same document known as the Potsdam Agreement. In the United States and Britain also issued the Potsdam Proclamation promote Japanese surrender. <br> Potsdam in eastern Germany city. Located in Berlin southwest about 27 public Lihaweier Riverside. 14th century to build the city, 18-19th century for the King of Prussia garrison city and summer palace. Tourist destination, about 200 million people a year tour. <br>'
+);
+
+?>

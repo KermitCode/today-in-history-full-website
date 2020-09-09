@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1929-11-12
+	create time:2013-01-02 01:53:08
+*/
+
+return array(
+'title'=>'Hollywood film star Grace Kelly was born',
+'class'=>4,
+'cont'=>'November 12, 1929 October 12 (Baba), Hollywood star Grace Kelly was born. In November in 1929 <br> death of Hollywood star Grace - Grace Kelly \"target =\" _blank \"> Kelly was born <br> Grace - Kelly <br> 1929, November 12 Sunday, November 12, 1929, Grace - Kelly was born in Philadelphia a Catholic family born in the United States, she is only a screen princess suddenly becomes the star of the first lady. <br> she only shot 11 films, from the film, but also a short span of five years, however, almost par with Ingrid - Bergman and her beautiful, pure, luxurious and full of passion (the l $ j而.c里) Hitchcock praised She is a bit \"actor does not need make-up, she made the film becomes brilliant, gorgeous. \"<br> Grace - Kelly&#39;s father, John-B-Kelly have gone through hardships among the ranks of the thousands of millionaires. Passion for sports and Irish descent, 7, 1920 Olympic Games, won the men&#39;s sculls race boat gold medal swimmer Margaret married, determined to make their children are training to become sports champions, live up to expectations for the family. weak constitution Grace is a shy, introverted girl, do not love sports from childhood, which his father, rather disappointed. Years later, the old Kelly told reporters: \"If anyone prophecy, my four children in the future, the most promising is the nail in the coffin for parents pension Grace, that in any case it is difficult to believe. (Lssdjt.cn) <br> Grace 7 years old, suddenly developed an interest in sports, her every weekend we plunge into the waves of the sea to swing exercise, and they often went to the tennis court her on a nun the boarding school Yuanban, play in the performance of the program in the Virgin Mary. the many seen performances stills, people say, this girl will be the stage Rookie. was 11 years old, she formally ask the parents to as an actor. The following year, (Lssdjt.com) written by her uncle George - Kelly Broadway repertoire prohibits the keeping of animals \"play an important role, she kind of threw himself into good ability to comprehend the director intended in 12-year-old actor very rare, local newspapers played an eye-catching title: John-B-Kelly&#39;s daughter Grace Miss withstood the baptism of the stage lights. (而身d芋y身里h貝 $ 而身ry.c身m) <br> 1947, Grace from renowned Steven Louis School graduate from high school, she refused to marry a son of officials and businessmen, the candidates the Academy of Dramatic Arts in New York, the examiner wrote in the admissions review column: this remarkable child is like a flower. <br>'
+);
+
+?>

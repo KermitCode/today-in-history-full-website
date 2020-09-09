@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1975-6-19
+	create time:2013-01-01 23:14:39
+*/
+
+return array(
+'title'=>'The first World Conference on Women held in Mexico',
+'class'=>0,
+'cont'=>'(Mao, May tenth day), June 19, 1975, the first World Conference on Women held in Mexico. the first World Conference on Women <br> the opening ceremony scenes <br> 1975 June 19 to July 2, the first World Conference on Women, held in the Mexican capital. The conference is the first time since the founding of the United Nations devoted to women&#39;s issues worldwide intergovernmental meetings, but also one of the important activities of the International Women&#39;s Year \". the <br> Conference adopted the \"Declaration on the equal status of women and their contribution to the development and peace\" (referred to as the \"Mexico Declaration\") and the World Plan of Action for the realization of women&#39;s annual target, \"(referred to as the\" World Action Plan \"), to the United Nations suggested that declared 1976-1985 as the UN Decade for Women. <br> according to the recommendations of the first general meeting of the Second and the Third World Conference on Women, scheduled on July 14 to 31, 1980 and 1985 13 26 May in the capital of the Danish capital of Copenhagen and Kenya Nairobi. The Second Assembly of the review and evaluation of the first half of the achievements of the United Nations Decade for Women. Third General Assembly considered the progress made to achieve the overall goal of the decade, by \"the Nairobi Forward-looking Strategies for the Advancement of Women in 2000.\" <br> Chinese government has always been to be the enthusiastic support of the United Nations Women&#39;s Affairs. In January 1991, the Chinese government sent a letter to United Nations Secretary-General, to apply for the Fourth World Conference on Women held in Beijing in 1995. August 28, 1992, in charge of the preparatory work of the General Assembly of the Organizing Committee was formally established. Under the leadership of the State Council, in close coordination between the various government departments, actively preparing conscientiously fulfill the obligations of the host country. <br> 1995 Fourth World Conference on Women in Beijing in September, successfully held. <br> June 1993, the vice chairman of the Standing Committee of the National People&#39;s Congress, chairman of the All China Women&#39;s Federation Chen Muhua the Great Hall of the People in Beijing, met with the Secretary-General of the United Nations Fourth World Conference on Women, Ms. Mongella <br> August 30, 1995, (l $ j¦Ó.c¨½) for the first time on the opening ceremony of the NGO Forum on Women in Beijing, Secretary-General of the World Conference on Women the Helvey ¡¤ Xi Pila in speech <br>'
+);
+
+?>

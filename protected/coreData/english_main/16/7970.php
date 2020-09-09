@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-8-16
+	create time:2013-01-02 01:07:16
+*/
+
+return array(
+'title'=>'Vietnamese August Revolution began',
+'class'=>0,
+'cont'=>'(, Yiyou July ninth day), August 16, 1945, the Vietnamese August Revolution began. <br> 1940 Japanese invasion of Vietnam, the Vietnamese people set off the anti-Japanese struggle against France. In June 1941, Vietnam Independent League (Vietminh) established unity of the people of the whole country, to carry out armed struggle to establish revolutionary base in northern Vietnam. In early 1945, the anti-Japanese national salvation movement gradually climax, gradually expand the liberated areas controlled by the Communist Party and the Vietminh. The victory of the world anti-fascist war situation, August 12, 1945, the Viet Minh issued a the uprising warrant. August 13 to 15, the Communist Party in the province of Tuyen Quang trendy national conference decided to concentrate the power of the unified command, the uprising in a timely manner. August 15, Japan surrendered. August 16 to 17, the Vietnam Independence League to the National Assembly held in trendy proposed to seize power, the establishment of the Democratic Republic of Vietnam, on a completely independent basis, ten policy of armed people and democratic reform, elected as the Chairman of the Ho Chi Minh The national liberation Commission, and Giap Chairman uprising Committee, decided to seize national government before the Allied forces moved into Vietnam from the Japanese hands. Ha Tinh, the first uprising of the people of generalized provinces. On August 16 of the same year, the Vietnamese People&#39;s Liberation Army to overcome Taiyuan, opened the uprising prelude. August 19, the Hanoi People&#39;s uprising to seize power. August 23, the middle of the ancient capital of Hue Uprising, the 25th largest city of the southern Sai Kung uprising after another victory. From August 17 to 28, and 60 provinces and cities nationwide uprising has, from the South to the North to establish a new regime. 27, 2009, the National Assembly of Vietnam has decided to set up a provisional government of the Democratic Republic of Vietnam, elected Ho Chi Minh as President. 30, the last emperor, Bao Dai, Nguyen Hue abdicated. August Revolution victory in the country. September 2, Ho Chi Minh, on behalf of the interim government took the \"Declaration of Independence\" in Hanoi Ba Dinh Square celebrating Assembly, announced the overthrow of colonial rule for 80 years and thousands of years of feudal autocracy, the abolition of all the privileges of the French in Vietnam, and declare Vietnam independent Democratic Republic of Vietnam was established. August Revolution opened up a new chapter in the history of Vietnam. <br>'
+);
+
+?>

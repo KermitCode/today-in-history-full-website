@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1861-9-2
+	create time:2013-01-02 01:23:24
+*/
+
+return array(
+'title'=>'Sino-German treaty of commerce signed in Tianjin',
+'class'=>0,
+'cont'=>'September 2, 1861 (, yau July 28), the Sino-German treaty of commerce signed in Tianjin. <br> Britain and France launched the Second Opium War and the signing of the Treaty of Tianjin, also inspired Deutsche begging desire to grab privilege from China. Then Germany is not yet unified Prussia is the strongest. Prussia sent an expedition, including one headed by Yilin Bo diplomatic missions and three warships, the German states outside the (history TodayOnHistory.com) representatives of Prussia and Austria, in China and Britain, France Shikoku in the United States, Russia and China the same rights and status, and not hesitate to adopt hostile demonstrations contract stress Qing government negotiations. The Prussian expedition starting in early 1860, 1861 (Xianfeng eleven years) in March to reach Shanghai soon reach Tianjin. May, <br> 1961 Pfrang negotiating contract matters, both on the threat to the Qing government, the Qing government lured. Negotiations for more than three months, Finally, the Qing government under pressure to compromise. September 2, the Qing dynasty Premier minister of national affairs Yamen Chong Lun Prussia and the German states on behalf of Yilin Bo signed a treaty of commerce. (L $ dj¦Ó.¨­r¨À) <br> in general \"in the 42 of the treaty of commerce, attached to the special section, the main contents are: 1. Allow Prussian envoys to Beijing to live in the five years after the approval of the treaty exchange. 2. Prussia and the German states in the consular jurisdiction. Allow Prussia and the German states China&#39;s family living in Guangzhou, Chaozhou, Xiamen, Fuzhou, Ningbo, Shanghai, Zhifu, Tianjin, Niuzhuang, Zhenjiang, Jiujiang, Hankou, Qiongzhou, Taiwan, fresh water port, trade, The lease housing to buy house, rent, making Hall Hospital, tombs and other things, are listening to their will. \"4. Prussia and the German states in China are one-sided MFN status. 5. Prussia Guan Chuan (warships) will be allowed access to the port, \"on board Navy officer with Chinese officials, parallel treatment. the <br> in general \"trade treaties with Prussia unequal treaties imposed on China who. The signing of this treaty, that China and Prussia to establish formal diplomatic relations, Prussia achieved the same privileges with Britain, France and other imperialist powers in China, and create favorable conditions for Prussia in the plunder of raw materials, dumping of goods. Ordinary \"treaty of commerce\" 10 years after the signing of the German reunification, inherited this treaty Germany, China and Germany between the first unequal treaty. <br>'
+);
+
+?>

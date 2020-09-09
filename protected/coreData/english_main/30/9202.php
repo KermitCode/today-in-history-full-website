@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1862-9-30
+	create time:2013-01-02 01:50:19
+*/
+
+return array(
+'title'=>'Bismarck, Germany&#39;s first prime minister, the implementation of &quot;blood and iron&quot;',
+'class'=>0,
+'cont'=>'(Saigon-year leap August seventh day), September 30, 1862, Germany&#39;s first prime minister Bismarck implement \"Jagged policy. <br> 19 century the development of capitalism in Germany, there is an urgent to have a unified country, the end of the feudal city-state separatism. This is consistent with the interests of the whole nation. But how to achieve reunification? Then there are two different way: one led by the proletariat, through a bottom-up revolution, overthrow the states dynasty, the establishment of a unified German Republic, the other one is the leadership of the Junker class dynastic wars, from top to bottom to establish a unified monarchy. In 1862, less than a week also served as Prussian Prime Minister and Foreign Minister Juncker politicians Bismarck implementation of \"blood and iron\" target = \"_blank\"> Bismarck, the Prussian parliament budget committee first meeting issued a call-to-action speech he requested Prussia internal stop the confrontation, \"gather strength\" common foreign in his speech, he declared: \"The major problems of the contemporary, not with empty words or majority send the resolution can be resolved, and must be resolved with iron and blood. \"<br> unified Germany to rely on the\" blood and iron \", by virtue of the violence of war, Bismarck Programme and creed He served as prime minister , do not listen to Parliament that a set of empty talk, he does not ignore the parliamentary majority to vote against funding policy, they do not ignore the accusations, arbitrary, unauthorized disbursement of funds, and large-scale military reforms in the interests of the German nation \" under the slogan, he launched a war against Denmark, the Austrian war, the war against the French, and finally to the \"blood and iron\" rout domestic and foreign reactionary forces hinder the unification of Germany, to complete the great cause of reunification of Germany in 1871 January 18, announced the establishment of the German Empire. Lenin pointed out: \"the Bismarck in accordance with their own way, according to Juncker way to complete the career advancement in the history (Lssdjt.com) <br> Bismarck served as Germany, Italy and Empire&#39;s first prime minister, because he is using \"iron and blood\" unified Germany, history, referred to him as the \"Iron Chancellor\", he pursued policies, known as \"blood and iron\", and later development synonymous with tyranny and war \". <br>'
+);
+
+?>

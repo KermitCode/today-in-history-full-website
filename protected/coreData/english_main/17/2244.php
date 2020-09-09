@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1912-3-17
+	create time:2013-01-01 21:17:04
+*/
+
+return array(
+'title'=>'Mei Lanfang premiere opera &quot;Mulancongjun&quot;',
+'class'=>0,
+'cont'=>'March 17, 1912 (, Yam Tze In the first month&#39;s Eve), Mei Lanfang premiere of the opera \"Mulan Joins the Army\". The First Year <br>, just cut off the braids Mei Lanfang <br> of opera \"Mulan Joins the Army\" is a large-scale opera Mei Lanfang early years, according to the Ancient Dynasty \"Mulan\" adaptation. Play a total of 29 games, separately, the two played out two. According to the needs of the story, Mei Lanfang both sing the female roles, and playing a niche. Play Mulan six easy clothing, rifles tie rely on heroic mighty. The aria Sipi main supplemented by two yellow the suona chamber and Kunqu. \"Mulan\" original woven Kunqu new water order \"and\" Zhe Guiling \"aria, very unique sounding. March 17, 1912, premiere \"Mulancongjun\" Mei Lanfang in Beijing before the outside West Zhushikou first stage, the first of the 15 scene. Cast neat, sensational, so once this play splendor. On March 24, the same people continue to play Mulan Joins the Army two 14 scene. Improve women&#39;s confidence, then the play staged to encourage women to play a certain role concerned about national affairs. <br> In addition to the military service for the father of Mulan, Mei Lanfang also played Mu Guiying strategist the broken enemy prisoner reduction Liang Hongyu heroine. Mei Lanfang good at drawing all aspects of knowledge to enrich themselves, improve acting skills. Go give the Mei Lanfang play battlefield women hero provided a lot of help. Into contention from the black and white pattern weighbridges stroke, Mei Lanfang appreciate the the mind Taolue line soldiers lineup wonderful to have a deeper understanding, and then he plays their plans Heroine image. <br> Mei Lanfang also love gardening, painting, martial arts. Observe the shape of flowers, color changes, and get inspired his paintings so unique. From the early 1920s, Mei Lanfang began to study painting. Some painters and Mei Lanfang exchanges. In order to play \"Farewell My Concubine\" Sword Dance play Mei Lanfang himself worshiped the old martial arts as a teacher, learning Taiji, Xingyi and fencing, of his life Quanjian leave their hands, not only strong body, but also from the absorption beneficial the part of the use of opera performances. Mei Lanfang Peking opera \"Farewell My Concubine\" a sword dance world recognized art treasures. <br> flowers, painting and martial arts are not only direct help to the Mei Lanfang&#39;s performances, fashion, makeup, and improve the artistic accomplishments of Mei Lanfang, so he played the play to the unique charm and mood. Mei Lanfang superb acting, a Peking Opera master, with his emphasis on \"the Wall Street Journal Gong\" inseparable. <br>'
+);
+
+?>

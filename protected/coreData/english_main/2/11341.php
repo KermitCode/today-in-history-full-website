@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1969-12-2
+	create time:2013-01-02 02:13:11
+*/
+
+return array(
+'title'=>'The death of the chairman of the presidium of the Supreme Soviet of the USSR Voroshilov',
+'class'=>0,
+'cont'=>'December 2, 1969 (, Jiyou October 23), the death of the chairman of the presidium of the Supreme Soviet of the USSR Voroshilov. the death of <br> Kerry door special leaves Frederico Salas Abramovich voroshilov \"target =\" _blank \"> Voroshilov (1881 to 1969), the chairman of the presidium of the Supreme Soviet of the former Soviet Union. born at of leaves Kajielinnuo Slavic province Bach Willamette the the Intrinsic County Î¬¶ûºÕÄùÒ® village in metallurgical plant apprentice. organization of social democratic revolution group at the factory in 1898 to participate in the Russian Social Democratic Labor Party in 1903 and 1905 to 1907, to participate in Ukraine the leading strike movement, 1908 to 1917 engaged in underground work, many were imprisoned and exiled. participate in the February Revolution and the October Revolution of the People&#39;s Commissar of the October Revolution, he served as the city of Petrograd, (lsjt.org) Ter any Sri Lanka The group co-founded the All-Russian Cheka Ren Hongjun Tenth Army commander during the civil war Tsaritsyn frontline commander from 1921 to 1924 served as the commander of the North Caucasus Military District commander of the Moscow Military District from 1925 to 1934 of any members of the Soviet Army and Navy of the People and Chairman of the Revolutionary Military Committee of the USSR, 1934 to 1940, the People&#39;s Commissariat of Soviet defense was the title of Marshal of the Soviet Union in 1935. Vice-Chairman of the People&#39;s Committee of Defense of the Soviet People&#39;s Committee in 1940, he served as President. Patriotic War any member of the National Defense Commission, Northwest Front Army of the total commander, commander of the Leningrad Front, the guerrilla commander in chief in 1945, he was appointed Chairman of the allies of the Hungarian control. Soviet Council of Ministers in March 1946, he was appointed vice-chairman from March 1953 to May 1960, he was appointed the chairman of the presidium of the Supreme Soviet of the USSR. Union (Bolsheviks) Central Committee Political Bureau member (1926 to 1952), the Bureau of the CPSU Central Committee members in October 1961 (1952 to 1960). CPSU on 22 large, \"support for anti-party clique activities\" not elected to the Central Committee in April 1966, re-elected member of the Central Committee CPSU 23 large 1957 visit to China from April to May. died on December 2, 1969. His major works include: \"Soviet defense\", \"defend society &#39;Red Army \". <br>'
+);
+
+?>

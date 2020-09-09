@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1926-10-26
+	create time:2013-01-02 02:00:37
+*/
+
+return array(
+'title'=>'Nicaragua&#39;s anti-American guerrilla war broke out.',
+'class'=>0,
+'cont'=>'October 26, 1926 (September 20) Bingyin, the outbreak of anti-American guerrilla war in Nicaragua. the <br> Nicaraguan guerrilla leader of the Sandinista <br> 1925, Chamorro in support of the United States staged a coup to overthrow the government of the Liberal Party, in May 1926, Nicaragua outbreak Guarding war. The pretext of protecting the lives and property of American expatriates, 32000 landed in Nicaragua to send Marines. the <br> 10 26, led by the Sandinista 29 miners to blow up American capitalists mine, announced the uprising. In February 1927, the rebel army to more than 300 people. In April, the Sandinista rebel army and the leader of the Liberal Party Moncada army rendezvous in Las Mercedes. May, Moncada lay down their arms and negotiate with the United States, (而身d芋y身里h貝 $ 而身ry.c身m) signed Montenegro planting treaty. The 12th Sandinista issued a declaration, to expose the conspiracy of the United States and Moncada&#39;s betrayal. U.S. military and government forces began joint siege Sandinista forces. On July 1, in the northern mountains of Segovia, the Sandinista \"吤陝嫌梅霾 Declaration announced defend the national dignity and to save the oppressed. After rectifying the army, decentralized teams to attack at night, use of barriers, guerrilla tactics to ambush the enemy to fight against the enemy. Farmers, the distribution of land to landless or land in the guerrilla zones set up a worker-peasant cooperatives, severely punish the profiteers, development resources, improve people&#39;s lives, to get broad support. In 1928, U.S. President Hoover proposed negotiations with the Sandinista rejected. To 1931, the rebel army development to more than 3,000 people, occupying more than half of the country&#39;s land. The United States withdrew from the battle. November 1932, Sa Kasha was elected president, the appointment of pro-US Molecular Somoza National Guard Army Commander-in-Chief, responsible for siege guerrillas. December 23, Sa Kasha by calling on the U.S. forces have withdrawn peace talks with the Sandinista. January 2, 1933, the U.S. Navy&#39;s withdrawal from Nicaragua, February 2, the guerrillas and the government signed a peace treaty, the Government acknowledges that the guerrillas fight for freedom of the motherland, and safeguarding national sovereignty and independence, the guerrillas systematically put down armed, anti-American war victory, but the perpetrators of the Sandinista February 21, 1934 by Somoza ordered the murder of the guerrillas and their base was destroyed, the Somoza detect president in 1937, began to establish its pro-US dictatorship. (Lssdjt.com) <br>'
+);
+
+?>

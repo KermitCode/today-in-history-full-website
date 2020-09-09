@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-5-7
+	create time:2013-01-01 22:25:22
+*/
+
+return array(
+'title'=>'Putin became Russian president',
+'class'=>0,
+'cont'=>'(Gengchen of April fourth day), May 7, 2000, Putin became Russian president. 7, <br> 5 in the Moscow Kremlin, Russian President Vladimir Putin was sworn. Pictured Putin and former President Boris Yeltsin after his inauguration with review presidential guards regiment. Russian President-elect Vladimir Putin was sworn in at noon on May 7, 2000 in the Great Kremlin. (有身d芋y身里h貝 $ 而身ry.c身m) the <br> Moscow time at 12:00, Putin came to the Kremlin Andrei hall, the Russian Central Election Commission the main 炟峇妦攝捚 Primakov announced Russia&#39;s Central Election Commission on Putin was elected president of the decision. Subsequently, the Russian Federation Constitutional Court Baglai Please Putin oath. Former Russian President Boris Yeltsin handed over the flag a symbol of presidential power \"motherland feats\" a Medal of Putin and a speech he hoped Putin bold work, care of Russia, Russia into a new country, to bring happiness to the Russian people and prosperity. the <br> Putin said in his inaugural speech, he wants to protect Russia to defend the interests of Russian citizens, and improve people&#39;s lives. He will regulate their own behavior in accordance with national interests, will unite all the Russian people and Russia into a country of freedom, prosperity, prosperity and civilization. Hall after Putin&#39;s speech, played the Russian song, the Kremlin was raised over the presidential flag, gun salute 30 ring. Subsequently, Putin and Yeltsin in Church Square in reviewing the presidential guards regiment. the <br> former Soviet President Mikhail Gorbachev, the Russian Constitutional Court judges, members of the Federal Council (the history TodayOnHistory.com) a member of the State Duma and the foreign ambassadors and other 1500 people attended the inauguration ceremony. March 26 <br> Putin is more than 52% of the votes in the presidential elections in Russia was elected president. According to the Russian Constitution, the president is head of state and chief armed forces supreme commander, appointed for a term of four years. <br> Russian President Vladimir Putin on the 7th, immediately after the end of the inauguration ceremony, First Deputy Prime Minister Mikhail Kasyanov announced the appointment of the government acting prime minister. Russian presidential press service said to the press, Putin has signed the appointment of Mikhail Kasyanov for the command of the government acting prime minister. <br>'
+);
+
+?>

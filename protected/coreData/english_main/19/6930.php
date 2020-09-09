@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1870-7-19
+	create time:2013-01-01 23:31:06
+*/
+
+return array(
+'title'=>'The outbreak of the Franco-Prussian War',
+'class'=>5,
+'cont'=>'(June 21) Gengwu, July 19, 1870, the outbreak of the Franco-Prussian War. In In the 19th century, 60 years late, all the opposition to strengthen the activities of the social forces of Napoleon III. Standing opposite of the empire not only the working class, there Bonaparte Orleans faction excluded from the regime beyond big bourgeoisie, advocates the republic industrial bourgeoisie and petty bourgeoisie. Napoleon III became a target of public criticism, he decided by a foreign war to get rid of internal difficulties, The Emperor Houourenni, pointing to his son, said: \"In order to make the child when the emperor, war is necessary. \"<br> The other hand, Napoleon III, see Prussia has become the most powerful nations in the Federal Republic of Germany, which is a major obstacle to maintaining the privileged position of France in the European continent, therefore, he wants war with Prussia. Prussia said to beat France to become the eventual reunification of Germany the key, but the Prussian Prime Minister Bismarck very cunning, he not only needs the war, and hope that France is first of all a declaration of war. <br> due to a dispute between the two countries is the issue of succession to the throne of Spain, the war crisis finally appeared. In 1868, Spain after the revolution, Queen Isabel Plato was waste, dangling throne. Bismarck France Fubeishoudi, they send someone Qian Wang Spain, intention to bribe the Spanish parliament and interim government, crowned King of Prussia, cousin to the King of Spain. Ill look for a job, leaked the news. In early July 1870, France to Prussia in protest. (History TodayOnHistory.com) view of the United Kingdom, Austria, Russia also agreed to this protest, Pu Wang William I had announced the withdrawal of its cousin candidate for the Spanish throne. Napoleon III, however, still command of the French Ambassador in Berlin, Pu Wang never agree to the Hohenzollern family to inherit the Spanish throne. Pu Wang refused to give such assurances, but still with the French ambassador reached an agreement acceptable to both sides. Subsequently, Pu Wang will meet results telegraphed Bismarck. Bismarck desire war, after consultation with the military sources, he immediately tampering ordinary king message it insulting to France, to the embassies and the press announcement. (L $ dj¦Ó.¨­r¨À) <br> France how can we tolerate this practice? Napoleon III to take this on July 19, 1870 First war on Prussia, so the outbreak of the Franco-Prussian War \"target =\" _blank \"> the outbreak of the Franco-Prussian War. <br>'
+);
+
+?>

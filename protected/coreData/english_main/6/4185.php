@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1953-5-6
+	create time:2013-01-01 21:05:47
+*/
+
+return array(
+'title'=>'British Prime Minister Tony Blair&#39;s birthday',
+'class'=>4,
+'cont'=>'May 6, 1953 (March 23) Kimi, British Prime Minister Tony Blair&#39;s birthday. <br> Blair become the United Kingdom since 1812, the youngest prime minister \"target =\" _blank \"> Blair&#39;s mother, holding him to accept the baptism <br> Tony Blair in May 1953, was born in the capital of Scotland, UK a middle-class family in Edinburgh. Blair childhood clever, elementary school but had excellent grades and grade skipping. was awarded a scholarship in 1966 to enter the the best Scottish ∞Æ∂°±§∑—Ã·Àπ school learning. was admitted to St. John&#39;s College of Oxford University in 1972 to study law during the school, Blair accepted Scottish theologian, philosopher McMurray ethical socialist ideology laid the ideological foundation for the future to join the Labour Party 1975, today www.TodayOnHistory.com history] just cross out of school Blair joined the Labour Party, and qualified as a solicitor in 1983, the 29-year-old Blair was elected British MP, after his meteoric rise, has served as Labour&#39;s economic, industry and trade, energy and employment affairs spokesman since 1992, Labour shadow cabinet Home Secretary in May 1994, Labor Party leader Smith died suddenly, the prime of life, Blair pushed to the front desk, and two months later, Blair took over the leadership positions, thus opening a new page in his political career. \"New Labour New Britain \"slogan, Blair&#39;s Labour bold innovation and transformation, to Figure Labor Party to make a comeback., Blair&#39;s increasingly strong position in the party after nearly three years of effort, rapid increase in the rate of Labour voters, finally defeated in the 1997 general election with an overwhelming majority of the votes for the ruling Conservative Party up to 18 years. <br> Blair likes reading, music-loving, good at absorbing the thinking of others, he was open-minded, quick thinking, can be confused clue in quickly essence. longer than rhetoric, eloquent Blair salient features, but sometimes deliberately pursue the image of a modern rather concentrated family in Blair and his wife Cherie, is a lawyer by profession, and they had three children. Blair loves his family, caring for our children, the couple shared the housework. <br> Blair has visited China many times. (on TodayOnHistory.com) personable <br> 1982, Blair participate in the mid-term elections , but failed. <br> 1983 Blairs and his election agent (right) celebrate with the victory <br> Blair family, father, stepmother, The brother and sister to celebrate Tony Blair-elected <br> Blair: \"You&#39;re a hero mother and son are our future\" the family portrait <br> of <br> new prime minister, Tony Blair < ; br> play guitar, (Lssdjt.com) relax <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1838-6-2
+	create time:2013-01-01 22:56:43
+*/
+
+return array(
+'title'=>'The Qing minister memorialized wishing death penalty for opium addicts',
+'class'=>0,
+'cont'=>'June 2, 1838 (Reform Movement leap in April the tenth), Qing minister memorialized, wishing the death penalty for opium addicts. June <br> 1838 (Qing Emperor Xuan Zong dynasty, the 18-year leap the April Government House), the Honglu Temple Qing Huang Jue Zi memorialized Please Mainland opium addicts sentenced to the death penalty. <br> early in the first year of Jiaqing (1796), the Qing court already ordered to prohibit the import of opium and poppy planting. Jiaqing five years (1800), again Shen ban the planting and input opium. Jiaqing 15 years (1810), the Qing government issued an edict to health hazards, opium, to the Orders Haikou off its source. Jiaqing 18 years (1813), and even ordered to severely punish the private trafficking opium smokers. Jiaqing (1815), issued an edict to punish officials to sell the put and the people of Personal trafficking opium. To Emperor Jiaqing year of death (1820), however, the British input opium has increased to more than 5,000 boxes (120 pounds per case). After the reign of Emperor Daoguang, although repeatedly ordered to prohibit the importation and use of opium, but the number of opium was a dramatic increase. Daoguang four years (1824), the British input opium increased to more than 12,000 boxes. Daoguang fourteen years (1834), the British input opium increased to more than 21,000 boxes. Daoguang 27 years (1837), the British input opium increased to $ 39,000 more than box. Daoguang 18 years (1838), the British input opium increased to more than 50,000 boxes. [History on. Cn] <br> opium massive importation and use of opium increased, causing the Qing Dynasty economic, political and social crisis,, therefore yellow Jue Zi advocates violators punishable by death, and hope to be able to reverse the dangerous situation. Emperor Daoguang ordered provincial governors all have our say in smoking ban seen. Viceroy the Lin Zexu petitioned Non-Smoking Articles of six, and is intended to prohibit. He warned: \"If Utah vent vent as the decades, Zhongyuan almost no defense against an enemy of the soldiers, and no can charge rates of silver. \"The Lin Zexu the opinion, contributed to the Emperor Daoguang determined non-opium. October 5, Emperor Daoguang to Lin Zexu banning smoking in Hubei active decree awards. 25, 2009, Prince Zhuang Yi Dou to the use of opium, was banished to a knighthood. 28, Chang Temple Shaoqing Xu is economic to advocate Rescinding the Prohibition, was ordered to break caused. December 31, Emperor Daoguang Imperial Commissioner Lin Zexu, opium ban to Guangdong. Thus, in 1838 and 1839, China launched a vigorous anti-smoking campaign. Zhili Governor Qishan also seriously smoking opium in Dagu ship seized more than 130,000 taels. (L $ j¦Ó.c¨½) <br>'
+);
+
+?>

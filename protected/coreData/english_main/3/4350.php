@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1875-5-3
+	create time:2013-01-01 21:39:24
+*/
+
+return array(
+'title'=>'Tso was ordered to recover the Xinjiang',
+'class'=>0,
+'cont'=>'May 3, 1875 (March 28), seeing in the General Tso ordered recovering Xinjiang. <br> 1875, the Qing government appointed General Tso&#39;s to imperial envoys supervision of Xinjiang Military Affairs. In the 1860s, Central Asia, Kokand Khanate officer Yaqub invaded my Xinjiang, and establish a military colonial rule, Britain and Russia competing Yaqub regime as a tool to split dismembered Chinese territory, Russia and even in the early 1970s, brazenly sent troops to occupy Ili; same time the US-Japanese war of aggression against Taiwan have also occurred. The mid-1970s, China&#39;s Northwest Frontier and southeast of Haiphong Dayton tighter border crisis. Different views within the Qing government, it was an issue of \"coastal defense\" and \"plug anti. Li Hongzhang excuse for coastal defense, frontier defense force difficult both openly advocates abandoning Xinjiang, \"Move West rates to help Haiphong. That \"Xinjiang is not complex, injury limbs vitality; not anti territorial seas, the confidant of the scourge of the more spine\". Li Hongzhang opposition to send troops to regain Xinjiang, its reason is General Tso&#39;s repression of Shaanxi and Gansu the Hui Uprising, the day&#39;s high reputation in the ruling group Huai Department of warlords to take this repression him; Li is preparing to set up the Northern Navy, (Lssdjt.com ) use the Navy to consolidate the Huai warlords is his status;, (而身d芋y身里h貝 $ 而身ry.c身m) together in the United Kingdom against the Qing expedition, in order to avoid its lackeys Yaqub complex off attempt. The Hunan governor Wang Wenshao that, Tsarist Russia pose the greatest threat in favor of \"plug anti-mainly to fully focus on the Northwest. Left Tsung-tang the think the Haiphong, plug anti Both both can be neglected. Criticized Lee&#39;s proposition is self-withdrawal barriers. He stressed that \"weight Xinjiang persons, so Paul Mongolia, to Paul Mongolia by So Methodist capital\". General Tso&#39;s suppression of the Taiping movement and Hui Uprising. But in the situation of deepening national crisis, to come forward edge shortage arduous responsibility \", he not only focus global vision, and has a double significance level rebellion and aggression, and thus domestic patriotic the support of public opinion. The Qing court weigh the pros and cons, the adoption of General Tso&#39;s advocate. Named his supervision of the Xinjiang Military Affairs, sent troops to the expedition, recovering Xinjiang. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1492-4-17
+	create time:2013-01-01 20:47:25
+*/
+
+return array(
+'title'=>'Spain and Columbus signed a permit him sailing into the the Asian procurement spices contract',
+'class'=>0,
+'cont'=>'April 17, 1492 (, Yam Tze March 21), Spain and Columbus signed a contract to permit him sailing to Asia procurement spices. <br> Christopher Columbus (1451 to 1506), the Italian navigator. Born in Genoa, Italy, and died in Valladolid, Spain. Life engaged in maritime activities. Has moved to Portugal and Spain. He believe the earth spherical said that up to the East, India and China from Europe West Airlines. Under the support of the King of Spain, has four times the sea voyage (1492 ~ 1493,1493 ~ 1496,1498 ~ 1500,1502 ~ 1504). Opened up a route across the Atlantic to the Americas. Has arrived in the Bahamas, Cuba, Haiti, the Dominican Republic, Trinidad and other island. Boarded the American continent for the first time in the south bank of the Gulf of Paria. Investigated to reach Central America Honduras Bay, even more than 2000 kilometers of coastline; understanding of the Isthmus of Panama; discover and take advantage of the low latitudes of the Atlantic blowing easterly higher latitudes-blowing westerly wind change. Proves the correctness of the earth spherical said the. Promoted between the Old World and the New World. (History TodayOnHistory.com) mistakenly believe that the arrival of the New World is India, adding that the locals for the Indians. <br> 1492, 17, Spanish and Italian navigator Christopher Columbus signed a permit him sailing into the contract of Asian procurement spices,. Columbus was appointed to found the commander of the ground, you can get all found in one-tenth of all the goods and wealth, that any tax-free. Eighth after after these earthly vessel, Columbus also can charge among profit. August <br> 1492, King of Spain, Columbus Bong command, led a the three sailing crew of 87 from Spain Barros Port, sailed due west Atlantic waters in the little-known, and later changed course Southwest. October 12, after 70 days of hard sailing, Christopher Columbus arrived in China Thelin Island in the Bahamas, after they arrived in Haiti. Columbus announced the discovery of the land territory of the King of Spain, and to establish a presence in Haiti. Later this day by the Spanish as the National Day. October 28, Columbus to Cuba on. (History com) <br> 1493, Columbus fleet to leave Haiti. March 15, Columbus returned to Spain. 1494 Spaniards to establish colonial rule, the first center in Haiti on the island of Santo Domingo Island. May 3, 1494, Columbus found his way in the second set sail to the island of Jamaica. <br>'
+);
+
+?>

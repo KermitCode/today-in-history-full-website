@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1961-12-9
+	create time:2013-01-02 02:41:47
+*/
+
+return array(
+'title'=>'The International Table Tennis Competition pilot Rotation tee Law &quot;',
+'class'=>0,
+'cont'=>'December 9, 1961 (winter in early 1901), the International Table Tennis Competition Trial the Rotation tee Law \". In early December, <br> 1961, the Chinese Table Tennis Association received a notice of the International Table Tennis Federation, the notice instructed their respective member associations of the International Table Tennis Federation in the period from 1961 to 1962, in any international table tennis competition must Rotation serve \";\" time limit \"to establish a moratorium on using. The new regulations will further prevent table tennis players in the game in the defensive attack, delay time phenomenon. Notice in the explanation of the Rotation tee Law \": When a game to fifteen minutes, the members will be announced in the mind when the temporary interruption of the game, the referee announced that starting from the next ball, the game press&#39; rotation Serve the provisions of the Act to proceed. <br> Rotation serve the referee announced later began to serve athletes except tee strike, must be obtained in the next consecutive twelve batting scores, twelfth hitting yet able to win the penalty to the other side to score a point. Denoted members when they do not need in mind, and just counting the number of strokes of the athletes. every one point <br> rotation tee time, the Board first served twenty-one minutes for the winner, the case of each of the two sides of twenty timeshare by two points, as the winner after this, first served. <br> per game, carrying fifteen minutes of a game implemented rotation serve law as long as ten minutes, and then following this Bureau Bureau on the implementation of \"rotation serve . \" (On www.TodayOnHistory.com) <br> Trial Rotation tee the provisions of the Act, passed during the twenty-sixth World Table Tennis Championships at the International Table Tennis Federation Congress . <br> order to limit the \"defensive\" table tennis player in the game only defensive attack, delay the game time, the International Table Tennis Federation of the original had to take a \"time limit\", that is, each game can not exceed 20 minutes, as played in twenty minutes, then score leading party convicted of the Bureau of the winning party. As each game one council played in twenty minutes, this disc following each Board Board can only play ten minutes, played in ten minutes, is also based on the score leading party for the Bureau of the winning party . However, after the implementation of these provisions, the game will still appear long \"marathon\" style of fighting, the International Table Tennis Federation this before taking any new measures. <br>'
+);
+
+?>

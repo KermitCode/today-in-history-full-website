@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1935-1-4
+	create time:2013-01-01 20:22:27
+*/
+
+return array(
+'title'=>'The Red Army breakthrough Wujiang natural barrier',
+'class'=>0,
+'cont'=>'January 4, 1935 (Awake in the winter months&#39;s Eve), the Red Army breakthrough Wujiang natural barrier. In In 1935, the wind and rain, the weather is gloomy. 6 o&#39;clock in the morning, the Long March of the Red Army advance mission arrived in Guizhou Province the Wujiangdu mouth - Longxi, ready to break through the Wujiang River, into the Zunyi City. both sides of the <br> Wujiang cliff like a similar cut with a knife. The river is 100 meters wide, The river rapids, water roaring sound. To cross the river is very difficult, not to mention the other side there is the enemy&#39;s tight blockade. Head of Yang Dezhi the political commissar HUI MUSLIM together to a nearby village to investigate. Results, not to mention no boat, even a wood pulp, wood and even a decent enemy took away. the <br> Red Army soldiers from the village lilong to many bamboo tied ten feet wide, twenty how long the rafts used to cross the river. Soldiers are encouraged to register vying for crossing the river Pioneer. Selected from the avant-garde camp, the head of the the eight soldiers familiar with the water, and decided to try crossing them first. The eight soldiers, each with enough weapons and ammunition with Zhushao, wood paddle instead. on <br> 1 4, thick mist, the other side still ringing sparse gunshots. The eight soldiers jumped onto the raft, convention rafts to reach the other side, fired shots twice as a contact signal. Crossing the fighting began. Rafts slowly left the shore. However, the raging river rafts rushed downstream eight soldiers whirlpool engulfed. The first branch of the raft crossing the river failed, the wind was still scraping the rain is still falling. Yang, head of the Lebanese political commissar of mourning for the sacrifice of the soldiers, then said firmly: \"must ride to go! Dozen soldiers jumped into the raft, the second try crossing the start. SUN first battalion commander excitement to tell everyone the truth: \"Comrades, we must ride to go. Is a person, but also the tide to go. The whole regiment of hope in you! \"The soldiers one by one loudly replied:\" We want to in the past, will be able to in the past! \"Sum up the lessons of the last failed try this crossing slower water downstream a few dozen meters. The sky inky blackness, at first also hear \"crackling\" sound of bamboo playing in the water, and gradually, even the sound of water could not hear. After several minutes of struggle. Bang! Bang! Two shots is the signal crossing the river, a natural barrier Wujiang River finally broke through! 11 o&#39;clock in the morning the next day, all the officers and men of the Red Army&#39;s advance mission successfully through the Wujiang River. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-5-29
+	create time:2013-01-01 22:04:43
+*/
+
+return array(
+'title'=>'China&#39;s largest anti-drug exhibition opens in Beijing',
+'class'=>0,
+'cont'=>'On (Tiger years in May, the fourth day), May 29, 1998, China&#39;s largest anti-drug exhibition opened in Beijing. most massive <br> since the founding of an \"cherish life, refuse drugs\" exhibition, After months of preparation, the day in the opening of the Beijing Military Museum. Two months later, in some provinces and cities across the country will also tour. <br> According to the survey, around the world every year at least 10 million people died from drug abuse, 1000 million people have lost their ability to work. Even more shocking is that despite the great harm of drugs, but the past few years, the high drug trade in more than 400 billion U.S. dollars, equivalent to more than 8% of the total world trade, second only to the arms trade, more than the steel and auto the volume of trade. <br> registered number of drug addicts in China, the 1997 special struggle for 54 million people, of which 80% are teenagers. Officials say the actual number of drug addicts far beyond this figure. Today <br> drug phenomenon has spread to over 1920 cities and counties, including 720 drug abuse among more than 100 cities and counties. According to incomplete statistics, in 1997, the national public security organs cracked 180,000 drug-related criminal cases, more than doubled compared to 1996. 24.4 million and arrested a drug dealer, a year ago nearly 2-fold increase in compulsory treatment to 180,000, an increase of more than 50,000 in 1996. Currently, there are 695 addiction treatment center, drug Hospital 77000. <br> ; from the international environment, the \"Golden Triangle\" drug production is on the rise, with an annual output of opium has reached more than 2,500 tons, by the development of traditional cultivation of opium, and trafficking of heroin to the establishment of the \"ice\" processing plant to. <br> China the natural ephedrine origin, in recent years, foreign criminals in our country manufacturing \"ice\" increasing the number of poisoning cases. Experts predict, \"ice\" drug manufacture simple, high-profit, is likely to become the 21st century&#39;s major drug <br> November, 1990, China established by the National Narcotics Control Commission, composed of 18 ministries, the unified leadership of the country&#39;s anti-drug work in China was the first to sign and ratify the 1988 United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Drug Convention, one of the countries. In December 1990, the Standing Committee of the National People&#39;s Congress adopted a decision \"about the anti-drug. The proliferation of drugs in the face of an increasingly grim situation, China is taking firm measures to curb the phenomenon to continue to develop. <br>'
+);
+
+?>

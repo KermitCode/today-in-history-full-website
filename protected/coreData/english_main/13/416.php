@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1199-1-13
+	create time:2013-01-01 21:11:11
+*/
+
+return array(
+'title'=>'Japan&#39;s first shogun Yoritomo&#39;s death',
+'class'=>3,
+'cont'=>'January 13, 1199 (the twelfth lunar month 15) Wu Wu, the death of Japan&#39;s first shogun Yoritomo. <br> Yoritomo (1147 ~ 1199.1.13) <br> first Shogun of Japan&#39;s Kamakura shogunate, son of late Heian era generals source Yoshitomo Aggressive Politics founder. Less into the right to any of the Queen&#39;s Palace in 1158. 1159 is father Jubing, any right Samurai Zuo, detention of Shirakawa Uehata, two Emperor and Elegance Fujiwara through the Constitution (letter West), known to history as \"the chaos of the Mercedes Benz. The after defeat East to escape, the way in Mino arrested, exiled vermiculite Island in the Izu country. During the two decades of exile life, married and current affairs Hojo&#39;s daughter protected .1180 Bong Prince Ren Wang Zhiming, Jubing crusade against the flat&#39;s Awa fled after a failed sea crossing. October victory in the Battle of Fujikawa, obtained one thousand Ye Changyin aid, successively occupied Boso, Musashi, Sagami and other places into the Kamakura the \"Kamakura temple. Dongguk regime established in 1183, the same year the court promulgated \"Shou Wing Xuanzhi\", to acknowledge its sovereignty in the east. Generals source Yoshinaka Kyoto and the level of the West country&#39;s opposition. Sent his brother Yoshitsune led his army expedition in 1184, to discuss off source Yoshinaka. The following year by the altar of Pu Battle off the flat&#39;s. In the same year, the brothers Minamoto no Yoshitsune close to the hunt and hospital administrative grounds guard, set around the edge of a farm post. 1189 led his army expedition Mutsu Yu, off to protect Yoshitsune Fujiwara Tai Hang to establish nationwide Aggressive Politics regime. 1190 Beijing after meeting in the Shirakawa method Wong, Ren Zhaoting the right the satisfied words (supernumerary too political official deputy), Right Guards major general rank, take control over the military and political authority in the name of French Emperor. Shirakawa method Wong&#39;s death in 1192, he served as Zheng Yi, General establish a samurai regime Kamakura shogunate in Japanese history. Establishing military feudal lords ruled the country. December 1198 to participate in the inauguration ceremony of the Sagami River Bridge, way back falling from a horse, from the YiBingBuQi, died in the following year the first month. <br> Yoritomo (1147-1199 AD), the founder of the Kamakura shogunate. Turbulent rise of only ten years, from a convict, became generals of Wal prominent commander in chief of all the samurai class. <br>'
+);
+
+?>

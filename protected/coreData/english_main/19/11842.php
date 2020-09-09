@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1793-12-19
+	create time:2013-01-02 02:13:59
+*/
+
+return array(
+'title'=>'Battle of Toulon',
+'class'=>0,
+'cont'=>'December 19, 1793 (Guichou the winter on 17), the Battle of Toulon. <br> French the bourgeois revolutionary situation Figure <br> 18th century French bourgeois revolution victory aroused the hostility of the reactionary forces in the European countries. The summer of 1893, the British-led allied forces in Europe from all of France surrounded. Prussia, Spain, Sardinia, the Kingdom, the United Kingdom, France, boundary ignited the flames of war, occupation some places; domestic reactionary forces Liyingwaige, frenzied activity. Revolution in critical just Jacobins to seize power, the face of this grave situation, not flinch from showing firmness and perseverance of the revolution. Resolutely adopted a series of revolutionary measures, encouraged by the revolutionary spirit of the people, to strengthen the army&#39;s combat effectiveness, and successive defeat general, Western occupation forces. However, the British occupation of Toulon was less than Jiugong become a major threat to the revolution. (Lsjt.net) <br> faction who is going to overcome Toulon? The leadership of the revolutionary Republic suddenly think of the person of Napoleon. He is a democratic ideas officer, young, very brave, mindless. At that time, many nobles and officers strongly opposed the revolution or fled abroad, he has to continue in service, and vowed: \"The only accepted subject to the command of the National Assembly Act, actively supported the nascent French Republic. Napoleon, after receiving the order, he knew Toulon is a fortress in the South of France, the city defense strong, non-storm not. So he worked day and night to Producer artillery training artillery, built a powerful artillery units. <br> 1793 12 16, 2009, the general offensive began. Did not go well at first, when artillery just to get into position, many gunners the British shooting hand injured or killed, offensive frustration. Napoleon saw this scene, crying out: \"Our artillery, all of them are fearless warriors, forward! \"He took the lead rushed forward. He encouraged the French army all courageously forward, brave exceptions, finally, in the December 19, defeated the army of the king of the party and the coalition forces of the United Kingdom, Spain, the capture of Toulon, the lifting of the threat of the Republic. (Lsjt.org) <br> victory of the Battle of Toulon, Napoleon&#39;s military abilities budding. Republic in recognition of the achievements of Napoleon, an unprecedented move that only 24-year-old Major promoted to generals. the <br> a British painting: \"helpless pants Han\" who after a long day at rest <br> French farmers are labor <br> moored in Toulon Hong Kong and British warships <br>'
+);
+
+?>

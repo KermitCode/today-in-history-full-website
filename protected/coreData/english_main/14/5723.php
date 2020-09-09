@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-6-14
+	create time:2013-01-01 22:52:44
+*/
+
+return array(
+'title'=>'Mbeki was elected the new president of South Africa',
+'class'=>0,
+'cont'=>'June 14, 1999 (in early May) JiMao, Mbeki was elected the new president of South Africa. <br> Mbeki was elected the new president of South Africa \"target =\" _blank \"> of Mbeki <br> parliamentary speech, Mbeki stressed that South Africa is a country of all the people of South Africa, regardless of race and gender people hope that the State Peace and Development, he will be happy to serve the country and the people, to solve the problems of the people concerned about [history com] to meet the challenges faced by South Africa, to accelerate the pace of national development and create a better life for all the people . <br> opposition leader Thabo Mbeki was elected president in his speech congratulated incumbent President Nelson Mandela and praised the historic contribution made by the people of South Africa. <br> Thabo Mbeki in 1942 June 18 was born in Umtata, Transkei region of South Africa is now the Eastern Cape, a Xhosa clan family his father, the older generation of leaders and thinkers of the ANC, his mother was also a non-country Tate&#39;s party members. due to the influence of the family, he grew up determined for the black liberation struggle the ANC banned in 1960, [1 $ dj而.c身m] Mbeki in exile to carry out the struggle against the racist regime in South Africa. He has served as a ANC representatives worked in the United Kingdom the (the L $ dj而.妨壯T) (lsjt.net) Botswana, (L $ dj而.妨壯T) (lsjt.net) Nigeria and Zambia and other countries to establish the ANC offices, planning and organization this period the ANC in many major overseas activities in 1970, Mbeki went to the Soviet Union to receive military training, and was elected a member of the ANC Executive Committee in 1975, and any ANC news and publicity secretary in 1984, 1989 to any ANC director of the Department of Foreign Affairs. <br> Mandela after his release in 1990, Mbeki ended 28 years of living in exile returned to South Africa that year, he as head of the ANC delegation with de Klerk secret talks with the white government. these talks eventually led to the first non-racial national elections held in South Africa in April 1994, his performance to the process of peace and democracy in South Africa and the role played by the universal acclaim. Aug. 1993 Mbeki was elected national chairman of the non-NUS, served as first vice-president of South Africa&#39;s democratic government in May 1994, and in December of the same year, he was elected a non-NUS Vice Chairman, in December 1997, succeeding Nelson Mandela elected non-NUS President . <br>'
+);
+
+?>

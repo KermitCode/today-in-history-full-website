@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-7-16
+	create time:2013-01-02 00:13:06
+*/
+
+return array(
+'title'=>'China developed the success of the world&#39;s largest black metal vertical extruder',
+'class'=>0,
+'cont'=>'(Year of the OX, leap 24 May), July 16, 2009, China developed the success of the world&#39;s largest black metal vertical extruder. The China North Industries Group Corporation <br> <br> announced in Beijing on July 16, 2009, 36,000 tons of black, after three years of painstaking research, joint Tsinghua University and other research institutions in the recently developed successful The metal vertical extrusion machine, which is currently the world&#39;s largest ferrous metals vertical extrusion machine. 13, <br> 7 China has independently developed the 36,000 tons of ferrous metals vertical extrusion machine completed the first hot commissioning successfully squeezed abroad <br> diameter of 700 mm, wall thickness of 200 mm seamless steel pipe, marking China&#39;s large-diameter seamless steel pipe manufacturing technology, breaking the monopoly of foreign and reach the world advanced level. <br> vertical extruder of <br> tons or more black metal the extreme manufacturing areas of advanced manufacturing technology, is one of the major industrial base and equipment, mainly used for large-scale power plants, petrochemical industry in urgent need of large diameter thick wall no seam steel pipe manufacturing, representative of the level of development of the national manufacturing sector. Due to the long-term foreign technology blockade, China&#39;s large diameter seamless steel pipe had a large number of high-priced imports from abroad. <br> In recent years, under the support of the National Development and Reform Commission, the Ministry of Finance and other departments, the China North Industries Group Corporation joint relevant research institutions to vigorously carry out independent innovation, has tackled the extrusion process, press design large castings manufacturing a series of technical problems, independent research and the success of the world&#39;s largest 36,000 tons of ferrous metals vertical extrusion machine, extrusion process instead of forging boring process, thick-walled steel pipe manufacturing process by leaps and bounds and black metal extrusion technology is a major breakthrough. <br> China North Industries Group Corporation general manager Zhang Guoqing said that the next step the company will do a good job process optimization, staff training and the work as soon as possible to achieve an annual output of 50,000 tons and an annual output of two production target of 125,000 tons. The (history TodayOnHistory.com) <br> <br> <br> Reviews: This is a new milestone in China congratulates China Ordnance Group. <br>'
+);
+
+?>

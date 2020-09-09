@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-12-11
+	create time:2013-01-02 02:49:11
+*/
+
+return array(
+'title'=>'China issued the first industrial and commercial self-employed business license',
+'class'=>0,
+'cont'=>'(Gengshen in the winter in early e), December 11, 1980, China issued the first industrial and commercial self-employed business license. 1980 12 11 <br> <br>, China issued the first industrial and commercial self-employed business license. <br> 1980 12 11, Wenzhou, 19-year-old girl Zhang Hua Mei from Wenzhou City Administration for Industry and Commerce received a special business license - Industrial and Commercial Certificate No. 10101, has now become the first in China individual industrial and commercial business license, she became China&#39;s first industrial and commercial self-employed. Zhang Hua Mei, <br> young family was very poor, the addition of the population. When the chapter house also live in Wenzhou City, North Jiefang Road, the road has been started surreptitiously set up a stall to do a small business. Father once operated cloth business told Zhang Hua Mei, others can do, we can do some try. In this way, a small table, Zhang Hua sister swing-up small articles of daily use, began her business career from the 19-year-old. \"Since then, I shop to shout everyone to buy my towel, medals voice is shouting so bad. \"<br> In November 1979, the local Industry and Commerce Bureau was established, the business sector to find Zhang Hua-mei, says you can apply for business licenses, the state allows an individual business. Zhang Hua mei father persuaded to submit the application. On December 11, the second year, \"Commerce and Industry Certificate No. 10101 business license to the hands of Zhang Hua Mei. When she was 20 years old. She did not know that he was after the reform and opening up China&#39;s first. Although <br> have a business license, but we still have not from the dug socialist skirting thought out. A lot of people into the state-owned enterprises, they still look down on business people. Zhang Hua Mei many of my friends feel that she is a shameful thing to meet are not ignored. Facing the difficulties, Zhang Hua sister or expand the shop area, began operating coin business. <br> 1990, Zhang Hua sister began to try to do leather processing sales business due to the lack of experience on the shoes business, she luckily miserable. The help of brothers and sisters, and two years later she returned to buttons agent business, until today. <br> Zhanghua sister Weixing \"button Wenzhou distributor of Chinese sister Garment Accessories Co., Ltd. Legal Representative. Her shop and has over 200 m2 warehouse mainly do wholesale business is booming. the <br> <br> Reviews: self-employed contribution of Wenzhou&#39;s economy is enormous. <br>'
+);
+
+?>

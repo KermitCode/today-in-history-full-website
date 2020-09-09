@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1879-3-25
+	create time:2013-01-01 21:58:35
+*/
+
+return array(
+'title'=>'Japan&#39;s invasion of Ryukyu country',
+'class'=>0,
+'cont'=>'(Spring March 3rd), March 25, 1879, the Japanese invaded the Ryukyu country. <br> Ryukyu country, was originally established history in the Ryukyu Islands Shannan, Zhongshan, Yamakita external three countries collectively referred to later refers to unified Ryukyu countries \"target =\" _blank \"> Ryukyu Kingdom (1429 -1879 years ) <br> Ryukyu location between China and Japan, told China&#39;s Ming and Qing dynasties and Satsuma, Japan, Edo shogunate tributary Ryukyu country repeatedly suffered Japanese invasion in 1609, Satsuma invasion and control Ryukyu northern part of the country in a period, (TodayinHistory.cn) Ryukyu power is still the Chinese tributary. March 25, 1879, Japan invaded Ryukyu Kingdom, Japan on March 30 perish and be incorporated into the Japan, most of the land is set to Okinawa Prefecture, northern islands are incorporated in Kagoshima Prefecture. <br> Mutan event <br> 1871 11 30 (10 years of the Qing Dynasty Tongzhi, Meiji Japan 4 years), Ryukyu Miyako Islanders two tribute ship (actually a tribute to the name of the Merchant Shipping), leaving Naha Port bound for mainland China. Unfortunately midway in case the storm drifting at sea, a fortunate also other ship drifted into the China Taiwan&#39;s southwest coast the Paiwan Mutan the eight Yao Bay (now within Mudan Township, Pingtung County). ship a total crew of 69, three of them drowned, 66 landing. landing crew, 54 Taiwan Paiwan aborigines killed, 12 escaped in Fengshan County (now Fengshan City, Kaohsiung County) is protected by the Qing government on December 11 of the same year, there are two tribute ship Ryukyu Yaeyama islanders leave Ryukyu bound for China, the middle of the case of a storm, drifting at sea. a missing another one in the drift to Taiwan on December 28, the 45 crew members on the same subject Fongshan so protected. February 1872, before and after the two batches of Ryukyu refugees 57 (history today. cn) by Taiwanese officials to the Ryukyu Hotel in Fuzhou, safely back in July Naha in April of the same year, Japan Oda County people 4 people killed drift to Taiwan, the Taiwanese aborigines snatch clothing. unstable domestic situation in value after the Meiji Restoration, Japan want the Foreign Affairs transfer is an internal issue, then three thousand six hundred sent troops occupying the southern part of Taiwan, known as the \"Mudan Incident <br> Ryukyu Kingdom era of <br> Sanshan <br> Ryukyu country wall ruins <br> 1469 Ryukyu dynasty Shang&#39;s still true king <br> ; <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:0589-2-10
+	create time:2013-01-02 08:35:56
+*/
+
+return array(
+'title'=>'The Emperor Wen off Chiu-the end of the Northern and Southern',
+'class'=>0,
+'cont'=>'(, Jiyou In the first month on the 20th), February 10, 589, Emperor Wen off Chen Dynasty, Northern and Southern end. <br> Northern and Southern Dynasties (420 -589 years), Northern and Southern Dynasties in Chinese history after the Jin Dynasty, a period of the Great Schism, from AD 420 to the end of 589 years, 169 years. (History com) <br> the Chen Dynasty that the Southern Dynasties (557 -589), CHEN Dai, China&#39;s history of the Northern and Southern Dynasties Southern Dynasties last dynasty. Chen Ba Xian create health (now Nanjing). Only control Gangneung, east of the small area in the south of the Yangtze River. The ($ dj而.c身m) off February 10, 589, Emperor Wen Yang Jian Chen Dynasty, (而身d芋y身里h貝 $ 而身ry.c身m) the subjugation Jun Chen the emperor Chen, Shubao. Calendar Five Emperors, a total of 33 years (557 to 589), the Northern and Southern ends. <br> Yang Jian (541-604), Hongnong Huayin (today? West Huayin). Sui founding emperor, bearing the name of Gaozu posthumous No. emperor. (Lsjt.org) <br> Yang Jian father Yang Zhong the Western Wei twelve generals, called the Suiguo Gong. Yang Zhong&#39;s death, the the Yang Jian passage of parent MG, daughter for Zhou Xuandi Queen. Only eight years old Zhou Jingdi Yuwen explain the throne, Xuanzhao Yang Jian palace Colonial Zhouxuan Di&#39;s death, and the overall political and military power, known as \"Huang Yue left the prime minister\", the captaincy inside and outside the military. February 581 AD Jiazi, Zhoujing Di Yang Jian Zhong Wang to normalized issued an edict announced shanrang. Yang Jian three so by fate, since the Xiangfu uniforms palace, prepared ceremony that the emperor is located Pro optical temple, given the country for the Sui the reign title Kaihuang, announced the amnesty. Chinese dynasties, he was recognized as the highest intelligence of the emperor, most merciful Shenghuang emperor. His careful management, the Sui Dynasty rapid strong and prosperous. the end of China&#39;s long-term chaos off <br> Emperor Wen Chen, the conquest of all nationalities barbarians back to the years of peace. (1 $ dj而.c身m) the same year, the Ryukyu Islands Guixiang Sui Dynasty. <br> Not only did he complete the great cause of reunification of China, also make Suichao Cheng regime stable, social stability, account sharp long cultivated fields-speed growth, savings filling, cultural development, strong and sharp hoplite, Wei dynamic special customs strong country. Daiji the posterity will generally Emperor Wen hailed \"Kaihuang governance. <br>'
+);
+
+?>

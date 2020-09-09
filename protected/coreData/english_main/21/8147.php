@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1923-8-21
+	create time:2013-01-02 00:12:28
+*/
+
+return array(
+'title'=>'Israel&#39;s current president, Nobel Peace Prize winner Shimon Peres was born',
+'class'=>4,
+'cont'=>'(Guihai July tenth day), August 21, 1923, Shimon Peres, Israel&#39;s current president, Nobel Peace Prize winner, was born. born in Shimon Peres, <br>, \"target =\" _blank \"> Peres, the Israeli politicians. born on August 21, 1923 in a small village in Poland (now part of Belarus), ( L $ dj而.c身m) 1924 with his family emigrated to Palestine in 1934, came to the then British Mandate of Israel, (lssjt.cn) to attend the 22nd World Zionist Congress was held in Switzerland in 1946, the defense of Israel in 1948 Ministry of Naval Affairs Officer. 1952-1959 year, he was appointed chief of staff of the Israeli Defense Ministry. Deputy Defense Minister from 1959-1965. <br> in 1965 with the establishment of the Workers&#39; Party of Israel and Ben - Gurion, he served as general secretary, 1969 , he served as the economic development in the occupied areas and the Minister of Refugee Resettlement. (1 $ dj而.c身m) 1970 any postal and transport minister in March 1974, he was appointed Minister of the Secretary of Defense in June. participate and Egypt to the troops in 1975 disengagement negotiations in April 1977, he was elected Chairman of the Israeli Labor Party. September 1984, he was appointed Prime Minister in October 1986 Deputy Prime Minister and Foreign Minister in December 1988, deputy Prime Minister and Minister of Finance and Minister of Foreign Affairs in July 1992. November 4, 1995, Rabin was killed after he became acting prime minister of Israel, Prime Minister and Defense Minister in November. June 1997, he was appointed the Chairman of the Labour Party, in June 1999, he was appointed Israel&#39;s 15th Parliament Temporary Speaker in July 1999 Israel&#39;s regional cooperation minister. March 2001, he was appointed Minister of Foreign Affairs, Deputy Prime Minister and Foreign Minister in September. resignation in October 2002 and February 2003, he was appointed to the provisional Parliament Speaker, after the resignation of Labor Party Chairman Mi Cina in June, as Labor Party Chairman November 30, 2005, announced its withdrawal from the Labor Party to join Kadima, the Knesset elections held on June 13, 2007, was elected Israel&#39;s ninth president, was sworn in on July 15 of the same year. <br> 1993 September L $ dj而.c身m] UNESCO awarded him Boigny Peace Prize. <br> 1994, because of his Middle East policy, and Kitts Shack Rabin and Asia Sears Arafat shared the Nobel Peace Prize. the (lsjt.net) <br> major works, \"the next stage\" (1965), \"David bullet\" (1970), \"tomorrow at the moment \"(1978),\" these people \"(1979),\" New Genesis \"(L $ dj而.妨壯T) <br>'
+);
+
+?>

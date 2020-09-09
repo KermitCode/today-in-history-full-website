@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1940-3-11
+	create time:2013-01-01 21:46:36
+*/
+
+return array(
+'title'=>'Eighth Route Army wiped out most of the ninety-seventh Army Zhu Huai ice',
+'class'=>0,
+'cont'=>'In (February Gengchen third), March 11, 1940, the Eighth Route Army wiped out most of the ninety-seventh Army Zhu Huai ice. <br> 129 Division of the Eighth Route Army a unit of the cadre mobilization meeting was held before the war March <br> 1940, the Eighth Route Army organized counterattack the KMT army Zhu Huai ice magnetic Wu involved the forest Battle of the end of February, Chiang Kai-shek to his first Corps ninety-seven Zhu Huai ice, Hebei Province, the security commander Lu Zhonglin, [lsjt.net new five Army commander Sun Dianying ministries entrenched Cixian, Muan, Shexian, Linxian, attempted to South Area Stone Friends DING this and Shandong Shen Honglie Ministry of echoes, massive attack to the the Taihang, southern Hebei Eighth Route Army base. Chiang Kai-shek and dense electric Cheng Qian, indicating Lu Zhonglin under the jurisdiction of the Theater of the Eighth Route Army \"decisive, responsible for handling\"; 22 cipher telegram Cheng Qian the Wei Lihuang, so that it get rid of the Taihang Mountains District, the Eighth Route Army, Chiang Kai-shek also dense electric Lu Zhonglin make it jindongnan Eighth Route Army encircled trend \"opportunistic\" flatly surround and annihilate the \". under <br> in this case, the Eighth Route Army 129th Division Commander Liu Bocheng (the L $ dj¦Ó.§«§§T) Political Commissar Deng Xiaoping, in accordance with the command of the Eighth Route Army headquarters, centralized Ping-Han Road West 129th Division of the Ministry of 13 group strength of magnetic weapons involved forest battle, determined to eliminate isolated and prominent the Zhu Huaibing Ministry to defend Taihang Base. In 5 days beginning the middle of the central forces of the Eighth Route Army from diehard troops two divisions breakthrough, with the main left and right wings fierce attack, Zhu of Ministry of Huaibing fierce attack by the north and south, defeated, abandoned the impedimenta and rear organs, fled in the direction of Linxian. (L $ j¦Ó.c¨½) <br> to 8 days, Zhu Huaibing Ministry ninety fourth division, the 24th Division and the new division, and other forces most was destroyed; remnants of it fled to the south of Linxian will again be the Eighth Route Army Do not move detachment volley, more than 2,000 people fled into the last remaining Xiuwu County. <br> 11 campaign all over, annihilated million people, the Eighth Route Army in magnetic weapons involved Forest Battle victory. <br>'
+);
+
+?>

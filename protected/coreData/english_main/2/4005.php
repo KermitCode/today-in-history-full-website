@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-5-2
+	create time:2013-01-01 20:29:24
+*/
+
+return array(
+'title'=>'Wu Yun, National Principal labor model Tudor died in Beijing',
+'class'=>3,
+'cont'=>'May 2, 1991 (, Xinwei March 18), the National Principal labor model, Wu Yun-duo, died in Beijing. In In the 1950s, a \"dedicated to all the party had inspired a whole generation of people. So far, this book has been reprinted 44 times, as a revolutionary ideals and revolutionary education series, and it continues to influence a new generation of people. Wu Yun-duo, the author of the book, known as \"Paul\", passed away in Beijing \"target =\" _blank \"> Wu Yun Duo, May 2, 1991, the end of the glorious life of 74 years, left the earth. < ; br> Wu Yun Duo is a pioneer in China&#39;s Ordnance cause, but also China&#39;s first generation of workers and writers, first published in July 1953, Wu Yun duo wrote \"dedicated to all the party in Beijing. although this book is only 68,000 words , but on its social repercussions caused by the unusually strong, especially for the high school students of the fifties and sixties greater impact when the bag of high school students, almost all filled with the precious book during the Young Pioneers, the Communist Youth League Activities Day students read this book; write Extracurricular reading experience, students use this book; students the cold summer Readings bibliography also listed in this book. it looks like the motto of the young students, as young people life signpost. therefore, at the time this book is required reading for youth all aspiring ideal textbook. many young people in learning, encountered difficulties in life, this book very naturally find the answers, or write Wu Yun Duo, to the author of the book, and asked him to answer. <br> Wu Yun Tudor was born in a poor peasant family, 12-year-old when the miners suffered inhuman torture in 1938, he decided to defect to the New Fourth Army engaged ordnance repair and manufacturing work. A year later, he was honorably joined the Communist Party of China, from this, whether it is in the workshop roaring, or proving ground in the perilous Wu Yun duo kept studying the design of many weapons and equipment, and many took the lead, risked their lives to do a variety of bombs, landmines trial experiments. (Lssdjt.com) Wu Yun Duo left eye was bombed blind four fingers of the left hand was blown up on two legs came to a disability. tenacity not pulling perseverance, time and time again wrestle with death, the liberated areas the people as \"Paul\" the <br> Wu Yun Duo moved by the Soviet people, they Gorky Street in Moscow, was established in the 14th Paul Memorial \", the Ostrovsky-figure pay high tribute. <br>'
+);
+
+?>

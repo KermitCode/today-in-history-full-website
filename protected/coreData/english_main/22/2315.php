@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1974-2-22
+	create time:2013-01-01 21:31:30
+*/
+
+return array(
+'title'=>'Mao Zedong put forward the theory of &quot;three worlds&quot;',
+'class'=>5,
+'cont'=>'(Jiayin February day), February 22, 1974, Mao Zedong put forward the theory of \"three worlds\". <br> Mao Zedong met with Zambian President Kaunda <br> 20 in the 1970s. The world situation is rapidly changing, great turmoil big reorganization of situation. In this case, China should take diplomatic strategy? Zambian President Kaunda <br> Chairman Mao Zedong met on February 22, 1974, proposed the three worlds \"theory\" target = \"_blank\"> three worlds theory called on to unite to oppose hegemonism . Chairman Mao Zedong said: \"I think the United States, the Soviet Union was the first world. The centrist, Japan, Europe, Canada, the second world. Let the Third World \",\" Third World population. Asia in addition to Japan are third world. Africa as a whole are the Third World, Latin America is the third world. \"This strategic thinking has rich content and of great practical significance. In April of the same year, Deng Xiaoping led the Chinese delegation to attend the sixth special session of the General Assembly of the United Nations, and to speak in the General Assembly on the 10th, (l $ j¦Ó.c¨½) described Chairman Mao Zedong&#39;s theory of the three worlds, indicating that China&#39;s foreign policy caused widespread concern around the world. <br> three world strategic thinking specified: two tyrants of the Soviet Union, and the United States in the first world, and they are competing with each other for world hegemony. Cent of the world&#39;s population, most of the third world countries and people, is the main force of anti-imperialism, colonialism and hegemonism. China, accounting for one fifth of the world&#39;s population by the year&#39;s semi-colonial, semi-feudal country into a powerful socialist country, and the other socialist countries insisted on imperialism and hegemonism a stand firmly on the side of the Third World, becoming the first unshakable force in the Third World. Above between the developed countries (history. Cn), such as Britain, France, West Germany, Japan, is the second world, and they have two sides, is the third world in the struggle against hegemonism can fight or joint force. <br> Chairman Mao Zedong on the division of the three worlds correct strategy for the international proletariat, the socialist countries and the oppressed nations united to establish the broadest united front against the Soviet Union and the United States two tyrants and their war policy powerful ideological weapon. About three world theory is an important basis for formulating foreign policy. (1 $ dj¦Ó.c¨­m) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2010-7-26
+	create time:2013-01-02 00:29:23
+*/
+
+return array(
+'title'=>'The WikiLeaks online public a large number of secret documents, causing an uproar',
+'class'=>0,
+'cont'=>'July 26, 2010 (on GY June 15), WikiLeaks online open a large number of secret documents, causing an uproar. <br> Wikileaks (WikiLeaks also translated Wikileaks) is a large document leaked and analysis website founded in December 2006, the purpose of exposing the corruption of the government and corporate. The site claims that its data source can not be traced not be reviewed. \"WikiLeaks\" no headquarters or traditional infrastructure, the site relies on a server, and dozens of supporters by relatively few lawyers or local government pressure. July 26, 2010, WikiLeaks disclosed secret documents of up to 92,000 U.S. troops in Afghanistan \"in the\" New York Times \",\" The Guardian \"and\" Mirror \"with the online, causing an uproar. Recently, some organizations and individuals with Assange foul was online attack seems to be hacker retaliation for the site and taken action. <br> WikiLeaks founder Julian Assange. He was born in 1971 in Queensland, Australia, and the news that he participated in the founding of Australia ISTS (Association of global seventies - International seventy-three Society). Childhood, parents opened a mobile theater company, Assange grew up living a gypsy-style street life. Total on his primary and secondary schools, 37 schools, on the six universities. Perhaps this vagrant life, created the adventure his restless personality. (The above information is from Assange Australian writer Germany cooperation tired Forth \"Wiki Wars prequel 1: Assange and his hacker comrade-in-arms,\" &#8203;&#8203;a book (on TodayOnHistory.com) English title \"UNDERGROUND\") < ; br> WikiLeaks working capital contributions from volunteers and team members out of their pocket. The site frequently to disclose internal documents exposing government and corporate corruption behavior. The site claims: Here, the prosecutor, news reporters and blog can expose all forms of corruption, without fear of retaliation by employers and government. \"WikiLeaks\" website was established in 2006, specializes released confidential \"internal\" document, which claimed to expose government corruption and even illegal insider, the pursuit of transparency of information. WikiLeaks said the move is likely to improve the quality of investigative reporting, reduce government corruption and rebuild the culture of business ethics. Currently, the \"WikiLeaks\" has been involved in about 100 lawsuits. <br>'
+);
+
+?>

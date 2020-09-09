@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1933-1-3
+	create time:2013-01-01 18:34:15
+*/
+
+return array(
+'title'=>'Fell to the Japanese Shanhaiguan',
+'class'=>0,
+'cont'=>'(Renshen eighth day of the twelfth lunar month), January 3, 1933, fell to the Japanese Shanhaiguan. guarding Shanhaiguan <br> Chinese army fighting positions In January 1, 2011, the Japanese garrison captain off the full planning to manufacture a grenade bombings in elm off in front of the Military Police detachment. After the incident, the Department of the Chinese military for falling wholly insist; and headquarters team southward Off the station attack, and electric Kwantung Army and Tianjin Zhutun Jun commander please aid. Night to attack the Japanese are the Chinese defenders repelled. The offensive against the Japanese the garrison headquarters so Yuguan defenders standby action. at 1 o&#39;clock in the morning <br> 2, the Japanese side has put forward four conditions: (1) South Gate owned by the Japanese side guard; (2) withdrawal of the garrison of South Gate; (3) The withdrawal of the South Gate Police and security forces; (4 ) retreat City on Shoubing, and limited immediate reply. The Chinese statement said: \"as soon as Timeless Truth, and then start negotiations. 3:00, the Japanese side notice said: \"This event is no need to investigate,\" otherwise by force South Gate. \"China resolutely refused, immediately configure troops. Japanese troops to South Gate outside the Chinese police disarm, monitor the South Gate Police District Chief, the two sides in a stalemate. the <br> 2, the Japanese garrison with a wooden ladder to climb the walls of the South Gate, China Shoubing repulsed. 10 am, more than 3,000 people in the Japanese step artillery to open by the avant-garde, support aircraft, artillery and tanks in an attempt to break from the south gate. Chinese defenders buckled down to 17 o&#39;clock, the Japanese does not support away. Evening, the Kwantung Army command more troops to seize the land. ($ Dj¦Ó.c¨­m) January 10, <br> 1933, the Japanese army reinforcements to join the battle, aircraft, warships and tanks under cover the east the Nancheng corner and near the South Gate initiated key offensive. Chinese defenders tenacious resistance to the step machine guns, mortars and grenades. After fierce competition, the outcome of each. To 14, the Japanese general attack, more violent gunfire, the South Gate Shoubing in full killed, seized the opportunity to break into the Japanese tanks. At this point, the elm off then Japanese occupation. Chinese defenders ninth trip of less than 2,000 people in a mass of people were excited enemy on the 3rd and powerful enemies, more than half of the casualties were people dead and injured 4000 people and destroyed by gunfire housing more than 500. the Shanhaiguan <br> after the fall of the <br>'
+);
+
+?>

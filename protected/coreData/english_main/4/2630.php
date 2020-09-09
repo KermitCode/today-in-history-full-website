@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1933-3-4
+	create time:2013-01-01 22:34:20
+*/
+
+return array(
+'title'=>'Japanese army captured Gubeikou',
+'class'=>0,
+'cont'=>'On February ninth day (πÔ”œ years), March 4, 1933, the Japanese captured Gubeikou. <br> the Japanese climbing, offensive Gubeikou In March 1933, after the Japanese occupation of Chengde, that the eighth main divisions Gubeikou direction chase. The Northeast Army Wang Zhe Ministry first 207 division, Tiger Mountain and along the Loess in Gubeikou outside, and the pursuit of the Japanese fighting two days and nights withdraw March 9 after Kannai. The Wang Zhe Jitiao first twelve divisions along the Great Wall north of arming, ready to mutual defense Gubeikou Central Army 17th Army, the chase first 207 division of the Japanese Army had arrived in the Great Wall near. The 17th Army twenty-fifth Division Guan Lingwei Ministry arrived at 4:00 on the March 10 Gubeikou. the <br> 10 15, part of the the Japanese troops eighth Division under the cover of artillery fire, as wide positive exploratory attack, returned after a few hours of the original line. the Japanese eighth main divisions in the dawn of <br> 11, under the cover of artillery fire, began to garrison attack. The first twelve division of the defensive Gubeikou positive not try to resist that is to give up a first-line positions, the Japanese quickly occupied Gubei mark up a victory and the position of the the garrison twenty fifth division right wing Longer valley surrounded by the attack. The seventy third brigade stationed at the place serious casualties, Contact interrupt. Teachers off Linzheng the commanding seventy-fifth Brigade main support, the enemy repulsed. the <br> 12 morning 5 am, Japanese aircraft and artillery support, once again attack, the main point to the Longer Tongkuangyu positions, and most troops surrounded extend to the right-wing, more intense fighting. War to 15, the defenders most moral one, was forced to retreat. After the 12 day and night, removed the twenty-fifth Division troops refresh Nantianmen its left and right to occupy the position. <br> 13, the twenty-fifth Division of the sixteenth military orders to withdraw to the Miyun refit its defense to take over from the second division. Japanese occupation Gubeikou. <br> this battle, the Chinese army casualties, more than 4,000 people, the death of more than 2,000 Japanese troops. The the Japanese <br> of (lssjt.cn) <br> Gubeikou frontline command of the Chinese 17th Army commander the Xu Tingyao (former) <br> trenches of Chinese soldiers the <br> transported wounded in Gubeikou ;'
+);
+
+?>

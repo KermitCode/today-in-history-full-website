@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1830-7-10
+	create time:2013-01-01 23:47:02
+*/
+
+return array(
+'title'=>'French Impressionist painter Camille Pissarro was born',
+'class'=>4,
+'cont'=>'July 10, 1830 (on GY May 21), the French Impressionist painter Camille Pissarro was born. Pissarro was born <br> \"target =\" _blank \"> Pissarro (Pissarro ,1830-1903), French impressionist masters Born in 1830 in Netherlands Antilles, St. Thomas, 1903 Death in Paris in the year before his death, far more in Tahiti high wrote: \"He is my teacher.\" three years after his death, \"the father of modern painting Cezanne \"Paul Cezanne, Pissarro students sign their exhibited works directory respectfully your masters in the impressionist Camille Pissarro was the only one to participate in the Impressionist painters of all eight exhibition can be described as firmest Impressionist artist. <br> Pissarro since childhood, they art exhibit strong interest, but until the 24-year-old have the opportunity to contact with the art world in Paris in Paris, he became acquainted with the painter Ke Luo, and later met in private studio Monet, Cezanne, Baqi Ye, Renoir and Sisley. landscape of his early paintings by Paris in 1864-1870 were selected for the official art exhibition in 1870, he went to fleeing the fighting in London; After returning home, he works began to no longer be the official Salon accepted, since then, his fate and impressionist painter tightly buckle together. and other impressionist painter, his work is also influenced by Japanese art . contemporary landscape bright strokes of color and quiver <br> with curiosity, Pissarro also continue to explore new techniques from 1885 to 1890, he followed a painter Seurat (Georges-Pierre Seurat) painting, pointillism (Pointillism) but later regained the original techniques., art dealer Durand - Lu Aier he organized a major retrospective in 1892. Thereafter, Pissarro devote themselves to depicting views of the city, in particular, like to capture street in Paris, the focus on the bustling streets overlooking angle end of such works earned him an international reputation. (lssjt.cn) <br> The remaining six works of Pissarro Beijing Seine and Louvre, the snow forest Boulevard, \"Meng Fuke harvest season,\" Ai Lani&#39;s madhouse \",\" Elmi corner of the tower Day Garden \"and\" near Pontoise Yi Nili Street. \"(L $ dj¦Ó.c¨­m) <br> Pontoise: the slopes of the Hermitage a Pissarro returned to France two years after painting before and after the family has lived for 10 years in Pontoise Pissarro and his family were living in Hermitage, Pontoise Heights neighborhood several houses, these houses are newer buildings, but not far from a town, of which some 17-18 century buildings. <br> <br> Impressionist paintings or do not understand, feel or look good classical painting (history. com) <br>'
+);
+
+?>

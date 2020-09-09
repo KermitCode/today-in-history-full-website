@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1925-12-8
+	create time:2013-01-02 02:29:27
+*/
+
+return array(
+'title'=>'Hitler&#39;s &quot;Mein Kampf&quot;, Volume I. Published',
+'class'=>0,
+'cont'=>'(October 23), Yi Chou, December 8, 1925, Hitler&#39;s \"Mein Kampf\" was published in the first volume. <br> \"Mein Kampf\" This book is both its theoretical level, it&#39;s logical, is not very high. However, it is the world-famous book, this is because it is a fascist ringleader Hitler&#39;s writings, is the most concentrated expression of the theory of fascism, and is required reading material to study Hitler reactionary thought. <br> book dictated by Adolf Hitler penned writing, its partisans Rudolf Hess. In the evening of 8 November 1923, Hitler led a group of stormtroopers in the Munich Baker Bolao Keller tavern seizure the Bavarian three Virginia military and political Executive, the spot that the \"national revolution has begun! \"This is the so-called\" brasseries riots. \" However, the next day, in conflict with the police, the 16 Nazis were killed and several people were injured, the rest fled. November 11, Hitler was arrested and brought to justice. In February 1924, was sentenced to five years in prison, due to the support of the Army, only served nine months. In prison, Hitler dictated \"Mein Kampf\" to start writing a book. Was released in December 1924. December 8, 1925, the first volume of \"Mein Kampf\" was officially published, in 1926, published the second volume. In 1928, Hitler began dictating \"Mein Kampf\" sequel record by Max Oman typing, and later, after more than 30 years of twists and turns, published in West Germany in 1961, entitled \"Hitler&#39;s second book. <br> \"Mein Kampf\" systematic exposition of Hitler&#39;s \"ideal\", \"Creating the Third Reich and the conquest of Europe. The book is filled with nationalist fervor and hatred of Marxism, democratic system and Jews. He believes that the Germanic people chosen by God \"to dominate the nation\", declared the new empire must once again along the road of the ancient Teutonic warriors marching German sword made for the German plow the land, for the people of Germany Get daily bread \"to win a new living space. \"Mein Kampf,\" a book, and later became the ideological foundation of the domestic and foreign policies of Germany and France and Programme, Germany and France to launch World War II thinking and action program, and to bring the people of the world with an unprecedented disaster. All kind-hearted people in the world are all cursed it, but some fascist remnants of the imperialist war maniacs, still regarded as a treasure. <br>'
+);
+
+?>

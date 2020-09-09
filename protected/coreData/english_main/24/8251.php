@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1121-8-24
+	create time:2013-01-02 00:29:39
+*/
+
+return array(
+'title'=>'Northern Song Dynasty peasant uprising leader, Fang La in Bianjing die a martyr',
+'class'=>3,
+'cont'=>'August 24, 1121, the tenth day of this seventh month (July 1901), the Northern Song Dynasty peasant uprising leader, Fang La martyrdom in Bianjing over. <br> <br> Fang La (? -1121 years), also known as square thirteen Xizhou (now Anhui Shexian), one that Muzhou Qingxi (now Hangzhou, Zhejiang Chunan County) people. Northern Song Dynasty peasant uprising leader. According to legend, its temperament generous, popular, coupled with strong organizational skills, self-born poor, they are able to call for a lot of hardship farmers. He mobilize people in Shexian Xiancun, uprising in October 1120, six states and 52 counties in Jiangsu, Zhejiang, Anhui, Jiangxi, including farmers regime. Great influence at the time, the summer of 1121 failed uprising the Fang La captivity, was put to death by the court. Fang La sentenced to death, The leader of the peasant uprising Shexian and Chunan in some places people are still very respected. To his honor, named after his name many place names, (lsjt.org) since these places there is a \"the Fang La hole\", \"Fang La Village\". A \"youngster store water boil for a short, square La two times; flooding turtle back stone, Fang La and rebel folk not only pointed out the village he lived, also illustrate his uprising motivation. Vision and years, the farmers the tea not sell, selling is not enough to pay tax. Farmers had not Caicha, and gather reluctantly down the river. The severe drought of the time value of western Zhejiang, July and August are not seen rain, HeMiao browned, the autumn harvest hopeless, while officials are pressing for tax. Fang La in Vision and in October 2002, Fang La Jiegan the uprising. Fang La clear-cut advocates to achieve true equality, \"to rob everyone Choi, scattered to raise the masses\", the determination of the complete overthrow of the Song Dynasty, freed the world all the toiling masses. Declared and April 2003, Fang La Uprising base to help source Song decisive defeat, retreated to hiding in a hole source village northeast of Cave was forced with cronies, unfortunately, was arrested as a traitor When the wizard, and finally, being conveyed to Bianjing . The the Fang La In Bianjing martyrdom \"target =\" _blank> Fang La Uprising laid a fifty-two counties in six states, Megatron southeast Banbi, fundamentally shaken the reign of the Northern Song Dynasty, the Northern Song dynasty never recovered soon destruction Fang La final adhere to the cave is called \"Fang La hole. <br> Comment: traitors? hero? <br>'
+);
+
+?>

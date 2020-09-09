@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-9-20
+	create time:2013-01-02 01:39:32
+*/
+
+return array(
+'title'=>'Affecting the capital city of one million people had Shandong girl Yang Xiaoxia cured',
+'class'=>0,
+'cont'=>'September 20, 1995 (August 26), seeing in the capital, has been affecting millions of people&#39;s hearts Shandong girl Yang Xiaoxia cured. <br> \"strange disease girl\" In December 1994, Yang Xiaoxia, of Shandong Pro nanzhen Wang Ka Yang Xiaoxia suffering due to the right hand limb ulceration disease was admitted to the General Hospital of Beijing Military Region. Unquenchable festering infection, coupled with the need to pay high medical expenses, Yang Xiaoxia soon caused strong concern in the capital and his hometown parties. In the funding of the whole society, Yang Xiaoxia social contributions 870,000 yuan, not only the successful pay huge medical expenses of 42 million, also cure the suspected disease, happily back to the the parting year of school. Shandong girl Yang Xiaoxia <br> 1995, 20, 2009, affecting the capital city of one million people, once the careful treatment of the medical staff and the people of the capital under the loving care of long ago has been recovered. She was transferred to the China Rehabilitation Research Center, where the limb functional exercise, installation and commissioning of prosthetic hand. She learned how to swim, body fat long high. <br> It is learned that the experts have confirmed that Yang Xiaoxia muscle fester necrosis due to \"a variety of bacterial synergistic gangrene. The past eight months, the experts of the microbial community in the capital of its bacteriology, serology, pathology, and bacterial resistance to a wide range of experimental studies, recently released 12 kinds of pathogenic bacteria have been identified, of which 8 species in human infection clinically extremely rare. Of particular concern is that the three kinds of bacteria were identified are still unable to determine the name of the category to be explored further. <br> Yang Xiaoxia discharged back to school, the community still always cared about her. Shandong Xiaoya Group not only funding her junior high school, high-school tuition and fees, and commitment to provide her admitted to the university tuition. \"I want to redouble our efforts to learn, to repay the party and the government and the community care\" with honors, Yang Xiaoxia says. <br> I&#39;m alive, let to share the love and dedication of all the people that care about their own people pleased, let more in need of subsidized --- experience of Yang Xiaoxia Dabeitaixi always think so. <br>'
+);
+
+?>

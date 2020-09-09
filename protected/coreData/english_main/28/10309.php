@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1818-10-28
+	create time:2013-01-02 02:07:51
+*/
+
+return array(
+'title'=>'Russian writer Turgenev&#39;s birthday',
+'class'=>4,
+'cont'=>'October 28, 1818 (September 29) Tiger years, the birth of the Russian writer Turgenev. death of Sergey Turgenev, <br> Guy \"target =\" _blank \"> Turgenev was born October 28, 1818, his mother was a serf owners, his childhood is the mother of a large Manor spent. (L $ dj而.c身m) <br> this House of extremely wealthy landowners affected in three aspects of Turgenev&#39;s life: first, his parents were very concerned about his son&#39;s education, hiring best teacher training with honors at the age of 15, he was admitted to the best universities in Russia, Moscow University, and three years later completed university studies with honors. Later, he went to Germany for further study. Turgenev, Russian writer in the highest level of education, reading foreign literature up contacts with Western European writers of the earliest writers Turgenev life basically held moderate liberal stance in the political He advocated implement gradual reform of Russian society, and not in favor of a revolutionary way to solve social problems in Russia, this kind of attitude is completely influenced by family. third, his personal experience of the serf owners education, presided over by his mother barbaric , also witnessed the serf owners violence serfs atrocities, (1 $ dj而.c身m) thus Turgenev from childhood serfdom objectionable this objectionable later formed his spiritual world humanitarian and factor of democracy, so that in the late 1640s to the early 1950s with the revolutionary democrats critics standing together. <br> 1852, Turgenev Essays \"Hunter notes\" him to enter the ranks of the outstanding Russian writer. caused by a distinct humanitarian and democratic tendencies in the works of the great concern of the tsar authorities, and an excuse to detain him, and later exiled to the last two years. Turgenev most written two class intellectuals: his five novels that 1856 \"Rudin,\" Noble House \"in 1859, 1860&#39;s\" Eve \",\" smoke \"of 1867, and in 1877 the\" virgin \" Turgenev&#39;s works true portrait of the hero or central figures are aristocratic intellectuals or civilian intellectuals in the novella, he write aristocratic young men and women moving but unsuccessful love, is also written to the civilian population of young intellectuals. reflect the eras in Russia to be seen, in the height of his spirit of realism and contradictory worldview also works his sympathy for the decline of the aristocracy, and his sanity but he shows civilians victory. < ; br> Turgenev is great a prolific writer, and also contribute in literary theory and literary criticism, he is the favorite of several generations of readers foreign writers of his novella \"First Love\" , \"Asya\" as early as in the 1920s, had been introduced to China. <br>'
+);
+
+?>

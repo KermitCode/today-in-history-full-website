@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1922-10-29
+	create time:2013-01-02 01:49:36
+*/
+
+return array(
+'title'=>'Mussolini&#39;s fascists arrived in Rome',
+'class'=>0,
+'cont'=>'September tenth day (Saigon), October 29, 1922, Mussolini&#39;s fascists arrived in Rome. led by partisans <br> Mussolini march on his way to Rome <br> the First World War, Italy&#39;s economic difficulties and political turmoil, the fascist forces took the opportunity to rise. In March 1919, Mussolini in Milan fascist combat mission, members, mostly veterans and dissatisfaction with the reality of people, including nationalists Annunzio. Fascist one hand, the use of the slogan of \"nationalism\" and \"patriotism\" for publicity. While taking advantage of the upper layer of the fear of communism, and vigorously against the Socialists and Communists. Fascist battle group dressed in black clothes and black everywhere to undermine workers&#39; rallies, the destruction of the center of the activities of the Socialist Party, to expand their forces. The May 1921 elections, the fascist party won 35 seats, Mussolini entered Parliament. Fascist party formally established in November, and its program. Fascist Party in 1922 grown to more than 20 million people. July 1922 the government Facht crisis, invited the fascist party to participate in government. Socialist Party boycotted this action and to launch a general strike in August. Fascist party the opportunity to combat the power of the workers, captured the City of Milan. the <br> 10 22, Mussolini convened more than 30,000 armed fascist partisans in Naples a meeting clamor Rome, Italy as well as the powers of the government is theirs, and announced the March on Rome. (L $ j¦Ó.c¨½) <br> October 27, more than 40,000 dressed Blackshirts armed fascist partisans 4 road march to Rome, and along the way not encountered the resistance of the army and police, occupied from northern Italy to the Roman lines of communication. 27 evening the Facht government decided to impose martial law, but King Emmanuel III do not agree forced to resign Facht. 28 fascist partisans drove into Rome. <br> 10 29 evening, the king invited Mussolini to Rome, he come forward to Prime Minister and Cabinet Organization. Mussolini seized power, they establish a fascist authoritarian rule in the country. <br> the Mussolini <br> arrive in Rome in 1922, Mussolini was appointed Prime Minister, (1 $ dj¦Ó.c¨­m) fascist dictatorship to establish <br> official in Italy in 1922, the new Prime Minister Benito Mussolini martyrs cemetery to King dimensional - Ai Manu Elegante oath of allegiance <br>'
+);
+
+?>

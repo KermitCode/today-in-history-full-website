@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-3-21
+	create time:2013-01-02 08:42:01
+*/
+
+return array(
+'title'=>'The death of famous historian educator, social activist Bai Shouyi',
+'class'=>3,
+'cont'=>'February 16 (Dragon), March 21, 2000, the death of the famous historian educator, social activist Bai Shouyi. Reference, March 21, 2010, a famous historian, educator and social activist Bai Shouyi illness died in Beijing. The age of 91. <br> Bai Shouyi was born in Kaifeng, Henan Hui family. 1932 graduate. After the founding of New China, was hired as a committee member of the Chinese Academy of Sciences, long taught at Beijing Normal University, served as the History Department, the historian, director of the Institute, the Director of the Institute of Ancient Books, director of the Academic Committee, the Council of consultant duties. He was involved in the preparatory work for the establishment of the Chinese Academy of Sciences Institute of History, two and part-time researcher. He also served as a member of the Academic Degrees Committee of the State Council, the national president of the Society for the History of China, the vice president of the China Islamic Association, Honorary President of the the Chinese Hui historians will duties. In Bai Shouyi 1953 joined the China Democratic League, joined the Communist Party of China in 1957, he is the first session of the CPPCC representatives, and the third to the sixth National People&#39;s Congress, of four sixth member of the Standing Committee of the National People&#39;s Congress, the Communist Party of China invited representatives of the tenth National People&#39;s Congress on behalf of the Fifteenth Congress. (The l $ j¦Ó.c¨½) <br> Professor Bai Shouyi a very wide field of academic research, the transport history in China, the history of Islam in China, Hui history, the history of ethnic relations, the history of Chinese thought, Chinese Historiography, History of China and historians The theoretical aspects have made outstanding achievements. Especially in Chinese history, Chinese Historiography in the field of ethnic and religious, has made a considerable number of groundbreaking achievements, promote the development of these disciplines. Published in 1999, by Bai Shouyi chief editor of the \"History of China\" voluminous, the system is complete, in a timely manner to reflect the latest History of China research, has a unique theoretical achievements, is a representation of the results of the century Chinese historian get historians spoke highly of the profession. Jiang Zemin wrote a letter to congratulate the publication of the \"History of China\" is a big happy event of our historians, praised Professor Bai Shouyi \"ripe old age, still pen stopped working, diligent research, can be described as an old steed, Zhuangxin not have been. \" <br>'
+);
+
+?>

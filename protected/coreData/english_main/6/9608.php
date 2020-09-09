@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-10-6
+	create time:2013-01-02 01:33:28
+*/
+
+return array(
+'title'=>'The State Council approved the construction of the first batch of five marine protected areas',
+'class'=>0,
+'cont'=>'August 18 (Gengwu years), October 6, 1990, the State Council approved the construction of the first batch of five marine protected areas. <br> the State Council approved the establishment of China&#39;s first national marine nature reserve. The first batch of national marine nature reserve five: Changli Gold Coast Nature Reserve in Changli County, Hebei Province, Yamaguchi mangrove ecosystem Nature Reserve in Hepu County, Guangxi Zhuang Autonomous Region, in Wanning County, Hainan Island marine ecological nature reserve, located in Sanya City, Hainan Province, Sanya Coral Reef Nature Reserve, and is located in Pingyang County, Zhejiang Nanji Islands Marine Nature Reserve. <br> marine nature reserve for the protection of marine natural resources and the environment, in the waters, islands, coastal and estuarine zoning a certain range to be special protection area. China has abundant marine resources, beautiful natural landscape, various types of marine ecosystems as well as the world-famous rare marine life. But in recent years, important part of the marine environment have suffered some of red tide constantly, part of the marine engineering damage to natural resources and landscape. The establishment and construction of marine nature reserves have been inevitable. <br> The State Council approved the establishment of five national marine nature reserves have high ecological value, scientific value and ornamental value. Changli Gold Coast Nature Reserve, an area of &#8203;&#8203;about 300 square kilometers, has the world&#39;s rare in forest up to 34 meter golden dunes, spacious beach Pohuan, fine sand, clear water, the tidal range is small, rare tourist resources. Nanji Islands Marine Reserve, a total area of &#8203;&#8203;196 square kilometers, with 344 kinds of shellfish, benthic algae in 174 kinds of the inshore shellfish, algae species gene pool. Sanya Coral Reef Nature Reserve area of &#8203;&#8203;about 40 square kilometers, the water quality is good, high water transparency the underwater distribution with more than 80 kinds of reef-building corals, is typical of the fringing reef ecosystem. Big Island marine ecology Nature Reserve, a total area of &#8203;&#8203;70 square kilometers, is China&#39;s only the swiftlet habitat. Pass mangrove ecological nature reserve area of &#8203;&#8203;40 square kilometers, more types, larger, complete community types mangrove distribution <br>'
+);
+
+?>

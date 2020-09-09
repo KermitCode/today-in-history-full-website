@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1415-7-6
+	create time:2013-01-01 23:29:32
+*/
+
+return array(
+'title'=>'The Czech patriots Hus killed',
+'class'=>3,
+'cont'=>'July 6, 1415 (, June started) Yi Wei, Hus, Czech patriots were killed. tall Hus statue the <br> on the Old Town Square in Prague, July 6, people came to the Old Town Square or goat Fort Hus victims \"target =\" _blank \"> Hus House to reminisce the patriotic hero. <br> 1415, July 6, 2011, (lssdjt.cn) Hus victims day (Lssdjt.com) <br> Hus, a Czech patriot, religious reformers, was born in a peasant family in 1371 after he graduated from the University of Prague, the completion of the most advanced education in seminary, and later served as president of the University of Prague and the Bethlehem church priest (history www.TodayOnHistory.com) <br> 1412 Pope also sent to the Czech Republic to sell \"indulgences\" Hus called on people to boycott these \"fox wearing robes. Prague demonstrations, college students play the Pope as shamelessly prostitutes Czech kings backward church aside, killed several students. (on www.TodayOnHistory.com) Hus to come forward and denounced the pope sent a priest, said they also cunning robbers also ferocious \", should be\" coercion against the enemy of Christ - the Pope! \"Prague Archbishop angrily rid Hus taught nationality the Czech kings lifting of the duties of the president of his college, he left Prague. < ; br> Hu Division moved to Fort southern goats continue to preach in the towns and villages, many of the works written in Czech, boldly claims of religious reform: simplify the religious ceremonies, with Czech prayers; confiscation of church property are not allowed to priests by preachers rake in the money ... He also angrily criticized the greed and corruption of the German monks, to expose them to all sorts of excuses to plunder the flesh and blood of the crime. <br> Hus increasing influence, the increasing demands of the reform in 1414 , papal instigation of the emperor of Germany, convened the Synod of Constance Europe-wide planning the rising repression \"heresy\" activities. Pope inform Hus to attend the meeting, the Kaiser promised to protect his personal safety. Hus knows this go odds are against us, but in order to publicly prove the greatness of the truth \", he decided to attend the meeting. <br> Hus to ´ï¿µË¹Ì¹´Ä soon, was locked up in the cellar. meeting fabricated a lot\" crimes \", his\" trial \", or force him to cancel their claims, but simply do not give him the right to plead the face of unyielding,\" in order to defend the revealed truths of the Bible to me, I would rather choose death \"Hus, the pope and the German emperor do anything planted him on charges of\" heretics \"and sentenced to burning at the stake. the martyrdom of Constance, Hus Square stake piles, July 6, 1415. <br>'
+);
+
+?>

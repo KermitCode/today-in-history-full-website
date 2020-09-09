@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1915-7-12
+	create time:2013-01-02 00:09:49
+*/
+
+return array(
+'title'=>'Taiwan I breeze initiated the anti-Japanese riots',
+'class'=>0,
+'cont'=>'June (YiMao years day), July 12, 1915, Taiwan I breeze initiated anti-Japanese riots. <br> Look moo along the mountainous, with the Japanese police and combat anti-log Shiyu breeze <br> in July 1915, I breeze, the main person in charge of the anti-Japanese underground organization in Taiwan, the official pulled up anti-Japanese armed into. the <br> 1913 years, I breeze to the identity of the rice milling business in Tainan City, organized the anti-Japanese forces west lai place, contact the comrades. At the same time, Jiang given after the rise of Aberdeen, Luo Jun Guogou village in Taichung organization people, against Japanese colonial rulers. The three anti-Japanese forces momentum growing. I breeze the Ming dynasty Ci Beiguo \"nominal issue to discuss the date of call to arms, and called on the people rose up to expel\" Wonu to overthrow the tyranny of the Japanese colonialists, building a gap between the rich and the poor, there is no tax freedom, equality society. <br> the beginning of the year, Luo Jun propose to send people to the mainland crossing appeal to people from the mainland to Taiwan to support Taiwan&#39;s anti-Japanese struggle, I breeze support. I breeze the rebuilt West lai nominal raise uprising funds. In April, the funds raised reached 4,000 yuan. I breeze dial 600 yuan costs as contributing comrades in the mainland, while the remainder is used to purchase weapons and ammunition, ready uprising to armed resistance. Invariable in Keelung <br> 5, 23, Bong severance want to go to Xiamen Day A arrest. Japanese police exhausted the agony of torture, failed to make the bow Su, had to put him in jail. The Soviet Union and Eastern insult secret Tuoren Dai letter. Contingent letter fell into Japanese hands, the Japanese find out the relationship between the Su Donghai Yu breeze, Luo Jun et al. Japanese police immediately toward the West-lai. But I breeze has led to anti-Japanese people entering Look moo along the mountains. Japanese police everywhere, over-exploitation of the masses. June 29, Luo Jun, unfortunately, were arrested. <br> I breeze who led the anti-Japanese people after the Hori Aberdeen area base and the Japanese police launched a heroic struggle. July 9. They were the passage of Chiahsien Po, sub-prefect and ten plow. Kew Gardens and Ali round three of the police station, and mosquito Aberdeen feet, the River Table Lake, Kobayashi three police in the 34 people killed by the Japanese colonialists. <br> the following I breeze uprising Luo Jun <br>'
+);
+
+?>

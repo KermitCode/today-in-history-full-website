@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1902-8-8
+	create time:2013-01-02 00:14:25
+*/
+
+return array(
+'title'=>'British physicist Paul Dirac was born',
+'class'=>4,
+'cont'=>'August 8, 1902 (on July fifth day Renyin years), British physicist Paul Dirac was born. <br> <br> Paul Dirac was born target = \"_blank\"> Dirac <br> Dirac (Paul Adrie Maurice Dirac, 1902 May 8, 1999 to October 20, 1984), (history www.lssdjt.com) British theoretical physicist and one of the founders of quantum mechanics, Yindilake equation won the Nobel Prize in 1933. (history today. com) <br> Dirac was born in Bristol in southwest England, after obtaining a degree in electronic engineering and mathematics at the University of Bristol, for his doctorate at the University of Cambridge in 1926. < ; br> <br> his main contribution to physics: quantum mechanics equations given in the description of the relativistic Fermi particles (Dirac equation), given the anti-particle solution; the magnetic monopoles Prophet; Fermi - Di the Mubarak statistics. Moreover, in quantum field theory, especially quantum electrodynamics also made a groundbreaking work. outstanding work in the theory of gravity and gravitational quantization (lssdjt.cn) <br> his life many writings. \"Principles of Quantum Mechanics\", has been the authority of the classics in the field, and even that was known as the \"Bible\" of quantum mechanics. <br> Dirac (1902-1984) was a British physicist. August 8, 1902 was born in Bristol, England. <br> Dirac in vocational schools, middle school, and after graduating in 1918, was admitted to the University of Bristol Department of Electrical Engineering. 1921 University graduate, received a bachelor&#39;s degree in electrical engineering. When the math graduate student was admitted to St. John&#39;s College at Cambridge University in 1923. Began to study the creation of quantum mechanics by Heisenberg and others in 1925, entitled \"quantum mechanics\" of papers published in 1926, a doctorate in physics in the University of Cambridge, was invited to any researcher at the St. John&#39;s College. 1929 touring the world for an academic visit, the first five-month stay in the United States, and later with Heisenberg&#39;s visit to Japan, and then the Trans-Siberian, returned to England. Selected as a member of the British Royal Society of London in 1930. In 1932-1969, Dirac any professor of mathematics at Cambridge University. He also served as a visiting professor at the University of Wisconsin, University of Michigan, Princeton University, the University of Miami and other famous universities. Dirac and Schrodinger share in 1933 when the Nobel physics prize. In 1971, he was appointed an honorary professor at Cambridge University, he served as a Florida State University professor of physics. The <br> died in 1984 10 24. He was 82 years old. Reviews of <br>: Dirac equation, the founder of the theory of quantum radiation. <br>'
+);
+
+?>

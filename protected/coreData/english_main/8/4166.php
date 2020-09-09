@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1893-5-8
+	create time:2013-01-01 21:01:54
+*/
+
+return array(
+'title'=>'Historian Gu Jie-gang birth',
+'class'=>4,
+'cont'=>'May 8, 1893 (March 23) Kimi historian Gu Jiegang was born. The birth \"target =\" _blank \"> <br> Gu Jiegang Gu Jie-gang Birthplace - the the the hanging Bridge Lane Gu garden <br> Jie just (1893 1980) Chinese historian and historical geographer. formerly known chant kun word Ming Jian. Suzhou, Jiangsu province. graduated from Peking University Arts Chinese philosophy doors in 1920 served as a professor at the University of Xiamen, Zhongshan, Yanjing, Beijing, Yunnan, Qilu, central, Fudan University, Lanzhou, Academia Sinica, and Sun Yat-sen University Director of the Institute of History and Philology, University Qilu Guoxue Director of the Institute. <br> early years collecting folk songs, engaged in the study of folklore. the 1920 Dynasty ancient legends, to 1923, the proposed \"layer tired due to Chinese ancient history, breaking ancient as the concept of the \"golden age\" has triggered a fierce debate in the historical community. later had to themselves and others to discuss the article argued numbered \"Historical Text\" Eight book (published seven) <br> 1927, the founder of the Folklore Society Folk Weekly Edit Folklore Society Books confirms ancient legends to folk materials. then turn Textual history and geography at founded in 1934, \"Yu Gong\" semimonthly following year establish Yugong Society. promote the study of China&#39;s history, geography, culture expertise of a number of historical geography. due to the national crisis-ridden, gradually focus on the frontier geography, in 1936 founded Frontier Research the organization popular books compiled Publication Press, presided&#39;s books publishing the Guci etc. tunes, anti-Japanese propaganda. <br> During the War of Resistance Against Japan, into the Mainland, founder of the Chinese frontier Society, published in \"frontier Weekly and successively editor responsible for good \"semimonthly, AND HISTORY After the liberation of researchers and academic members of the Institute of History of the Chinese Academy of Sciences. hosted in Beijing punctuation\" Mirror \"Twenty-Four Histories of the work, and in-depth study of the\" Book of History, Many articles have been published \"Book of History,\" the school mistranslated theory <br> biography writings very, published \"alchemist and scholars of the Qin and Han\" (formerly known as \"Han Dynasty academic Brief History\"), \"Three August Ones\", \"History the miscellaneous knowledge Chu Bian, \"Chinese Historical Atlas of years ancient history part),\" Mengjiangnu story set \"the\" Miaofengshan \",\" Wu Song A set \". <br> Gu Jiegang couple in the People&#39;s the City Hall <br> Gu Jie-gang family <br>'
+);
+
+?>

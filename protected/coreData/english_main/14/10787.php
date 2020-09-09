@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-11-14
+	create time:2013-01-02 02:05:26
+*/
+
+return array(
+'title'=>'Japanese Communist Party leaders Nosaka Sanzo&#39;s death',
+'class'=>3,
+'cont'=>'In October started (πÔ”œ years), November 14, 1993, the Japanese Communist Party leaders Nosaka Sanzo&#39;s death. The <br> ginseng wild Sakamoto, three passed away \"target =\" _blank \"> Nosaka Sanzo (1892 to 1993), former honorary chairman of the Central Committee of the Communist Party of Japan. Yamaguchi County. graduating from Keio University. the University learning period\" fraternity will & rdquo ; (Japanese the total labor alliance predecessor), the permanent secretary. graduation, he served in July 1919, the fraternity will be Commissioner identity went to London to study the British trade union movement in August 1920, joined the Communist Party of Great Britain in May 1921 by the British Government to expel exit. return home in 1922, joined the Communist Party of Japan in March 1923 in JCP temporary Assembly 1928 took office party platform Drafting Committee, he served as the official newspaper of the Communist Party of Japan the \"proletarians News\" edit. March 1926 to participate in the formation of a Farmer Labor Party. Month three hundred and fifteen \"event in jail, on parole from prison in March 1930. elected as member of the JCP Central Committee in January 1931, the Comintern in Moscow any representative of Japan in February 1940, the same year in 1940 to Yan&#39;an in April, once Elitesland, Okano pseudonym propaganda activities against Japanese imperialism, anti-war alliance, \"composed by Japanese soldiers (prisoners) was founded in May of the same year, was founded in October, Japan workers and peasants schools. \"founded in June 1942 in China,\" the Japanese Communists League was established in February 1944 the Japanese People&#39;s Liberation Union in April 1945 to attend the Seventh Congress of the Communist Party of China 1946 January 12 returned to Japan in April of the same year, he was elected to the House of Representatives in 1955 was elected first secretary of the JCP Central Committee elected to the Senate in July 1956, after four consecutive times elected senator post in 1977, resigned August 1958, a total of Seventh Congress was elected as the Chairman of the Central Committee of the the Sixteenth the JCP Assembly after 1982, resigned as Chairman of the Central Committee, he served as the honorary chairman of the historical issues released in 1992 honorary and was expelled from the party. significantly Nosaka Sanzo Anthology, \"snow course\" and other books. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-7-26
+	create time:2013-01-02 00:27:46
+*/
+
+return array(
+'title'=>'U.S. strategist Matthew Bunker Ridgway&#39;s death',
+'class'=>3,
+'cont'=>'On June eighth day) (πÔ”œ years, July 26, 1993, U.S. strategist Matthew Bunker Ridgway died. <br> Matthew Bunker Ridgway (Matthew Bunker Ridgway, 1895 - 1993 26 days) (history com) U.S. Army Admiral [Today in History. cn] to save the United Nations forces in the Korean War and famous. <br> Ridgway was born in Fort Monroe, Virginia. 1917 graduated from the United States Military Academy (West Point) in 1918 to 1926 at his alma mater and the Infantry School at Fort Benning any instructors. After service in China, Nicaragua, Panama, Bolivia, the Philippines, Brazil and throughout the United States, and successively into the Command and General Staff School and the Army Military Academy. Graduated from the Army War College in 1937. Staff officer in the battle plans of the Army Staff in 1939. In 1942, he was appointed the 82nd Infantry Division, presided over the &#39;adapted for Airborne Division. Landing operations in Sicily in July 1943, and command of the division to the implementation of the U.S. military in the history of the first large-scale airborne operations at night. (TodayinHistory.cn) led his troops participated in the Normandy landings in 1944, was promoted to the U.S. XVIII Airborne Corps in August. Subsequently participated in the market - garden \"campaign, the Battle of the Bulge and the Battle of the Ruhr, arrived in the Elbe. After the war, any Mediterranean theater commander-in-chief and Supreme Allied Commander Dwight D. Eisenhower in the UN Security Council on behalf of the Military Staff Committee. 1948 to 1949, he was appointed commander of U.S. forces for the Caribbean. Marshall became deputy chief of staff from 1949 to 1950. After the outbreak of the Korean War, in December 1950, then U.S. 8th Army commander of United Nations forces \"ground forces commander. In April 1951, replacing any \"United Nations forces\" commander-in-chief D. MacArthur, the Supreme Allied Commander, stationed in Japan and the Far East, the U.S. military commander in chief, Jin will be in May. May 1952, succeeding Eisenhower any North Atlantic Treaty Organization, the armed forces supreme commander. In October 1953, he was appointed the U.S. Army Chief of Staff, advocated a balanced development of the various military services. Retired in June 1955. <br> Comments: It is recommended to take a look at the Korean War - Ridgway memoirs \", take a look at the Ridgway how to sum up the Korean War. Ridgway represented a certain sense, the Americans a summary of the war, the situation in the analysis incisive, hit the mark. <br>'
+);
+
+?>

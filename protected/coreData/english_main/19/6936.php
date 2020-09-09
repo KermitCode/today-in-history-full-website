@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1917-7-19
+	create time:2013-01-01 23:32:16
+*/
+
+return array(
+'title'=>'Sun Yat-sen south Guangzhou law enforcement',
+'class'=>0,
+'cont'=>'July 19, 1917 (, Dimba In June, the first day), Sun Yat-sen to go to Guangzhou and law enforcement. <br> Sun Yat-sen in Guangzhou, south of the naval officers and men posed for pictures <br> 1917, Guangdong Governor Zhu Qinglan invited the military government of Sun Yat-sen organizations, Guangdong, Yunnan Army generals Zhang Kairu also advocated moving the capital Guangzhou, that \"the States both trap, administrative nothing out. Dimension today plans, speed to move the government to set the location, Guangzhou is appropriate. To form a cabinet, away Daili Gong. \" July 6, Sun rate of sea-Sum, Yingrui ship left Shanghai Fu Yue, Zhang Taiyan, (lssdjt.cn) Zhu Zhixin, (lssdjt.cn) Liao Zhongkai, (lssdjt.cn) Chen Chiung-ming and other counterparts. Arrives Humen, rotary switch to of Jiang solid ship arrived in Whampoa, Guangdong warlord Andrew Chan Ping-Kun, Governor Zhu Qinglan to the waterfront to greet the 17th. Sun Yat-sen in Huangpu Park welcome reception speech, advocated please the whole naval fleet Laiyue Congress convened in Guangdong and please Li Yuanhong come big presidential duties. <br> 19, Sun Yat-sen arrived in Guangzhou, please the congressman Laiyue convene Congress to determine the plan. Zhu Qinglan agreed. Andrew Chan Ping-Kun, \"the Southern Li Bo, economic difficulties for the resignation Dodge. Sun Yat-sen explain Xi Dun promote the Lu Rongting East, under the cooperation reluctantly agreed. The same day, Sun Yat-sen to invite members of Congress every newspaper in Tianjin, Shanghai and south to protect the law, to convene Congress in order to line the \"Republic of the rule of the right. (L $ dj¦Ó.c¨­m) <br> 21-way wall light with the First Fleet commander Lin Pao strange rate fleet bound for Guangdong, Mr. Tong Wang Jingwei since Wusongkou counterparts. In Shanghai before the Navy Custodian of the Declaration, announced Navy Taoni three objectives: \"one reads about advocacy law; second is the support of the Congress; Banisher punish the culprit. \"Said\" has destroyed the Constitution will make back its effectiveness; bulk of Congress, complex in its original libel. $ The heinous hate, country Maozei persons, nothing shall we escape, and the disarmament, demobilization, repatriation, resettlement. Lapse since about law, from the date of the dissolution of the parliament, all command are unfounded, of course, considered invalid. Issued this command of the government, of course, deny \". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1837-6-20
+	create time:2013-01-01 23:17:57
+*/
+
+return array(
+'title'=>'Queen Victoria ascended the throne',
+'class'=>0,
+'cont'=>'June 20, 1837 (May 18), Ding, Queen Victoria ascended the throne. Queen the <br> <br> Queen Victoria <br> Victoria (1819 -1901 on January 22, 2011), the Duke of Kent Edward (King George III, the fourth son), Female mother is German Saxons - Coburg - Saalfeld Princess Victoria. June 20, 1837 accession to the throne at the age of 18, June 28, 1838 coronation. The early years of the throne, she was actively involved in the affairs of state, is the longest reigning monarch in British history, the reign lasted 63 years (June 20, 1837 --- 1901, January 22). She is the first British monarch styled \"Queen of the United Kingdom of Great Britain and Ireland and Empress of India (1876),\" name. During the 63 years of her reign (1837-1901), is one of the UK&#39;s most powerful so-called \"the sun never sets Empire\" period, during the reign of her until her death in 1914 to the First World War began British are known as the Victorian era, from an ordinary European country to become a mighty empire. After 1914, the British began to decline. <br> Victorian era, the most glorious period of foreign territorial expansion of the British Empire, Queen hesitate to use all means in order to expand the territory. Which is what she learned from her husband: conspiracy, bribery, might pre-emptive military force captured. In 1857, Britain and France competing for the right to rule of the Suez Canal reached fevered pitch, (lssjt.cn) but a cleverly designed plot to make Britain a controlling stake in the Suez Canal, France only wants to make a concession. The following year, added to the territory of the colony of the British Empire in India, this is the jewel in the crown of the British Empire. <br> during the reign of Queen Victoria, Britain&#39;s economy is rapidly growing and prosperous and powerful. The Queen, the United Kingdom, only a few railway, but when she died (on TodayOnHistory.com) British already have a developed rail network connecting major cities. To demonstrate the prosperous and powerful in the United Kingdom, the first World&#39;s Fair in London in 1851, the opening became the universally event. In terms of culture and science, (lssdjt.cn) world-renowned British writer Charles Dickens and British naturalist Charles Robert Darwin are Victorian man of the hour. Due to the continuous development of economic and industrial Victorian Englishman gradually enjoy life brought about by the progress of science and technology facilities, sewage system in London and the London streets incandescent lamp is the reign of Queen Victoria when realized. In 1891, that is, the decade before the Queen&#39;s death, the United Kingdom has been the implementation of free education for all children. (Lssdjt.com) <br> Victoria Queen <br>,'
+);
+
+?>

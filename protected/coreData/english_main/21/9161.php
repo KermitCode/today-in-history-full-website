@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1643-9-21
+	create time:2013-01-02 01:42:01
+*/
+
+return array(
+'title'=>'Taiji&#39;s death',
+'class'=>3,
+'cont'=>'On August ninth day) (¹ïÎ´ years, September 21, 1643 death of Taiji. <br> September 1643, Taiji&#39;s death. <br> Taiji was born on October 25, two decades in the Ming Dynasty. Honorific title after the Jintian Cong the Emperor AIXINJUELUO Taiji, Qing Taizong Zonta (Brunei), also known as Emperor Huang Taiji. surviving period of <br> Huangtaiji, the protection of the Han people, reduce farmers&#39; burdens, and moved the capital to Shenyang (moved the capital to his father&#39;s decision Nurhachi), that Manchuria Mukden. Huangtaiji control Monan Mongolia in 1636 after changing the country, \"Qing\", renamed $ Zonta, the actual establishment of the Qing Empire and the founding emperor. Destiny eleven years (1626) the first month, Nurhachi Ningyuan of war, attack not grams, Taiji visit the battlefield, witnessed one of the most painful defeat of the Eight Banners Army. In 1627, Taiji QinLv army launched the Battle of Ning Jin defeated again. Later, he lured MS & L were killed Yuanchonghuan and imitation? Red cannons and modern artillery units - heavy army. Reeling Gu Lei shaped, Zonta six Chongzhen 14 years (1641) July, sick urgent assistance Battle Song Jin, contains the history of the uplink anxious than epistaxis, bearing to? Lazy Terrier? Yu-huang L rebellious? T Ye Calligraphists Haojinghesha sauce cricket acenaphthene sacral???? hammer harmonic Mao? belly Pang? Xuedejifang burglary Wu skeletal Gan and mattress glass? the Purdue barium Xiongxuanbuling?? glycosides Mou Song??? Yi Tobe-carbazole? street cuddle neon? to Rosie camphor ¥¡ ¢Â??? ¢¼ the redact core irresolute?? to cuddle neon?? thin C Martingale? pregnant by the sword? now? sword? the Aung of K Le Amtolmetin Inspector Ú£??? of Tobe ¥¡ ¢¼ Compilation Hsing Yun? Qigongkangxian beer: V negligent ¡Ê?? chu? standard Miao Shu Ting! hook vessels basket? exhausted resignation traitor? pelican Why ribbon? Yu aluminum ¢Ï Lu?! belly till offenses? the middot; Taizong this discipline \"rating:\" Yun-Wen Yun Wu, repaired within the conduct of public affairs, Field crusade against forces such as God, the meritorious [TodayinHistory.cn,] \"<br> Huangtaiji stroke, died August ninth day late Zonta eight years (1643) ten o&#39;clock through customs on the eve of 52 years. After buried in the Shenyang zhaoling Beiling Park (now Shenyang City North). Because death is not established heir, his brother Rui Prince Dorgon eldest son Haug vying for positions no less than another Bing demonstrations. Final Dorgon iconoclastic backers the Xiao Zhuang Wenhuang-year-old son Fulin, Qing-generation ancestor. <br> comment: generation of British <br>'
+);
+
+?>

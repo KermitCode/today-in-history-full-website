@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1736-1-25
+	create time:2013-01-01 20:51:03
+*/
+
+return array(
+'title'=>'Italian mathematician, mechanics Lagrangian birth',
+'class'=>4,
+'cont'=>'January 25, 1736 (YiMao the twelfth lunar month 13), Italian mathematician, mechanics Lagrangian born. <br> Joseph Louis Lagrange (1735 to 1813), the French mathematician, physicist. Born January 25, 1736 in Turin, Italy, April 10, 1813 and died in Paris. The father was an officer in the French Army cavalry, he has made historic contributions to the field of the three disciplines of mathematics, mechanics and astronomy, particularly among the most prominent mathematics achievement. 18 years of age, the Lagrangian written in Italian papers, order derivative is the product of two functions handled by Newton&#39;s binomial theorem, in turn papers in Latin write mailed at the Berlin Academy of serving mathematician Leonhard Euler. The age of 19 in 1755, to investigate the mathematical problem \"isoperimetric problem\", he is based on the ideas and results of Euler variational extremal pure analysis method. The first papers maxima and minima research, development pioneered by Euler variational method, laid the theoretical foundation for the variational method. The creation of the variational method, Lagrange earthquake, and at the age of 19, he became a professor at the Royal Artillery School in Turin, becoming the first-class mathematician in Europe at that time recognized reputation in Turin. 1756 (history www.TodayOnHistory.com), subject to the nomination and recommendation of the Euler, Lagrange was appointed to the Prussian Academy of Sciences Corresponding Member. In 1764, the French Academy of Sciences Reward essay requirements gravitation explained lunar libration, his research Awards. Followed by the successful use of the theory of differential equations and approximate solution Academy of Sciences proposed a complex six-body problem (the movement of Jupiter&#39;s four satellites), winning this again in 1766. Frederick the Great of Germany in 1766, said the invitation to the Lagrangian, the European court of King should be \"the greatest mathematician in Europe\". He was invited to Berlin, he served as director of the Department of Mathematics of the Prussian Academy of Sciences, to live for 20 years, began his life heyday of scientific research. During this period, he completed the book \"Analytical Mechanics\", which is an important after Newton&#39;s classical mechanics works. In 1791, Lagrange was selected as a member of the Royal Society, April 3, 1813, Napoleon granted him the Empire Cross, but this time the Lagrangian has been bedridden, the morning of April 11, pull granges death. <br>'
+);
+
+?>

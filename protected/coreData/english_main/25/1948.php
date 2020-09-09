@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-2-25
+	create time:2013-01-02 08:45:03
+*/
+
+return array(
+'title'=>'The Whitening people police shot and killed an innocent black Diallo case verdict provoked public outrage',
+'class'=>0,
+'cont'=>'The first month twenty) (Gengchen, February 25, 2000, whitening people police shot and killed an innocent black Diallo case verdict provoked public outrage. Reference on February 25, 2010, the New York State Supreme Court ruling the Diallo case occurred in 1999, announced early last year, was shot and killed in New York innocent black immigrants Diallo&#39;s four white police officers not guilty. The verdict sparked public outrage, hundreds of demonstrators took to the streets in protest immediately. The verdict whether racially discriminatory immediately became the focus of attention and controversy. <br> Diallo family lawyer publicly announced, will sue New York City, because Diallo is a victim of racial discrimination exists in this largest city of the United States. 40 around 0:00 am on February 4, 2011 <br> 1999, four white police duty in the patrol to an apartment building in the Bronx, New York City, standing the lobby of the building Diallo batter 41 shots, and he died on the spot. Diallo&#39;s tragic death has triggered a rally of tens of thousands of people. They demanded stern punishment for the murderer, and the elimination of racial discrimination. involving sensitive issues of race <br> Since the case, the trial venue not only immigrants live in Africa and Latin America from the incident to the New York City Bronx to the whites more of the capital of the State of New York, Albany, and the sentencing. have been delayed, in order to buy more time for the police stepped up security in the region, to prevent protests. According to the New York Times reported on the 26th, to change the place of the trial of the case means \"more from the Caucasian region, rather than from the people of ethnic minorities live in compact communities Bronx jury selection. Reverend Sharpton, New York City, actively safeguard the interests of the African immigrants are very angry. He said: \"We do not have a chance to get real justice and justice. Article (history www.lssdjt.com) <br> \"New York Times\" published on the 26th, disclosed in the case during the trial, a series of strange: should remain neutral court judge in the adjudication of cases from time to time obviously beneficial instruction issued by the defendant, and the jury never re-listen to the witness statements provided by the Prosecutor. <br> 4 in the course of the trial, the defendant argued that they are in order to \"self-defense\" before shooting, because they thought Diallo \"ready to pull out a gun\". But it is subsequently found, then Diallo pocket and wallet. For white police sophistry, New York people scoff think even an unarmed black 41 gun how justified. (Lssdjt.com) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1918-1-15
+	create time:2013-01-01 22:24:50
+*/
+
+return array(
+'title'=>'The Chinese Custodian of war: Cen Chunxuan Federation established in Guangzhou in the south-western provinces',
+'class'=>0,
+'cont'=>'(Dimba the twelfth lunar month, the third), January 15, 1918, the the Chinese Custodian of War: Cen Chunxuan established in Guangzhou the southwestern provinces Federation. <br> Cen Chunxuan In 1918, Southwest the provinces law enforcement conference in Guangzhou was established. The push Cen Chunxuan for the conferences and the chief representative of the Wu Ting-fang as the chief representative of the diplomatic, military chief representative of the Tang Shaoyi for total fiscal representative, Tang Jiyao, Cheng wall light, Lu Rongting. On the 20th, the Guangdong Morong new associated title energized announced the \"ROC Custodian provinces, a joint meeting of the Ordinance. <br> southwest of the joint meeting of defined internal and external implementation of government affairs, terms of Common Foreign handle contract; oversee common fiscal, handle internal and external public debt of the raise; overall armaments plan to combat resolved that the truce meetings and events; resolved that with provincial controversy \", also provides that\" the joint meeting set military, financial, conferences and a number of members of each Counsellor appointment of each chief representative of \". Seems to compete with the junta. <br> Sun Yat-sen joint meeting \"at about law unfounded,\" Governor Legion \". Zhang Taiyan also energized angrily denounced the Cen Chunxuan said: \"Cen Yun-Jie, Li Union launched a joint meeting of the Custodian of the provinces, to watch his PDPO intervention Constitution, Ni Si Chong also. Pre-camp meetings and on behalf of Lee finished with the second also. Husband, Wuhan and under Jingxiang and Rehabilitation, inverse Kou life in the throat between the North declared war, and I hurry owners and, falling three armed Heart and the long hatred feud gas, really no different from suicide policy. These rallies, long overdue dispatch police soldiers immediately dissolution. Loyal to Sun Yat-sen&#39;s Yunnan Army Third Division Commander Zhang Kairu: joint meeting of the provinces, the surface Suisi the provincial government joint transitional authority, with the intention to overthrow the military government first step, the second step to overthrow the old Congress government. Although the organization name for the joint meeting, its content is indeed a collegiate government. And the the rebel Governor&#39;s meeting in Tianjin, how different? <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1582-10-5
+	create time:2013-01-02 01:40:51
+*/
+
+return array(
+'title'=>'Pope Gregory XIII to develop today&#39;s common Gregorian calendar',
+'class'=>0,
+'cont'=>'September 19th (Horse), October 5, 1582, Pope Gregory XIII to develop today&#39;s common Gregorian calendar. <br> Pope Gregory XIII (Pope Gregory XIII in 1502 -1585 on April 10), also translated Gregory XIII, Gregory column 10 III, the Guorui XIII, born name Ugo Boncompagni, 227th Pope (reigned 1572 May 13, 2011 -1585 years, 10 days). Calendar reform in 1582 to form today&#39;s Gregorian calendar. The Catholic diocese of Macao in 1576 that ordered the establishment. <br> current Gregorian calendar of the Gregorian calendar (English: the Gregorian calendar), also translated as Gregorian calendar, the Gregorian calendar (而身d芋y身里h貝 $ 而身ry.c身m) is by the Italian physician and philosopher Liliwusi (Aloysius Lilius) reform of the Julian calendar established by the calendar, enacted in 1582 by Pope Gregory XIII. The Gregorian calendar is the Gregorian one, officially adopted in China began in 1912 to replace the traditional Chinese calendar lunar calendar (Lunar New Year), the traditional Chinese calendar is a lunisolar calendar, and thus the Gregorian calendar, also known as the Chinese solar calendar, the Gregorian calendar , the new calendar. Gregorian calendar with the Julian calendar, the Gregorian calendar is also set in the end of February every four years a leap day, but the Gregorian calendar special provisions, unless divisible by 400, all century years (to be divisible by 100) is not set leap day; such, every four hundred years, only 97, the Gregorian calendar, leap year than the Julian calendar leap year decrease of 3. The calendar year of the Gregorian calendar average length 365.2425, close to the mean tropical year of 365.24219 days, ie about 1 per 3300 years error, but also closer to the vernal equinox tropical year of 365.24237 days, approximately every 8000 years error day;, while Julian calendar calendar year of 365.25 days, about every 128 years on error day. 1582, the Julian calendar the vernal equinox (March 21) and Earth to go to the actual time of the vernal equinox, a difference of 10 days. Therefore, when the Gregorian calendar introduced, also provides original Julian calendar Thursday, October 4, 1582, the day following the Gregorian calendar, Friday, October 15, 1582, that is 10 days, but the original week the cycle remain unchanged. The chronicles of the Gregorian calendar follows the Julian calendar, since the traditional birth of Jesus began, known as \"AD\", also known as \"AD\". (Today in History TodayOnHistory.com) <br> Pope Gregory XIII formally enacted the Gregorian calendar, to replace the the Julian calendar <br> comment: the whole world is gradually unified to use the calendar. <br>'
+);
+
+?>

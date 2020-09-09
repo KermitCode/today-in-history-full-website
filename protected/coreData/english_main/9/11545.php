@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1966-12-9
+	create time:2013-01-02 02:41:58
+*/
+
+return array(
+'title'=>'Central released grasping revolution and promoting production in Article',
+'class'=>0,
+'cont'=>'December 9, 1966 (Heigo October 28), the central grasping revolution and promoting production ten provisions. In In December 1966, the CPC Central Committee issued a \"grasp revolution, promote production this Law (Draft)\". (History. Com) main: <br> of the Cultural Revolution is to drive the development of production in order to promote the ideological revolution. (L $ dj而.c身m) <br> elected by the masses to be able to represent their own cultural revolution group, the cultural revolution Committee meeting or representative of the cultural revolution, so that the people during the Cultural Revolution to educate themselves, to liberate themselves. History www.TodayOnHistory.com <br> three, eight hours of time outside of work, in addition to once a week to discuss production problems by the masses themselves to discuss arrangements Cultural Revolution. <br> IV adhere to the eight-hour working day, to observe labor discipline, complete production quotas. <br> ensure product quality, strive for high quality. (Lsjt.org) <br> six by the masses of workers, serious discussion, sound or the transformation leadership production team. <br> seven, the unit to be resolved through consultation, if necessary, when the masses of workers may be represented by a small number of representatives to the higher authorities reflect particularly necessary, you can also send a small number of representatives to Beijing to reflect, not a large number of factories and mines left. (1 $ dj而.c身m) <br> eight, during the Cultural Revolution, allowed factories and mines leadership criticized because the masses to expose the facts, and retaliate against deduction of wages, are not allowed therefore not allowed to expel. Revolutionary Workers was labeled a \"counter-revolutionary\", must be vindicated. <br> nine, in accordance with the provisions of the Constitution of the People&#39;s Republic of China, the masses of workers in the cultural revolution to establish the rights of the revolutionary organization. Between the masses and the workers&#39; organizations are advice to adhere to Wendou, not resorting to violence. <br> ten, the masses of workers between the various units, the mass organizations of workers, in their spare time in the city, Revolution series. Schools can plan to factories and mines, the revolutionary workers&#39; spare time series. Workers can also send representatives to the city schools revolution series. <br>'
+);
+
+?>

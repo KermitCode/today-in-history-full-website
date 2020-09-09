@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-10-30
+	create time:2013-01-02 01:58:23
+*/
+
+return array(
+'title'=>'Yu Fei their children speculation in land subject to heavy fines',
+'class'=>0,
+'cont'=>'October 30, 1998 (September 11) Tiger years, Yu Fei their children speculation in land subject to heavy fines. <br> 1998 10 30, the Ministry of Land and Resources to the press notice, Guangdong Province, the original Yu Fei, deputy director of the NPC Standing Committee, and their children, illegal speculation on land, its illegal gains will be confiscated and subject to heavy penalties. <br> It is understood that the Yu Fei participate in Daya Bay 3300 acres of land speculation in the case, was found in the 1993 organization of former State Bureau of Land Management land for non-agricultural construction inventory. After an investigation, the joint investigation team of the Central Commission for Discipline Inspection and the former National Land Agency not only to further identify the fact that Yu Fei and their children of illegal speculation on land profiteering, and have full access to Yu Fei used his authority to participate in this case the evidence. Yu Fei use the terms of reference, Forced Development Zone in Huizhou City, and Daya Bay sell the land to their children&#39;s company, means very bad, causing serious losses to the state land assets, resulting in extremely bad social impact. To this end, the commission decision, expelled Yu Fei party. (L $ dj¦Ó.c¨­m) In March 1998, the Guangdong authorities to freeze the property of the parties concerned. In April, the Guangdong provincial committee, according to the instructions of the Ministry of Land and Resources and the former National Land Agency, in accordance with relevant laws and regulations, make confiscated Yu Fei children do to actual ill-gotten gains of 166 million yuan and 50% of the actual illegal gains impose a decision of the administrative penalty of a fine of 83 million yuan. Yu Fei children refused to accept this, apply for reconsideration to the Guangdong Provincial People&#39;s Government, requires the revocation of the National Land Agency&#39;s decision on punishment. Since then, the Guangdong provincial government issued a decision on punishment of administrative reconsideration decision, to maintain the National Land Agency. <br> Yu Fei children not complied with the decision within the statutory period, not long ago, the Guangdong provincial committee in accordance with the law to apply for the Provincial Higher People&#39;s Court to enforce. Currently, the Guangdong Provincial Higher People&#39;s Court on the case in accordance with the law to enforce. The case relates to other unlawful acts, shall be investigated by the relevant departments. (Lssjt.cn) <br>'
+);
+
+?>

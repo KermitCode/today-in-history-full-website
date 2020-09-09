@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1912-4-16
+	create time:2013-01-01 21:37:41
+*/
+
+return array(
+'title'=>'From movie stars to China a beautiful pilot Lixia Qing&#39;s birthday',
+'class'=>4,
+'cont'=>'Lixia Qing&#39;s birthday (, Yam Tze February Eve), April 16, 1912, from movie stars to China&#39;s first beauty pilot. <br> the Lixia Qing&#39;s Birthday \"target =\" _blank \"> Lixia Qing smiles stepped out of the door photos <br> born in Haifeng County, Guangdong Province, in April 1912 a rich revolutionary tradition Li Ying-sang, a wealthy merchant family. Lixia Qing father is a bit patriots. formerly known as Li Dandan of <br> Lixia Qing, born April 16, 1912 the wealthy merchant family in Haifeng County, Guangdong Province, is a rich revolutionary tradition, (l $ j¦Ó.c¨½) The father Li Ying-sang, the patriots of the Revolution. Lixia Qing childhood had with his father to Europe, after studying in Hong Kong and Shanghai. childhood she received a good education, active thinking, courage and knowledge <br> < ; br> Li Xiaqing during a movie in Hollywood pictures <br> 1926, Lixia Qing, a 14-year-old took part in the filming of the movie \"pure and noble\", fame, a hot star at the time. <br> early 1930, Li Xiaqing bid farewell to the silver screen, (lsjt.net) with new husband to settle in Paris, France, in the process of time watching the flight demonstration, Lixia Qing shocked, determined to do the female pilots, so she went to Geneva, Switzerland, Cohen ladder south flight school enrollment. the proctor asked her enrollment puzzled, she said: \"I came to this, is to let the world know that Chinese women are able to go on the ground, but also in the sky.\" <br> ; 1935, Li Xiaqing flight school in the United States and post-graduate <br> never accept female students, but this time breaking Li Xiaqing cases a year later, Li Xiaqing graduated with excellent scores, becoming the first to take Swiss pilot&#39;s license of the Chinese people. In August 1937, the outbreak of the Battle of Shanghai the Lixia Qing actively involved in the anti-Japanese. early 1939, Li Xiaqing driving \"the spirit of New China,\" monoplane light aircraft flying to the U.S. major cities to begin the anti-Japanese national salvation, horses women responsible for \"patriotic fund-raising flight. (history cn) her foreign correspondents as\" flying angels \", a Goodwill Envoy Lixia Qing had set a flight hours record four million raised donations. <br> end of the war, Li Xiaqing to Hong Kong in 1960, moved to the United States from Hong Kong, China, (1 $ dj¦Ó.c¨­m) live in San Francisco, died on January 24, 1998, at the age of 86 years. Lixia Qing flew, <br> the pictures <br> landing at Chicago airport Lixia Qing taken in Geneva Aviation School <br> Li Xiaqing love wearing cheongsam attend various occasions <br> <br> Li Xiaqing accept American radio access <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1871-4-21
+	create time:2013-01-01 21:51:06
+*/
+
+return array(
+'title'=>'Chinese educator Yang Changji was born',
+'class'=>4,
+'cont'=>'(, Xinwei March two days), April 21, 1871, the Chinese educator Yang Changji born. Yang Changji was born <br> \"target =\" _blank \"> of Yang Changji <br> Yang Changji (1871-1920) ethicists, educators Changsha County, Hunan Province Qingtai are hidden storage Yamashita&#39;s Itakura red name arms, word Watson, born April 21, 1871. twice the provincial examinations are not in at home after building this and apprentices, often with a close friend of Yang Shouren discuss affairs of state, that the revolution will suffice survival. studying in 1898 Yuelu Academy, obstructed despite the mountains and decided to join the Southern Society of progressive groups, efforts to publicize the new school, the New Deal, \"People agree with Tan Sitong political thought., fled to his hometown after a failed coup d&#39;etat, statecraft learn whether research knowledge or man, have perseverance, he said: \"I no extraordinary except for the stoic word quite in focus, often trying to use a long time winning.\" He&#39;s such a spirit, students say \"of Lent Famennian emulate. Guangxu 29 years (1903) went to Japan to study abroad, the main pedagogy. Xuantong first year (1909) to study in the UK, specializing in philosophy, ethics in 1913 to teach in Hunan Province legislation Higher Normal School, the Fourth Normal, Normal, Commercial College, a middle-school support of the New Culture Movement, advocacy advocate of the \"New Youth\". <br> 1918, should be the Cai Yuanpei employed, the Beijing University ethics professor. financing for France work-study students, recommended by Mao Zedong to the Peking University Library work contributed to her daughter Kaihui the marriage relationship and Mao Zedong. Fourth Movement published a \"Notice to students, fervent expression of youth expectations, and involved in the initiation of the Beijing University philosophy will, with the text calls on the youth dare say. Yang Changji concerned about a group of progressive young Mao Zedong, Cai Hesen, Xiao sub liters, Chen Chang, and encouraged them to \"For planting large wooden prop long days to support the establishment of Xinmin Society, preparations for the creation of Hunan University. to 17, <br> in 1920, Yang Changji died in a German hospital, Beijing. Guizang Changsha County ITAKURA. due to native Itakura, Yang Changji later be known as the \"Itakura Quan Xue Pian \"Mr.\", \"Itakura Young.\" (Today in History cn) <br> book \"Da Zhai Diary\" and \"Yang Changji anthology\" (lsjt.net) text, has translated the book of the history of Western ethics \"published in the\" New Youth \",\" Oriental Magazine introduced Western philosophy, ethics, education, ideology, and contact the actual, the promotion of democracy and science, and promote the new moral. <br>'
+);
+
+?>

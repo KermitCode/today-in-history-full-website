@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-10-7
+	create time:2013-01-02 01:54:13
+*/
+
+return array(
+'title'=>'The opening of the first session of the Shanghai International Film Festival',
+'class'=>0,
+'cont'=>'(πÔ”œ August 22), October 7, 1993, the opening of the first session of the Shanghai International Film Festival. the <br> Film Festival main venue - Shanghai Film <br> that the Shanghai International Film Festival opening \"target =\" _blank \"> Shanghai International Film Festival Feature Film International Film Festival is held for the first time in China, to the film industry celebrities, artists, as the main body and the community to participate in the Organizing Committee is responsible for the organization and leadership of the Film Festival festival has been recognized by the international producer associations, the Association held in Cannes, France on May 14, 1993 annual conference accepted as members of the Shanghai International Film Festival Organizing Committee to follow the constitution of the Association, the organization of the three major activities of the game, exhibitors, market to make our film festival with international standards, fully embodies \"unity, progress, friendship,\" the purpose of the movie event. <br> Film Festival was first held in accordance with international practice organization, and to get formal recognition of the International Association of filmmakers, which marks China&#39;s film industry in the reform and opening up to the world <br> festival will set the Jin Jue Award. international jury chaired by Chinese director Xie Jin Hector - Pakistani undergraduate (Brazil) Shah that Zaroff (Russia), Nagisa Oshima (Japan), Oliver - Stone (USA) - Paul Cox (Australia), Tsui Hark (Hong Kong), from 19 films in competition Pingchu items such as awards for best film, best director, best actor and actress, the Special Jury Prize <br> China Taiwan movie \"silent hill\" won the best film award; Belgian film \"Da Ensi The priests \"actor Jane - Decleir won the best actor award; Korean movie\" Elegy a \"heroine Wu Jinhai won the Best Actress Award; (history www.lssdjt.com) Korean movie\" Elegy a \"director Yin Kuntai won the Best Director Award. international judges from China, Brazil, Russia, Japan, the United States, Australia and Hong Kong agreed to\" Special Jury Prize \"awarded to the Hong Kong film\" Caged People. <br> festival (second from left) of the seven judges: Xie Jin (Director), Hector - Pakistani undergraduate (Brazil)), Karen - Shah Nursultan Love (Russia), Nagisa Oshima (Japan), Oliver - Stone (USA), Paul - test Marx (Australia) (lsjt.org) Tsui Hark (Hong Kong) in the opening ceremony of the debut <br> two international famous director Xie Jin and Stone at the opening ceremony at a reception <br> famous Taiwanese director Wang Tung directed the film \"silent hill\" won festival awards - the most Jin Jue Award of good movie <br> Jin Jue Award trophy <br>'
+);
+
+?>

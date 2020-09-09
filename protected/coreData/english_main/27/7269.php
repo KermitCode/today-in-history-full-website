@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1953-7-27
+	create time:2013-01-01 23:02:20
+*/
+
+return array(
+'title'=>'The end of the Korean War',
+'class'=>0,
+'cont'=>'July 27, 1953 (June 17) Kimi years, the end of the Korean War. <br> the Korean People farewell to the Chinese People&#39;s Volunteers returning <br> Korean truce talks from July 1951 to July 1953, after a tortuous struggle, and finally in Panmunjom on July 27, 1953 \"on the Korean Military Armistice Agreement was signed. The main content of the agreement: since twelve hours after the signing of the agreement, the parties to cease all hostilities; military demarcation line to both the actual contact line, where each line retreat two kilometers to the establishment of a demilitarized zone since the cease-fire stop reinforcements and weapons to the DPRK territory, the date and composition of the Military Armistice Commission and the Neutral Nations Supervisory Commission oversight; within sixty days after the entry into force of the armistice agreement, the two sides will all insist on repatriation of prisoners of war in batches direct repatriation to direct repatriation of prisoners of war in the future cross the Neutral Nations Repatriation Commission processing; military commanders of both sides to the Governments recommendations, within three months after the entry into force of the armistice agreement, held a high-level political meetings between the two sides, from North Korea to the withdrawal of all foreign troops and the peaceful settlement of the Korean issue is being negotiated. Korean War this point ceasefire. (Lsjt.org) put a third of the Army, the United States in the Korean War, the Chinese Communists fifth of the Air Force, and half of the Navy, spending billions of dollars in direct battle fee, the use of the atomic bomb outside all modern weapons, but also to piece together the fifteen the Servant countries of troops, the last still ended in failure. According to statistics, the DPRK army and people were annihilated army 1,093,000 thousand people, including three hundred ninety-seven thousand thousand U.S. troops, the invaders back to near the military demarcation line. Chief Representative of the DPRK delegation <br> the Nanri general and the United Nations High Representative for the U.S. Army Lieutenant William - Harrison officially signed at Panmunjom, the Korean Armistice Agreement <br> General MacArthur overestimated own strength, that the U.S. military will successfully advance into northern Korea, however, they unexpectedly fierce comeback by the Chinese People&#39;s Volunteers, two brothers forces in retreating American soldiers in cold <br> East Coast successfully joined forces <br> Volunteers returning <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1992-9-11
+	create time:2013-01-02 00:47:47
+*/
+
+return array(
+'title'=>'Yunnan destroy the region to drug trafficking Fanqiang groups Pingyuan',
+'class'=>0,
+'cont'=>'September 11, 1992 (Renshen August 15), Yunnan destroy the level remote areas to drug trafficking Fanqiang groups. The scene <br> offender was arrested <br> 31 August 1992, Yunnan Wenshan Prefecture People&#39;s Government sent a strong work team composed by public security police, armed police officers and soldiers in the flat remote areas launched a massive unified action to crack down on drug crime and illicit trafficking in firearms, ammunition crime, and made remarkable achievements. <br> Pingyuan region is located in the the southern Yunnan Wenshan Zhuang and Miao Autonomous Prefecture, Yanshan, Wenshan counties junction, is a multi-ethnic neighborhoods. Since the mid-1980s, where criminal activities malignant development, a wave of social evil big smuggling drug trafficking and firearms and ammunition from abroad into the domestic, seriously endangered public security, and even violence to resist law enforcement impact thwarted by the political and legal departments and government organizations. Yunnan and Wenshan Party and government departments at all levels have done a lot of painstaking work, education and persuasion, to fight for change in this region of the abnormal condition. But the criminal forces that the party and the government is a sign of weakness, even more rampant criminal activities. The local people strongly urge the Government to take measures to eradicate the \"cancer\". under <br> in support of the CPC Central Committee, State Council department in Yunnan Province to take decisive measures, a combination of a powerful offensive force political Pingyuan region the drug trafficking Fanqiang gang destroyed. Criminals killed a few recalcitrant in the end, capturing a number of principal culprits; seized over 800 kilograms of heroin, opium, more than 80 kilograms; over 900 pieces of a variety of firearms, bullets more than 39,000 rounds. <br> Yunnan Provincial People&#39;s Government of combining punishment with leniency, frank resist strict consistent policy issued a \"notice\" of the anti-drug and closing gun, ordered the criminals deadline to give themselves up. About People&#39;s Court held a the Lenient combined sentencing rallies to honor the policy, effectively disintegrating criminal forces. After this action, the vast majority of Pingyuan criminals have been arrested, seven criminals were sentenced to death, seven other criminals were sentenced to death, life imprisonment and imprisonment. <br>'
+);
+
+?>

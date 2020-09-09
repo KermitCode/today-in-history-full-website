@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-3-22
+	create time:2013-01-02 08:39:22
+*/
+
+return array(
+'title'=>'Ma Ying-jeou was elected the 12th president of the Republic of China',
+'class'=>5,
+'cont'=>'March 22, 2008 (February 15 Lunar New Year), Ma Ying-jeou was elected the 12th president of the Republic of China. <br> Ma Ying-jeou, born on 13 July 1950 in Hong Kong, the native of Hengshan County, Hunan Province, emigrated with his family to Taiwan in 1952. (L $ dj¦Ó.§«§§T) <br> 1967 joined the Chinese Nationalist Party. Graduated from the Faculty of Law of the National Taiwan University in 1972. After studying in the U.S., Master of Law, New York University, United States, Harvard University, Doctor of Laws degree. Ma Ying-jeou has short-term work in the United States, 1981, served as the University of Maryland School of Law, research consultant, legal advisor of the Boston Bank, New York, Wall Street law firm Cole Valdez trainee solicitor, and later returned to Taiwan as the Presidential Palace & rdquo ; first, Deputy Secretary of the National Chengchi University Associate Professor of Legal Studies. In 1982, Ma Ying-jeou as the English translation of Chiang Ching-kuo. In the fifteen years after 1984, he has served as the the KMT Central Deputy Secretary-General and a variety of administrative duties. In 1998 he was elected as Taipei City mayor, re-elected mayor of Taipei in December 2002. Ma Ying-jeou KMT thirteenth, fourteenth session of the Central Committee. The elected KMT Central Standing Committee in August 1999, July 2001. <br> in March 2003, was elected vice chairman of the KMT. With 72.36 percent of the vote in July 2005, was elected as the new Chief of the Chinese Kuomintang party chairman. <br> 2007 13, the mayor \"special fee\" in Taipei, Taiwan, and the Taiwan High Prosecutors Office indicted (after Taiwan&#39;s Court upheld the acquittal) Ma Ying-jeou has promised that if indicted, resigned from the presidency of the Chinese Nationalist Party, is on the same day the resignation of party chairman and turn grief into strength, and formally announced his candidacy in the 2008 Taiwan \"president\". Reference March 22, 2010, the Taiwan leader election held to vote. KMT candidate Ma Ying-jeou and Vincent Siew to win the votes of 7,658,700, the vote was 58.45%. (L $ dj¦Ó.c¨­m) In 2009, July 26, 2010 the end of the general election of the chairman of the Chinese Kuomintang, Ma Ying-jeou was elected the new party chairman, with 285,354 votes, 92.51 percent of the vote was. Chinese Nationalist Party 18th Congress held in Xinzhuang, Taipei County Stadium on October 17, Ma Ying-jeou was sworn in as chairman of the KMT. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-8-13
+	create time:2013-01-02 00:24:50
+*/
+
+return array(
+'title'=>'Along the river inland a number of capital cities opening to the outside world',
+'class'=>0,
+'cont'=>'August 13, 1998 (June 22) Tiger years, opening up a number of capital cities along the river inland. <br> Following the coastal and border cities have been open to the public, the State Council in August 13, 1998, issued a notice, decided to further opening up of Chongqing, Yueyang, Wuhan, Jiujiang, (on www.TodayOnHistory.com) Wuhu 5 along the Yangtze River, the city, Harbin, Changchun, Hohhot, Shijiazhuang four border along less sea region, the provincial capital (capital) city, Taiyuan, Hefei, Nanchang, Zhengzhou, Changsha, Chengdu, Guiyang, Xi&#39;an, Lanzhou, Xining, Yinchuan 11 inland areas of the provincial capital city (capital), the implementation of the policy of open coastal cities. At this point, the new pattern of China&#39;s all-round opening has been initially formed. <br> The decision to open up along the river and inland capital cities, involving 12 Sheng autonomous regions and 16 cities, across our two major West economic zone, is an important economic hinterland. <br> further accelerate the pace of development and opening up of provinces along the Yangtze River and inland, has a very important strategic significance for the overall situation of China&#39;s socialist modernization. <br> After 10 years of exploration since the Third Plenary Session of the Eleventh Central Committee, China&#39;s opening up the formation of special economic zones - coastal open city - coastal economic open zones - the Mainland such a including open levels, with different features gradient propulsion pattern. the <br> this time the State Council to make further open up the border, along the river and inland parts of the city&#39;s decision-making, is to have been formed in the 1980s on the basis of open coastal, will be open from south to north, from east to west advance greater range and deeper level approached further, so that the majority of the inland areas to play a greater role in China&#39;s economic development. <br> State Council the SAR Office official said, the coastal open cities along the Yangtze River and inland capital cities to implement policy, summed up in four main aspects: First, expand the permission of the Foreign Economic Cooperation of the open cities; support the introduction of open cities foreign advanced technology and management experience in the transformation of old enterprises and the development of modern enterprise; Third, to attract foreign investment in order to encourage, to implement preferential policies for foreign-invested enterprises; have certain conditions, you can set up an Economic and Technological Development Zone, approved by the State Council. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-8-8
+	create time:2013-01-02 00:18:55
+*/
+
+return array(
+'title'=>'Russian armored troops into South Ossetia',
+'class'=>0,
+'cont'=>'August 8, 2008 (the eighth day of July Lunar New Year), the Russian armored troops into South Ossetia. <br> <br> In August 2008, the Itar-Tass quoted the Russian army chief assistant Kona Shen Kefu saying, part of the Russian 58th Army a force close to the South Ossetian capital, Tskhinvali. South Ossetia authorities (l $ j¦Ó.c¨½) <br> also confirmed the same day, Russia an armored forces are entering Tskhinvali. Russian television earlier in the day reported that the day of the Russian troops and tanks into South Ossetia. The television station also broadcast the Russian tanks moved into the lens to the Tskhinvali city. But so far have not yet received the reports of the number of troops into South Ossetia in Russia. <br> the same day, the Russian Defense Ministry said in a news release, the conflict between Georgia and South Ossetia in Tskhinvali region has caused 10 Ãû¶íÂÞË¹Î¬ and personnel were killed and 30 people were injured. <br> According to another report, the militia forces of South Ossetia is Tskhinvali city and Georgia&#39;s armored forces fought a fierce battle, there are four Georgia tanks were destroyed. The offensive of the army and the militias of South Ossetia, the Georgian army to retreat to the south from the northern part of Tskhinvali. <br> Russian President Dmitry Medvedev in the Kremlin Federal Security Council held an emergency meeting, said that the acts of \"aggression\" in South Ossetia, Georgia is a serious violation of international law, Russia will not allow the killing of Russian citizens enjoy impunity. <br> Medvedev said Georgia and South Ossetia conflict peace people are causing casualties, most of whom are Russian citizens. He stressed that, \"in accordance with the Constitution and federal law, as the President of the Russian Federation, I have the responsibility to defend the life and dignity of their citizens, (lssjt.cn) no matter where they land. . \"<br> South Ossetia, Georgia Autonomous Prefecture, bordering with the Russian republic of North Ossetia. South Ossetia due to the independent had clashed with the Georgian central government in the early 1990s. In recent years, the armed conflict in South Ossetia with the cells of the central government is still not occurred. Since August 1 this year, the two sides exchanged fire constantly strained the situation in the region. Evening of 7 to 8 on the morning of the Georgian army and South Ossetian Autonomous armed personnel in Tskhinvali near the city of armed conflict. <br> <br> Reviews: Olympics day war, Russia and Georgia appears to be locked on to hostile anymore, so I think the Chinese Indonesian event ~ <br>'
+);
+
+?>

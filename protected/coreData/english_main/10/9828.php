@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2005-10-10
+	create time:2013-01-02 00:44:58
+*/
+
+return array(
+'title'=>'Gillette acquired by Procter &amp; Gamble',
+'class'=>0,
+'cont'=>'(, Yiyou September eighth day), October 10, 2005 acquisition of Gillette by Procter & Gamble. <br> 2005 October 10, 2009, the acquisition of Gillette by Procter & Gamble. Today in History www.lssdjt.com] <br> According to the Wall Street Journal reported that the U.S. P & G (Procter & Gamble Co.) In the massive expansion of to female beauty supplies business success, but also sounded to enter the men&#39;s beauty the horn of supplies in the area, convertible price of $ 57 billion acquisition of Gillette (Gillette Co.) the transaction has been finalized. Weigh the strength of the Procter & Gamble and retailers expected move will improve the future to see more people in the supermarket, the bathroom and the shelves will be P & G&#39;s products. <br> Procter & Gamble coveted Gillette for some time, the Boston razor business in particular, is expected to become P & G&#39;s global supermarket distribution Tide laundry detergent and Crest (Crest) toothpaste and other consumer products (Tide) series a natural extension. According to informed sources, Gillette and Procter & Gamble plans to the combined total of 140,000 employees laid off 4%, but remains a larger scale in Gillette&#39;s headquarters in Boston. <br> Procter & Gamble and Gillette Company has a total of 21 brands with annual sales of more than 1 billion U.S. dollars, respectively. The two companies have been an endless stream of new product introductions, and was well received by consumers and retailers welcome. Wal-Mart and other retailers hope to get P & G&#39;s marketing skills and insights on consumer behavior. Procter & Gamble and Wal-Mart was the early collaborator of customer data sharing, which has become a fixed pattern between Wal-Mart and suppliers. Colgate-Palmolive (Colgate-Procter and Gamble <br> has a huge portfolio of brands through continuous innovation and the details of innovation, Unilever (Unilever), Kimberly (Kimberly-Clark Corp.) and other competitors, even the same long-term performance Palmolive Co.) beat. This makes P & G to develop higher prices to improve profitability. <br> deal will make Gillette&#39;s former director of Warren Buffett (Warren Buffett) smile. Buffett&#39;s Berkshire Hathaway Inc. Gillette&#39;s largest shareholder, holding 9,600 shares, according to the company&#39;s most recent proxy statement. Long time Buffett Gillette. In 1989, he acquired $ 600,000,000 of preferred stock convertible into 11% stake in Gillette. At that time, the move is considered in order to prevent a hostile takeover, recently Gillette successfully repulsed two hostile takeover. (Lssjt.cn) <br> Comments: Stock King, the smile, the accident you win! <br>'
+);
+
+?>

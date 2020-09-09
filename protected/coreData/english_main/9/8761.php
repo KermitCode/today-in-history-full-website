@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1886-9-9
+	create time:2013-01-02 00:31:36
+*/
+
+return array(
+'title'=>'World famous Copyright Protection Convention - Berne Convention signed',
+'class'=>0,
+'cont'=>'(, August 12 BingXu), September 9, 1886, signed by the world-renowned Copyright Protection Convention - Berne Convention. <br> the Protection of Literary and Artistic Works Berne Convention (referred to as the Berne Convention) International Convention, the world&#39;s first copyright protection signed on September 9, 1886. States Parties composed of the Berne Union. After the conclusion of the Berne Convention for the seven amendments, the last amendment to the formation of the text is the Paris Act of 1971, a total of 38, and another six annexes to the Convention. As of January 1992, a total of 90 countries participated in the Berne Convention. The Convention has three basic principles: the principle of national treatment, the principle of automatic protection (you do not need to perform any registration or registration) Copyright independent principle. The scope of the protection of the Convention is a State Party&#39;s nationals or published for the first time within the State of all the literary, scientific and artistic works. The author&#39;s economic rights, including translation rights, the rights of reproduction, public performance rights, the right to broadcast, recitation rights, the right of adaptation, recording rights and filmmakers rights, moral rights, including the right of authorship, the right to modify and maintenance of the right of integrity. The term of protection of the economic rights of the general works for less than life of the author plus 50 years after death. Responsible for the day-to-day work of the Convention by the International Bureau of the World Intellectual Property Organization. States parties have objections to certain provisions of the new amendments to the text of the Convention, to be retained and continue to fulfill the previously approved the text of the Convention (not ratified the 1971 Paris text entity provisions approved the provisions of the 1928 Rome text entities 10 countries, approved Brussels text entity provisions of the country in 1948, 14). However, the 1971 text provides new countries to participate in the Convention can only be added to the amendments to, and shall not made a reservation. July 1, 1992, the Chinese People&#39;s Congress Standing Committee decided that China&#39;s accession to the Berne Convention, the statement at the same time, according to the provisions of Annex 1 to the Convention, entitled to the rights provided for in Annex 2 and 3. <br>'
+);
+
+?>

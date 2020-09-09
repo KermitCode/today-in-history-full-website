@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-5-31
+	create time:2013-01-01 21:39:57
+*/
+
+return array(
+'title'=>'Earthquake relief troops of the Chengdu Military Region, one m -171 helicopter crash',
+'class'=>0,
+'cont'=>'The (Lunar April 27), May 31, 2008, earthquake relief troops of the Chengdu Military Region, one m -171 helicopter crash. one m -171 helicopter Mi-171 helicopter <br> Pictured in the the Alpine valley between the Yingxiu town to Ginkgo shuttle flight relief the picture <br> Chengdu Military Region earthquake relief forces The aircraft, on the afternoon of May 31 execute delivery of the Third Military Medical University, epidemic prevention experts to the task of Lixian County way back, because of local climate change, suddenly encountered low clouds and fog and strong turbulence and crashed near Town in Wenchuan County. <br> Chengdu Military Region, the joint earthquake relief headquarters immediately organized search and rescue operations, and to search for and rescue personnel on the helicopter crash and machine. Crashed geographical alpine valley, complex terrain, dense forests, the search and rescue is very difficult to search and rescue personnel has been increased from the original 329 to more than 4,000 people from 34 teams, they have launched a dragnet search and rescue of the air and ground. But because of the accident geographical alpine valley, lush forests, large search and rescue difficulty, has not yet found the crashed aircraft and personnel. (On com) <br> other CCTV News reported on the crashed helicopter crew of five people, and the tolls of injured the transporters people and related personnel of 14 people. The shipwrecked crew: captain Qiu Guanghua, co-pilot Li Yue, machinists Huaiyuan mechanic Chen Lin, two non-commissioned officers Peng. introduced <br> According joint earthquake relief headquarters of the Chengdu Military Region, the helicopters in the afternoon of May 31, the Third Military Medical University of carrying epidemic prevention experts to Lixian County task way back in the near Wenchuan County, the local climate of the mountains and canyons instantaneous changes suddenly encountered low clouds and fog and strong turbulence and crashed at 14:56. Now identify the machine on a total staff of 19 people, including crew 5, tolls injured the transit of the masses and personnel 14 people. Outstanding crash crew Qiu Guanghua, Li Yue, Wang Huaiyuan, Chen Lin, Peng five comrades in the earthquake relief mission to complete the task well. Captain Qiu Guanghua since May 12, with the crew, continuous implementation of complex geographical, meteorological environmental conditions areas rush to transport injured people and transport relief supplies task, a total of 63 flights, 25.8 tons to transport materials, transporting relief workers 87 54, 234 transfer affected people, including tolls injured. <br>'
+);
+
+?>

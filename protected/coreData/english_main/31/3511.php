@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1979-3-31
+	create time:2013-01-01 22:10:47
+*/
+
+return array(
+'title'=>'Egypt and Israel signed the Camp David agreement',
+'class'=>0,
+'cont'=>'(, Kang Xi March fourth day), March 31, 1979, Egypt and Israel signed the Camp David agreement. <br> Sadat, Jimmy Carter and Menachem spent at the White House a triumphant moment <br> 1979, 31, Egyptian President Anwar - Anwar Sadat signed a peace treaty with Israel successfully , writing a new chapter in its history. He also alienated the Arab world. <br> 18 Arab countries, the foreign ministers of 31 rallies in Baghdad, by common agreement to cut off their diplomatic and economic relations with Egypt. The agreement has also been in favor of the Palestine Liberation Organization (PLO). The protocol requires the immediate recall of the ambassador to Egypt, to cut off diplomatic relations entirely within one month, stop all economic aid, economic sanctions, and Egypt. Egypt every year $ 1 billion in economic assistance from other Arab countries to accept aid from Saudi Arabia. <br> Sadat Monday with Israeli Prime Minister Menachem Begin signed a peace treaty at the White House, he has been aware of this danger. Sadat also recognize the historical importance of this treaty; He praised President Carter made consistent from planning role for both. \"It is no exaggeration to say that he has done is the greatest achievement of our time. \"Sadat said. Carter said <br> signature on the treaty as circumstantial evidence, which proves that \"peace has come. Carter also said, \"We have finally taken the first step of the peace, which is the first step on a long and difficult road. \"<br> This road in the end how long and how hard it? The then Prime Minister Menachem been answered. He said: the Agreement specified \"no longer a war, no longer bloody, no longer sacrifice their loved ones. \"But Menachem Tip said he will oppose Sadat to Israel to undo the control of the eastern part of Jerusalem. The Israeli Prime Minister said enthusiastically, this day will come, \"At that time, Jerusalem will become a city; honing the paratroopers from our heroic soldiers have gone through a hail of bullets, they will be tears, kiss those doomed with to defend this piece of land of shining the light of God, so far still ancient wall heritage stone. \"<br> Egypt, Israel&#39;s peace agreement with months of negotiations at Camp David, was able to reach; recently finalized diction signed that day, a diplomat who worked until after midnight, the last hurdle is to determine a timetable for withdrawal of Israel from the Sinai oil fields. Sadat and Menachem Begin agreed, after this treaty was approved 7 months, these fields will be returned to Egypt. <br>'
+);
+
+?>

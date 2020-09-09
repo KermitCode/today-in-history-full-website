@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1968-12-22
+	create time:2013-01-02 02:01:24
+*/
+
+return array(
+'title'=>'Mao Zedong issued calls for 20 million young intellectuals went to the countryside',
+'class'=>0,
+'cont'=>'(Shigenobu years of winter and the beginning of three), December 22, 1968, Mao Zedong issued called for the educated youth 20 million went to the countryside. <br> more than two years in the army farm training university students in Beijing <br> Red Guard movement, finally spin the the revolutionary leader headache. Although they had repeatedly called for the resumption of classes revolution \", the shock and confusion, but can not stop. To the summer of 1968, the University is still Admissions, the factory is still hiring, 66. Sixty-seven, sixty-eight 3rd high school graduates of more than 400 people to stay in the city have nothing to do, become a social problem to be solved. But leaders appeal is still unlimited. December 22, 1968, \"People&#39;s Daily\" article quoted Mao Zedong&#39;s instructions: \"young intellectuals to the countryside to accept re-education of the poor peasant, is necessary. Then the mountains and the countryside \"activities of young intellectuals nationwide. Since then, in 1978, nearly 20 million educated youth went to the countryside, to accept the poor peasant re-education \"of the\" very necessary \"to go. The mountains and the countryside is not the first time the \"Cultural Revolution\" from the 1950s, it was advocated to the 1960s, and expand. Educated youth at the time, they go to the rural areas, in order to eliminate the the three difference \"with the positive idealism, Xing Yanzi, Hou Jun, Dong Jia Geng, a large number of outstanding young people, it is their typical representatives . Therefore, a broad knowledge of youth went to the countryside movement from the mid-1950s to the late 1970s, before and after the experience of 25 years, the the educated youth total of about 20 million people. <br> young intellectuals mountains and the countryside, is a special way of special historical generation of youth. In this way, the precious youth abandoned. OK disillusion, life confidence shaken, more generation of educated youth achievements. The most difficult years in the country, together with local people. With their diligence and wisdom, supporting the Building of the Republic. Than later youth, they have more life hardships comprehend, more hard-working character. \"Educated youth\" word has not purely literal meaning, but that part of special experience gives them a \"qualified\". Pass <br> <br> Heilongjiang Production and Construction Corps, Guangzhou educated youth to go to Hainan the rural settled in <br> Hainan educated youth the militant training <br> Xing Yanzi ( center) and sisters together <br> rural \"barefoot doctors\" <br>'
+);
+
+?>

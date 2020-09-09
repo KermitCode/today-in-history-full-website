@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1949-3-5
+	create time:2013-01-01 22:12:48
+*/
+
+return array(
+'title'=>'Seventh CPC Plenary held in Xibaipo',
+'class'=>0,
+'cont'=>'March 5, 1949 (Year of the OX February sixth days), the the Seventh CPC Second Plenary Session held in Xibaipo. <br> Mao Zedong in the General Assembly on the report <br> from 5 to 13 March 1949, the Seventh Central Committee of the Communist Party of China second plenary meeting held in Hebei Pingshan Xibaipo Village. The meeting was attended by members of the Central Committee Thought, (lssjt.cn) and Zhou Enlai, Zhu De and other 34 people. The [? V history today?? Com] <br> Mao presided over the meeting and made a report on the second plenary meeting of the Seventh Central Committee of the Communist Party of China \". The report pointed out that the victory of the situation in the country, the party&#39;s focus must be transferred from the rural areas to the cities. The reporting requirements for the basic policy of the Chinese communists seize national, political, economic, and diplomatic aspects will be taken. General Assembly to discuss and decide major issues: (1) to determine the complete overthrow of the rule of the Kuomintang, to win the national guidelines; (2) pointed out that the CPC focus should be rural to urban areas, and the Production and Construction; (3) sets out in the country will continue to exist after the victory two basic contradiction is a contradiction between the proletariat and the bourgeoisie, the Chinese people and the contradictions of imperialism; (4) stressed the to strengthen party platform provisions of the construction of the prohibition to the leaders of the birthday prohibited streets, named after the leader of the enterprise, prevent personal eulogiums; (5) affirmed the role of the military, through the \"flag of the resolution. Pingshan Xibaipo village leaders of the CPC Central Committee office premises, <br> Hebei <br> seventh Second Plenary Session of Mao Zedong also proposed three ways to solve the remnants of the Kuomintang army \"way of Tianjin, Beiping way, Sui far way. Tianjin manner that is fighting to enemy; the Peiping way, that forced the Kuomintang army by peaceful methods, quickly and thoroughly adapted in accordance with the system of the People&#39;s Liberation Army for the People&#39;s Liberation Army; the Suiyuan way, that intends to retain a portion of the Kuomintang army, it intact or largely fixed, after a considerable time to go according to the People&#39;s Liberation Army system be adapted for the People&#39;s Liberation Army. 19 people; \"to participate in the meeting, Wang Shoudao [L $ dj¦Ó.c¨­m] Yingchao, Wang Zhen, an alternate member of the Central Committee of Project Leadership Committee, [lsjt.net] Yang Shangkun 12 people attended the meeting. (L $ dj¦Ó.§«§§T) <br> venue the iceberg <br> meeting during Peng Dehuai (right) <br>'
+);
+
+?>

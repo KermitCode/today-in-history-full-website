@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-11-5
+	create time:2013-01-02 01:21:18
+*/
+
+return array(
+'title'=>'ARATS, SEF reached a consensus on the hijackers should be sent back',
+'class'=>0,
+'cont'=>'November 5, 1993 (September 22) πÔ”œ ARATS, SEF reached a consensus should be sent back to the hijackers. <br> 1993, the ARATS and the SEF discussed in Xiamen reached consensus on repatriation of hijackers: \"hijackers criminal offenders\" \"Party aircraft was hijacked to another party the other party should be perpetrators transferred to the airliner belongs party to deal with. \" Cross-strait common to discuss the repatriation of hijackers first time. <br> Deputy Secretary-General of the Association for Relations Across the Taiwan Strait, Sun Yafu accept the mainland and Hong Kong and Taiwan reporters after talks interview, said that in recent years has events from the mainland airliner was hijacked to Taiwan in 1993, such incidents occur more more. Hijacking is a serious criminal offense, seriously endanger passenger safety, civil aviation operation, in fact, affect cross-strait relations, the harm caused by a very large, this problem should seek solutions. <br> According to reports, the talks, the ARATS and the SEF are hijacked airliner is a serious criminal offense, in principle, should be repatriated to. The hijackings crime seriously endangering public security, criminal behavior, rather than the criminal purpose as the basis of the judgment the nature. (L $ dj¶”.c®≠m) <br> ARATS, SEF on the repatriation of the hijackers of the issue of substantive discussions. ARATS principles opinion on the investigation of the problem, that party aircraft were hijacked to the other party events, the other party should the perpetrators transferred to the respective parties to the airliner to handle. The SEF think the comments of ARATS very constructive. ARATS, SEF reached a consensus on this issue happy. <br> punishment, ARATS pointed out that the 29th meeting of the Standing Committee of the National People&#39;s Congress in December 1992 seventh of the hijackers of the sentencing, the punishment has made specific provisions. The hijackers were sent to return to the mainland, we will be punished according to the law as the criterion based on the facts, principle. <br> ARATS that the present cross-strait only based file Kinmen Agreement, the agreement provides the repatriation of criminals and criminal suspects. No new agreement in the past, should be based on the agreement to implement the repatriation, or make specific arrangements. <br> Sun Yafu some clarifying the substantive issues have been, of course, there are some issues can not be resolved, we advocate can also be discussed. SEF Deputy Secretary-General Xu Hui said, \"are always welcome to talk about such issues, this is a pressing issue. \"<br>'
+);
+
+?>

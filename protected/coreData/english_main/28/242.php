@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-1-28
+	create time:2013-01-01 20:24:03
+*/
+
+return array(
+'title'=>'&quot;Yinshan petroglyphs found',
+'class'=>0,
+'cont'=>'January 28, 1980 (Kang Xi of the twelfth lunar month eleven), \"Yinshan petroglyphs were found. when <br> as early as the 5th century AD, the Inner Mongolia Autonomous Region Wulateqianqi Wulatehouqi, Urad Middle Banner, petroglyphs territory íã¿ÚÏØ Yinshan Northern Wei geographer Li Tao Yuan found . He gave a detailed account of the famous \"Waterways\". These records is the earliest record of Yinshan rock art world. However, in subsequent centuries, nobody cares. Not until the 1930s, the scientific mission Ricci north only to find the pieces of rock art. Comprehensive study of rock art from 1976. Since then, every year many experts, scholars and visitors to Bameng territory visits and visitors, has a total of 10,000 pieces found petroglyphs, which did take photographs and copy petroglyphs have nearly a thousand pieces. The paintings not only reflect the beliefs of the ancient inhabitants of the Yinshan area, aesthetics and view of the world, but also reveals the condition of their nomadic way of life. Yinshan petroglyphs distribution <br> very extensive, most Urad Middle Banner southern ground Hari Mountain Montenegro extends more than 5 km from east to west. Only this one, in more than one thousand petroglyphs. North Hari Shandong far southern slope and the top of the hill in the ground there are a large number of petroglyphs and land adjoining Hari Rock Hill to become a rock art distribution area. Hari mountain southwest of-km Wayaogou Kitayama ground every 2-10 meters or a little further away there was a rock art, the total number of more than 900 one hundred. Followed in pedal mouth County North Ventolin ditch mountain on Blackstone, usually 2 to 3 meters there is a rock art, farthest at intervals of not more than 10 meters, the total number of more than 500 one hundred. most intensive group of petroglyphs in <br> a Mole He Figure ditch a welcome North precipice, something about 50 meters, about 20 meters high, composed of about 80 personal avatar. Yingxi another piece in the middle of the grid and Suntech ditch rock walls and a width of 5 meters, about 15 meters high, is composed of 50 individual paintings. (L $ dj¦Ó.c¨­m) <br> petroglyphs largest square Wulatehouqi dam Mizoguchi Sipan stone petroglyphs, an area of &#8203;&#8203;about 400 square meters, is listed as a key protected cultural relics of the autonomous region. May 25, 2006, the rock paintings of Yinshan as the Neolithic to the Bronze Age rock carvings, the State Council approved the inclusion of the list of the sixth installment of the national key cultural relics protection units. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1840-5-7
+	create time:2013-01-01 22:32:18
+*/
+
+return array(
+'title'=>'Russian composer Tchaikovsky&#39;s Birthday',
+'class'=>4,
+'cont'=>'May 7, 1840, the sixth days of April (Boxer), the birth of Russian composer Tchaikovsky. The Tchaikovsky&#39;s an <br>. Left childhood Tchaikovsky&#39;s death \"target =\" _blank \"> Tchaikovsky <br> Tchaikovsky May 7, 1840 was born mining engineer and a government-run metallurgical factory director family 1859 graduated from the St. Petersburg law school, worked in the Ministry of Justice. (l $ j¦Ó.c¨½)] 1861 into the Russian Music Society Music classes (the following year converted into the St. Petersburg Conservatory). resigned from the Department of Justice from office in 1863, devotion to music career After graduating in 1865, taught at the Moscow Conservatory, while actively creation, the advent of the first batch of works by rich widow Madame von Meck funded, resigned from teaching in 1877 specializing in creation between 1878-1885 on several occasions to the countries of Western Europe and American Travel performances. (l $ dj¦Ó.¨­r¨À)] in June 1893 won an honorary doctorate of the University of Cambridge. Petersburg commanding the Sixth Symphony by the end of October of the same year and died soon after the first performance. works reflect the tsarist autocracy efforts to reveal people&#39;s inner contradictions, full of intense drama of conflict and fiery emotional music combines the Romanza tone of Russian folk music and urban, while under the rule of the deep desire of the majority of the Russian intelligentsia depressed mental and happy life; learn the outcome of the professional music in Western Europe. melody full of personality, euphemism sounds exciting. representative works: the fourth, fifth, sixth (Pathetique) Symphony, the opera \"Evgeni ¡¤ Onegin\" and \"Queen of Spades \"ballet\" Swan Lake \",\" Sleeping Beauty \",\" Nutcracker \", Piano Concerto, Violin Concerto,\" Rocco Variations on a Theme \", the first string quartet, piano trio,\" commemorating the great artists, symphonic overture \"1812\" Fantasy Overture \"Romeo and Juliet\" Symphonic Fantasia \"Francesca of Rimini, Italy Capriccio, Serenade for Strings, as well as a large number of vocal Romanza, etc. <br> firewood Minkowski ^ 30 ^ wma \"name =\" mediaplayerfile \"Swan Lake\" by Tchaikovsky <br> Tchaikovsky with relatives and friends <br> wood of the <br> young, the Minkowski eyes revealing the depression and anguish <br> Tchaikovsky&#39;s father and a pair of twin brother and Tchaikovsky look exactly the same <br> to commit suicide Antonina threat finally got his wish to marry a Pink confidant of Tchaikovsky <br> brewing the Tchaikovsky Tchaikovsky <br>, composer Mrs. von Meck <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1936-8-1
+	create time:2013-01-01 23:40:07
+*/
+
+return array(
+'title'=>'China sent a delegation to participate in the 51st Berlin Olympics',
+'class'=>0,
+'cont'=>'(Rat-June 15), August 1, 1936, China sent a delegation to participate in the the 51st Berlin Olympics. The Berlin Olympics opening ceremony, <br> the the televised <br> August 1936, the Olympic torch to the Berlin Olympic Stadium, the official opening of the 11th Olympic Games for the first time. <br> Eleventh Summer Olympics held in Berlin, Germany, on August 1, 1936 to the 16th. 4066 athletes from 49 countries (including 328 female athletes) participating. To participate in the country for the first time in Afghanistan, Bermuda, Bolivia (on www.TodayOnHistory.com) Costa Rica (Today in History www.TodayOnHistory.com) Liechtenstein and Peru. The number of athletes, most countries: Germany 406, 330, 211 people in Hungary. <br> China sent a team of 69 athletes (including two female athletes), a martial arts demonstration team (6 males, 3 females) and a sports delegation (35 men, 2 women). 6 competition participated in track and field, swimming, weightlifting, cycling, basketball, football and boxing, except Fu Bao Lu 1 through pole vault qualifying matches (the final was also eliminated), the rest were to be eliminated in the preliminaries. <br> men and women sprint national record holder Liu Changchun and Leeson and \"The Little Mermaid\" said Kosuke famous the Yang Xiuqiong He Haohua all national bike champion Overseas Chinese athletes to be eliminated in the preliminaries; British team, football team first battle strong opponents to 0:2 was eliminated: The men&#39;s basketball team game, war 4 negative; Fu Bao Lu, the only pole vault champion struggling to leap, to become the only Chinese athletes finals. Fu Bao Lu once score of 4.5 meters record the pole vault highest. <br> only martial arts performances, Westerners see the daze, especially the double practice, but a sensation in Berlin, swept Germany. the farewell scene the Kosuke famous the Yang Xiuqiong <br> comment <br> Chinese delegation <br> <br> boat in Shanghai departure: Berlin Olympics, the Nazis brought us the Olympics Although some aspects of the organization more successful, but it is a violation of the Olympic spirit, as Germany and France played a role in fueling the whitewash peace. General Assembly over the past three years, a little more than in September 1939, Germany and France that launched a war of aggression, to the German people, including the people of the world have brought unprecedented disaster. 1954 to celebrate the 60th anniversary of the Olympic Games, the International Olympic Committee had to review for their own mistakes, and issued a communique that arrogant militarism and Nazism atmosphere of the Olympic Games, resulting in the tragic consequences. <br>'
+);
+
+?>

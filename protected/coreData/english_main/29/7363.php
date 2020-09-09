@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-7-29
+	create time:2013-01-01 23:19:59
+*/
+
+return array(
+'title'=>'The Prince of Wales and Diana wedding',
+'class'=>0,
+'cont'=>'(Yau, June 28), July 29, 1981, the Prince of Wales and Diana wedding. <br> Prince Charles and Princess Diana kissing in front of Buckingham Palace and enthusiastic crowd <br> 80&#39;s media widely reported that the Prince of Wales and Diana - Ms. Spencer July 29 in London, Sao Paulo church wedding. An estimated 750 million people around the world through the TV to watch the spectacular scene, the wedding day by the British government declared a public holiday. <br> Charles is nearly 32 years old when, more and more about the legend of his engagement. Public guess, anyway, he was getting married, why do not you marry Diana, who dignified, blond years to 20 kindergarten teachers - Miss Spencer? Although her parents have divorced, but she was born rich, the first generation of Marlborough is her immediate ancestors. Later, it became known that Prince Charles&#39;s wedding will be held in the bride really is the lucky Diana. The first day of the wedding celebration, Prince Charles of the British Isles over the discharge of the first string of 102 rounds of fireworks, tens of thousands of local people flocked to London&#39;s Hyde Park to watch the grand display of fireworks to celebrate the royal couple&#39;s. <br> wedding day morning, the streets of the capital packed came to express their good wishes to the people, most of them do this in advance outside camping for many days. Buckingham Palace, the royal family to leave at 10:00 am, a huge procession of Prince Charles wagon to go in the final. When they arrived at St. Paul&#39;s Cathedral, the groom dressed in the naval commanders beautiful uniforms, a blue decorative shoulder strap Messenger chest. He&#39;s flanked by Prince Andrew and Prince Edward (L $ dj¦Ó.c¨­m) Department of the Navy Fleet Commander to go in front of the groom. When Lady Diana and her father Elvis - Spencer George V in 1910, the \"glass\" used in the coronation carriage ride, came to the cathedral in the warm blessing. <br> premarital oath, Prince and Princess stepped off the corridor covered with red carpet together. Multiplied by barouche return to the palace, they waved to the crowd standing on the steps of the church together. Then, the newlyweds traditional appearance on the balcony of Buckingham Palace, the hundreds of millions of viewers take the sub-top convertible wagon began their honeymoon trip, their unprecedented royal kiss pleasantly surprised. [Lsjt.net] <br> premarital oath after (lsjt.net) Prince Charles and Princess Diana, under the watchful eye of the royal dignitaries slowly set foot on the red carpet <br> Prince and Princess set vows go walked down the corridor covered with a red carpet together, people from the church steps and waved Prince <br> Charles and of Princess Diana <br> Diana < br>'
+);
+
+?>

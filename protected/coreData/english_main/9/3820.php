@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1941-4-9
+	create time:2013-01-02 08:52:16
+*/
+
+return array(
+'title'=>'Chinese army Jiangxi high F Army 20,000',
+'class'=>0,
+'cont'=>'April 9, 1941 (March 13), Government House, the Chinese army in Jiangxi on the high F Army twenty thousand. the high Battle <br>, the Chinese commander in guanqiao inspected enemy positions on April 9 <br> 1941, the Chinese army in Jiangxi high repulsed the Japanese attack on high battle Japanese army&#39;s victory, the F-twenty thousand. (History com) <br> The battle began on March 15. The Huazhong the Japanese in order to ensure its the Nanchang occupied security, the fight against the KMT ninth theater defense north of Jiangxi nineteenth Group Army, concentrated more than 40,000 people in the Air Force with the attack at daybreak on April 9, from Nanchang, Ann justice and other places soldiers in three columns a joint attack on a high. The Japanese thirty-third Division North Road Corps Fengxin with aircraft and heavy artillery, captured on the 15th, the 17th to advance to the high security, but the Kuomintang Army seventy second successive resistance casualties not do not give up the plan on the punch, 19 Anyi Beiche. <br> the Japanese independent hybrid 20 trip the Corps South Road, force a crossing Kam River in the 16th, was the blow of the KMT&#39;s forty-ninth Army was forced to retreat to the Qujiang direction. The Japanese thirty-fourth Division for Zhong Corps, is an attack on the high main. 18, fell to the Japanese high security, but on the high line but was tenacious blocking KMT seventy-fourth Army. In order to strengthen the Nineteenth Army forces, the ninth theater and from northwestern drawn the high battle on the Sichuan army the seventieth Army invested. on <br> 20, the Chinese army began to counterattack by outflanking the northern and southern flanks of the Japanese implementation Zhong Japanese army, determined to surround and annihilate. 22, Zhong Japanese army was surrounded by the seventy-fourth Army Northeast in on high ground, several breakout. 28, the Chinese army across the board chase, Zhuijian, fleeing enemy regain lost ground. April 2, the Chinese army in addition to regain pre-war areas, but also captured the Xishan Longevity Palace. April 9, the to overcome the Anyi Japanese peripheral stronghold, the favorable trend of the enemy. On high Battle then ended. <br> campaign the Chinese army killed the Japanese Iwanaga, Major General Commandant, Colonel United captain Hamada, Japanese casualties of nearly 2 million people, is one of the front battlefield since the War of Resistance Against Japan played better campaign. <br> the China army commander led his troops to assault <br>'
+);
+
+?>

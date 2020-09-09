@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2006-6-9
+	create time:2013-01-01 22:33:50
+*/
+
+return array(
+'title'=>'Eighteenth World Cup opens in Germany',
+'class'=>0,
+'cont'=>'The Eighteenth opening of the World Cup in Germany on June 9, 2006 (May 14) BingXu. <br> <br> 2006, German President Horst Koehler (center) accompanied FIFA President Sepp Blatter (left) and the German organizing committee president Franz Beckenbauer announced that the World Cup opening. The date of the Eighteenth World Cup opening ceremony held at World Cup Stadium in Munich, Germany. <br> local time 16:40, when Pele and German supermodel Xi Feier the high lifted a symbol of the World Cup, \"FIFA World Cup\" in the center of the Munich stadium, the thunderous applause the audience. Shortly thereafter, the 24 German beauty wire pulling \"flying into the air. <br> Munich stadium is designed for the new World Cup game, the transparent outer layer of the cuticle of the diamond-shaped sparkling in the sunshine. Stadium bleachers that can accommodate more than 66,000 spectators packed. , 158 members of the former World Cup champion team slowly enter the venue <br> music. First admission is a member of the 1966 World Cup champions England, followed by the 1998 winner of the French team, the two-time champion in 1930 and 1950, Uruguay team, (Lssdjt.com), two-time champion Argentina, (Today in History com) 3 champion Italian team and the German team, the last champion Brazil. According to the German organizing committee, FIFA issued to all living more than 200 championship team invited 158 last trip. Of them elderly wheelchair, or being arm came here to again feel regret and memorable World Cup event. <br> German President K&#246;hler announced the opening of the World Cup. Costa Rican President Oscar (lsjt.org) Alai Aspen, German Chancellor Angela Merkel, FIFA President Sepp Blatter, World Cup Organizing Committee President Franz Beckenbauer and other dignitaries and celebrities attended. (L $ dj¦Ó.§«§§T) <br> the banner of the 32 participating teams from the stadium four weeks to enter the venue. Famous musicians singing ¸ñÂÞÄÚÃ·Ò® the creation of the World Cup theme song, hundreds of German youth singing and dancing, right to the end of the opening ceremony set off a small climax. [The history today www.TodayOnHistory.com] has never been deliberately designed <br> World Cup scene grand opening ceremony, more does not matter suspense and decryption of that, as long as the grand and warm enough. Elegant, cheerful, simple ©¤ ©¤ the opening ceremony of the World Cup to show the world in just over 30 minutes, German civilization and a new modern culture. Then enter the contest theme, hosts Germany and Costa Rica opener. <br> <br>'
+);
+
+?>

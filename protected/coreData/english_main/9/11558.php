@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-12-9
+	create time:2013-01-02 02:43:44
+*/
+
+return array(
+'title'=>'China and the United States Department of Defense officials held the first formal consultations',
+'class'=>0,
+'cont'=>'December 9, 1997 (the Landmarks years winter and early 10), China and the United States Department of Defense officials held the first formal consultations. <br> 1997, Deputy Chief of the General Staff of the Chinese People&#39;s Liberation Army Xiong in a row to the United States for the Ministry of Defence of the Sino-US consultations. The two sides will exchange views on international and regional security and bilateral relations and other issues. President Jiang Zemin&#39;s visit to the United States, the heads of state of the two countries to determine the defense departments of the two countries to establish a regular consultation mechanism, the first consultations between China and the United States Department of Defense. <br> 12 11-12, China and the United States Department of Defense officials in Washington held its first formal consultations. Slocombe, Deputy Chief of the General Staff of the Chinese People&#39;s Liberation Army Xiong will and the U.S. Deputy Secretary of Defense, presided over the consultations. Consultations, the two sides on international and regional security issues, defense relations between the two countries and in 1998 the two armies exchanges arrange in-depth exchange of views. <br> Xiong Slocombe also initialed during President Jiang&#39;s visit to the United States, the two sides reached an agreement on the establishment of bilateral DoD maritime military security consultation mechanism. The two sides have also introduced their own armed forces to participate in humanitarian assistance and disaster relief activities, the two sides agreed to further exchange of experience in this field. <br> During the meeting, the two sides spoke highly of President Jiang&#39;s visit to the United States, the heads of state of the two countries reached consensus on the development of relations between the two armed forces, Defense regular consultation mechanism for the two countries, the establishment of Sino-US efforts to build oriented 21 a practical step towards a constructive strategic partnership of the century. The two sides will earnestly implement the consensus reached by leaders of the two countries to further promote mutual understanding and the development of the friendly relations of the two armies. Xiong also with the President of the United States Deputy Assistant for National Security Affairs James Steinberg, the U.S. State Department Assistant Secretary of State for East Asian and Pacific Affairs, Ross on international and bilateral issues related to exchange views. <br>'
+);
+
+?>

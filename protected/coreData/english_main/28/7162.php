@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1914-7-28
+	create time:2013-01-02 00:13:36
+*/
+
+return array(
+'title'=>'Austro-Hungarian war to Serbia',
+'class'=>0,
+'cont'=>'(Jiayin June sixth), July 28, 1914, Austria-Hungary to Serbia war. <br> 1914 6 28, a young Serbian nationalist in Sarajevo shot, a bullet fired from his pistol may be a first shot of the war in Europe. The destruction of the assassination of Archduke Francis - Ferdinand couple events Europe was difficult to maintain calm. The continent is a powder keg. States armed rapidly depleted their national strength and shocked the whole world. the <br> Germany has leapt to the first military spending. It has decided to slash military expansion, the German military budget increased by 50%. It spent last year to 1.4 billion marks this year&#39;s budget soared to 2.24 billion marks. (L $ j¦Ó.c¨½) and it is not just a country of Germany, Russia spent 1.8 billion rubles, the United Kingdom and France, also not lagging behind. <br> friendship between Russia and Germany in the past has disappeared completely, and competition intensified in the Balkans between Austria and Russia. The two countries want to expand their influence in the region. Russia worried about the Austrian offensive by Serbia and strengthen its influence in the Balkans in retaliation for the assassination of Archduke events. Tsar Nicolas II last week, and French President Puan Cray Obviously his concern. Hours after the talks czar announced his support for Serbia, although there are signs that the assassination of Archduke in Serbia is planned. the <br> Germany to Austria after the pressure is applied, it is proved that it is difficult to deal with in the Balkans. Earlier this month, William II, received a letter from Germany Vienna ambassador who happens to come. (? V history today?? Com) <br> Kaiser wrote in an empty area of &#8203;&#8203;the side of the page: \"Opportunity knocks but once. We must forever Serbia destroyed. \"For the problem of the use of force in the Balkans, Austria has been hesitant. However, the pressure of the assassination and Germany the end of this indecisive situation. Vienna, July 23, issued an ultimatum to Serbia. Austria for permission to assistance to the Serbian police to investigate the assassination. Serbia protested, but finally agreed. The obviously <br> Germany worried that once the Russians completed rearm task will be to attack Germany in 1916. To this end, the Kaiser and his government may be planning to launch a pre-emptive attack to Russia. As Germany will take place in the west of trouble. Russia and France formed allies 20 years, there is no doubt that France wanted to regain Alsace and Lorraine from Germany hands. Britain is not yet clear whether the war. <br>'
+);
+
+?>

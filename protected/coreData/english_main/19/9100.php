@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-9-19
+	create time:2013-01-02 01:31:08
+*/
+
+return array(
+'title'=>'France, the United Airlines jet exploded over in Niger',
+'class'=>0,
+'cont'=>'September 19, 1989 (Baba, August 20), France, the United Airlines jet exploded over in Niger. May 19 afternoon, <br> 1989, a French United Airlines DC-10 passenger aircraft 772 flights, flight from Brazzaville to Paris on the way in N&#39;Djamena for stay subsequent fly, suddenly lost with the ground Contact. Communication failure, or passive holders ...... the anxiously guess its whereabouts. in Paris Huaxi Airport <br> waiting for a night of family and friends, and was told the next day, 20 minutes after the aircraft took off from the capital of Chad over the explosion in Niger Te Neilei desert, killing all the crew. <br> scene appalling: the wing is inserted in the sand, 10 kilometers outside the cockpit, thousands of charred wreckage scattered around the body passenger wearing a seatbelt still attached to the seat, but they are dead a. <br> French public shocked this air crash. Departments and airlines, after analysis of the scene of the accident and all the signs that this was a man-made destruction event. United Airlines president Laporte said in an interview with reporters that the aircraft in good condition, it is not possible mechanical events, in case of any emergency, the driver has the time to contact with the ground. In addition, the wreckage scattered in a radius of more than a dozen square kilometers, than was strip distribution, the aircraft is in flight explosion suddenly crashed. It is said that a U.S. military satellite was also measured to this abnormal situation. French troops in Chad immediately sent rescue forces, including four helicopters, including after <br> accident, security departments have also sent an investigation group to and mysterious travelers looking for 9 advance aircraft in N&#39;Djamena. <br> France and some newspapers that this sabotage statement is no one who did it, but many, Middle East and Africa, French policy grudges, is likely to be some terrorist organizations engage. March 12, 1984, a DC-8 aircraft exploded at N&#39;Djamena airport, it is the same route on the airline. France send warships to Lebanon last month, the intelligence and security departments have also been receiving threat warning. People worry about whether this bombing will be like a few years ago there was a series of terrorist activities against France aura. (Lssjt.cn) <br> for the French public, they are getting for civil aviation security concerns. They say people are innocent, why to blow up airliners. <br>'
+);
+
+?>

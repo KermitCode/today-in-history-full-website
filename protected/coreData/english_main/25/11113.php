@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1936-11-25
+	create time:2013-01-02 02:48:35
+*/
+
+return array(
+'title'=>'Japan, Germany signed the Anti-Comintern Pact &quot;',
+'class'=>0,
+'cont'=>'November 25, 1936 October 12 (Rat), Japan, Germany signed the Anti-Comintern Pact. <br> 1936 11 25, 2009, in Berlin, Japan and Germany signed the Anti-Comintern Pact. Accordance with the provisions of the Agreement, in the fight against the Communist International, the two countries must \"exchange of intelligence\", \"working closely\". This is an important step in the Second World War launched by Germany, Japan and the two fascist countries, through the signing of this Agreement, the date, the the German fascist establish public under the banner of anti-Soviet and anti-Communist military alliance, to unite re-divide the world, to dominate the global ambitions. <br> launch a war of aggression, and re-divide the world, this is a fascist regime in Japan and Germany have long established policy of. January 1933, Hitler came to power after embarking on the preparation of a war of aggression under the slogan \"guns instead of butter\" crazy military buildup, the economy rapidly onto the track of the militarization. In 1933, Hitler announced its withdrawal from the international Conference on Disarmament in Geneva, and soon withdrew from the League of Nations, and to get rid of all restrictions on the League of Nations on the military buildup. In 1935, Hitler and further promulgated the \"National Defense Act, provides for the implementation of universal compulsory military service, to maximize his soldiers posts, so that Germany has become Europe&#39;s hotbeds of war. Pace in the East, Japan and France soon, since the occupation of China&#39;s northeast in March 1936, the fascists) former Foreign Minister of the (lssdjt.cn wide Koki form a cabinet, it shows that the Japanese military fascist authoritarian regime was completed, they openly raised the requirements of the external expansion of launching a war of aggression as a basic national policy to seek survival and development of the \"Empire\". fascist Empire <br> things two formed a military alliance, to bisects world, the reason why the name of anti-Soviet, anti-communist banner, on the one hand, they are indeed anti-Soviet anti-communist, on the other hand in order to deceive the public, to avoid premature stimulated other imperialist countries, and sure enough, Western imperialism have taken the bait, let the development of its military power, results Yanghuweihuan led to World War II, to bring the people of the world in a major disaster. <br>'
+);
+
+?>

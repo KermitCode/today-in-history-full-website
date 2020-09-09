@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-8-18
+	create time:2013-01-01 23:54:42
+*/
+
+return array(
+'title'=>'Deng Xiaoping proposed to carry out the reform of the party and state leadership system',
+'class'=>0,
+'cont'=>'On July eighth day) (Gengshen years, August 18, 1980, Deng Xiaoping proposed to carry out the reform of the party and state leadership system. In In 1980, August 18, 2010 \"People&#39;s Daily\" published by Deng Xiaoping, \"the party and state leadership system reform,\" a text <br> 1980 August 18, 2010, Deng Xiaoping, the CPC Central Committee Political Bureau enlarged meeting to make a speech entitled \"reform of the party and state leadership system\". August 31, the Political Bureau of discussion by Deng Xiaoping&#39;s speech, the movements of a leading member of the State Council, is one of the main topics of the Third Session of the Fifth National People&#39;s Congress. The central formal proposal will be submitted to the National People&#39;s Congress and CPPCC meetings to discuss the decision. Central to do so considering the reasons are: (1) power should not be too much focus. (2) should not be too much of a part-time deputy. (3) addressing the party and government, regardless of party on behalf of political issues. (4) from the long-term sake, handover problems. Deng also analyzed the main drawbacks of the party and state leadership system, the cadre system, bureaucracy, excessive concentration of power, patriarchal, and the leading posts tenure, and all kinds of privilege phenomenon. Deng Xiaoping said, is now considering a step-by-step, there follows a major reform of the party and state leadership system: (1) central to the Fifth National People&#39;s Congress Third Session of the proposed recommendations to amend the constitution. (2) Central Committee has set up a Commission for Discipline Inspection, is considering to set up an advisory committee and then, together with the Central Committee, by the party&#39;s National People&#39;s Congress elections, and clearly defined their respective tasks and permissions. (3) from the State Department to truly build a strong system of local government from top to bottom. (4) prepare systematically change the factory manager responsibility system under the leadership of the Party Committee, the manager responsibility system, after the pilot, gradually extend, respectively, to implement the factory management committee, the Board of Directors of the Company, the joint leadership of the economic union and under the supervision of the director responsible for system manager responsibility system. (5) all enterprises and institutions generally set up a workers &#39;congress or workers&#39; representative conference. (6) The Party committees at all levels to really implement the system of combining collective leadership and individual responsibility. <br>'
+);
+
+?>

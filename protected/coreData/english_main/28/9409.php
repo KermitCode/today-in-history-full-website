@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1898-9-28
+	create time:2013-01-02 00:58:13
+*/
+
+return array(
+'title'=>'The &quot;Reform Liujunzi be put to death',
+'class'=>3,
+'cont'=>'September 28, 1898 (the Reform Movement, August 13), \"the Reform Movement Liujunzi\" is put to death. <br> row from left: Tan, Yang Rui, Xu Lin, bottom row from left: Liu Guangdi Yang deep show, Kang Guangren. September <br> 1898 28, Tan, Kang Guangren, Liu first, Lin Xu, Yang Rui Yang deep show sentenced to die from Beijing Caishikou known to history \"Reform Liujunzi\". Tan, Hunan Liuyang. The word Fusheng, No. Zhuangfei. Hubei governor Reconsideration Xun&#39;s son. Came from a well-read, a good read Western Natural Science books. After the war, anger lessened in the Liuyang advocating legislation mathematics Hall, opened Hunan Restoration trend of the first. Traverse Beijing, Tianjin, Shanghai, Nanjing, absorb new knowledge. 1896 into the capital of Jiangsu alternate prefect missing candidates in Nanjing, the \"Benevolence\". 1897 to assist the Hunan Provincial Governor Chen Zhen, the (lsjt.org) provincial judge Huang Zunxian, the school governance Jiang marked the establishment of School of Current Affairs, organizing river steamer, mining, railways and other New Deal. The following year, the initiatives to set up the South Society Office, \"Xiang\" publicity Reform, criticized the old regime, radical Reform Movement. August to the Imperial Academy Shi Du Bachelor Xu Zhijing recommended, was conscripted into the capital. September 5th pull four products Qing title Military Minister to participate in political reform. September 21, Cixi launched a coup d&#39;etat. Was arrested on the 25th, 28 and Lin Xu Deng Liuren killed. Provisional sentence suicide note word: \"Heart to Heart Shazei powerless; worthy death, Yoshiya Yoshiya! Is generally acclaimed as the the Reform Movement Liujunzi first. Book, \"Benevolence\" hybridity of Confucianism, Buddhism and Taoism, ink individual and Western bourgeois natural sciences, social and economic theory, the formation of a unique system of philosophy, lashed out in the book, the feudal autocracy, its Tsunatsune Norm & rdquo ;, civil rights of publicity, \"the late monarch People thought, from the world continues to change easily argue that the political ideals of the reform of the social system. Can poetry, vigorous style, full of patriotic spirit. Writings incorporated into the the \"Tan Complete Works. The Hundred Days Liujunzi \"was executed\" target = \"_blank\"> the Reform Movement Liujunzi Age: 34-year-old Tan Sitong, Kang Guangren 32-year-old, 24-year-old Lin Xu, Yang deep show 50-year-old, 42-year-old Yang Rui, Liu Guangdi 40 years of age. <br>'
+);
+
+?>

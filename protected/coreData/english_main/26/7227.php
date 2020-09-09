@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1139-7-26
+	create time:2013-01-02 00:24:15
+*/
+
+return array(
+'title'=>'Alfonso I victory over the Moors, became the first king of Portugal',
+'class'=>0,
+'cont'=>'July 26, 1139 (, Kang Xi June 29), Alfonso I defeat the Moors, became the first king of Portugal. <br> In July 1139 26 - A Alfonso I achieved a victory over the Moors, also announced that the king, became the first king of Portugal. Alfonso I, <br>, Afonso I Henriques (nicknamed \"Enriquez Conqueror Alfonso\" Afonso O Conquistador; may be July 25, 1109 to 1185, December 6 days) independent Portugal&#39;s first king reign (1139 to 1185). <br> Alfonso Henriques French feudal lords of Burgundy, Henry&#39;s son. Henry married Theresa of Castile and Leon King Alfonso cable VI&#39;s illegitimate daughter Castilla obtained the title of Count of Portugal, and get the Mondego river Douro River Strip as a fief. When Henry died in 1112 (or 1114), the very young Alfonso Enriquez inherited the title of Earl, and was declared to be the lord of this territory. Theresa Castilla regent for his son, yet she passionately in love with the Galician nobility Fernando Perez, she seems to want to deprive Alfonso&#39;s inheritance rights for this lover. 1128, adult Alfonso Henriques defeated his mother, forcing her and Perez left Portugal. In this way, he won the undisputed dominion over this territory. the <br> within the territory of the city and the church, supported by Knight, Alfonso I began to get rid of the vassal status of Leon fight. His cousin Castilla and Leon King Alfonso cable VII battle (he is the mother of Alfonso I of allies), declared himself Prince Portugal in 1129. After a long period of war and intrigue, Alfonso I eventually reached in 1139, Portugal became an independent kingdom, claiming to be the King. In 1143, Alfonso VII Alfonso I of reconciliation and recognition of his position as king. To ensure this status, Alfonso I take the initiative and proposed to Pope Innocent II to Portugal as a vassal of the Pope. But, in fact, until 1179, Pope Alexander III admitted Alfonso King. In 26, <br> 1139 Alfonso I beat a Moorish army. Since then, his attention focused on the fight against the Moors, to expand the rule of geographical. He made a series of victories: 1147 to win Santarem; bound for the Holy Land, with the help of the Crusaders captured Lisbon in October of that year. He and conquered today in some areas of southern Portugal. To help Portugal&#39;s future expansion, Alfonso I managed to set up a sub-group of the Knights Templar and Knights Hospitaller in Portugal. <br> Alfonso I in his later years with his son Sancho I share power until his death in 1185. If you inherit Portugal Earl, he is one of Europe&#39;s longest reigning ruler. <br>'
+);
+
+?>

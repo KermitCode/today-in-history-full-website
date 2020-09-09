@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1962-7-9
+	create time:2013-01-01 23:51:43
+*/
+
+return array(
+'title'=>'Zihui talk about &quot;household responsibility system&quot;',
+'class'=>0,
+'cont'=>'(On June eighth day Renyin years), July 9, 1962 Zihui talk about the \"household responsibility system\". the Party of ÆßÇ§ÈË´ó»á <br>, the gradual adjustment of China&#39;s socio-political and economic relations between the In rural areas, from the people&#39;s communes basic accounting unit on the production team as a unit, have been greatly enhanced the enthusiasm of farmers in many places, so the various forms of \"household responsibility system\" spontaneously engage in . In 1961, Anhui Provincial advocates of this form of support and guidance, was responsible for the rural work Zihui After extensive research, support the views of the Anhui Provincial. (L $ dj¦Ó.c¨­m) July <br> 1962, on the 11th, Zihui at the Central Party School, report on agricultural issues. In the report, Zihui affirmed the practice of the \"household responsibility system\". Now, he said, most of the collective economic management of the economy did not do a good job, the collective economic superiority did not play out performance in the enthusiasm of its members is not high, is not strong sense of responsibility, accountability is not established, dispatching application can not because of the material, not truly the division of labor and cooperation. Zihui advocate fixed ownership, to unify ownership, production rights, management rights, distribution rights, in the production team to make the land, livestock, farm implements is the property of the production team all. Zihui proposed to establish a strict responsibility system for production, the implementation team (production team) production contract, group contracting, the home field management package; special live can be Contact the production overcapacity reward personal responsibility system. He did not agree to separate work equivalent to going it alone, says: \"is the tendency to think that the collective labor alone to work is to go it alone, it alone is not socialism is capitalism, this is not right\". And he said: \"can not be considered as field management responsibility of the household responsibility to go it alone. (L $ j¦Ó.c¨½) \"<br> However, Zihui these views, (L $ dj¦Ó.§«§§T) held in 1962, the 10th Plenary Session of the Eighth Party criticism by Mao Zedong, and was considered to be scraping \"go it alone wind. <br> Comments: proved the household contract responsibility system is to mobilize the peasants&#39; enthusiasm for production, and promote the development of agricultural production. <br>'
+);
+
+?>

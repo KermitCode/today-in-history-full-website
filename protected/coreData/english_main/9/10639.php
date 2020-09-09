@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-11-9
+	create time:2013-01-02 01:40:54
+*/
+
+return array(
+'title'=>'United Nations first published the world refugee status report',
+'class'=>0,
+'cont'=>'November 9, 1993 (September 26) πÔ”œ, the United Nations is the first publication of the World&#39;s Refugees report. <br> Although the Cold War has ended, however, the world is still in turmoil, regional conflicts constantly sharp increase in the number of refugees. The global number of refugees from the current 11 million to 18.2 million 10 years ago. In addition, there are 24 million people displaced. Currently one in every 130 individuals in the world were forced to leave their homes. This is the first publication of the United Nations High Commissioner for Refugees \"World Refugee Status\" report depicted a worrisome world refugee problem of the status quo. On the morning of November 9, 1993, the United Nations High Commissioner for Refugees, Sadako Ogata, the reporter conference officially announced the report. <br> According to the report, in 1960, only 1.4 million of the refugees in the world, in 15 years of slow growth in 1976 reached 2.8 million. Later began to accelerate growth in 1980 reached 8.2 million, and reached the peak of 18.2 million by the end of 1992. Now the world emerged 10,000 refugees a day. The distribution of Asian refugees most there are currently 7.2 million; Africa Secondly, 5,400,000; Europe also has 3.6 million. <br> report pointed out that the current world refugee problem: the war between the refugees is not the main reason for state-to-state, but the country&#39;s ethnic conflict; internal conflict will not only produce a large number of refugees, displaced persons and produce more the protection and assistance to refugees institutions and approaches can not, due to economic reasons for the large number of immigrants has also generated refugees; civil war destroyed the original national institutions and social structures, and the protection and assistance of refugees becomes a very complex and difficult; solve current refugee problem. <br> report that, in the various stages of the development of the refugee problem, we need to have a corresponding way. The report emphasized that in addition to humanitarian protection and assistance, but also the need for a wider range of measures to promote peace, human rights and development. The report also stressed the importance of prevention of a refugee problem. <br> Chinese government today donated $ 250,000 to the UNHCR 1994 program. The representative of China Wang Donghua still pledging spoke at the meeting said he hoped the international community, especially the developed countries to increase assistance to refugees. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1940-6-22
+	create time:2013-01-01 23:31:20
+*/
+
+return array(
+'title'=>'France surrendered to Germany',
+'class'=>0,
+'cont'=>'(Gengchen May 17), June 22, 1940, France surrendered to Germany. In 22, <br> 1940 Germany and France in the mine through France 僚掀蠡伬輿 signed the surrender of France to Germany. Ironically: also in the car, November 11, 1918, Germany had France and its allies signed the Instrument of Surrender <br> 22, 1940 in the French town of Compiegne, France and Germany signed the Armistice Agreement. Hitler famous castle in the town&#39;s decision not to hold a signing ceremony. The ceremony was carried out in a train carriage. After World War I, Germany was defeated, that is, in the car, Germany surrendered to the Allies, Hitler&#39;s Germany suffered great humiliation, must also let the Frenchman tasted the taste. <br> in accordance with the terms of the Armistice Agreement, the German occupation of the northern half of France, and the French Atlantic coast region. French forces will be disarmed and be demobilized. France will pay the costs of the German occupation forces, all German political refugees will be returned to Germany. The Phillips - Petain, the new Prime Minister of France (L $ dj而.c身m) <br> marshal to accept these terms and conditions. Many French people immediately blamed these Terms engraved too harsh. <br> French writer Andrew - Gade wrote: \"Yesterday when we heard Petain radio speech almost entirely in a numb state. This is a dirty trick. Half of France after surrendering German, (L $ dj而.c身m) how can you say French unimpaired it? \"<br> Petain any new prime minister less than a week. Paul - Renault resign for refusing the Armistice Agreement signed with Hitler, Petain after the new cabinet. <br> British Prime Minister Winston Churchill in his eloquent speech, called on France to insist on fighting the fight against Hitler. Petain turned a deaf ear to this. <br> Churchill in a speech to parliament, said: \"If we are brave enough to resist Hitler, the whole of Europe will be the liberation of the world can embark on a sunny vast wilderness. But if we fail, the whole world, including the United States, including the countries we are familiar with the concern will be plunged into the abyss of a new dark age. \"<br> Churchill realized that his speech not prevent German aggression. Because he also acknowledged that the Battle of France is over, the Battle of Britain is about to begin, the survival of Western civilization in this war. <br> France and Germany representative of the armistice agreement signed in Compiegne <br>'
+);
+
+?>

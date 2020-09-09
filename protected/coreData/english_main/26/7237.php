@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-7-26
+	create time:2013-01-02 00:25:50
+*/
+
+return array(
+'title'=>'The Attlee group British Labour Party Cabinet, served as prime minister',
+'class'=>0,
+'cont'=>'July 26, 1945 (, Yiyou June 18), Attlee group of the British Labour Party Cabinet, to become prime minister. After the surrender of <br> Richard Attlee <br> France and Germany, the United Kingdom general election in July 1945, Labour victory. July 26, Attlee group British Labour cabinet, served as prime minister, which is the first in the House to obtain the majority of the British Labour government. <br> the Clermont rely - Attlee (1883-1967), a graduate of Oxford University, joined the Independent Labour Party in 1906. In 1924, twice in 1929 into the Labour cabinet, was elected Labour leader in 1935. To participate in the Second World War Churchill&#39;s wartime coalition cabinet, any privy seal Minister, Deputy Prime Minister and other staff. <br> Labour Cabinet to implement a policy of nationalization and social reforms, and far-reaching impact. In 1946, the government nationalized the Bank of England, the coal industry, road transport, civil aviation and communications facilities. In 1948, the establishment of the Committee of the British electricity industry, Gas Committee established in 1949. Nationalize the electricity and gas industries. 1949 despite fierce opposition at home and abroad to pass the bill so that the iron ore and steel industries nationalized. By the Atomic Energy Act of 1949, the development of atomic energy control in the hands of the Quartermaster Department. These measures have greatly changed the face of British Industry. The Labour government has also introduced a \"welfare state\" policies. In 1946, by the National Health Service Act and the National Insurance Act, the establishment of a national insurance system. In 1949, through new towns bill. The same time, the Attlee government reform of the electoral system. <br> in foreign policy in 1947 to give independent India. June 17 through the partition of India Act, India was divided into India and Pakistan. Also in 1947, Ceylon and Burma gained independence. British troops exit from Palestine in 1948. Jews established the State of Israel. Labour actively advocate the Anglo-American cooperation, accept the U.S. Marshall&#39;s revival of the European project. March 1948 to participate in the establishment of the Western European Union (WEU). April 1949 to join the North Atlantic Treaty Organization. <br> the 1951 general election, Labour defeated resignation Attlee, Churchill re-composition of the Conservative government. (L $ dj¦Ó.c¨­m) <br> review: Britain&#39;s democratic traditions are not subject to the impact of World War II <br>'
+);
+
+?>

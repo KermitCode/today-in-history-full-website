@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1821-5-5
+	create time:2013-01-01 22:18:49
+*/
+
+return array(
+'title'=>'Napoleon died on St. Helena',
+'class'=>3,
+'cont'=>'(Government House in April, the fourth day), May 5, 1821, Napoleon died on St. Helena. <br> Napoleon proclaimed himself emperor in 1804, after the establishment of the First French Empire, in order to consolidate the rule of the bourgeoisie, against feudal forces him to take strong measures. Formulation and promulgation of the Code. Exclude the feudal regulations established legislative norms of capitalist society, his restoration of forces is not compromised. Los easy six brother of former King wrote to him from abroad, who desire to return, for the restoration of the old dynasty. Napoleon&#39;s letter of reply, said: \"If you come back, you must use the cost of one hundred thousand corpses. \"<br> Napoleon establishment of the First Empire, a foreign war is continuous, each time defeated the feudal lords of the European continent and sea anti-French alliance of the British organization. Wherever he went in his army, get rid of the aristocracy, the abolition of the feudal obligations, greatly weakened the local feudal forces, objectively played a progressive role, but Napoleon enslavement of the local people, he launched a foreign war inevitable aggression. Thus, Napoleon&#39;s foreign wars caused extensive revolt of the people of Europe. <br> 1812, Napoleon led 600,000 troops Expeditionary Russia in less than four months time, Napoleon occupied Moscow result suffered a heavy defeat, Napoleon is almost alone fled to Paris. October, <br> 1813 Napoleon with the countries in the coalition with the Leipzig battle, defeated the French army. <br> 1814, 31, 2009, the countries of Europe \"anti-French alliance,\" the coalition forces reached Paris, Napoleon abdicated and was imprisoned in the Mediterranean island of Elba. The Bourbons also restoration. <br> 1815 Napoleon escaped from Elba Island, on 1 March 1000 landed in the south of France. 20, 2009, Napoleon entered Paris, and re-board the throne. Being the Vienna gathering Britain, Russia, Prussia, Sweden, Spain, Portugal and other European monarch that is composed of the seventh anti-French alliance. <br> 1815 6, 18, Belgium Waterloo a war, the allied forces defeat Napoleon&#39;s army, again forced him to abdicate. Napoleon this only do about 100 days of the emperor, known to history as the \"Hundred Days dynasty. The restoration of the Bourbons again. (L $ dj¦Ó.§«§§T) <br> Napoleon&#39;s second abdication, he incurs exiled to Helena Island in the south Atlantic, spent six years on the island, on May 5, 1821, died on the island. <br>'
+);
+
+?>

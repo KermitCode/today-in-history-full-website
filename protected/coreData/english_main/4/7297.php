@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1805-8-4
+	create time:2013-01-01 23:07:33
+*/
+
+return array(
+'title'=>'The birth of the Irish mathematician, physicist and astronomer Hamiltonian',
+'class'=>4,
+'cont'=>'In (Yi Chou leap in June the tenth), August 4, 1805, the Irish mathematician, physicist and astronomer Hamiltonian born. <br> Hamilton was born \"target =\" _blank \"> Hamiltonian <br> Born in Dublin, Ireland, in August 1805; September 2, 1865 and died in Dublin since childhood. Hamiltonian smart known as a child prodigy, and his three-year-old can read English, will be the arithmetic;-year-old Nengyi Latin, Greek and Hebrew, and can recite the Homeric epics;-year-old will be familiar with Persian, Arabic and Hindi .14 &#8203;&#8203;years old, the Persian ambassador conversation banquet to welcome the Persian ambassador in Dublin shine 1818 encounter United States calculated prodigy \"more profound Z. Section ear this (Colburn) in mathematics interest. meet again in 1820, the Hamiltonian have read Newton&#39;s mathematical principles of natural philosophy, and astronomy strongly hobby, [L $ dj¦Ó.c¨­m] commonly telescope observations generally; also started reading PS pull Plath book, \"Celestial Mechanics\", pointed out an error in the book in 1822. began to engage in scientific research work in the same year, a series of studies on the nature of the curves and surfaces, and for the geometrical optics his report to the Irish Academy after RJ Brin Klein academicians comment said: \"The young man is now the first mathematicians of the age (17 years old). <br> 1823, July 7, 2011, [lsjt.net] Hami Dayton into the famous Trinity College entrance exam the first results obtained formal training in the University College has won the classical literature, and science&#39;s highest honor outstanding after he completed a multi-year period 1823-1824 articles on geometry and optical paper, which in December 1924 to the Royal Irish Academy of conference papers caustic curve, (L $ dj¦Ó.§«§§T) caused the attention of the scientific community. <br> 1827 10, 2009, only 22 years old Hamiltonian was appointed Dun Xinke Research Fellow of the Royal Astronomical Observatory and Trinity College astronomy professor .1832 years, become a Fellow of the Royal Irish Academy. quaternion in 1843, this is the generation of mathematics as an important outcome. academic achievements and prestige of the Hamiltonian, held in Dublin, the British Association for the Advancement of Science in 1835 was elected President, and the same year was awarded a knighthood in 1836, the Royal Society because of his achievements on the optical and awarded the Royal Medal in 1837, Hamilton was appointed president of the Royal Irish Academy .1863 years, until 1845, the newly formed American Academy appointed Hamiltonian as one of 14 foreign academicians. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1853-9-21
+	create time:2013-01-02 01:42:13
+*/
+
+return array(
+'title'=>'Dutch physicist, the superconducting discoverer Heike card late Colin Onnes was born',
+'class'=>4,
+'cont'=>'(Guichou August 19), September 21, 1853, the Dutch physicist, the superconducting discoverer Heike card late Colin Onnes was born. the <br> card late <br> Heike the forest ¡¤ Onnes (Heike Kamerlingh Onnes, 1853 -1926 years, February 21), the Dutch physicist, superconductivity discoverer of the phenomenon, the founder of the low-temperature physics. born in Groningen, the Netherlands in 1853 <br> Onnes in 1870 to enter the University of Groningen, the second year to Heidelberg, Germany, followed physicist Bunsen and Kirchhoff learning. In 1876 Onnes undergraduate graduation from the University of Groningen, received his Ph.D. in 1879 at the school. In the <br> 1882 Onnes become the person in charge of Leiden University professor of physics and the physics laboratory, the laboratory has set the direction for the low-temperature physics. The primary means of cold liquefied gas, before 1882, only hydrogen and helium has not yet been liquefied, British physicist Dewar After more than twenty years of research, the first time in 1898, the liquefied hydrogen. Physics Laboratory of the University of Leiden in Onnes&#39;s under the leadership of the rapid development of Low Temperature Physics Laboratory of the University of Leiden, created in 1894, the establishment of a large liquefied gas plant, liquefied oxygen in 1904 and two years later liquefied hydrogen and July 10, 1908, the first liquefied helium to -269 ¡ã C (4K), setting a new record of artificial cold. Followed by liquid helium 0.9K more low temperature. The Onnes therefore be called \"Mr. absolute zero <br> 1911 years, the the Onnes use of liquid helium the gold and platinum cooled to 4.3K, platinum resistance is a constant. He then in turn mercury is to 4.2K, measured its resistance is almost reduced to zero, which is the phenomenon of superconductivity. In 1913, Onnes discovered tin and lead and mercury as superconductivity. The same year, due to the nature of the substances in the low-temperature state as well as liquefied helium, Onnes was awarded the Nobel Prize in Physics. <br> Onnes leadership Physics Laboratory of the University of Leiden, to become the world&#39;s low-temperature physics research center. 1923, Onnes retirement to death of Leiden in 1926. To commemorate him, the Physics Laboratory of the University of Leiden in 1932, was named as \"the end of the card Lin Onnes Laboratory. (TodayinHistory.cn) <br> Comment: Who do not know superconducting! Heike card late Colin Onnes made a great discovery! <br>'
+);
+
+?>

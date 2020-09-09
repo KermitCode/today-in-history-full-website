@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1983-9-3
+	create time:2013-01-02 01:32:50
+*/
+
+return array(
+'title'=>'Founder of the American Metrology and Intelligence Science and co-founder of Price&#39;s death',
+'class'=>0,
+'cont'=>'September 3, 1983 (Guihai July 26), the founder of the American Metrology and Intelligence Science and co-founder of Price&#39;s death. <br> Price&#39;s death \"target =\" _blank \"> Price (1922-1983), the Scientific American scientist, the scientific metrology the founders and Information Science founder of the Jews. 1922 Born in London on January 22 to September 3, 1983 and died in the same place. graduated from the Physics Department of the University of London in 1942, in 1946, a doctorate in physics. moved to Singapore in 1947 to teach at the University of Malaya in 1948 study phenomenon of growth in the number of physics papers, found in the scientific literature exponential growth law (? v history today?? com) the famous Price curve is drawn. 1954 by University of Cambridge doctorate in the history of science. Yale University in 1959, he was appointed professor, and later served as the Peabody Museum&#39;s curator of history of science and technology instruments Science Since Babylon \"a book published in 1961, to reflect new insights about science history of science at Yale University, and Head of the Department of History of Medicine in 1962, Mei Lung Foundation Chairman, and is also a member of the Council of the U.S. National Science Foundation. bibliometric began to study library science and science policy, and to establish close contact with the Philadelphia Institute for Scientific Information under the editing and publishing \"Science Citation Index\" to determine the value of scientific papers, the statistical model of the growth of scientific papers, and laid the foundation for the information and scientific research work. served as UNESCO&#39;s science policy adviser, has appointed to Argentina, (? v in the history of today?? com), Australia, Brazil, Denmark, (? v history today?? com) Egypt (? v history today?? com) Germany (? v history today?? com) India (? Price has published more than 300 papers, v history today?? com) Israel (? v history today?? com) science policy adviser in Pakistan, the Soviet Union and Eastern European countries in 1983 was elected a Fellow of the Royal Swedish Academy of Sciences. and 17 specifically with, which, information science produce far-reaching implications of there \"Babylon since the science\", \"scientific papers network\", \"small science, big science\", \"world brain of some problems\" citations cycle. <br> 1983 Price&#39;s death. <br>'
+);
+
+?>

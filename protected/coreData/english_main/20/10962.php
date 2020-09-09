@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1985-11-20
+	create time:2013-01-02 02:30:17
+*/
+
+return array(
+'title'=>'Nie Weiping was first in the the Go Challenge Cup victory',
+'class'=>0,
+'cont'=>'In (Yi Chou, October ninth day), November 20, 1985, Nie Weiping was the first in the Go Challenge Cup victory. <br> Nie Weiping Go chess <br> 1985 by mid November 20th, Nie Weiping was the first Sino-Japanese Go Challenge Cup final victory. <br> Nie Weiping, 1952. Go athletes. One in the history of China&#39;s modern chess victory over visiting a Japanese Kudan players in 1975, 1976, went to Japan to beat 4 Kudan master made seven war record of six wins, was the \"Nie whirlwind praise . November 20, 1985, the first session of the NEC-Japan Go Challenge Cup as China Leizhu played a series victory over Japan&#39;s ultra-class players Kobayashi Koichi and Jiatengzhengfu, the final battle to conquer Japan Honorary Life \"grandmaster\" Fujisawa Hideyuki. And twice in the second and third day Go Challenge Cup win. He had to get to the first World Amateur Go Championship. Was named the 1985 Sports Top Ten Asian Sports Top Ten World Sports Top Ten Star one. <br> The NEC-Japan Go Challenge Cup, can be described as equal skill, the two sides the Dalei by all appeared on stage, the best situation for the last Lord decisive. Lasted more than a year, the ups and downs of the struggle of big wave, to attract the attention of the two countries and the world chess enthusiasts. <br> of players in this unprecedented contest to win, there is no doubt it is a historic breakthrough. This suggests that originated in China and began the revitalization of silence hundred years the Chinese Jueyi catch up with Japan&#39;s Vice Premier Chen Yi target initially realized. More than twenty years to achieve such progress, the speed is very fast. This is advocated by many of the older generation of leaders care, the results of generations of players who work hard. in <br> game, the the superb Japanese players Kobayashi Koichi deserved reputation, deep, Fujisawa Hideyuki Lord Nianyuhuajia the Hsiungfeng not less, are impressive. Our players the best results Nie Weiping and Jiang Zhujiu, they hammered tenacious bitter fight, the courage to \"super-class\" players to challenge and inspire confidence in Qijie. Our eight players average ten years younger than the Japanese side, this is an encouraging momentum. This year really to years Go takeoff. Challenge Cup wins are not isolated incidents, and in the other game, my players to get good grades. May Day Go Tournament tie; tripled war we win; October, Day television rapid games, (l $ j¦Ó.c¨½) Ma Xiaochun defeated Japanese TV blitz champion Hashimoto Chang Kudan. [Lssjt.cn] <br>'
+);
+
+?>

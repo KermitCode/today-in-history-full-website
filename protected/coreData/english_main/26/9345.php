@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1815-9-26
+	create time:2013-01-02 00:46:53
+*/
+
+return array(
+'title'=>'Russia, S &amp; P, the Austrian three countries, the conclusion of the &quot;Holy Alliance&quot; published in Paris',
+'class'=>0,
+'cont'=>'September 26, 1815, Russia, S & P, the Austrian three countries in Paris on August 24 (Otsugase years) the conclusion of the \"Holy Alliance\". March, <br> 1814 European monarchy, anti-French coalition forces defeated Napoleon, temporarily stifle the French bourgeois revolution. In the autumn of that year, Tsar Alexander I, Austrian Emperor Franz I and the S & P king William III and other large and small European emperors who immediately gathered spoils conference held in Vienna. They re-division of spheres of influence on the map, trying to restore the old order in Europe before the French Revolution, and flight ransacked France. May 1815, Louis XVIII is lifted on the throne of France, and the restoration of the Bourbon feudal dynasty. Was ridiculed Louis XVIII was installed in the baggage car of the coalition forces set out back. Louis XVIII concocted in the semi-finals, Russia, S & P, Austrian, British, divided France Paris Peace on hand and foot to sign papers. 26, September <br> 1815 under the initiative of Czar Alexander I of Russia, S & P, the Austrian Three reactionary chieftain in Paris issued a declaration, (lssjt.cn) the conclusion of the so-called \"Holy Alliance\" openly declares its desire to military force to defend the monarchy together. Later, the monarch of almost all European countries, signed join the counterrevolutionary Union. In November of the same year, Russia, Britain, Pu, Austria signed the Quadruple Alliance, three years later, France also joined. This organization is actually a \"holy alliance\" \"target =\" _blank \"> Holy Alliance\" supplement. (Lsjt.org) <br> \"unholy alliance\" is a joint organization of the international counter-revolutionary Tsarist Russia played a major role in which military police repression of the European revolution. It to \"maintain order\" in the name of revolution of armed intervention in Spain and Italy, to stifle the Greek independence movement, crusade against the Polish uprising, the suppression of the Hungarian Revolution. In short, where the revolutionary movement, Czar troops where repression, act as executioner. Prime Minister Metternich of Austria, is the soul of the \"Holy Alliance\", the actual manipulation of the league, he had arrogantly claimed: Europe \"a variety of things status quo will not change\". <br> \"holy alliance\" perverse acts, met with strong resistance from the people of all countries. The the European revolutionary storm in 1848, has removed a bunch of political garbage of Europe, Metternich himself was the Vienna revolution dresser fled Later, even the king fled to Vienna. \"Unholy alliance\" to this complete bankruptcy. <br>'
+);
+
+?>

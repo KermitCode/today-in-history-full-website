@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2005-12-11
+	create time:2013-01-02 02:50:09
+*/
+
+return array(
+'title'=>'The first painting auction held in Xiamen',
+'class'=>0,
+'cont'=>'December 11, 2005 (““”œ years winter month and 11), the first painting auction will be held in Xiamen. figure <br> <br>: sold for 16 million \"high price\" works \"extends\" <br> in 2005 December 11, 2011, the first time painting auction in held in Xiamen. 148 lacquer works <br> participate in the auction, 73 works turnover, turnover rate of 50%, Fuzhou University Associate Dean of the School of Arts and Crafts She Guohua works \"extends\" is sold for 160,000 yuan the \"astronomical.\" <br> buyers were mostly in the pre-show period will have a target, all of them come prepared, determined to win. The starting price of a few thousand dollars be raised to a few million. Participate in the auction of a total of 148 lacquer works, 73 works transactions, which traded at more than 10,000 yuan, 44, three more than 50,000 yuan. <br> audience most \"Costly\" is the person in charge of a company, Mr. Shen, a total investment of about 25 million, bought five works. Two game of the second and the third high-priced, \"Concepts Wu Wei\" transaction price of 75,000 yuan, \"Mountain Flower\" transaction price of 68,000 yuan, his fancy concept °§ Wu Wei \"revealing rich cultural atmosphere, ready to hang at home when \"goalkeeper\", \"Mountain Flower\" in the back of the girl&#39;s exactly like his 10-year-old daughter, was bought for her daughter, \"the horizon or cloud for two-year-old The small daughter prepare for the gift, the painting is full of childlike innocence, in addition to the \"golden age\" to his wife and the couple jointly owned \"butterfly Divertimento. <br> like nearly 10 people like Mr. Shen, who scored a number of works. Mr. Cheng King had seven lacquer works in the financial investment industry. It is understood that the Bidder mostly want to lacquer painting hanging at home, or as a personal collection. <br> audience climax near the end of the auction, Fuzhou University Associate Dean of the School of Arts and Crafts She Guohua works \"extends\", the base price is $ 100,000. Painting from the starting start price is rising rapidly, people bid to compete for up to $ 160,000 a game-high price. Strong winner who declined to disclose the identity of the mysterious middle-aged men, and asked why the \"astronomical\", only said \"improved living standards, want improved on decorating\", a language with before. <br> Reviews: Lacquer This unique traditional art of painting more and more sought after by collectors <br>'
+);
+
+?>

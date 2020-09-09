@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-6-29
+	create time:2013-01-02 00:08:03
+*/
+
+return array(
+'title'=>'China Samaritan Foundation was established in Beijing',
+'class'=>0,
+'cont'=>'On May tenth day) (πÔ”œ years, June 29, 1993, China Samaritan Foundation was established in Beijing. <br> China Samaritan Foundation (hereinafter referred to as the Foundation) in June 1993, approved by the Government, registered and established in accordance with the law, is co-sponsored by the Ministry of Public Security, the Central Propaganda Department, the Central Political and Law Commission and other ministries established national nonprofit social groups. <br> Foundation to carry forward the traditional virtues of the Chinese nation, and foster healthy social trends, advocacy and courageous, and promote the construction of socialist spiritual civilization, strengthen social security comprehensive management for the purpose; courageous and advanced molecular recognition awards, promotional heroes and heroic deeds, seminars Samaritan theoretical issues, as its main task to promote the Samaritan legislation. Up to now, the Foundation and the Central Propaganda Department, the Central Committee for Comprehensive Management of Public Security, the Ministry of Public Security held a joint advanced elements of the eight National courageous recognition of the General Assembly, to carry out the Ten First National courageous hero contest, the drafting of a National Samaritan Patient Rights Protection Act \"(draft). Total reward courageous advanced people more than 2100 people, an award pensions of 20.5 million yuan. Needy families and their children since 2000, of the sacrifice of the National Samaritan advanced molecular and disabled the implementation of the counter poverty Aided Engineering, difficult hardship 359 to Samaritan advanced molecular family issued grants funded courageous heroes and martyrs school child 173 people. Liaoning youth magazine co-sponsored action \"courageous heroes and martyrs families show love and love for the courageous martyrs families, social mobilization, thereby increasing the intensity of the\" counter poverty and student. <br> the party and the government&#39;s concern and Foundation activities carried out to foster healthy social trends, advocacy courageous played a catalytic role, greatly encouraged by the enthusiasm of the broad masses of the people involved in the work of social security comprehensive management to promote the socialist spiritual civilization, maintain public order, and promote the social atmosphere to make a contribution to the improvement. <br> Reviews: people should encourage courageous <br>'
+);
+
+?>

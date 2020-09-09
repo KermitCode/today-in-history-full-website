@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('_form', array('model'=>$model,'eng_text'=>$eng_text)); ?>

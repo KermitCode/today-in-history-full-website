@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1949-8-4
+	create time:2013-01-01 23:55:59
+*/
+
+return array(
+'title'=>'Cheng Qian, Ming-Jen Chen led his troops in the uprising.',
+'class'=>0,
+'cont'=>'August 4, 1949 (Year of the OX July tenth day), Cheng Qian, Ming-Jen Chen led his troops uprising. south <br> People&#39;s Liberation Army troops moved into Changsha <br> Old Figure: August 4, 1949 WT 1527 August, Cheng Qian, Ming-Jen Chen led his troops against Chiang defectors. In late July last year, Cheng Qian took office with the Democratic Party Changsha the appeasement Branch Director and Chairman of the Government of Hunan Province. In May this year, the People&#39;s Liberation Army occupied the central city of Wuhan, Pai Chung-hsi retreated Hunan, Guangxi, trying guards, Hunan and Jiangxi mountain Miluo river line, the confrontation with the People&#39;s Liberation Army. In late July, the People&#39;s Liberation Army captured the important city of Hunan, Yueyang, Pingxiang, the striker has reached the outskirts of Changsha. Entrenched in Changsha Cheng Qian and Chen Mingren stock of the situation, decided to surrender to the Chinese Communists. July 22, Cheng Chen sent representatives to peace talks with the Communist Party of China. August 3rd, the people of Changsha Changsha from all walks of life to welcome the liberation preparatory and held its first meeting, the representatives and the democratic parties and people from all walks of life to there will be 53 units. That night, the KMT Hunan Party, government and army personnel assembly, decided to accept eight of the CPC Central Committee and Mao Zedong&#39;s \"domestic Peace Agreement. 4, Cheng Qian, Chen Mingren rate Hunan security forces and the Kuomintang all the officers and men of the First Corps of the uprising in Changsha. 5, 2011, the lake was peacefully liberated. The leaders of the Chinese Communist Party on the uprising in Changsha Cheng Qian, Ming-Jen Chen entrusted with the task. 9, Changsha garrison headquarters established solution Allied appointed commander, Cho Young political commissar. 19 military control will be set up in Changsha. Xiao Jinguang Military Control Commission Director Shoudao Wang, Ming-Jen Chen, deputy director. 29, the Hunan People&#39;s Military and Political Committee was instructed to expand, Cheng Qian director, Huang Kecheng members of the deputy director, Xiao Jinguang, Wang Shoudao, Tang Sheng-chih Chen Mingren 13 artificially. 30, the Hunan Military Region was established, Xiao Jinguang for the commander, Huang Kecheng political commissar, Ming-Jen Chen, deputy commander. <br>'
+);
+
+?>

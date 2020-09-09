@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1898-9-13
+	create time:2013-01-02 00:53:29
+*/
+
+return array(
+'title'=>'Chinese historian, social activist Gucheng&#39;s birthday',
+'class'=>4,
+'cont'=>'September 13, 1898 (July 28), the Reform Movement, historian, social activist Gucheng&#39;s birthday. the <br> Gucheng&#39;s Birthday \"target =\" _blank \"> Gucheng, historian, social activist. September 13, 1898 (Guangxu 20, July 28, 2004) was born in Yiyang County, 1921 was admitted to the Beijing Higher Normal School (now the predecessor of Beijing Normal University) English coach after graduating in Hunan First Normal Revolution period, (lssdjt.cn) by Mao&#39;s ideological influence, to participate in the peasant movement, either of Hunan Province adviser of the farmers &#39;associations, provincial peasant movement workshops are teachers, secretary of the National Farmers&#39; Association preparatory <br> 1927 to 1930 in Shanghai, Jinan University affiliated high school, Chinese Public School to teach from 1930 to 1933 Gucheng any of Sun Yat-sen University Professor and Chairman, Department of Sociology director, from 1932 to 1942, he was appointed a professor of the history of social Head of the Department of Jinan University. the fall of 1942, Fudan University coach, former History Department, Dean and other staff. <br> 1949 to attend the Chinese People&#39;s Political Consultative Conference (CPPCC) plenary session of any member of the Shanghai Municipal People&#39;s Government, Shanghai Municipal People&#39;s Congress Standing Committee, deputy director and director of the education committee, vice chairman of the CPPCC Shanghai, the first, second, third and fifth National People&#39;s Congress, Sixth, Seventh NPC Standing Committee vice chairman of Education Science, Culture and Public Health Committee chairman; Fifth National Committee of the Chinese People&#39;s Political Consultative Conference Standing Committee in 1952 gave a former executive director of the Society for the History of Bureau members and the first Executive Chairman of China Pacific Historical Society vice chairman of Shanghai Federation of Philosophy and Social Sciences, the president of the Historical Society of Shanghai. <br> in 1996 November 10, 2011, (l $ j¦Ó.c¨½) Gucheng died in Shanghai, at the age of 98 years old. <br> published monograph the dozen, published over one hundred: \"living system\", the new rural social theory \",\" Chinese Social History \"in three volumes, two volumes of the\" History of China \",\" China&#39;s political history, the evolution of Chinese History , the three volumes of \"World History\", the Hegelian logic outline \",\" Ancient History of Zero card \",\" formal logic and dialectics \",\" historian and aesthetics, poetry small set \". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1967-1-31
+	create time:2013-01-01 22:22:12
+*/
+
+return array(
+'title'=>'The Chinese pianist GU Shengying death of',
+'class'=>0,
+'cont'=>'(Heigo twelfth lunar month twenty), January 31, 1967, the Chinese pianist Gu El Nino&#39;s death. GU Shengying <br> born \"target =\" _blank \"> Gu El Nino (1937-1967), female pianist. Wuxi, Jiangsu. born in Shanghai on July 2, 1937. the childhood musical talent, 3-year-old piano, 5-year-old into the Girls High school to the piano of the West Branch learning. was 9 years old Western Primary School Senchenko Director India Zhen Ai counseling skills Dajin piano the outside hi calligraphy, painting, and widely read Chinese and foreign literary classics, to take rich art of piano playing. (L $ dj¦Ó.§«§§T) <br> 1949 studying in Chinese and Western Girls &#39;High School (after third Shanghai Girls&#39; High School) the first two days, and Professor Yang Jiaren learn the piano from the Shanghai Conservatory of Music in May 1953 and guidance was famous pianist Professor Li Jialu playing skills to master a variety of genres and styles in Europe works, and from Marong Shun, Shen know of Professor Bai to study music theory and music history the same year, in cooperation with the Shanghai Symphony Orchestra debut in Mozart&#39;s D minor Piano Concerto was known for the 1954 Girls&#39; Senior High School graduate was admitted to the Shanghai Symphony Orchestra soloist to hold their first solo concert in Shanghai on February 26, 1955 with great success in 1956 into Tianjin Central Music Academy, and then went to Moscow to learn. < ; br> 50 mid, father, (lsjt.org) the patriotic generals GU Heights by the \"Pan Hannian injustice implicated, was sentenced to life imprisonment. the GU Shengying bad times, still go to Moscow in 1957 to participate in the sixth World Youth Celebration Festival Piano Competition, and won the gold medal <br> 1958, the Fourteenth International Music Competition in Geneva, was the highest award of the woman Piano Competition, vibrant world music scene. sixth in Warsaw Chopin in March 1960 Piano Competition was highly appreciated by the same year the honorary diploma of the Central Conservatory of Music. consecutive years was named the outstanding young people in Shanghai Women&#39;s Federation, the Cultural Affairs Bureau of outstanding members from April 1964 to participate in the International Piano Competition of Belgium won awards again. later for the performances to the Netherlands and Finland. <br> \"Cultural Revolution\" suffered cruel persecution and died on January 31, 1967, at the age of 30 years old in January 1979, rehabilitated, rehabilitated. <br>'
+);
+
+?>

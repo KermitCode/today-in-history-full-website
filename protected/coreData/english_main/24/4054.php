@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1856-4-24
+	create time:2013-01-01 20:39:23
+*/
+
+return array(
+'title'=>'French army generals, politicians Petain born',
+'class'=>4,
+'cont'=>'The (hare on March 20), April 24, 1856, the French army generals, politicians Petain was born. the <br> Henri Philippe Petain born \"target =\" _blank \"> Petain France (1856, 1951, July 23) Army generals, politicians, heads of state, prime minister of the French Vichy government. (lssdjt.cn), he had served as the commander-in-chief of the French army during World War I, (Lssdjt.com) led by France and Germany battle is considered a national hero in 1918, was promoted to rank of Marshal of France. had Marshall became Director, Secretary of Defense. (history www.TodayOnHistory.com) French Prime Minister in 1940, due to the German surrender conferences have been sentenced to death, after commuted to life imprisonment. <br> Petain during the First World War to become the hero of France, known as the savior of Verdun in the 1914 war, (on www.TodayOnHistory.com) Petain is a pending retirement of Colonel was promoted to Brigadier war began, and later was promoted to division commander, in October, he was appointed the second Army commander, was promoted to commander of the Second Corps in July 1915, and command of the local French army repulsed in the Battle of Verdun in 1916 Germans attacked. Petain in 1917 was promoted to Commander-in-Chief of the French Army, Marshal of France in November 1918 he was promoted to the Cabinet in 1934, he served as Secretary of Defense post <br> in 1940, Petain in the German domestic law Lu aggressively advancing the occasion of the assumption of the French Prime Minister, signed a ceasefire agreement with Germany on June 22. According to the Agreement, the German occupation of large parts of France, the only exceptions to the south and southeast along the. followed by the French parliament passed a motion to grant Petain constitutional, legislative, executive and judicial powers, and suspend the Constitution, Petain has the powers of a dictator. Petain government headquarters in the occupied territories of France, Central and Africa Vichy, it is referred to the Vichy government. The Vichy government large quantities of supplies for the Axis, and had ordered in the overseas territories of the French army against the Allies, and to allow the axis army overseas possessions transit. November 11, 1942, the Germans suddenly occupied France remaining non-occupation District in 1944 after the Allied landing in France, the Vichy government in September moved to Germany. <br> 1945, Petain returned to France to accept the treason trial, was subsequently convicted and sentenced to death. Petain In August Charles de Gaulle to the old grounds that the sentence reduced to life imprisonment and died in 1951. <br>'
+);
+
+?>

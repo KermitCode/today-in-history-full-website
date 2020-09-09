@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1930-9-23
+	create time:2013-01-02 01:16:44
+*/
+
+return array(
+'title'=>'Peking Capital Moving Taiyuan',
+'class'=>0,
+'cont'=>'September 23, 1930 (Gengwu August two days), Peking Capital Moving Taiyuan. commander in chief of the Armed Forces of the Republic of China in <br> Yan Xishan In September 1930, the Peking National Government moved the capital Taiyuan. <br> fourth National Government - Peking National Government. <br> from 1928 after the Kuomintang formally unify the country, an internal Department of the Chiang Kai-shek, the Clique, Feng Yuxiang Department, Yan Xishan Department, Zhang Xueliang Department contradictions have become increasingly prominent. Jiang Gui, Jiang Feng, several factions in the war broke out in 1929, the Clique, Feng Yuxiang, Chiang Kai-shek sent one after another defeat. The spring of 1930, the Chiang Kai-shek sent gathering Taiyuan total discuss Chiang Chiang Kai-shek step down, power requirements, Commander-in-Chief of the Armed Forces of the Republic of China by Yan Xishan, Feng Yuxiang, Zhang and Li Tsung-jen, deputy commander-in-chief. April 1, Yan Xishan, Feng Yuxiang, Li Tsung-jen announced that the commander-in-chief of the army, navy, deputy commander-in-chief post. In May, the Chiang Kai-shek sent with Chiang Kai-shek sent Central Plains War broke out. War stalemate, August 7, Wang Jingwei in Peking chaired including the Wang Jingwei Reorganizers, Western Hills faction and Yan Feng, the Clique delegates of the Chinese Kuomintang party headquarters enlarged meeting \"decided to organize National Government. September 1, an enlarged meeting of the Fifth Session of the National Government memorandum and constructive Yan Xishan, Feng Yuxiang, (L $ dj而.c身m) Wang Jingwei seven members, Yen Chairman. Superstitious Yan Xishan Peiping National Government established in at 9:09 on September 9, plus in 1920, make up the five \"9\", the implication was the emperor of the feudal emperors. The establishment of the National Government in Peking, again to form the two side by side confrontation between the Nationalist government. September 18, Zhang Xueliang energized support for Chiang Kai-shek, and commanded the troops crossed the border, 23 Japanese Peace and Peking. \"Enlarged meeting moved to Taiyuan, completed on October 27 announced about the draft law of the Republic of China\", the so-called \"Taiyuan Constitution. November 4, Yan Xishan, Feng Yuxiang energized Shimono. The collapse of the National Government in Peking. Peiping National Government is the only force to resolve within the KMT, the Nanjing Kuomintang Central Committee at the time, as well as after neither to any form of recognition. (L $ dj而.c身m) <br> Comments: civil war northeast emptiness objectively caused by the Japanese imperialists launched the \"September 18 Incident\" conditions. <br>'
+);
+
+?>

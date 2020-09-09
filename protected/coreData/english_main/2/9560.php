@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1890-10-2
+	create time:2013-01-02 01:24:54
+*/
+
+return array(
+'title'=>'Chinese Communist Party founder of the birth of Li Da',
+'class'=>4,
+'cont'=>'October 2, 1890 (on GY August 19), the birth of Li Da, one of the founders of the Chinese Communists. the <br> Li reached <br>, Li Da, the No. heming. Hunan Lingling people. Born October 2, 1890 (sixteen years of the Qing dynasty). [有身d芋y身里h貝 $ 而身ry.c身m] \"May Fourth Movement started studying in Japan writing introduced scientific socialism with the articles of the European workers&#39; movement. Returning in Shanghai in August 1920 to build the Communist Party of China with Chen Duxiu, editor of the Communist Party monthly, and to participate in the \"New Youth\". The Communist Party of China in 1921 at the first National People&#39;s Congress, was elected to the Central Publicity Officer. The same year, translated and published the \"Historical Materialism commentary\", \"Marxist economics\" and other books. Invitation of Mao Zedong, the end of 1922, Hunan self-study university president, after Hunan University, Hunan First Normal School to teach. Northern Expedition KMT Revolutionary Army General Political Department, the Chairman of the Editorial Committee. 1926 published philosophical works of modern sociology. After the failure of the Revolution, a longtime professor, research, and advocacy of Marxist philosophy, economics. \"China&#39;s industrial revolution Overview\", published in 1929, and in 1935 published \"Outline of Economics, published in 1937 sociology Outline broad impact. The Li Da served as president of Hunan University after the founding of New China, (l $ j而.c里) <br>, president of Wuhan University, Chinese Academy of Philosophy and Social Studies academician, was elected as the first, he became the president of the Philosophical Society. Was elected to the Eighth CPC National Congress, the first session of the CPPCC, the second session of the National Committee, the first, second and third National People&#39;s Congress, the Third National People&#39;s Congress Standing Committee members and other staff. Writings \"On Practice Commentary,\" On Contradiction explanation \"and editor of\" dialectical materialism Outline. 1958 with Mao Zedong initiative arguments bluntly criticized the idealism of the Great Leap Forward, to take silent about the \"left\" of the political criticism of the sixties to carry out the ideological field, do not agree with Lin Biao and the \"peak theory & rdquo ;. The attack in August 1966, the beginning of a \"cultural revolution\", framed, was tortured to death. After the end of the \"Cultural Revolution\", Li Da injustice has been righted. (L $ dj而.c身m) <br>'
+);
+
+?>

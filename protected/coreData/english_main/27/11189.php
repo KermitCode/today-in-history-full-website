@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-11-27
+	create time:2013-01-02 02:54:16
+*/
+
+return array(
+'title'=>'The death of the Chinese contemporary ethnologists Linyaohua',
+'class'=>3,
+'cont'=>'(Gengchen winter in early), November 27, 2000, China contemporary ethnologists Linyaohua in the death. <br> <br> Linyaohua Male, Central University for Nationalities Professor, Department of Ethnology. Born in March 1910, Gutian County. Tenured professor of the Central University for Nationalities doctoral tutor. A famous ethnologist, anthropologist and sociologist, communist party members. 1928-1935 year student at the Department of Sociology at the University of Beijing Yanjing, a bachelor&#39;s degree in 1932 and received a master&#39;s degree in 1935, into the United States in 1937 to study anthropology at Harvard University in 1940 Ph.D.. Returning to teach in 1941, served as the Head of the Department of Sociology at the University of Yanjing, Head of the Department of Ethnology, Ethnology Institute of the History Department of the Central University for Nationalities, he served as a member of the Academic Degrees Committee of the State Council Legal Consultative progenitor. Vice president of the China Institute of Ethnology, Senior Fellow of the Honorary President of the Chinese Sociological Association, vice president of Yenching University Alumni Association and the National Museum of Ethnology in Japan and the American Biographical Institute International Honorary Consultant post. Teaching more than 60 years of painstaking, meticulous, tireless in teaching, training a large number of teaching and research staff have made important contributions to the development of Ethnology. Over half a century. He put up with hardships and even risking the life-threatening deep people in remote ethnic areas to conduct field surveys, toured across the country, a lot of investigation and research papers have been written on this basis, and has published extensively. Major works: \"Wings of Gold\" (1941 in English of the seven editions, the LondonRoutledgeKeganPanl Taiwan Laurel Book Company, Joint Publishing): \"the Liangshan Yi Jia\" (1947, Commercial Press); <original Social History \"(editor, 1984 , Zhonghua Book Company, were in Beijing and the country three awards): \"Ethnology pass&#39; (editor in chief.\" Liangshan Yi family upheaval> 1990 Beijing and three awards) (1995, Commercial Press, Awarded the Tenth Book Award). He participated in many international conferences and visit lecturing activities. His biography \"Who in the World\" has been more than 10 international celebrities, Biography included. professor of <br> <br> a published extensively, leaving a lot of far-reaching works for future generations. <br>'
+);
+
+?>

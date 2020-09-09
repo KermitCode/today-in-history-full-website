@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1888-6-16
+	create time:2013-01-01 22:57:49
+*/
+
+return array(
+'title'=>'The birth of &quot;The Internationale&quot;',
+'class'=>4,
+'cont'=>'June 16, 1888 (, May seventh day Lunar New Year), \"The Internationale\" was born. the death of <br> Pierre Internationale, \"the composer Degeyter\" target = \"_blank\"> Degeyter In June 1888, the history of mankind song most powerful of the most far-reaching impact of the songs - \"The Internationale\" Pottier \"target =\" _blank \"> The Internationale,\" the song of the birth, was born in a worker composer&#39;s pen. From then on, this is the first battle song reverberates around the world. <br> \"Internationale\" Paris Commune warrior, poet Pottier at the commune failed the next day to write, is a magnificent rallying the world of the oppressed and exploited slaves up to fight for the truth glorious chapter. However, this poem full after 16 years, was published by friends raised Internationale of Pottier&#39;s Birthday \"target =\" _blank \"> Pottier\" revolutionary poetry collection \"Then, after a year of Some poetry to workers Composers Degeyter, advised him to find some lyrics that composer.? born on October 8, 1848 <br> Degeyter in a worker&#39;s family in the city of Ghent, Belgium, after the family moved to Lille, France. 7-year-old into the factory child labor, 12-year-old workers in night school. he is very smart, 16-year-old admitted to the the Lille City Evening Institute College of Art, studying painting and music, the 18-year-old College of Music First Class Award he finally became a amateur workers composer. (TodayinHistory.cn) <br> Degeyter holding this book back to the home he flips immediately attracted, (TodayinHistory.cn) especially song \"The Internationale\", he was more like he felt that the song is very suitable for written choral lyrics inspired him, he is filled with passion, night sleepless, spectrum became the first magnificent song next night, in a tavern audition June 23, his in selling newspapers celebration officially performances with great success. then Di Gheit pseudonym published, printed 6,000 copies. (lssjt.cn )? <br> \"Internationale\" published shortly, have been subjected to persecution by the ruling class, the issuer because this song was sentenced. Degeyter life impoverished, died September 26, 1932, however, regardless of how the ruling class prohibits and persecution, this song is still strong vitality it reverberates throughout the world forever sing endless <br> Internationale ^ Degeyter ^ 50 ^ wma \"name =\" mediaplayerfile \">\" The Internationale \"Degeyter < br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-10-18
+	create time:2013-01-02 01:21:44
+*/
+
+return array(
+'title'=>'Nuremberg, France and Germany, the first trial begins',
+'class'=>0,
+'cont'=>'October 18, 1945 (September 13) Yiyou, Nuremberg, France and Germany first start of the trial. <br> Nuremberg trials from 1945 to 1946 European International Military Tribunal in Nuremberg, Germany, the trial of the major war criminals of France and Germany. The indictment includes four points: crimes against peace (history, cn) that undermine international treaties and agreements, planning, initiating and carrying out a war of aggression; crimes against humanity, killing, expulsion and genocide crimes; war crimes that undermine the laws of war crimes; in the three crimes committed by \"common plan or conspiracy\". <br> Europe International Military Tribunal, according to the United States, Britain, Soviet Union, France, the four countries signed agreements \"European Charter of the International Military Tribunal established, then there are 19 countries in London on August 8, 1945 to participate in the agreements. The International Military Tribunal for a judge and a preparatory judges factions by Britain and the United States, Soviet Union, France 4. <br> the first trial in Berlin on October 18, 1945, on behalf of the General Nicky Cinco chaired by the Soviet Union. 24 former Nazi leaders accused of war crimes, some groups (such as the Gestapo) was accused of a criminal organization. Each hearing is to be held in Nuremberg from November 20, 1945, presided over by the British on behalf of the Lawrence Justice. After 216 session on October 1, 1946, 22 of the 24 defendants announced verdict: Goering, 12 defendants were sentenced to death by hanging; 3 sentenced to life imprisonment; 4 in prison; manipulated by the United States and Britain despite the opposition of the Soviet Union on behalf of the court acquitted Schacht, Papen, Fritz Heights 3 Nazi culprit. The court sentenced the Nazi party leadership bodies, secret police, the SS a criminal organization. (L $ dj¦Ó.c¨­m) <br> made the judgment, the court rejected the defendant&#39;s main defense: first, the court dismissed the only accused the country and can not be accused of the argument of the person guilty of war crimes. The court held that the destruction of the international law of crimes committed by the people, and only individuals who punish the perpetrators of such crimes, international law was able to maintain. Second, the court rejected the so-called trial and sentencing are \"blame previous argument. The court held that these acts before World War II has been identified as a crime. <br>'
+);
+
+?>

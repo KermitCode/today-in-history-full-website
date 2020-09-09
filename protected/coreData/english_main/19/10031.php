@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-10-19
+	create time:2013-01-02 01:20:06
+*/
+
+return array(
+'title'=>'The death of renowned conductor Li Delun',
+'class'=>0,
+'cont'=>'October 19, 2001 (, September third), Government House, the death of renowned conductor Li Delun. <br> 2001 10 19 Sunday morning, Li Delun died, 84-year-old Chinese music for the elderly, bid farewell to his beloved symphony of life career. <br> Li Delun last baton, wheelchair on stage. November 19, 1999, at the closing ceremony of the Second Beijing International Music Festival concert, the music for the elderly and the world-famous violin virtuoso Isaac Stern after 20 years working together again. At that time, the two music elderly have a ripe old age, this stage is called \"Century vanish. <br> the lifetime former consultant of China National Symphony Orchestra, music conductor of the Vice-Chairman of the Chinese Musicians Association, was born in Beijing in 1917, the teenager began learning the piano and violin. 1940, admitted to the Shanghai Conservatory of Music College classmates during the school organized the \"China Youth Symphony Orchestra. 1946 Shanghai Music Institute after graduation to Yan&#39;an, any teacher and conductor of the Central Philharmonic Orchestra. after the <br> founding of New China, he served as the Central Opera Conductor, 1953 йд in 1957 as a graduate professor Anosov Conducting Department at the Moscow Conservatory learn any Central Orchestra return to China after graduation. As a guest conductor, has commanded more than 20 orchestras in the former Soviet Union in Leningrad, Moscow and other cities, and go to the command of Finland, the Czech Republic, Cuba and other countries. He has repeatedly commanded hundreds of large band program performances, had also been commanded Luting, Sicong, Luo?, Wu Zuqiang, Pai-Hsuen Chen Chinese composer dozens of symphony performances of works with famous music home Oistrakh, Menuhin, Stern, Ventotene, Yo-Yo Ma, (lsjt.org) Nikolaeva, Shitakeman, Fou, Liu Shih-kun, Shen Xiang, Guo Shuzhen, Hu Kun Lu Siqing, Xue Wei Orchestra. In 1980, Li Delun Command Honor Award granted by the Ministry of Culture to any of the judges in Paris Menuhin violin international competitions in 1985, 1986, to any cello judges in the International Tchaikovsky Competition in Moscow, the same year the Hungarian government culture Liszt Memorial Medal awarded by the Ministry of Over the years he has dedicated to the popularization and development of the symphony orchestras in more than 20 cities of Beijing, Tianjin, Guangzhou and other training performances to promote the construction of some local bands and concert halls, and held across the country universities, factories and government agencies and organizations several the \"symphony lectures, do useful work for the popularity of the symphony. <br>'
+);
+
+?>

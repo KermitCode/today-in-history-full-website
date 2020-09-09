@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-8-20
+	create time:2013-01-02 00:10:02
+*/
+
+return array(
+'title'=>'&quot;Long March III B&quot; carrier rocket successfully launched',
+'class'=>0,
+'cont'=>'(Landmarks July 18), August 20, 1997, the \"Long March III B\" carrier rocket successfully launched. <br> Pictured by China developed a new type of the bundled carrier rocket Long March III B \"successfully launched the the Philippine Mabuhay satellite into orbit. August <br> 1997 20, China&#39;s self-developed, the current carrying capacity of the largest new bundled carrier rocket Long March III B \"at the Xichang Satellite Launch Center in the United States Loral Space Systems for the Philippines manufacturing Mabuhay satellite into orbit, suggesting that the Long March series of carrier rockets have able 5,000 kg payload into high orbit capability, at the same time, China Great Wall Industry Corporation contract launch the Mabuhay satellite contract satisfactorily completed. <br> one fifty, \"Long March III B rocket blasts off. Satellite separated from the rocket 30 minutes after the initial count data that came from the Xi&#39;an Satellite Monitoring Center, the satellite has entered two hundred and five km perigee and apogee forty-four thousand seven hundred seventy-one km and an inclination of 24.6 degrees geosynchronous transfer orbit, to this point, launch the Mabuhay communications satellite contract signed by China Great Wall Industry Corporation in May 1995 with Loral Space Systems successfully completed. Meanwhile, the \"Long March III B\" flight, the forty-sixth launch of the Long March series of carrier rockets complete success. This is 12 of the China Great Wall Industry Corporation, the implementation of the commercial launch services contract. (The history TodayOnHistory.com) <br> \"Long March III B\" carrier rocket, is our newly developed three liquid strap-on launch vehicle mass 5,000 kg payload into Earth synchronous transfer orbit, is currently our satellite launched into geosynchronous transfer orbit rocket. \"Long March III B rocket in flight for the first time on February 15, 1996, due to the failure of the inertial reference transmitter defeat. Afterwards, the China Academy of Launch Vehicle Technology, in conjunction with the domestic and foreign experts in-depth investigation to identify and disclose the cause of the failure to take the technical improvement measures to strengthen quality control, improved performance and reliability of the rocket as a whole. Relevant experts believe that this successful launch, to promote the development of China&#39;s aerospace technology, to further explore the international space commercial launching market, to serve the national economic construction, and is of great significance. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1983-3-7
+	create time:2013-01-01 20:29:56
+*/
+
+return array(
+'title'=>'Zhang Haidi won the title of &quot;Outstanding Youth League',
+'class'=>0,
+'cont'=>'March 7, 1983, the first month 23) (Guihai years, Heidi Zhang was awarded the title of \"Outstanding Youth League. <br> Heidi Zhang won the \"Outstanding Youth League\" title \"target =\" _blank \"> by Zhang Haidi like on March 7, 2011, <br> 1983, the Communist Youth League Central Committee held in Beijing, named in recognition of the General Assembly, awarded as the\" eighties new Lei Feng \"Comrade Zhang Haidi outstanding Komsomolets\" title. <br> the the 5-year-old when Zhang Haidi suffering from spinal cord caused by hemangiomas paraplegic, but her waist down, study diligently, helpful, is hailed challenges in front of Paul. <br> cruel fate, Zhang Haidi not depressed and sinking her dogged perseverance and persistence and disease to fight, and withstood a severe test, life is full of confidence. while she had no chance to go to school, but energies learning, school finished primary school, secondary school full course of self-study English, Japanese, German and Esperanto, and studying for a university and graduate courses. Zhang Haidi began in 1983 engaged in literary creation, has translated \"beach clinic\" hundreds of thousands of words of the English novel, and compiled a window open to the sky, the questioning of life \",\" wheelchair dream books in order to make greater contributions to society. Zhang Haidi with high enthusiasm and optimistic attitude towards life taught acupuncture medical, broadcasting equipment repair technology with amazing perseverance she endured pain for the masses medical treatment to more than 10,000 people. CYL Central Committee granted Zhang Haidi \"Outstanding Youth League workers \"in the title of the decision, and called on the National Youth League, and the majority of youth to Comrade Zhang Haidi learning. learning that she was correct attitude toward life, and foster a lofty ideal, as she has done,\" To live is to be a useful person to society, is necessary for the to create a better life and struggle; learning her extensive knowledge as spiritual nutrition \", like her assiduous self-motivation, of dauntlessly learning and master modern scientific and cultural knowledge to contribute to the motherland four modernizations; learning Her selfless dedication to serving the people wholeheartedly, as she has done \"always thinking of what to do more for the people, and not more than what is available.\" <br> Heidi Zhang (left) and Yunnan frontline demining heroes together <br> Heidi and women&#39;s volleyball players together <br> the'
+);
+
+?>

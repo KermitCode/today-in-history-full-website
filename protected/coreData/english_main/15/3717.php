@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1989-4-15
+	create time:2013-01-02 08:44:49
+*/
+
+return array(
+'title'=>'British Hillsborough Stadium tragedy occurred',
+'class'=>5,
+'cont'=>'April 15, 1989 (, Jisi March tenth day), the United Kingdom Hillsborough Stadium tragedy occurred. Hillsborough football stadium tragedy <br>, <br> 1989, April 15, at 3:00 pm, at the British Field Hillsborough Stadium, Liverpool and Nottingham Forest team started Britain&#39;s first The 108th FA Cup semi-final. <br> can accommodate 54,000 Hillsborough Stadium was packed, even the the station seats behind the goal stands packed audience. After the start of the game, the fans of the more than 4,000 over-the-counter without a ticket and latecomers anxious situation such as a flood, to a 16-foot-wide iron gate entrance squeeze. In 3:00 6 points, the big iron gate was opened, thousands of fans straight into the goal behind the station, such as a flood seat grandstand. You are listening to the ball game the audience unprepared stands, some knocked off their feet, some involuntarily the riot Network be pushed to the edge of the pitch. The aisle in the door leading to the grandstand, the crowd, like dominoes even a fallen latecomers forced fell to the ground those who stepped. Stands suddenly floundered, screams, cries everywhere. Be squeezed in riot iron online fans suffer the most, the later deaths are mainly concentrated in this region. At this time, the referee was forced to stop the match. Hillsborough football stadium <br> the iceberg <br> ten a few minutes later, the brigade of police and ambulance personnel rushed to the scene, but has resulted in 95 people were killed and 200 wounded. The victims are mostly young people under the age of 30, of which there are a few women. The youngest was 10 years old. (L $ dj¦Ó.§«§§T) Britain&#39;s Queen Elizabeth on the tragedy deeply shocked and saddened. Margaret Thatcher announced that the Government has spent &#163; 500,000 pension victims. U.S. President George W. Bush (on cn) French President Francois Mitterrand (history cn) President of Italy, Corsica, Spain&#39;s King Juan Carlos and other have call expressed condolences to the families of the victims. Pope John Paul II also expressed deep condolences to this the deadliest disaster. According to figures released on against sports violence in Catania, Italy international conference since the 1946 football stadium&#39;s first major tragedy to 1989, a total of more than 1,200 people died in the football tragedy, more than 4,000 people injured. Hillsborough football stadium tragedy <br>, <br> <br> Liverpool memorial the spirits of <br> Hillsborough'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-4-20
+	create time:2013-01-01 22:19:26
+*/
+
+return array(
+'title'=>'The establishment of the non-performing assets of the first operation of commercial banks in China Cinda Asset Management Company',
+'class'=>0,
+'cont'=>'(March fifth day of Spring), April 20, 1999, non-performing assets of the first operation of commercial banks in China Cinda Asset Management Corporation was established. In April 1999, the approval of the State Council, China&#39;s first-run commercial banks non-performing assets - China Cinda Asset Management Corporation today announced the establishment in Beijing. The company is a wholly state-owned financial enterprises with independent legal personality, the main task is the acquisition, management and disposal of non-performing assets stripped by the China Construction Bank, as its principal business objective to maximize preservation of assets, reduce losses. <br> Over the years, the state-owned commercial banks as the main channel of financing, factoring and configuration of the production of construction funds for the development of the national economy provides a strong support. But before the introduction of the Law on Commercial Banks in 1995, the state-owned banks in the control of the quality of loans to the lack of effective internal mechanism and a favorable external environment. At the same time, in 1993, the bank has never extract bad and doubtful debts, do not write off bad and doubtful loss. Formed in the course of business, non-performing loans continue to accumulate, poor asset quality and economic benefits have become increasingly prominent. This is a significant hazard in the current economic and financial operation, if prolonged, would endanger social stability, and impact of the next phase of development and reform process. Construction Bank to start a pilot start eliminating bad credit assets, by the newly formed China Cinda Asset Management Corporation to implement specialized disposal of non-performing credit assets, the CPC Central Committee and the State Council, based on objective judgment on China&#39;s economy, the financial status quo and learn from international experience to make an important decision-making, and that our government a clear understanding of the problems of the existing financial system and the determination to solve the problem. <br> China Cinda Asset Management Corporation, registered capital of 10 billion yuan, to be funded in full by the Ministry of Finance. The company&#39;s board of supervisors, the exercise of the functions of the review and supervision of the company&#39;s major operating decisions. The company is headquartered in Beijing, and set up five branches in Beijing based on business needs. <br> approved by the State Council, shall be exempted from China Cinda Asset Management Corporation acquisition, takeover, dispose of all taxes in the process of non-performing assets. <br>'
+);
+
+?>

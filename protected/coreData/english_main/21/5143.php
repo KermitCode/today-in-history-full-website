@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1927-5-21
+	create time:2013-01-01 20:57:16
+*/
+
+return array(
+'title'=>'Charles Lindbergh flew over the Atlantic alone',
+'class'=>0,
+'cont'=>'(Dingmao April 21), May 21, 1927, Charles Lindbergh flew over the Atlantic Ocean alone. In In 1927, nearly 100,000 Parisians rushed to the tarmac of the Bourget airport for the arrival of a new world of heroes and cheering. Charles - Lindbergh had landed safely, and completed the first alone direct flight from New York to Paris. (有身d芋y身里h貝 $ 而身ry.c身m) <br> others also flew over the Atlantic, but no one than this tall lanky, soft-spoken, 25-year-old pilot more public attention. When his Ryan NYP monoplane Spirit of St. Louis \"After more than more than 33 hours after the landing of the running distance of 3600 miles, the crowd engulfed the Lindbergh and his plane. Two squadrons of French soldiers can not stop them. Lindbergh was born in Detroit, grew up in Minnesota. He is a typical American Midwest. He could not understand why people get so excited about. Moreover, he was not sure that he must like the scene. From New York to Paris, just a few weeks ago, when people fight over the first nonstop flight across the Atlantic Ocean to the establishment of the $ 25,000 prize, Lindbergh or an unknown strength dark horse, only his supporters - St. Louis businessman We believe he will be successful. He boldly direct flights from California to New York in an attempt to win gold medals in all of the opponents. Dawn on May 20 Lindbergh took off from Long Island&#39;s Roosevelt Airport. The flight made front-page news in both mainland. Since his flight gasoline overweight seagulls fly like a drunk, almost rubbing on the runway terminal treetops. <br> newspaper radio propaganda into thousands of spectators noticed the news. When Lindbergh&#39;s plane flying north along the coast, (history today www.lssdjt.com) 19:15 New York time, the West flight over the Atlantic, Newfoundland, St. John&#39;s turned under, the people are looking forward to Lindbergh&#39;s arrival. Since then, Lindbergh&#39;s flight alone odometry and compass machine reckoning aircraft anxious sometimes reduced to a height of 10 feet above sea level, and sometimes has to rise to an altitude of 10,000 feet. Alert the pilot was sitting on the plane, big mouth and chewing food storage - 5 to do their own sandwiches. (Lssjt.cn) <br> Lindbergh at 22:00 to see the lights of Paris, landing at Le Bourget Airport at 10:24. As the flight is continuous flight, as also after the plane landed without a pause, immediately celebrations. Some people may only his achievements as a stunt flying earn money, and others, but he has a deeper meaning: the future of the aviation industry and air travel career take off is brewing. Paris (L $ dj而.c身m) <br> people the Lindbergh victory <br> of Charles Lindbergh (right) with a grand ceremony to celebrate <br>'
+);
+
+?>

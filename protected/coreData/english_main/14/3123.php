@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1917-4-14
+	create time:2013-01-01 20:52:57
+*/
+
+return array(
+'title'=>'Esperanto the founder, Bolanneike chief ophthalmologist Zamenhof Dr.&#39;s death',
+'class'=>3,
+'cont'=>'(Dimba, leap on February 23), April 14, 1917, death of Esperanto the founder, Bolanneike chief ophthalmologist Zamenhof Dr.. Dr. <br> Luther Vic, Lazarus Zamenhof died \"target =\" _blank \"> Zamenhof (December 15, 1859 --- April 14, 1917 Polish Jews, the founder of Esperanto. (history www.TodayOnHistory.com) <br> He was born in Poland under the rule of tsarist Russia, according to the household registration provisions of the Russian name for Lazarus ¡¤ Markovic Zamenhof (plus the father&#39;s name), but after independence of Poland, in accordance with the provisions of the new government, although he was a Jew, have together with Christian religious name, so the name on his ID card changes Luther Vic, Lazarus Zamenhof. (on TodayOnHistory.com) <br> Zamenhof mother tongue is Russian and Yiddish, but he is also fluent in Polish and German, after He learned French, Latin, Greek, English and Hebrew, also studied Italian, Spanish and Lithuanian. (on TodayOnHistory.com) <br> He was born in a small town there are three nation live: Poles, Jews and Belarusians, different languages, different religious beliefs, often mutual prejudice and hatred, The Zamenhof think different languages &#8203;&#8203;can not communicate with each other is the main reason for prejudice, still in Warsaw on secondary school he tried to create a common language of humanity, you can exchange so that people of different nationalities. <br> Later, he went to Moscow and Warsaw has medical school after graduation to become an eye doctor in the practice of medicine process, he has been learning a foreign language and is committed to continue to study the international language, Esperanto until 1887 with funding of his future father-in-law, he can under the pen name \"I hope the doctor\" published the results of his research: \"international language.\" doctor \"for\" Doktoro Esperanto \", Esperanto has become customary names of Esperanto. Esperanto become Zamenhof ideal hope of peace and cultural exchange. <br> Esperanto mainly Germanic language family of Indo-European and Latin based on the word of the language family, the syntax is simplified as much as possible, so that the written word and the pronunciation is completely in line with one another, and therefore easy to learn and become the most successful popularization of an artificial language Esperanto in many countries of the world community. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1968-7-22
+	create time:2013-01-01 23:59:02
+*/
+
+return array(
+'title'=>'The school system should be shortened, education revolution, Mao Zedong said:',
+'class'=>0,
+'cont'=>'(, Shigenobu June 27), July 22, 1968, Mao Zedong said: The school system should be shortened, education revolution. the <br> Shanghai Machine Tool Plant \"seven\" University students in the Class <br> 1968 July 22, 2011, \"People&#39;s Daily\" published in \"look to train engineers and technicians from the Shanghai Machine Tool Works road The survey report, plus Editor&#39;s note. Mao Zedong personally plus some say: \"University or to do, I said the main science and engineering universities would also like to do, but the school system should be shortened, education revolution to the proletarian politics (lsjt.org) Editor&#39;s note command train technicians on the road from the workers take the Shanghai Machine Tool Works. From practical experience in the middle of the workers and peasants, the selection of students to the school a few years later, has returned to production practice. \"(This passage is known as the\" seven instructions \") survey report said: the Cultural Revolution, so this plant technical personnel undergone profound changes, the reactionary bourgeois technologies\" authority \"to be ousted the Taiwan political stink, the technical the paper tigers prototype also exposed. On the road train engineers and technicians, the investigation report said: Practice has proved that the promotion of technical personnel from the workers is stronger than the technical staff from the college and university graduates. As a result, the investigation report the direction of the \"education revolution\", and stressed that school education must be combined with productive labor. At the same time, the organization&#39;s existing technical team to participate in the revolutionary mass criticism, critical of the \"experts Zhichang,\" first \",\" bourgeois thought of fame, and organize them in batches to go when the workers. Since then, the Shanghai Machine Tool Works, for the implementation of the seven, an indication of \", the founder of the\" Seven University grinder factory needs to set professional workshop recommended factory revolutionary committee approved 52 recruit factory workers enrollment, school system. (L $ j¦Ó.c¨½) \"seven university located Mao Zedong thought, labor, military and sports, professional courses. Students back to the factory to work after graduation. <br> Since then, over the follow suit to set up this type of school, the school system has full-time, work-study, amateur, etc., collectively referred to as the \"seven university. <br>'
+);
+
+?>

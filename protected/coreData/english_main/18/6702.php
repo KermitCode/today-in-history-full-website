@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-7-18
+	create time:2013-01-02 00:20:40
+*/
+
+return array(
+'title'=>'Long March rocket European manufacturing Sinosat No. 1 communications satellite',
+'class'=>0,
+'cont'=>'The (Tiger years leap May 25), July 18, 1998, the Long March rocket launchers European manufacturing Sinosat No. 1 communications satellite. the <br> <br> 1998 7 18 17 am Beijing time, China-made Long March III B carrier rocket at the Xichang Satellite Launch Center again launched, successfully the French aerospace company mainly contracted to produce \"Sino\" communications satellite into orbit. This is China&#39;s Long March series of carrier rockets launch a communications satellite manufactured by the European countries. <br> This launch is the fifty-third launch of the Long March series of carrier rockets. Rocket flight 1495 seconds after the satellite separated from the rocket. After 20 minutes, the data from the Xi&#39;an Satellite Monitoring Center satellite launch services contract orbit requirements smoothly into a perigee altitude of 600 km, an apogee height of 35,946 km and an inclination of 19 degrees geosynchronous transfer orbit. Since then, the satellite will be the French aerospace company is responsible for monitoring and control, and satellite positioned at 110.5 degrees east longitude over the equator. <br> this commercial launch services contract is the Huade Yu Hang Technology Co., Ltd. China Great Wall Industry Corporation, headquartered in Germany was signed in July 1996. The satellite of <br> \"Sinosat\" China Sino Satellite Communications Co., Ltd., a commercial communications satellite. Star is equipped with 24 C-band transponders and 14 Ku-band transponders, covering the Asia-Pacific region, including China and the neighboring countries, the main users of financial electronic engineering, the national air traffic control systems, the Shanghai Harbor Engineering provides a wide range Service. The satellite has a design life of 15 years. <br> used to launch Sinosat 1 \"satellite\" Long March III B \"carrier rocket, developed by the China Academy of Launch Vehicle Technology thrust largest launch vehicle, the 5,000 kg payload into geosynchronous transfer orbit. Since the Mabuhay communications satellite was successfully launched on August 20 last year, the \"Long March III B\" carrier rocket has four consecutive satellite was successfully launched into orbit, to show good technical performance, reliability and adaptability. <br> According to statistics, before this launch, China&#39;s Long March carrier rocket successfully launched 10 foreign geosynchronous orbit communications satellites and six low-orbit Iridium, are American-made. <br>'
+);
+
+?>

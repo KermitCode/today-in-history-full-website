@@ -1,0 +1,279 @@
+2016/07/20 20:04:42 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:04:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/jquery_17min.js".' in D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php:287
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController('images/jquery_1...')
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CApplication->run()
+#3 {main}
+REQUEST_URI=/history/images/jquery_17min.js
+HTTP_REFERER=http://127.0.0.1:8084/history/
+---
+2016/07/20 20:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/footer_bg.gif".' in D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php:287
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController('images/footer_b...')
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CApplication->run()
+#3 {main}
+REQUEST_URI=/history/images/footer_bg.gif
+HTTP_REFERER=http://127.0.0.1:8084/history/images/style.css
+---
+2016/07/20 20:06:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/jquery_17min.js".' in D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php:287
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController('images/jquery_1...')
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CApplication->run()
+#3 {main}
+REQUEST_URI=/history/images/jquery_17min.js
+HTTP_REFERER=http://127.0.0.1:8084/history/
+---
+2016/07/20 20:07:27 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:07:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/jquery_17min.js".' in D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php:287
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController('images/jquery_1...')
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CApplication->run()
+#3 {main}
+REQUEST_URI=/history/images/jquery_17min.js
+HTTP_REFERER=http://127.0.0.1:8084/history/
+---
+2016/07/20 20:08:00 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:08:00 [error] [exception.CDbException] could not find driver
+2016/07/20 20:08:01 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:08:01 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:46 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:46 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:49 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:49 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:49 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:49 [error] [exception.CDbException] could not find driver
+2016/07/20 20:15:49 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:15:49 [error] [exception.CDbException] could not find driver
+2016/07/20 20:16:34 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:16:34 [error] [exception.CDbException] could not find driver
+2016/07/20 20:16:55 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:16:55 [error] [exception.CDbException] could not find driver
+2016/07/20 20:23:23 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:23:23 [error] [exception.CDbException] could not find driver
+2016/07/20 20:23:23 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:23:23 [error] [exception.CDbException] could not find driver
+2016/07/20 20:23:23 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:23:23 [error] [exception.CDbException] could not find driver
+2016/07/20 20:23:24 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:23:24 [error] [exception.CDbException] could not find driver
+2016/07/20 20:24:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:24:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:24:49 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:24:49 [error] [exception.CDbException] could not find driver
+2016/07/20 20:24:49 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:24:49 [error] [exception.CDbException] could not find driver
+2016/07/20 20:24:50 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:24:50 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:47 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:47 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:47 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:47 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:54 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:54 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:54 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:54 [error] [exception.CDbException] could not find driver
+2016/07/20 20:25:55 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:25:55 [error] [exception.CDbException] could not find driver
+2016/07/20 20:30:47 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:30:47 [error] [exception.CDbException] could not find driver
+2016/07/20 20:30:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:30:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:30:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:30:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:30:48 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:30:48 [error] [exception.CDbException] could not find driver
+2016/07/20 20:31:32 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:31:32 [error] [exception.CDbException] could not find driver
+2016/07/20 20:31:54 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:31:54 [error] [exception.CDbException] could not find driver
+2016/07/20 20:31:54 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:31:54 [error] [exception.CDbException] could not find driver
+2016/07/20 20:31:55 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:31:55 [error] [exception.CDbException] could not find driver
+2016/07/20 20:33:11 [error] [php] Declaration of SiteController::beforeAction() should be compatible with CController::beforeAction($action) (D:\Visual-AMP-x64\www\history\protected\controllers\SiteController.php:7)
+Stack trace:
+#0 D:\Visual-AMP-x64\www\history\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#1 D:\Visual-AMP-x64\www\history\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\Visual-AMP-x64\www\history\index.php(23): CWebApplication->run()
+REQUEST_URI=/history/
+2016/07/20 20:33:11 [error] [exception.CDbException] could not find driver

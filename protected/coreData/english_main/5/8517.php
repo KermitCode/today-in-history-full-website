@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-9-5
+	create time:2013-01-02 01:15:41
+*/
+
+return array(
+'title'=>'Kim Jong Il was elected chairman of the DPRK National Defense Commission,',
+'class'=>0,
+'cont'=>'September 5, 1998 (July 15) Tiger years, Kim Jong Il was elected chairman of the DPRK National Defense Commission. Kim Jong-il <br> <br> Kim Jong Il was elected chairman of the DPRK National Defense Commission, \"target =\" _blank \"> In September 1998, the Democratic People&#39;s Republic of Korea Tenth Supreme People&#39;s Assembly first meeting held Mansudae Assembly Hall in Pyongyang, Kim Jong Il was elected as chairman of the DPRK National Defense Commission, In May a total of three conference agenda: Additional modifications to the Socialist Constitution of the Democratic People&#39;s Republic of Korea \"; elected chairman of the National Defense Commission; Election of the leading organs of the country. ninth DPRK Supreme People&#39;s Assembly speaker Yang Hyong Sop made an opening statement with all the representatives of the participants to listen to the former President Kim Il Sung made on Ninth meeting of the Supreme People&#39;s Assembly of the DPRK further play to the superiority of socialism in China&#39;s policy speech entitled \"recording <br> During the meeting, Kim Yong Nam, was elected chairman of the Standing Committee of the Supreme People&#39;s Assembly of the DPRK, Li Zhongyu, Pak Sung Chul, Kim Yong-chu was elected Honorary Vice chairman; Hong Song Nam was elected as prime minister, the new cabinet is composed of 34 people, including two deputy prime minister; Choe Tae Bok was elected Speaker of the Supreme People&#39;s Assembly. <br> Kim Jong Il was born February 16, 1942 1950-1960 , he studied at the Pyongyang red flag Mangyongdae Revolutionary School and Pyongyang Nanshan Middle School, and graduated from Kim Il Sung University in 1964. June 1964 to February 1974, Kim Jong-il has any of the WPK Central Committee, vice minister of Minister , the WPK Central Committee secretary, member of the Political Committee of the WPK Central Committee since October 1980, he served as the Standing Committee of the Political Bureau of the WPK Central Committee, secretary, member of the Central Military Commission from 1982 to 1998, he was chosen previous representative of the DPRK Supreme People&#39;s Assembly in December 1991 to April 1993, he served as the supreme commander of the Korean People&#39;s Army, the first vice chairman and chairman of the National Defense Commission, October 8, 1997, he served as the Workers&#39; Party of Korea total secretary. <br> Kim Jong Il in 1975 and 1982, twice was awarded the title of \"Republic Heroes\". Marshal title of the Democratic People&#39;s Republic of Korea in April 1992 he was awarded the Golden Sun has also three into the Medal of Kim Il Sung Prize Medal, Medal and the title of. several occasions to visit my country (lsjt.net) <br>'
+);
+
+?>

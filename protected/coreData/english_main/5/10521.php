@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-11-5
+	create time:2013-01-02 01:19:41
+*/
+
+return array(
+'title'=>'Of making the violin for the first time in the international award-winning',
+'class'=>0,
+'cont'=>'November 5, 1980 (September 28) Gengshen of making the violin for the first time in the international award. , <br> 1980 11, 5, 2009, in New York, the Fourth International Violin Making Competition General Assembly on the the Cotton Tree licensing violin, the Guangdong China Musical Instrument Factory Chen Jinnong main system, won the sound quality Gold Award. This is our violin produced the first international award. <br> Gold Award the Cotton Tree licensing violin master system Chen Jinnong before the founding of New China shoes workers, and in 1951 began studying for violin. The grievances of the people of violin making skills, and in his mind from time to time writhing; foreign performers, creators of the the Chinese violin contemptuous sound more like a root merciless whip in his heart. Time, a foreign friend with one of the country&#39;s national production competition sixth one violin came to Guangzhou, bragging about how great of guitar, Chen Jinnong carefully watch, without uttering a word, but my mind was to come to a conclusion: also the case only. He thought, foreigners can do things, through the efforts must also be able to do. Is this \"honor for our country\", \"our nation live up to expectations,\" inspired by the spirit, experienced many setbacks and failures, after many sleepless nights, he finally Fixed I made the gold medal Cotton Tree Drive brand violin \"Jialiang wood, exquisite workmanship, appropriate curvature of reasonable thickness, four basic conditions constitute the high quality violin <br> Chen Jinnong. He attached particular importance to the selection of the wood, and and piano degrees depending on the material and thickness. To improve production techniques, he does not play the violin, let the son go to school in order to try-outs produced by musical instruments; each foreign Symphony Guangzhou performances, he was always a loyal audience, performances, he does not just listen, but also with binoculars to observe the shape and structure of foreign violin ... carefully. He crafted the gold medal violin crafted neat, plump lines, blade smooth, rough and bold sound quality, uniform sound, rich penetration, both Italian guqin style, and full of bold and forceful Modern Violin brilliant and bright features. <br> Cotton Tree Drive brand violin won the sound quality Gold Award, and was delighted to see more of performers. Violinist Sheng Zhongguo hope to be able to bring their domestic violin to perform overseas, so can not only our arts and music to bring people of the world, but also allows them to enjoy our superb violin making. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-11-4
+	create time:2013-01-02 01:17:14
+*/
+
+return array(
+'title'=>'Kunming executed by injection',
+'class'=>0,
+'cont'=>'November 4, 1997, the fifth day of October (Landmarks), Kunming executed by injection. <br> 1997 11 morning, four criminals have been injected with a narcotic and lethal drugs to die quietly. The execution ground came the news that the time of their death, respectively, for 32 seconds, 35 seconds, 40 seconds and 58 seconds. This marks the Kunming Intermediate People&#39;s Court of the new method of execution has been successful. <br> Kunming Intermediate People&#39;s Court is the country&#39;s first use of the injection of the death penalty trial institutions, its bold attempt to cause the widespread attention of the public opinion at home and abroad. Hospital spokesman said that the provisions of Article 212, paragraph 2 of the Code of Criminal Procedure: \"The death penalty method is executed by firing squad or injection. \"Since May 1996, the hospital undertook a study of the death penalty injection execution method. Subject group and the experimental group has access to a lot of information to demonstrate the feasibility of this approach; After repeated comparisons exclude highly toxic drug lethal, decided to adopt the anesthesia and the lethal drugs. (Lsjt.org) and thousands of experiments in animals, and ultimately the formation of stereotypes recipe, which is characterized by non-highly toxic lethal injection into the short time of clinical death, physical pain reaction. <br> Kunming Intermediate People&#39;s Court: death row inmates using the injection method more in line with the humanitarian principles of modern society, reflects the social rule of law and the progress of civilization, simultaneously choose from manpower and material expenditures and place of execution, the implementation of the death penalty success rate other terms, the injection method is more advanced. It is reported that countries retain the death penalty in the world, 99, executed by hanging, electrocution, poison gas, beheading, shooting and injection, injection method, only the United States and China. Praise the (lssdjt.cn) <br> Supreme People&#39;s Court of Kunming Intermediate People&#39;s Court of the practice. In order to further standardize the steps and procedures of lethal injection, the Kunming Intermediate People&#39;s Court has been equipped with the necessary equipment for the lethal injection, began to be built to cover the fixed execution venues, the lethal injection method is more standardized, more effective, more civilized. <br>'
+);
+
+?>

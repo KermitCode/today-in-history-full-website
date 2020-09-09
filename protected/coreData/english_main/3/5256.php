@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-6-3
+	create time:2013-01-01 21:19:54
+*/
+
+return array(
+'title'=>'Chinese Academy of Engineering to produce the first batch of academicians',
+'class'=>0,
+'cont'=>'June 3, 1994 (Awake April 24), produce the first batch of Chinese Academy of Engineering academician. <br> Chinese Academy of Engineering, the inaugural meeting was held in Beijing on June 3 to 8 in 1994. Chinese Academy of Engineering, the highest honor of the country&#39;s engineering sector, consulting and academic institutions. Chinese Academy of Engineering, the implementation of the academician system, the Chinese Academy of Engineering, the engineering set up by the State&#39;s highest academic title for life honor. <br> accordance with the established criteria and conditions of the Chinese Academy of Engineering, in accordance with the prescribed procedures, after the nomination, discussed the selection and scrutiny has produced the first batch of academicians of the Chinese Academy of Engineering, and the approval of the State Council. the first <br> Chinese Academy of Engineering academician (96) (ÒÔÐÕÊÏ±Ê»®ÎªÐò): in <br> Ding Dewen, Ding Heng high Mafu Bang, Wang ringworm Wang Tao (female), Wang Yue, Wang Daheng, Wang Yongzhi, Wang Guangyuan the Wang Mingxiu, Wang Dianzuo Min Wang, Wei Yu (female), text Fubo, Shi Yuanchun, Lu Liang brush Shi Changxu, Zhu Guangya, Zhu Gaofeng Liu Tianquan, Liu Yongtan Liu Xianlin, LIU more other, Liu Hongliang, Guan Qiao, RUAN Xue-yu, Yan Dongsheng , Su Jun red, Li Dadong, Lee with Paul, Brandon Lee, Li Hengde, Li Hongzhi, Li Deren Yang Qixun, Wu Zhongwei, Wu Yousheng, He Jishan, Dequan Zou Jing (female), Min Guirong, Min Enze, Wang became, Wang Unitary students, Academician, Song ship Zhang Wei, Zhang Guangdou, Zhang straight in, Zhang Zonghu, Zhang Jinqiu (female), Lu Yuanjiu, Chen force is, Chen Junliang, Fan Weitang, Lin Hua Luo Peilin, Ji Guobiao, Jin Guofan Jin Yilian, Zhou Jing, Zhou Lian, Ganshi, Zhou Zhongyi, Zheng Zhemin, Zhao Kai, Hu applied (female ), Hu Haitao, Duan Zhenji, Hou Xianglin, Yao Fusheng, Gu Songfen, Qian Yi (female), Qian Qihu, Qian, Qian Gao Yun, Ni Guangnan, Xu more light Xucheng En Yin Yu, Hui Guo, Huang Xuhua, Huang Peiyun, Qi Yuanjing, often the printed Buddha, Chapter Jijia, Liang Ying Chen, Tushan Cheng, Peng Shilu, Jiang Xinsong, Fu Xi Bai Xie Xie Lili, Lu Yongxiang tube Germany, Pan Jiazheng. <br> Seventh Academician Conference of the Chinese Academy of Sciences, held in Beijing on June 3 to 8, according to the Chinese Academy of Sciences academician academicians renamed, revised and adopted the \"Academician Constitution, and the election of produce the first batch of Chinese Academy of foreign academicians, issued 1993 annual Tan Kah Kee Award. <br>'
+);
+
+?>

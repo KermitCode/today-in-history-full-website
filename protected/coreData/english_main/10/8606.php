@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1949-9-10
+	create time:2013-01-02 01:31:38
+*/
+
+return array(
+'title'=>'People&#39;s Liberation Army in the Gansu Corridor wipe out Ma&#39;s Army',
+'class'=>0,
+'cont'=>'September 10, 1949 (Year of the OX, leap 18 July), the People&#39;s Liberation Army in the Gansu Corridor to wipe out Ma&#39;s Army. <br> Peng Dehuai Uighur compatriots met in Lanzhou, the People&#39;s Liberation Army&#39;s liberation of Xinjiang <br> 1949 September 10, 2009, the People&#39;s Liberation Army First Field Army launched the Gansu Hexi chase Battle. Lanzhou, Xining, after the liberation, the second Corps Commander LIDAR, (lsjt.org), political commissar Wang Shitai led his troops to the northwest along the Lan-Xin Railway chase. First Corps commander and political commissar Wang Zhen rate the Second Army Hexi Corridor the Xining area north roundabout on September 10. After 14 to 17 days, over 5000 meters above sea level in the Qilian Mountain, captured the folk music, and annihilate the KMT army cavalry fifteenth trip ministries. 19 to 20 days in Zhangye region in one fell swoop and annihilating the five regiments. 21, 2009 and the second Corps joined forces Zhangye. Kuomintang the northwest military and political Executive Corruption eighth replenishment district headquarters, the Gansu Hexi garrison headquarters and the first 20 Army, Ninth Army remnants of the People&#39;s Liberation Army political fight, on Sept. 24 at the Jiuquan defectors. Part of the PLA Second Army then stationed in Jiuquan Yumen, Anxi by car, the Hexi region fought running battles ended in victory. Uprising, surrendered and was destroyed a total of more than 40,000 people in the KMT. in <br> 9 4 Ma Hongkui Department of Army and the local armed forces retreated Ningxia approximately 70,000 people under the Ma Hongkui son of Ma Duijing Command, Yinchuan to the center, according to the natural barrier of the Yellow River, constitute the three lines of defense. An attempt to prevent the People&#39;s Liberation Army to enter the Ningxia. First Field Army for Ma&#39;s defense deployment, initiated Ningxia Battle. Ma Jun, scattered and fled in the PLA powerful offensive, the commander-in-chief Ma Dunjing plane to escape, 128 Army commander Lu Zhongliang rate remnants of defectors. 23, the People&#39;s Liberation Army stationed in Yinchuan, Ningxia whole territory of liberation. Campaign the enemy more than 40,000 people were annihilated and adaptation, Ma Hongkui Ministry military destruction. <br> 5 [L $ dj¦Ó.c¨­m] People&#39;s Liberation Army liberation of Qinghai Province, Xining City, capital of <br> In 23, the First Field Army liberate Yinchuan <br> 24 day Jiuquan liberation. This is the People&#39;s Liberation Army in Jiuquan boarded and seized the car, (history today www.lssdjt.com) to enter <br> to Xinjiang'
+);
+
+?>

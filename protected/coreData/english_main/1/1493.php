@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-2-1
+	create time:2013-01-01 22:05:37
+*/
+
+return array(
+'title'=>'Wang Xuan, Huang Kun by the State Supreme Science and Technology Award',
+'class'=>0,
+'cont'=>'February 1, 2001 (the first month, the ninth day), Government House, Wang Xuan and Huang Kun was the State Supreme Science and Technology Award. <br> CPC Central Committee General Secretary and State President and CMC Chairman Jiang Zemin attended the meeting and a commendation certificate and prize money for the award-winning Wang Xuan (right), Huang Kun. the morning <br> 2001, the CPC Central Committee and the State Council held in Beijing, the National Science and Technology Awards Conference. CPC Central Committee General Secretary and State President and CMC Chairman Jiang Zemin to attend the award on behalf of awards. <br> Politburo Standing Committee of the CPC Central Committee, Vice President Hu Jintao presided over the meeting. Prime Minister Zhu? Base on behalf of the CPC Central Committee and the State Council to address the General Assembly. Vice premier read out the decision of the State Council on the 2001 National Science and Technology Awards. <br> According to the decision of the CPC Central Committee and the State Council, the State Supreme Science and Technology Award, established since 2000, in the name of the state given the highest honor scientists who have made outstanding contributions to the development of science and technology awards. This conference is an event in the history of the development of China&#39;s science and technology, a review of China&#39;s scientific and technological level. <br> State Supreme Science and Technology Award in 2001, the Chinese Academy of Sciences and Chinese Academy of Engineering, Department of Computer Science and Technology Institute Wang Xuan (1937-2006), Academician, (Lssdjt.com), Chinese Academy of Sciences, Institute of Semiconductors, Huang the Kunming (1919-2005). [$ Dj而.c身m] <br> capital sector, on behalf of the more than 3,000 people attended the awards ceremony. (1 $ dj而.c身m) <br> the promulgation of the meeting, the 2001 National Science and Technology Awards winning candidates and project. 18 which won the second prize of the National Natural Science Award; 14 was the second prize of State Technological Invention Award; 17 by the National Science and Technology Progress Award, second prize 174. (L $ dj而.妨壯T) German scientist Michael wear policy special the U.S. Dr. Yang Youdi, Swedish scientists than about Aung ﹞ Eric ﹞ Virgin Beckham Nuodeng Si Qiang Farm, Canada Dr. Mao Huanyu, Japan The black scientist Tianji Yi, Dr. Brazil if it is according to Si Laer Vargas was the People&#39;s Republic of China International Science and Technology Cooperation Award. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1957-9-22
+	create time:2013-01-02 01:51:23
+*/
+
+return array(
+'title'=>'Movie star Zhou Xuan died',
+'class'=>3,
+'cont'=>'In August (Ding&#39;s Eve), September 22, 1957, actress Zhou Xuan died. the <br> Zhou Xuan died \"target =\" _blank \"> Zhou Xuan, In in 1957, movie star Zhou Xuan died. <br> Chinese film actress and singer. formerly known as Little Red, Jiangsu Province Changshu County. since childhood been abandoned by their parents, were sold to Shanghai. 8-year-old mother&#39;s sister introduced her into a dance class apprenticeship. sponsored in the fall of 1931 into the Li Jinhui the moon Song and Dance. \"September 18 Incident\" in Enka meeting once enthusiastically singing the \"light of the nation\" a warm welcome by the audience. Subsequently, Li Jinhui Zhou Xuan renamed her in the spring of 1932, joined Xinhua Opera Society in 1934, various radio stations in Shanghai game jointly organized by the singer, known as the newly discovered star, praise her voice \"as Jindi Ming Qinru people\" good reputation \"golden voice\" <br> 1936, Yihua Film Co. film \"Anthurium night to play a small role, went\" hillman \"(1936),\" treasure map \"(1936),\" Sweet Memories \"(1937),\" Female Fortuna \"(1937),\" Samsung with Moon \"(1937),\" Carnival Night \"(1936) and other films to participate in the performance. 1937, played the female lead in the film\" Street Angel \"Little Red succeeded in shaping an old suffered insult and damage to the community, but then the future have a beautiful ideal showgirl image two episode she was the lead singer in the film \"Song of Four Seasons\" and \"The Wandering Songstress\", widely circulated over the years, in May 1938, Jin Guohua movie company, to become the actor of the company. \"Lee San Niang,\" Dong Xiaowan &#39;, \"Susan Yan History of nearly 20 movie themes of folk tales from the second half of 1939 to the first half of 1941, a series of shooting. Sino-Japanese War Victory near, Zhou Xuan shot \"Sauvignon Blanc\", \"female singer of the song\" piece, \"Mo Youth 1947, back to shooting\" Moonstone \"and\" nightclubs \"Yi Jiangnan\", she is acting as both mining tea woman and socialite role of two very different personalities, Mao Dun, commented: \"one who is also Miss Zhou Xuan play the role of two different personalities quite a sense of proportion, to put on the hard while valuable.\" soon went to Hong Kong , due to severe irritation and mental disorders. return to Shanghai after the founding of the People&#39;s Republic of China, to participate in the film \"Peace Dove\" shooting, suffered a relapse and died on September 22, 1957. <br> Zhou Xuan died \" target = \"_blank\"> Zhou Xuan <br> Zhou Xuan died \"target =\" _blank \"> the Zhou Xuan <br>\" Street Angel \"1937 Star: Zhao Dan Zhou Xuan died\" target = \"_blank \"> the Zhou Xuan <br>\" Street Angel \"1937 Star: Zhao Dan Zhou Xuan died\" target = \"_blank\"> Zhou Xuan <br>'
+);
+
+?>

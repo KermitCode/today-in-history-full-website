@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1954-7-21
+	create time:2013-01-01 23:51:50
+*/
+
+return array(
+'title'=>'The signing of the Geneva Agreement on Indochina',
+'class'=>0,
+'cont'=>'(Jiawu June 22), July 21, 1954, the signing of the Geneva Agreement on Indochina. The Vietnamese delegation, led by <br> Pham Van Dong behalf Hanoi to speak <br> July 1954, at the Geneva Conference on the signing of the Geneva Agreement on Indochina. <br> 1954 1 26, according to the recommendations of the four foreign ministers meeting in Berlin in February of the same year, the international conference in Geneva to discuss the peaceful settlement of the Korean Peninsula issue and the restoration of peace in Indo. May 8 to July 21 meeting to discuss the Indochina problem. Five countries, the Soviet Union, the United States, Britain, France and the Democratic Republic of Vietnam, Laos, Cambodia and South Vietnam, Bao Dai regime to participate in the discussion of Indochina. May 7, the French army in Dien Bien Phu Battle of Waterloo, change the entire Indochina battlefield situation. June 18, advocated truce Mendes - Francis government came to power, July 20-21, to reach agreement on the restoration of peace in Indo-China. It includes the Final Declaration of the Geneva Conference, the agreement on the cessation of hostilities in Vietnam, the \"Agreement on the Cessation of Hostilities in Laos, the agreement on the cessation of hostilities in Cambodia\" file. Main content: the participating countries to ensure respect for the sovereignty of the three Indochinese, independence, unity and territorial integrity; the end of hostilities in the three countries; Three shall not participate in any military bloc, does not allow any foreign military bases on the territory of the three countries to establish; to 17 degree line, the 9th road slightly north as the military demarcation line, the newspaper online North buildup, the French army online South buildup; the mulberry anger aside Laos, Phongsali Laos government troops during the War of Resistance against Japan assembly areas; within the period of the French army in the agreement provides withdrawal from the territory of the three Indochinese; Laos and Cambodia held nationwide free elections in 1955, the Vietnamese national free elections held in July 1956, and to achieve the reunification of the country on a democratic basis. the <br> the United States did not \"Final Declaration\" was signed, but the statement will refrain from the threat or use of force to impede the implementation of the agreement. August 31, Indochina armistice. The Geneva agreement is the outcome of the Indochina war against France, conducive to Indo-independence of the three countries. <br> last batch of French officer reluctantly leave Hanoi city handed over to the Vietnamese <br>'
+);
+
+?>

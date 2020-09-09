@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1908-12-2
+	create time:2013-01-02 02:12:04
+*/
+
+return array(
+'title'=>'The last emperor Puyi ascended the throne',
+'class'=>5,
+'cont'=>'(Shigenobu winter of early nine), December 2, 1908, the last emperor, Puyi ascended the throne. <br> Puyi sitting on the throne of the Palace of Heavenly Purity 34 years (1908) <br> Guangxu to October, Guangxu, Empress has Bingdu. Empress died unable to get over the preconceived notion that dominated the political handle, suddenly decided to Li Pu Yi as heir, issued on October 20 under the \"Yizhi Zhao Pu Yi palace. Results performances farce of a of Puyi crying temple. downtown temple in <br> Puyi descendants of the third day, the Empress old expired. Empress&#39;s death held the official national mourning. The news spread, many wealthy Chinese crowd gathers musicians the garden (brothel known), publicly celebrating. Two weeks later, on December 2, Puyi ascended the throne. <br> Teng great the typical financial religious and secular in one: the musician the eunuchs and pastor assembled in the Hall of Supreme Harmony, Pu Yi was on a big, tall Oza. December 2, Weather odd cold Puyi both scared and cold, whole body trembled. Guards, ministers and civil and military officials lined up one by one to the front of him the oath of allegiance. Wang Mah is the only way he can take control of people, only with her, Pu Yi was at ease, but that day she was not allowed to participate in the ceremony. The edict requires both a father is the regent Prince Zai Pan accompany Puyi to participate in this lengthy, terrible, incomprehensible rituals of any 3-year-old child. <br> \"I am excessively bureaucratic, boring,\" Pu Yi wrote, \"plus the day odd cold, so when I was carried to the Hall of Supreme Harmony, into the big, tall throne, As early as more than the limit of my patience. My father kneeling on the throne following your hands on me, do not call me to tamper with, but I struggled with crying: &#39;I do not suffer this. I want to go home. &#39;Father, anxious sweating sweat. All the officials of the Sanguijiukou endless, I cried getting louder and louder. My father had to coax me to say: &#39;Do not cry do not cry, almost done. &#39;He said these words intended to comfort me, gave all the officials left a dismal impression, they see this as a bad omen. The (history TodayOnHistory.com) <br> December 2, the only three-year-old Prince Zai Feng, son of Pu Yi Jidi Wei, No. xuantong. To his father the Prince Regent, agents Qing Ting Chaozheng, like the palace of their father and son painting. <br> in the within alcohol palace, Pu Yi (right) Pujie <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1924-2-14
+	create time:2013-01-01 22:09:43
+*/
+
+return array(
+'title'=>'The establishment of the International Business Machines Corporation (IBM)',
+'class'=>0,
+'cont'=>'(Jiazi first month of the tenth), February 14, 1924, the establishment of the International Business Machines Corporation (IBM). <br> IBM (International Business Machines Corporation), International Business Machines Corporation, International Business Machines Company referred. Headquarters in Armonk, New York City, founded in 1911 in the United States is the world&#39;s largest information technology and business solutions company, currently has more than 300,000 employees worldwide, with operations in more than 160 countries and regions. When the company was founded, the main business for commercial typewriter, and after to the word processor, and then to the computer and related services. Otherwise, the World Association of Magicians IBM. <br> IBM&#39;s history can be traced back to decades before the development of the computer, before the development of the computer, punched card data processing equipment. IBM on June 15, 1911 as a few miles west of Binghamton Å¦Ô¼¶÷µÏ¿ÆÌØ CTR company register. <br> three independent companies merge CTR company, they are: printer company (founded in Washington in 1896) to calculate the table (founded in 1901 in Dayton, Ohio) and international era record company founded in (1900 in Endicott, New York). When the printer company&#39;s president and founder is HermanHollerith. The combined key figure behind the financier CharlesFlint, he summoned the founder of three companies, mergers and worked until his retirement in 1930 in the CRT. <br> Thomas. J. Watson, the founder of IBM, as CTR general manager in 1914, served as president in 1915. In 1917, CTR International Business Machines Co., Ltd. to enter the Canadian market, changed its name to International Business Machines Company (IBM) 1924.2 May 14. <br> merger into CTR manufacture a variety of products, including employee timekeeping system, scales, automatic meat slicer, and the most important is the development of the computer, punched card equipment. The some time CTR focus specially for punch cards, and no longer participate in other activities. <br> the past ninety years, the world economy is the continuous development of modern science advances, IBM has always been ahead of the technology, excellent management and unique products leading the development of the global information industry, to ensure that the world-wide almost all a full range of information processing needs of industry users. As we all know, back in 1969, (lssdjt.cn) Apollo spacecraft carrying three astronauts, shouldering the mission of mankind&#39;s first landing on the moon; 1981 Columbia space shuttle flies into space successfully. Two historic space flight and embodied the wisdom IBM unparalleled. (L $ dj¦Ó.¨­r¨À) <br>'
+);
+
+?>

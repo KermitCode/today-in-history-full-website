@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-2-16
+	create time:2013-01-01 21:04:58
+*/
+
+return array(
+'title'=>'The birth of George Kennan, U.S. politicians',
+'class'=>4,
+'cont'=>'February 16, 1904 (the first day of the first lunar month) Jiachen, the birth of George Kennan, the American politicians. the birth of George Kennan, <br> \"target =\" _blank \"> Kennan (George Frost Kennan, 1904 February 16 - March 17, 2005) is an American diplomat and historian Pulitzer Prize winner. policy of containment (containment) founder <br> 1925, graduated from Princeton University study of Russian culture at the University of Berlin from 1929 to 1931, after the Soviet Union and European countries engaged in diplomatic work February 22, <br> 1946, George Kennan (lsjt.org) any in the Soviet charge d&#39;affaires to the U.S. State Department issued a message of up to 8,000 words, social and foreign policy of the Soviet Union&#39;s internal in-depth analysis, proposed and eventually adopted by the U.S. government&#39;s long-term strategy against the Soviet Union, that is, the policy of containment, had a significant impact on the latter half of the 20th century world politics. the <br> 1947 (1 $ dj¦Ó. the c¨­m) George Kennan&#39;s signature \"X\" in the United States, \"Foreign Affairs\" article \"Soviet behavior causes\", the text is clearly the United States to use \"resistance forces\" of Soviet expansion tendency long-term, patient, steadfast and vigilant \"containment.\" caused great concern after the article was published. proposed \"containment\" of the Soviet Union advocates, is widely considered the ideological foundation of the United States to the Soviet Union strategy since been to the end of the Cold War, the U.S. strategy against Russia, and the whole strategy is called \"containment strategy\" Kennan himself won the title of the father of \"containment\" March 17 <br> in 2005, Day died in Princeton, New Jersey home. March 18, <br>, America&#39;s most influential New York Times and The Washington Post newspaper Logout a black and white photo on the front page at the same time, reported a The title of the news of the death. themselves American celebrity, died in the two largest newspaper obituary Edition registering with the life of even good, in recent years, enjoy the front page of winning the only former president Ronald Reagan two newspapers for the life of the deceased made a simple conclusion: \"top strategist\" of the Cold War era, \"to build a U.S. foreign policy outsider\" this person is George Kennan. evening of March 17, he died in Princeton, New Jersey home, at the age of 101-year-old. <br>'
+);
+
+?>

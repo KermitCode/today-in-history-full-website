@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1594-2-27
+	create time:2013-01-01 21:52:29
+*/
+
+return array(
+'title'=>'Henry IV ascended the throne of the king of France, began the rule of the Bourbons.',
+'class'=>0,
+'cont'=>'(Sino-Japanese first month eighth day), February 27, 1594, King Henry IV ascended the throne of France, began the reign of the Bourbons. <br> (the France) <br> Henry IV, Henry IV (1553 -1610 years May 14, 2011) (lsjt.org) (King of France 1589-1610 ) is also known as Henry the Great (Henri le Grand) or Navarre Henry (Henri de Navarre), king of France (1589 -1610 years in office), King of Navarra (known as Enrique III, 1572 onwards). The creator of the French Bourbons. Originally a small, poor southern France, the King of the Kingdom of Navarra, is a distant relative of the royal family of France Valois. War, as a Protestant leaders in the the Huguenot religious war in 1562 provoked by the stubborn Catholic molecules with outstanding military talent and good use of the enemy&#39;s contradictions, become the last laugh in the civil war in 1589, the coronation February 27, 1594, King of France, the Bourbons. King after the performance is more proof of the foresight of Henry IV. <br> Henry, the third son of the Duke of Vendome, Antoine de Bourbon, mother of Navarra Queen Jeanne Darboux Reiter (ie Juana III), (Today in History . cn) was born in France - Pau in the Spanish border. Since a young age from his involvement in a the cruel religious war in France. He gradually have a high reputation as a leader of the Huguenots. But Barthelemy tragedy, he was placed under house arrest in the French court, to accept His Holiness Charles IX asylum. In 1584, due to the death of Crown Prince Alen&#231;on Duke Francois, he became the legitimate heir to the throne of France. 1589 Henry III was assassinated after he ascended the throne as King of France. <br> the Henry IV end of the religious wars that plagued France for years. Gisborne family leader Henry Duke died, dominated French politics for a long time, no longer be obstacles to peace. French economic development in his reign. Henry IV became a deeply loved by the people of the monarch. <br> 1610, Henry IV is said to have one assassination. regicide mad Fran&#231;ois Lava Lake <br> Note: \"Henry IV\" in the history of three different people, in France, Germany, England. Henri IV Henri le Grand (France, 1553 December 13, 2011 -1610 years, 14 days), Henry IV Heinrich IV (Germany, 1050 November 11, 2011 -1106 years 7 days), Henry IV Henry IV (England, April 3, 1367 to March 1413, 20 May). <br> French Bourbons (orthodox) descent table (see next page) <br>'
+);
+
+?>

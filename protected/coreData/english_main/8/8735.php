@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1943-9-8
+	create time:2013-01-02 00:27:00
+*/
+
+return array(
+'title'=>'Czechoslovak writer Fucik killed by the Nazis',
+'class'=>3,
+'cont'=>'(Ram August ninth day), September 8, 1943, the Czechoslovak Writers Fucik killed by the Nazis. <br> Fucik, Czechoslovakia, literary critic, writer. Born in a worker&#39;s family. Born in 1903 in a worker&#39;s family in Prague. From boyhood, he deeply felt the misery of the working class. Under the influence of the Russian October Revolution, he was actively involved in revolutionary activities, 18-year-old joined the Communist Party of Czechoslovakia. Prague&#39;s Charles University Faculty of Arts from 1921 to learn, in order to maintain life, he also cater to day laborers and street admen. Later, he was the party assigned to \"create\" the editor-in-chief and the CPC Central Committee and the official newspaper \"Red rights editor of literary and political commentary publications. The published article praises the October Revolution, the reactionary authorities have been arrested and imprisoned. After his release, continue to engage in the revolutionary struggle. March 1939 (on www.TodayOnHistory.com) Hitler&#39;s fascist occupation of Czechoslovakia, Fucik adhere to the underground struggle to stay in Prague, the traitor, unfortunately, was arrested in April 1942. Fascist brutal beatings, torture Fucik mean to lure him to surrender. Pointing Prague evening moving scenery day, the enemy said to him: \"I know you Aibulage a good look at it! Do not you want to go back to its embrace of it? Beautiful ah! \"Fucik was killed by the Nazis\" target = \"_blank\"> the Fucik interrupt the enemy: \"You were not here, it will become more beautiful and miles!\" <br> Fucik in inhuman days of torture, in a dangerous situation at pulled on the gallows, still did not forget the fighting he wrote on scraps of paper in a picture of a pencil humbling close-up of a long the gallows report \" v. crimes of Germany and France. deep to the people of the world, he also wrote in the article: \"We have the joy of health, and fighting for joy, for joy and died. therefore, can never be so sad with our name linked to the performance of the indomitable spirit of a communist unafraid of death. September 8, 1943, Fucik Hitler culprits brutally murdered in Berlin Boluo Sum Sri Lanka prison his name and his death by hanging frame report \"will go down in history.\" report under the gallows since the publication in 1945, has been translated into 86 languages, inspired revolutionary people around the world the great struggle for freedom, justice, and the cause of communism. < ; br>'
+);
+
+?>

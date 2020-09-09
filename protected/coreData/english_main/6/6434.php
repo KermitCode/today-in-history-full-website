@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1938-7-6
+	create time:2013-01-01 23:31:44
+*/
+
+return array(
+'title'=>'Session of the meeting of the National Political Council meeting',
+'class'=>0,
+'cont'=>'July 6, 1938 (, June Ninth) Tiger years, the National Political Council session meeting. Members of the whole political participation in the first session of the National Political Council of the <br> photo In from 6 to 15 July 1938, the session of the meeting of the National Political Council, held in Wuhan, to the meeting on behalf of 149 people. The national celebrities Zhang Boling, the king made, Huang Yanpei, (l $ j¦Ó.c¨½) Shi Liang, Shen Junru than 100 people attended the meeting. the the <br> meeting of the Executive Yuan Kung and the military and political Minister Yingqin respectively, gave a report, by Wu Yifang, Shi Liang, Yingchao \"July 7th anniversary donations Case, through to\" uphold the National Government implementation of the Anti-Japanese War founding case \",\" improve administrative bodies at all levels Case, \"and ensure the people&#39;s rights case,\" adjustment civic groups to play a minli case \". <br> during the meeting, participate in politics member of the Communist Party of China, Mao Zedong, Chen Shao-yu, Bo Gu, Dong, Yuzhang, Lin Boqu, Yingchao, published in the Wuhan Xinhua Journal \"\" We are the views of the National Political Council. \"Opinions\" that: \"We represent the Chinese Communist Party to participate in the National Political Council, sincerely willing intimate with the comrades of the KMT and other parties as well as non-partisan member of the National Political relations within the Political Council to work together and common efforts, in order to be able friendship and harmony to discuss and decide all conducive to the victory of the War of Resistance Against Japan, the founding of Beecham specific way with the implementation of the program in order to be able to effectively combat and defeat the Japanese aggressors, and laid the foundations of the Republic of China to move toward independence, freedom, happy new countries. . \" <br> \"Opinions\" also raised the Political Council should discuss how to mobilize the military, human, material and financial resources to defend Wuhan, how to ensure that the minimum improving people&#39;s lives, and how to ensure that all political parties and people&#39;s legitimate rights. <br> the day before, Mao Zedong by calling the National Political Council, stating illness not to will, to the National Political Council into the Three Words: \"one said, adhere to the War of Resistance Against Japan; second is, insist on a united front; Banisher, adhere protracted war. \"<br>'
+);
+
+?>

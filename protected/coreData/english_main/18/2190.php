@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2004-2-18
+	create time:2013-01-01 21:05:56
+*/
+
+return array(
+'title'=>'The death of the founder of China&#39;s nuclear agronomy Xu Guanren',
+'class'=>3,
+'cont'=>'The (Jiashen 28) in the first month, February 18, 2004, the death of the founder of China&#39;s nuclear agronomy Xu Guanren. <br> Xuguan Ren (1914.3.7-2004.2.18), the famous nuclear agronomist. Nantong, Jiangsu County. In 1934, graduated from the Central University Department of Agronomy. Doctorate from the University of Minnesota in 1950. In 1980, he was elected to the Chinese Academy of Sciences academician (academician). Former University of Minnesota Agronomy and Plant Genetic Research Fellow, Chinese Academy of Agricultural Sciences of Atomic Energy Institute researcher, deputy director, director, honorary director, part-time professor at Beijing Agricultural University, the agriculture the physical meteorology department head, Institute of Genetics researcher , deputy director of the Biology Department of the Chinese Academy of Sciences, Acting Director of the Chinese Academy of Sciences Institute for Plasma Physics consultant, chairman of the China Atomic Energy Society of Agronomy, honorary chairman, honorary chairman of the Atomic Energy agricultural applications, \"Nuclear Agricultural Sciences Editor-in-Chief. Early in rice traits, different types of hybrid rice and infertility genetic research, won the Prize of Natural Science Papers. Generation and expression of heterosis in maize research in the United States during the proposed new point of view, the use of the thermal neutron and X-ray processing wheat stem rust resistance mutations kinds of new ways of breeding for disease resistance at that time that, by international attention. After returning home in 1956, is committed to the application of nuclear technology in agriculture, to create China&#39;s first atomic energy utilization in agriculture research institutions, initiated and set up the China Atomic Energy Society of Agronomy, the founder of the Nuclear Agricultural Sciences, \"Journal of Nuclear Agricultural Sciences. Wheat the single nullisomic reorganization of the genetic structure and the use of radiation-induced genetic mutation theory and research methods to promote the national utilization of heterosis, of Radiation Breeding and chromosome engineering development, to promote the application of nuclear technology in large-scale farming. <br> His major works include the use of male sterile line breeding hybrid sorghum, \"the application of nuclear science and technology in crop breeding, plant mutation breeding\" and \"Introduction to Nuclear Agricultural Science. (Lssdjt.com) <br>'
+);
+
+?>

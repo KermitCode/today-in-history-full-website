@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1988-12-7
+	create time:2013-01-02 02:34:54
+*/
+
+return array(
+'title'=>'Nagasaki mayor of the island with respect to responsibility for the war actually shot',
+'class'=>0,
+'cont'=>'December 7, 1988 (October 29) Boshin years, the mayor of Nagasaki, the island bluntly that the responsibility for the war actually shot. <br> 1988, the the Nagasaki mayor of the island of the City Council to reply, published insights that Emperor Showa responsibility for the war. Since then, the right-wing groups gathered dozens of cars propaganda vehicles in and around the city of Nagasaki City Hall harassment. The (history TodayOnHistory.com) once the normal order of Nagasaki damage. City Hall offices of glass was bullets to break. The mayor of the island and their families, personal safety is threatened. The mayor of the island many times by personal attacks and unfounded accusations, and received threatening letters containing bullets. But praise his insight and courage to many people of insight in Japan. After he received more than 7300 letters, most of them expressed their support for him. Precautionary measure, the police to take security measures throughout the day on the island&#39;s mayor. By the summer of 1989, the mayor of this island can lift the security measures required except in special circumstances. In 1990 or so, when the car in front of the town hall, Nagasaki mayor of the island, was a mob shootings, bullets penetrate the chest at the left shoulder from behind him. The mayor of the island was immediately sent to hospital, the doctor said he was no danger. Thugs get away. the <br> shooting incident, Japan National the shocked public outcry. Japanese government spokesman, Chief Cabinet Secretary Moriyama said, the prisoners extremely ferocious, resulting in a significant impact to the community, look forward to apprehend the prisoners as soon as possible, to identify events. Support the opinion of the mayor of the island of the public organization \"requirement on behalf of the Nagasaki citizens\" for freedom of expression, Nagasaki University Professor the Iwamatsu Fan Chun said, this is a throwback to the era of pre-war terrorist behavior is shocking. The Island Mayor issued insights Emperor of war responsibility, we recruited 38 people expressed their support for the signature. The shootings democratic society in Japan is still shallow. Mayor of Hiroshima and Nagasaki were the victims of the atomic bomb Araki Wu, irrespective the shooting held by any ideas, violent means is a country ruled by law can not be allowed, and hope as soon as possible to restore the health of the island. <br>'
+);
+
+?>

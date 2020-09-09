@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1903-6-2
+	create time:2013-01-01 22:09:49
+*/
+
+return array(
+'title'=>'Feng Xuefeng&#39;s birthday',
+'class'=>4,
+'cont'=>'June 2, 1903 (mao, May seventh day), Feng Xuefeng&#39;s birthday. Feng Xuefeng&#39;s Birthday \"target =\" _blank \"> Feng Xuefeng <br> Feng Xuefeng, <br> formerly known as Fushoushan, the pen name of the studio, Luo Yang, He Danren, Lv Keyu etc. <br> 1903 Born in Zhejiang Yiwu County in 1921 was admitted to the Zhejiang Province established the first Normal, to participate in a literary groups dawn Social spring of 1922 with Pan Mohua, Wang Jingzhi, should be amended to people formed a lakeside Poets Society, published a collection of poems \"lakeside\" Peking University in 1925 to observe the proceedings. 1926 translation translations of Soviet literature and art. (1 $ dj¦Ó.c¨­m). <br> 1928, Rou Shi introduced dealings with Lu Xun, Lu Xun students and his comrades in 1931, he was appointed Communist Party Leftist Association caucus. has edited or participate in the editing of \"bud\" monthly \"the outpost - Literature Herald Leftist Association organ and the Science and Art of the Books. Ruijin, Jiangxi Province in December 1933, Dean of Academic Affairs, Vice-Chancellor of any of the Party School of the CPC Central Committee in October 1934 to participate in the Long March <br> in 1936 by the CPC Central Committee and sent to Shanghai in the anti-Japanese national united front work. the KMT authorities arrested in February 1941, prisoners Shangrao Concentration Camp. November is rescued from prison, after to Guilin, Chongqing engaged in cultural work with poetry \"true Song\", the Proceedings \"Lu Xun\", \"Township Wind City Wind\", \"there is a carry no retreat\" and so on. to Shanghai in 1946, with a \"past era\" \"Xuefeng anthology\", \"literary movement of democratic revolution\" bestiary \"this fable\" <br> founding of New China, served as the East China Military and Political Committee focused, vice chairman of the Shanghai Federation of Literary and Art Circles, the Standing Committee of China Federation of Literary and Art Circles, vice-chairman and party secretary of the Chinese Writers Association, the People&#39;s Literature Publishing House President and Editor-in-Chief, \"literary newspaper editor-in-chief. literary criticism and essay writing, to preside over the editing of his works of publishing, and writing movie scripts Shangrao Concentration Camp. the [lssdjt.cn <br> since 1954 repeated setbacks in the political, the first to be released from the \"literary newspaper Editor-in-Chief. following to implicate subject to criticism because of \"Hu Feng events, 1958 was wrongly classified as a rightist. passed away on January 31, 1976. April 1979, the CPC Central Committee for the vindication of his erroneous cases, the recovery from the party and political honorary . <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-4-10
+	create time:2013-01-02 08:47:50
+*/
+
+return array(
+'title'=>'Peking University students launched the first online relief operations',
+'class'=>0,
+'cont'=>'April 10, 1995 (March 11), seeing in the Peking University students launched the first online relief operations. Zhu Ling <br> before <br> sick April 1995, where Zhu Ling, Tsinghua girls thallium poisoning, the countries doctors for her \"online consultation\", has attracted domestic and foreign opinion formers quite a stir. (? V history today?? Com) In March 1994, Zhu Ling have come to a standstill, nerve paralysis, coma, breathing on his own disappearance, multiple organ failure and other crisis. Tracheotomy and ventilator-assisted breathing on March 24, March 28 transferred to the intensive care unit treatment ....... \" Zhu Ling&#39;s lives are at stake, but the cause has not yet confirmed. <br> Bei Zhicheng, when the students of the faculty of the Department of Mechanics, once Zhu Ling Secondary comrades. When he learned that Zhu Ling was in critical condition, they rushed to the hospital to visit her tragic story shocked: a girl once cheerful and healthy, but now they became unconscious, its body filled with tubes, to rely on respiratory function remains life. After leaving the hospital, Bei Zhicheng way want to do to help the unfortunate Zhu Ling? Back to school, Tony Zhicheng see the roommate also interested in the Internet Caiquan Qing, started to have an idea: \"Why do not we online help? \"So, in the afternoon of April 10, 1995, two young men will write Zhu Ling condition -\" Who can help us? - Help e-mail sent to the nine medical forum on the Internet. is <br> beyond their imagination is received electronic letter to more than a hundred letters from around the world in three days after the letter, which caused them to pay attention to the phenomenon: 68 letters from doctors or experts % Zhu Ling chemicals (heavy metal) poisoning, of which 50% think she thallium poisoning. <br> Union Medical College Hospital after doctors diagnosed Zhu Ling with her detoxification dimercapto-propanol and blood filtration. A number of foreign experts in the Internet that advice by phone, fax, and various ways to Union Hospital, they pointed out that \"dimercapto-propanol is not used to the solution of thallium poisoning, after taking may cause the patient serious kidney failure patients using oral Prussian blue (an industrial dye), it is recommended that the Union Hospital. Union Hospital, taking the advice of foreign experts, Zhu Ling Prussian blue detoxification. in less than 24 hours after taking Prussian blue, <br>, Zhu Ling body thallium began to decline. 10 days later, her blood, cerebrospinal fluid thallium ion content is reduced to zero. [TodayinHistory.cn] <br> Zhu Ling became the first Chinese patients via the Internet global consultation \". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1926-12-5
+	create time:2013-01-02 02:25:34
+*/
+
+return array(
+'title'=>'Guo Songling and Chang Tso-lin in Northeast melee',
+'class'=>0,
+'cont'=>'December 5, 1926 (Bingyin years winter and the beginning of the month), Guo Songling and Chang Tso-lin in northeast melee. Fengtian <br> artillery positions <br> 1926, Guo Songling defected army occupation of Jinzhou. The 13th overcome Yingkou, Shenyang vibration. Chang Tso-lin, ready to step down and flee to Port Arthur. Guo Songling twice call the Japanese Minister and the Diplomatic Corps in China, the statement is to protect foreigners in the Northeast, respect the de facto treaty, Japan and countries to maintain strict neutrality, not to interfere in China&#39;s internal affairs. The 7th, the Japanese Kwantung Army quickly compiled and Tieling, Liaoyang, and Haicheng in Fengtian alert, and declare to interfere in China&#39;s civil war, warned Guo Songling Ministry and Fengtian and Manchuria Railway subsidiary may disrupt the land and the Japanese garrison area. On the 15th, the Japanese Cabinet decided: to mobilize large numbers of Japanese troops from the local community and North Korea to Manchuria, reinforcements Chang Tso-lin. Post No. warning the same day, prohibited on both sides of the South Manchuria Railway, as well as acts of direct combat within 20 li from the railway, and prohibit subsidiaries law and order to disorder in danger of military action, otherwise they would have to disarm. 18, 2009, the Kwantung Army commander moved to the Fengtian city, took command of the Japanese. <br> 19 days, additional Manchuria the Japanese all arrived aid Zhang Feng, commander-in-chief Maj. Gen. Saito Yoshio. Japanese troops on behalf of Zhang guard Fengtian City, Zhang Guard haste to open the front-line combat. Meanwhile, Japanese soldiers posing Zhang Jun, Japanese soldiers and artillery to join Fengtian line of defense, Guo Jun leftist sideswipe. 22, Guo Jun and Fengtian Sage River started fighting. Japanese troops on the one hand to the 80 aircraft, heavy bomb bombing Xinmin vicinity with Fengtian frontal battlefield, on the one hand by the South Manchurian subsidiary ground shall not commit the grounds prevent GUO forward; oppression from the left side while posing Fengtian Guo Jun, and cover and Wu Junsheng Department of cavalry plagiarism the white flag Fort GUO rear. Guo Jun on three sides by the enemy, defeat in 23. Guo Songling couple left the army absconded Yingkou, in Xinmin arrested. <br> the Kuok couple ordered to be executed on the spot the same day, Chang Tso-lin. <br>'
+);
+
+?>

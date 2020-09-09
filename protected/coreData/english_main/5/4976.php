@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-6-5
+	create time:2013-01-01 23:38:22
+*/
+
+return array(
+'title'=>'Opening of the 20th century Chinese music classic series activities',
+'class'=>0,
+'cont'=>'April 16 (πÔ”œ years), June 5, 1993, the opening of the 20th century Chinese music classic series activities. century Chinese music <br> 20 classic awards ceremony was held on the morning of June 5, 1993, at the Great Hall of the People. Comrade Li Peng to write a letter of congratulation for this musical extravaganza, the musicians extend my cordial greetings to the Chinese people at home and abroad. <br> Li Peng said in his congratulatory letter to the Chinese Culture Promotion Society is hosting the unprecedented scale music event, is a very meaningful activity, and the 20th century, is the important stage in music history. The large number of excellent works of music, vividly recorded the historical footprint towards prosperity and revitalization of the Chinese nation from the era careworn and humiliation, to sing the voice of the people, to inspire us to forget history and look forward to the future, work hard. I believe that this event is bound to carry forward the fine Chinese culture, and to strengthen the unity and exchange of artists at home and abroad, and promote the cause of country music, to play an active role. In his letter, I wish this family event a success. accounting for high sample <br> Deputy Minister of Culture, said at the presentation conference, the 20th century Chinese the music classic series activities launched in the Chinese Culture Promotion Society was founded, the first large-scale cultural activities, it aims through the selection, performance masterpieces of Chinese music and the publication of the last hundred years, contacted the Chinese at home and abroad, calling and encouraging the national spirit, and in order to enhance the close unity of the Chinese world and cultural exchanges. <br> a total of 124 outstanding song Day in the selection of award-winning, including songs, chorus, solo, concerto, Folk Orchestra, orchestra, opera, music, ballet music and other forms. \"Anthem\" \"guerrillas song\", \"shadow\" of the fences, the \"Yellow River Cantata\", \"Reflection of the Moon\", \"The Butterfly Lovers\", \"Dance,\" symphony with vocal Road pole \"to the list. (History. Cn) <br> Li Huan, president of the Chinese Musicians&#39; Association, Taiwan&#39;s old composer Zhang Hao also will be speaking the words. Apart from Beijing, the series of events are still held in Chengdu, Chongqing, Shanghai, Haikou, Shenzhen, Hong Kong, Taipei, Toronto, New York and other places. <br>'
+);
+
+?>

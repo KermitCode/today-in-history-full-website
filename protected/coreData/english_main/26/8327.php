@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1900-8-26
+	create time:2013-01-02 00:42:40
+*/
+
+return array(
+'title'=>'Veterinary parasitologist Xiongda Shi was born',
+'class'=>4,
+'cont'=>'August 26, 1900 August two days (Boxer), a veterinary parasitologist Xiongtai Shi was born. birth of <br> <br> Xiong Dashi \"target =\" _blank \"> Xiong Taishi, veterinarians the parasitologist, veterinary educator. outstanding achievements of horse colon ciliates revision discussed 25 are 51 kinds, including the establishment of three new genera, found 16 new species; important results of cattle and sheep rumen ciliates, kidney worms and coccidia. Animal Husbandry and Veterinary talent for our culture, has made important contributions . <br> Xiong Taishi August 26, 1900 Born in Nanchang, Jiangxi Province in 1914 was elected to the the Beijing Tsinghua School America preparatory classes learning in the United States in 1923, studied at the Iowa State University College of Veterinary Medicine in 1927 graduation year, were veterinary degree; Following study at the Faculty of Science of the school, and in 1928 a Master of Science degree in 1930 was awarded the school a Ph.D. In In 1930 returned to any of Tianjin Nankai University, Department of Biology Professor, Head of the Department on behalf of Japanese invasion was increasingly rampant Jingu precarious, 1935 then resigned from the Nankai duties, went to Sichuan Province. served as a professor at the Central University Department of Veterinary Medicine; Sichuan Agricultural Improvement Senior Specialist, Chief Director of Animal Husbandry and Veterinary Group; Sichuan Livestock Conservation Technical Specialist Chief Veterinary Officer rank After the victory of Peking University Professor and Chair of the College of Agriculture Department of Veterinary Medicine in 1949, the founding of the People&#39;s Republic of China, Xiong Taishi taught at Beijing Agricultural University until his death, up to 37 years served as Secretary-General (later changed to the Bursar), Professor and Chair of the Department of Veterinary and Livestock parasitology teaching and research director of the Academic Committee, deputy director and other staff; and served as a member of the Academic Committee, the first session of the Ministry of Agriculture, China The executive director of the Agricultural Society, the State Education Commission of Animal Husbandry and members of the professional group, the vice chairman of the China Society of Animal Husbandry and Veterinary, honorary chairman, editor-in-chief of the \"Chinese Journal of Veterinary Medicine, vice chairman of the Beijing Association for Science and Technology, the National Committee of the Chinese People&#39;s Political Consultative Conference, four, five members. He died on March 27, 1987 in Beijing. <br> Comment: Veterinary Parasitology founder of <br>'
+);
+
+?>

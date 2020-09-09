@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-7-2
+	create time:2013-01-01 23:06:33
+*/
+
+return array(
+'title'=>'Chinese Basketball Association introduced the League B',
+'class'=>0,
+'cont'=>'The (Landmarks May 28), July 2, 1997, the Chinese Basketball Association launched a B league. <br> 1997 Chinese Basketball Association announced that Grade B group of Chinese men&#39;s basketball league will be officially launched on July 10. Today, the Chinese Basketball Association was held in Beijing, the Chinese Men&#39;s Basketball League B &#39;97 training competition will announce the news. This marks three years of basketball competition reform has taken another important step. the <br> basketball reform since entered the market, the rapid development of the timely launch of the League B is reasonable in order to promote the entire league system more complete. At the same time, the National Basketball League canceled accordingly, has two seasons of National Basketball League even called the Chinese Men&#39;s Basketball League A competition sponsored by the Chinese Basketball Association. <br> to participate in the inaugural League B Total 6 registered in the Chinese Basketball Association men&#39;s basketball club team. The six teams are: Beijing Olympic winning team, Heilongjiang team, Hebei Tianfu team, the Jinan Military Region, Shandong Electric Power Team, Zhejiang Zhongxin team and Nanjing car-free zone Huangshan team. The competition is divided into two phases Yin: the first stage preliminaries held July 10 to 15 in Xiangxiang, Hunan, single round robin system; held from July 27 to August 27, the second phase, teams first The stage achievements Sort double round robin home and away, a total of 10 and 30 games, every Wednesday and Sunday round. The final ranking of the top two teams qualify for A, participate in the 1997-1998 season, the National Basketball League A. <br> It is reported that the League B in accordance with the relevant ordinances of the Chinese Basketball Association to introduce foreign players each team can bring in two, but not both play. [Lssdjt.cn] <br> Chinese Basketball Association, said the person, the first League B was taken phased competition system, mainly on account of most of the teams did not participate in the home and away games, the first arrangement of the first stage to warm-up and military training purposes, this will help the team into the state, to ensure that the level and intensity of the second phase of home and away games. In addition, the physical quality of the League B tests will be held before the start of the first order Yin Hunan Xiangxiang. <br>'
+);
+
+?>

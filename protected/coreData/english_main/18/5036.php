@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1946-5-18
+	create time:2013-01-01 20:35:50
+*/
+
+return array(
+'title'=>'KMT-CPC on repair the Huayuankou embankment to reach the &quot;Nanjing agreement&quot;',
+'class'=>0,
+'cont'=>'May 18, 1946 (on April 18 BingXu), the KMT repair the Huayuankou embankment to reach the \"Nanjing agreement. of 18, <br> 1946 Communist parties cooperation to repair the the Huayuankou levee agreement reached in Nanjing. After the war, the Nationalist government decided to fix Huayuankou levee, cited the return of the old course of the Yellow River and the to ad hoc Yellow River burst complex blocking Engineering Bureau, led by the Yellow River Conservancy Commission. The Huayuankou Yellow river has been drying up for eight years, for various reasons, has been damaged and about 1/3 of the dike, about 40 million farmers cultivated this for once the yellow water back to the old course, is bound to create a new disaster. (L $ dj¦Ó.c¨­m) <br> March 1, Huayuankou project started, the Communist parties of the negotiations on this matter also will begin participating in the negotiations of the Yellow River Water Conservancy Committee and the Executive Yuan of the National Government Relief and Rehabilitation Administration representatives of Communist China Shandong and Henan, the Bohai Representative, as well as representatives of the United Nations Relief and Rehabilitation Administration. CPC stand from the beginning that is simple and clear: to force exempt from the flood area of &#8203;&#8203;the suffering of the people, agreed to the Yellow River in closure normalized OXBOW; However, in order to avoid a new disaster be OXBOW dike repair line closure work, turn on the water. The KMT avoid complex dike, stressed the importance of closure work. The dispute arose, the center of the strength of the Breach Close Date. <br> Communist parties in late March to begin negotiations, \"Kaifeng threat meetings\" and \"Heze agreement has reached on April 7, the 15th, the agreed closure work with complex dike at the same time, closure work closure date depends complex dike circumstances; migration of residents issued by the Executive Yuan, relocation costs; Henan Lu provinces, at the repair anti participated in by the Chinese Communist Party representatives. KMT is actually trying to the closure work project in the large pre-flood, electrical engineering bureau acceleration construction must be completed before July l. The liberated areas aspects in order to obtain reasonable solution of the closure work complex dike, in May represented Fu Ning, Nanjing agreement reached with the other party on the 18th. The two sides agreed to the downstream complex dike started as soon as possible, the material, workers Liangkuan by the National Government allocated as soon as possible, the premise of closure work projects in order not to downstream water damage. <br>'
+);
+
+?>

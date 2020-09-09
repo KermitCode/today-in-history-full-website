@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-12-31
+	create time:2013-01-02 02:45:33
+*/
+
+return array(
+'title'=>'Two mainland hijacker has been sentenced to 10 years in Taiwan',
+'class'=>0,
+'cont'=>'December 31, 1993 (πÔ”œ winter of April 19), two mainland hijackers has been sentenced to 10 years in Taiwan. <br> 1993 12 31, the Xinhua News Agency reported: April 1993 hijacking to Taiwan, Liu Baocai, Huang Shugang were sentenced to 10 years in prison; remaining hijackers are also being heard. The hijackers may not apply for a residence. after <br> since the hijacked civil aircraft to Taiwan event, public opinion in Taiwan reacted strongly believe that the hijackers should be repatriated to the mainland, in accordance with the relevant provisions of the hijacked aircraft to the threat, or any other method, should be sentenced to death in accordance with the relevant provisions of the life imprisonment, probation and can not. December 8, 1993 hijacking hijackers high military station in Taoyuan Prison Detention Center, the mood has been unstable, tried to commit suicide in the early hours of December 23. <br> Previously, on December 18-22, the Association for Relations Across the Taiwan Strait talks team in Taipei and Taiwan&#39;s Straits Exchange Foundation on the implementation of the Wang-Koo talks about agreement work talks, which focus on to discuss the repatriation of cross-strait hijackers. <br> ARATS official said, this time to discuss the focus on the issue of repatriation of cross-strait hijackers, the talks have made great progress, and reached important consensus. Both sides agreed that the hijacked airliner is a serious criminal offense of violence, coercion or other means, should be severely punish hijackers principle all repatriation. On this basis, the two sides after serious negotiations, initially developed the basic framework of cross-strait hijackers repatriation agreements style specific textual representation of consultations also. Scope <br> cross-strait hijackers the repatriation agreements style basic framework broadly include repatriation principle, coercive measures, a request for repatriation, repatriation with the handover and other aspects of the content. It is understood that the agreement applies to the cross-strait personnel to fly to the other crimes of violence, coercion or other means to hijack the cross-strait party civil aircraft; repatriation principle Mazu, Mawei shipping handover location and may actually need to agree on the islands of Kinmen and Xiamen for the handover locations; (History cn) <br> relevant person said talks between the two officers, said the two sessions should continue to negotiate an early repatriation of hijackers problem, further consultations relation to textual representation of certain terms of the agreement, for an early agreement. <br>'
+);
+
+?>

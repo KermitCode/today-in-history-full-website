@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-7-20
+	create time:2013-01-01 23:47:20
+*/
+
+return array(
+'title'=>'Roof of the world to find oil',
+'class'=>0,
+'cont'=>'On June eighth day) (JiMao years, July 20, 1999, the roof of the world to find oil. <br> Tibet since ancient times, is not the history of the oil-producing finally a stop. July 20, 1999, the China National Star Petroleum Corporation announced that after eight years of hard work, the company recently buried layer in the 400 m elevation of 4,700 meters the northern Tibet Lunpola Basin Lun shallow well, by steam thermal recovery test industrial oil flow. Lun light 3 wells in the trial mining from July 9 to 11, from the spray oil 103 square the Nissan oil 30 multi. Lun light 3 wells reported the highest elevation in the world of oil exploration wells; the northern Tibet Lunpola basin is the highest elevation in the world known petroliferous basins; the northern Tibet workspace is reported the highest elevation in the world, the natural conditions the worst oil exploration and development. The idea of &#8203;&#8203;looking for oil in Tibet in the early days, from the 1950s to the early 1980s, when a large number of oil census preliminary foundation work, found no industrial oil flow, this work stopped. In the early 1990s, the State Planning Commission, the oil and gas exploration in Tibet as a special, Star Petroleum Company (in situ mining Petroleum Geology Marine Geology Bureau) has undertaken this work. 8 years, the company has overcome the extremely harsh natural conditions, has invested more than 6400 people in Colombo pull Basin the Qiangtang Basin the Angla the benevolence wrong Basin, the possession Gangba Basin carried out a large number of oil Geological Survey, the discovery and implementation of over 40 favorable hydrocarbon structural traps, and evaluation by drilling in shallow and in deep breakthrough. Comprehensive measure Lunpola Basin oil and gas prospective resources amount to 1-1.5 million tons, Lun shallow wells of the thermal test mining success may be submitted to more than 300 million tons of proven oil reserves, a reserve of tens of millions of medium-sized The oilfield outline is already visible. According to reports, Lunpola Basin oil mostly heavy oil, Lun shallow 3 well is the high viscosity of heavy oil, conventional methods can not put oil to the surface. The Nova oil companies to solve the boiler combustion problems in the environment of low oxygen content, thermal recovery success. In addition, heat oil layer Lun shallow 3 wells only 400 meters deep, favorable the shallow oil recovery to increase production. This shows that Tibet oil conditionally into the development and production stages. <br>'
+);
+
+?>

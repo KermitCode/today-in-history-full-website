@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1838-12-5
+	create time:2013-01-02 02:11:22
+*/
+
+return array(
+'title'=>'The Chinese civilians educator Wu Xun was born',
+'class'=>4,
+'cont'=>'December 5, 1838 (Reform Movement, October 19), the civilians educator Wu Xun was born. <br> <br> Wu Xun (1838 -1896 on April 23, 2011), a famous modern Chinese civilians educators, public school pioneers. (Now Shandong Province tangyi County case Guanxian) Liu Lin Zhenwu Zhuang people impoverished. Due home BOC seven, named wu seven, later renamed the birth of Wu Xun \"target =\" _blank \"> since the Wu Xun. <br> From the 21-year-old (Qing Xianfeng years), Wu Xun begging to raise capital set up a free school, the goal is to make them (poor families children) no money can be reading, so that they read the book no longer be bullied \"In 30 years time, Wu Xun begging toured Shandong, Hebei, Henan, Jiangsu and other provinces. [L $ dj¦Ó.c¨­m] Wu Xun begging process, a peculiar shape of their own design to attract people&#39;s attention: first sell the right braids, shaved the hair on the right; later shaved hair on the left, while on the right, and grown a handful of hair. performing the \"Canada\", \"scorpion climb programs, or gives kilos for fun, or even eat feces , brick by brick, to get the amount of the school. <br> Guangxu fourteen years (1888) Wu Xun (Lssdjt.com), already rely on begging the proceeds set to buy 230 acres of land as Xuetian savings of more than 3800 diao he set up since the first school for - Chongxian Yi Sook, after the completion of the school, he went to the local learned Scholars cite people kneeling ask them to teach, and to Liu Lin Zhendong outside Tangyi County knees and begged them has ever been to school in a poor people that have more than 50 students enrolled, tuition, school requirements on from his repairing school Tanaka spending after this, every first day of school, Wu Qidu first thanks to the teachers, times worshiped students, this ceremony lasted for many years. <br> 1890, this is a city of Linqing Yang two Chuang, set up a second school for 22 years Guangxu (1896) dying that year in Linqing built Censor Lane (, now Linqing experimental primary school) Keio <br> Wu Xun to wholeheartedly to set up free school even adhere to never have a wife room. <br> < ; br> Wu Xun life toiling on their own and is very frugal, and finally died due to overwork, Guangxu 22 years (1896) of 23 April, in Linqing Censor Lane (, now Linqing experimental primary school) Keio within, smiling , aged 59 years, was buried in the east side of tangyi Chongxian Yi Sook people over the masses the tangyi, Guantao, Linqing three counties all gentry, Wu Xun attended the funeral. <br> ; Comments: lofty spirit of learning Wu Xun insults and begging school. <br>'
+);
+
+?>

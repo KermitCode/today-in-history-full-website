@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-9-28
+	create time:2013-01-02 01:02:22
+*/
+
+return array(
+'title'=>'Chinese Human Genome Research was officially launched',
+'class'=>0,
+'cont'=>'August 13 (對衃 years), September 28, 1993, the Chinese Human Genome Research was officially launched. Reference September 1993, the Chinese Human Genome Research was officially launched. (Lssdjt.cn) by the National Natural Science Foundation of Life Sciences, organized by the Ministry of Professor Tan Jiazhen head of the Expert Group in Shanghai argumentation and by QIANG Bo Qin professor, Chen Zhu, a researcher for the genome of the Chinese nation points after the gene structure of the major projects, to publish this information. <br> human genome research program is the current international biology, one of the most compelling issue in the medical field and cross-century project. 1985 (L $ dj而.c身m) U.S. scientists first proposed to be placed with the Manhattan atomic bomb project and the Apollo moon landing program equally important strategic position. Its goal is to clarify the structure of deoxyribonucleic acid (DNA) sequence of the human genetic information and about 100,000 human genes from the overall function and its expression and regulation, to provide basic data for the study of human genetic diversity reveals 5000 or so human monogenic disease and certain serious harm to human health multifactorial polygenic disease causative gene or disease susceptibility genes, and the establishment of various gene disorders new diagnostic and control methods, so as to promote the scientific basis of the entire life Development and application of research. He proposed to the United States, the European Community, (L $ dj而.c身m), Japan, Canada and the CIS are individual human genome research program. <br> the subject is by far the largest project of the Life Sciences Division of the Chinese National Natural Science Foundation of China, will invest 3 million yuan, strong Boqin Professor by the Chinese Academy of Medical Sciences, Institute of Basic Medical, Shanghai Second Medical University, hematology research The researchers led by Chen Zhu pooled domestic outstanding achievements in human genome research has 12 national key laboratories and research units of the strength of the national team. Combined with China&#39;s specific national conditions, will be the first study in the preservation of the genome of the different ethnic groups in China and a number of sites of gene structure, and to create the conditions for joining the cooperation of the international Human Genome Research. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1868-1-3
+	create time:2013-01-01 18:42:03
+*/
+
+return array(
+'title'=>'Meiji Restoration in Japan',
+'class'=>0,
+'cont'=>'Twelfth lunar month, the ninth day) (Dingmao years, January 3, 1868, the Meiji Restoration, Japan. <br> 1868, the Meiji Emperor of Japan issued a the \"five administrative retro\" edict, this famous Japanese Meiji Restoration \"target =\" _blank \"> the beginning of the Meiji Restoration Movement. <br> the mid-19th century, has always pursued isolationist policy of Japan, was the aggression of the United States, Britain, France, Russia and other countries, faces serious national crisis the Japanese people hostile to foreign invaders, more hate and invaders colluding shogunate farmers and members of the public have uprising, to carry out the movement of the back screen; reform forces in the middle and lower samurai, merchants, capitalists and emerging landlord put the fight back screen on this day to launch in January 3 the coup, sent down screen royal the Gongqing and daimyo and samurai attended the Imperial Conference held by the Emperor Meiji, announced that \"five political retro\" restore the emperor reign, the abolition of the shogunate, the establishment of a new central government, (lssdjt.cn) and ordered Shogun Tokugawa Yoshinobu to hand over territory and property. 6 at night, <br> Tokugawa Yoshinobu fled to Osaka, the concentration of forces counterattack. outbreak of the civil war by the end of January, the Bakufu army beat the shogunate army near Kyoto, Germany Chuan fled the Edo <br> in February, Emperor organization the discuss curtain Army, and actively cooperate with the majority of farmers and the urban poor, the the Bakufu Army finally defeated the shogunate army three times larger than their quantity, Tokugawa Yoshinobu forced to surrender, victory sent down screen, the new Japanese government. establish the Meiji Emperor, led by Emperor Meiji waste Phan home county, the national program for 3 House 72 counties, the elimination of the feudal separatist forces, establish a unified, centralized countries, for the development of capitalism swept away obstacles, since then, ruled by the Emperor Meiji, carried out a series of reforms, the path of the development of capitalism in Japan. (lssdjt.cn) in the history of Japan called & ldquo ; Meiji Restoration. <br> Itagaki the Taisuke <br> Itagaki Taisuke, most people recognized that he is a pioneer in the freedom of the civil rights movement of the Patriarchs in Japan and the Japanese constitutional politics day called him the constitutional \"God-like\" and he erected a bronze statue in the Empire Parliamentary halls, and even Japan today prevailing hundred Yuan banknotes, also printed on portrait he Meiran elegant, Forever remembered by the world. <br> Meiji Period of , Japan opened steel factories. <br> the Japanese Meiji Japan brothel <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1627-1-25
+	create time:2013-01-01 18:41:45
+*/
+
+return array(
+'title'=>'The founder of modern chemistry - Boyle',
+'class'=>0,
+'cont'=>'January 25, 1627 (Bingyin the twelfth lunar month, the ninth day), the founder of modern chemistry - Boyle. 25, 2009, <br> 1627 years history. cn] in Munster, Ireland, England, an aristocratic family, the birth of a little boy, (lsjt.org) he is a world-renowned chemist later Boyle and physicists. the <br> Boyle infancy display a remarkable memory and language skills. Father very much like Boyle, he invited the best tutor, and sent him back to Italy and Switzerland to learn. Boyle, however, are not satisfied with this abundant life of the children of the nobility, and do not want to spend their precious youth in the cozy life, he want to make a difference in science. In <br> 1645 Boyle, who just turned 18 years old, he settled in Dorset for seven years the Expo in science, philosophy, and theology books and began a scientific experiment. Later, he moved to Oxford. In 1654, he established a laboratory of the University of Oxford to start fully engaged in scientific research. History www.TodayOnHistory.com <br> Boyle attaches great importance to the role of scientific experiments. Many of his scientific discoveries, are obtained from the experiment. Once he did the experiment, accidental drop of hydrochloric acid spilled into a violet petals. He quickly put the flowers into the cup in the rinse, and soon, the petals actually from purple to red. This makes Boyle surprised he do the same experiment with a variety of other acid results violet equally by the purple to red. This finding makes Boyle was very excited, he experiments with alkali, found The alkali also enables violets change color. Boyle&#39;s thinking, not only with a variety of flower bulbs various immersion also use herbs, moss, bark and roots of many plants, bubbles out of a lot of different colors of immersion, one by one test found a species from the litmus moss extract the purple immersion case of acid turns red, alkali turns blue. In this way, he invented the identification of acid and base indicator - litmus bring a lot of convenience for the purposes of scientific research work. Boyle is also based on the experimental illustrates the principle of pneumatic lift, and found that the volume of gas with the pressure to change the law, later known as Boyle&#39;s law in physics. <br> Boyle, died in 1691. Many writings of his life, mainly the physical and mechanical experiments on the elasticity of air \", the chemist\" suspect \",\" color experiments and considerations \"and so on. He criticizes the point Alchemist the idealism \"element\" concept, the element is defined as the failure to decomposition of the material, chemical studies began to establish the scientific basis, Engels once pointed out: \"Boyle established chemical to science. \"<br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1453-5-29
+	create time:2013-01-01 20:54:40
+*/
+
+return array(
+'title'=>'Eastern Roman Empire.',
+'class'=>0,
+'cont'=>'May 29, 1453, April 21) (對衃 years, the Eastern Roman Empire. <br> 13 century, the Ottoman Turkish Empire began outside aggression and expansion. The mid-14th century, (L $ dj而.c身m) Ottoman Turkish occupation positions across the Straits of Dardanelles, as a base to promote the European. Nico Fort in 1396 the First World War. Turks defeated the feudal lords allied forces in Europe, the Balkans, most of the land in the Turkish military occupation (the l $ dj而.身r阱) Constantinople became an isolated city. <br> 1453 6, 2009, the Ottoman Turkish Empire (King) Sultan Mehmed II (1451-1481 reign) personally led 200,000 troops and 300 warships, from the west line of Constantinople launched a massive offensive. Turkish military using the heavy artillery Menghong (gun weighs 33 tons, is 12 meters long), however the city defense sturdy, shelling invalid. Turks and digging tunnels straight through the city of Constantinople, explosives to blow up the town residents, authentic clogged and unable to move forward. The soil Army activities fortress siege lapse in the defenders military and civilian life-and-death fight against under. Mohammed II in the face of a series of failed, <br>, he adopted a recommended route through Genoa merchants control side of the Golden Horn to the Galatians stronghold attack Constantinople. Turks in order to protect the Genoa merchants commercial privileges in Galatians conditions, bribed Genoa merchants. In Galatians soil Military Jianhou wood laying a road surface of the plate to apply a lot of tallow, imported oil, to reduce friction. After a night of hard work, 80 Turkish warships through the fairway, and brought into the Golden Horn. The Turks immediately erected a pontoon bridge on the water, build a fort on the shore, to complete the arrangement siege of Constantinople. <br> after more than seven weeks of fierce fighting, before dawn on May 29, 1453, the general offensive launched by the Turks of Constantinople from the sea and on land. Constantinople exhaustion, nor back-up, the Turkish army invaded the city. Eastern Roman Empire, the last emperor Constantine XIII see the hopeless situation, fancy dress walked out the door and fled, the Turks killed in the melee. That night, the Turks occupied the city of Constantinople. The Turks burning and looting in the city, looted ancient art treasures, gorgeous building was burned. The fall of Constantinople, marks the continuation of the demise of the Eastern Roman Empire 1,000 years. Subsequently, Turkey Constantinople was renamed Istanbul. [Lssjt.cn] <br>'
+);
+
+?>

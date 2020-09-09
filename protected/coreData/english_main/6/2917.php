@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1985-4-6
+	create time:2013-01-02 08:43:46
+*/
+
+return array(
+'title'=>'Sudan military coup',
+'class'=>0,
+'cont'=>'April 6, 1985 (, Yi Chou February 17), the Sudanese military coup took place. <br> 1985, Sudan&#39;s defense minister and chief commander-in-chief of the armed forces, Dahab announced that the army took over power, lifted the office of President Nimeiri. After the coup, the armed forces have to call Dahab expressed support for, the people took to the streets to cheer the coup had succeeded. <br> the fuse of this coup, is a large-scale anti-government demonstrations and strikes in the masses. Nimeiri March 28 visit to the United States, due to the basic domestic food prices caused discontent among the masses, began demonstrations and clashes with the military government. The people of the wave of protests incessantly in the increasingly tense situation in the country. After another outbreak of a nationwide general strike from April 3, the number of strikers reached twenty thousand people or so, Sudan and isolated from the outside world, all the disruption of air traffic and telephone, telecommunication links, voices against the government throughout the country. In view of the deteriorating situation, the military announced the takeover and \"will temporarily remain in power. the <br> observers believe that a military coup in Sudan, as well as its profound political, economic and historical reasons. In recent years, the poor management of the Government of Sudan, appropriately planned, they rush to implement economic reforms, market depression, acute shortage of gasoline and other necessities of life is also very tight supply. The recently taken devaluation and cancel price subsidies for bread, gasoline and other basic life goods, leading to rising prices, aroused strong dissatisfaction of the masses. another important reason, is the <br> economic deterioration Sudan affected by drought for four consecutive years, a large number of cuts in agriculture, the current victims has reached 175 million. the implementation of domestic policies in <br> Sudan in 1985 also contributed to the important reason for the people to oppose the current government. July 1983, Nimeiri strengthen the domination of the south, the southern part is divided into three regions; September Nimeiri announced the implementation of Islamic law in the country, banned the production and sale of alcoholic beverages, as well as some recreational activities, which have greatly deepened the ethnic, religious and linguistic differences between the north and the south and the opposition. The vast majority of people in the south are Christians, generally these measures as the government of discrimination in the South, the anti-government armed activities in the south along with more development. <br>'
+);
+
+?>

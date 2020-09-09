@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1872-3-10
+	create time:2013-01-01 21:36:17
+*/
+
+return array(
+'title'=>'Italian bourgeois revolutionary Mazzini&#39;s death',
+'class'=>3,
+'cont'=>'March 10, 1872, two days of February (Renshen years), the death of Italian bourgeois revolutionary Mazzini. Mazzini, <br> <br> Mazzini, Italian revolutionaries, the leader of the national liberation movement. Italy, one of the founding of the three heroes (the other two Cavour, Prime Minister of the Kingdom of Sardinia, and known as the \"hero of two worlds\" Garibaldi), was born in Genoa on June 22, 1805 March 10, 1872 Day died in Pisa. The 14-year-old into a medical student of the University of Genoa, after the transfer of law. After graduating from college in 1827, lawyers for the industry, and writing articles for the Progressive Publications. 1830 joined the Carbonari. In November of the same year, was arrested by renegade informant. 1831 was expelled from Italy in August of the same year, the establishment of a youth in Marseille Italy Party. The purpose of the party is to launch a revolutionary uprising to overthrow the feudal lords of domination by Austria, Italy united into a free, independent, unified bourgeois democratic Republic. In July 1833, the party in Genoa uprising failed due to a sergeant informant, Mazzini was sentenced in absentia to death, Youth Italian party disintegrate. Mazzini in exile in London in 1837. 1840 announced that the reconstruction of the young Italian party. Create the International People&#39;s Alliance in 1847. Italy during the revolution back in 1848 in Milan, organized by the \"Italian people\". February 9, 1849, after the establishment of the Roman Republic, was elected one of the three ruling of the Republic, the government&#39;s actual summit. To implement a series of progressive bourgeois democratic reform, including all movable and immovable property nationalized Sangha, the abolition of the ecclesiastical courts, the establishment of the secular courts and lower import tariffs. After the Pope called upon France, Austria, Spain and the two Sicilies collective interference in the defeat of the revolution. Mazzini was forced again into exile in London in 1850, the Central Committee of the European democrats; establish Italy&#39;s Friends in 1851; 1852 to 1853, has launched organization Lombardy anti the Austrian uprising and Milan anti-Austrian uprising. 1857, (Lssdjt.com) attack spearhead point two Sicilies and Bourbons twice expedition, but were not successful. \"Thought and action\" magazine published in London in 1858, is actively running for the establishment of a unified Italy, support the G. Garibaldi expedition to south Italy, Naples after the liberation in 1860, to persuade Garibaldi to enter Rome, a minor, was forced to once again moved abroad. <br>'
+);
+
+?>

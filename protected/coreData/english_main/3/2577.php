@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1990-3-3
+	create time:2013-01-01 22:23:58
+*/
+
+return array(
+'title'=>'The first human victory walk across the Antarctic',
+'class'=>0,
+'cont'=>'(Gengwu February seventh day), March 3, 1990, the first human victory walk traverses. <br> across the Antarctic scientist Qin Dahe In 1990, six members of the 1990 International Trans Antarctic Expedition \"which lasted more than seven months, 5,984 km trek finally reached the peace in the former Soviet Union Station. This is the victory of the century, mankind has made to reach the Earth&#39;s poles, boarded the Earth summit of Mount Everest, and fly to the moon again of great significance. <br> after World War II, turned to scientific expedition to the Antarctic explorers. Gradually over 10 countries have set up more than 140 research station in Antarctica around. However, the hinterland of Antarctica is still a mystery. Thus, (on com) the United States and France co-sponsored and organized an expedition, ready to complete a great initiative for the first time in the history of mankind across the Antarctic continent on foot. To Zhezhi expedition by China, the five permanent members of UN Security Council of the United States and the Soviet Union, Britain, France and Japan factions an officer. Lanzhou Institute of Glaciology and Geocryology, an associate researcher at the Institute of Qin Dahe, China&#39;s accession to the 1990 International Trans Antarctic Expedition. \" The visit aimed to show the world the spirit of the countries over the years in the Antarctic research activities follow the \"co-operation, peace and friendship\" will continue to arouse the international community on Earth, the last piece of the original continent&#39;s cherished and concerns . <br> 1989 28, Qin Dahe and other players starting from the top of the Antarctic Peninsula, began their dangerous journey from west to east. That criss-cross the crevasses, snow-covered underground drain, a depth of a few meters or tens of meters, the inspection team only with a ski pole to strike ice Pathfinder, cautious road. Event Antarctic blizzard, visibility is only over 10 meters, day players can only move forward two or three kilometers. <br> During the inspection, the team only Qin Dahe, the former Soviet Union team with the task of scientific investigation, so they have to pay more than others labor. Trip to Antarctica, Qin Dahe exploitation of more than 800 bottles of snow like to collect a lot of information about Antarctica glaciers, climate, environment, and the successful completion of the observation mission of the profile of the station from the Antarctic Peninsula to the South Pole to the peace of the snow layer . <br>'
+);
+
+?>

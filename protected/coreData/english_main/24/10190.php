@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1904-10-24
+	create time:2013-01-02 01:49:24
+*/
+
+return array(
+'title'=>'Hua Xing Hui Changsha uprising abortion',
+'class'=>0,
+'cont'=>'October 24, 1904 (Sept. 16), Jia Chen, Hua Xing Hui Changsha uprising abortion. Changsha uprising in <br> 1904, Huang Xing, Liu Coyett Mafu Yi agreed. The provincial capital Wubei Institute students contacted the old and new to the military mainly Gelaohui the congregation supplemented. Outside the city is divided into five-response, and specify Xieshou Qi, Guo Yiting combination of Liuyang, Liling volunteer army; Shenlan Sheng Huang Renzhe combination Hampshire volunteer army; Tour victory, Hu Youtang combination Changde volunteer army; the Xiao Guisheng, Wang Yutang combination Yuezhou army; Deng Chang Chu Tan Jusheng combination of treasure the Qing army waiting Huaxing would send command and jianjun, conjunction with offensive Changsha. Generally acclaimed the Huangxing as coach, Premier Liu Yi, Ma Fuyi deputy commander. On September 25, Liuyang & Poor Fair along the cases open Pneuma trading Assembly, go to the market, tens of thousands of people. Sent Huang Xing LAU Coyett, Chen Tianhua rushed to the general fairs, with Mafu Yi and other secret meeting agreed the large ordnance shipped to, that advance cite righteous. Unexpectedly accident. the <br> known as the \"tyrant\" Wang Xianqian been watching for the new academic trends, Huaxing Founded soon get his attention. A Huaxing Member inadvertently spill the beans by Wang xianqian disciples Liu Zuo Yi detected the Wang Xianqian anxious to governor Lu Yuanding informant, demanded the arrest of Huang Xing, Liu Premier first class. Lu discourage because some people do not immediately catch people, life Patrol kept strictly Detective. The Guanting detective to get to know the will of the party&#39;s five-inspections He Shaoqing, Guo Heqing, camouflage is better to earn the truth, in Liling Station to catch the two sent to the provincial capital. <br> 10, 24, bowls dispatched to catch people searched Hua Xing Hui organs. The Huangxing this case is assistant minister Long Zhan Lin home in the rules of procedure, the son of the Dragon Fu Rui generously possession of guests, and personally Changsha in the school will the Huaxing file remove destroyed. The the Premier Liu first-class have fled, will be the party leader Yu Desheng, Xiao Guisheng arrested. Tour, Xiao confession in the agony of torture under the facts, the more urgent official raids. Huang Xing transferred to the auspicious Lane Anglican, sheltering them by the priests Huangji Ting and other then masquerade latent Changsha, fled to Shanghai, Premier Liu Zhongyi and also go to Shanghai, Ma Fuyi then fled to Guangxi. Hua Xing Hui&#39;s first armed uprising this abortion. <br>'
+);
+
+?>

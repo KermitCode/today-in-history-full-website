@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1986-12-20
+	create time:2013-01-02 02:20:05
+*/
+
+return array(
+'title'=>'Esthetician Zong Baihua&#39;s death',
+'class'=>0,
+'cont'=>'December 20, 1986 (Bingyin the winter months XIX), esthetician Zong Baihua&#39;s death. <br> Zong Baihua&#39;s death \"target =\" _blank \"> Zong Baihua In 1986 December 20, 2010, death of esthetician, philosopher, poet, professor at Peking University Zong Baihua at the age of 89 years old. <br> Baihua, Changshu, Jiangsu Province in 1918, graduated from Shanghai Tongji University Language Branch (l $ j而.c里)] <br> 1920-1925 study in Germany, worked in the University of Frankfurt and Berlin University to study philosophy and aesthetics after returning home, he was a professor of the Department of Philosophy at Southeast University, Central University professor of philosophy from 1949 to 1952, he was appointed professor at Nanjing University. been to any of the Department of Philosophy, Peking University professor of the China National Aesthetics Institute of consultant. (L $ dj而.妨壯T) <br> Zong Baihua is one of the pioneers of modern aesthetics. before the May Fourth Movement, he has been dedicated to the study of German classical philosophy and aesthetics. especially his Chinese classical aesthetics Lao Zi and Zhuang Zi Wei and Jin aesthetics, more exquisite research and insights he also translated Winckelmann, Lessing, (而身d芋y身里h貝 $ 而身ry.c身m) Goethe, (而身d芋y身里h貝 $ 而身ry.c身m) Schiller, (而身d芋y身里h貝 $ the 而身ry.c身m) Heine, the Rodin of aesthetics and the artist many of <br> Zong Baihua influential poets of the May Fourth period, also a fighter for democracy. the (history TodayOnHistory. com) in 1918, he took part in the initiated by Li Dazhao, (而身d芋y身里h貝 $ 而身ry.c身m) Deng in the summer, \"Young China Association\", was the editor of \"Young China\" magazine in Shanghai, a pioneer of the New Culture Movement in China He a. <br> it one of the important features of the Chinese artistic spirit comes down to \"enrich\" and \"ethereal\" the unity of the finite and the infinite. Zong Baihua aesthetic thought given to China in the Wei and Jin Dynasties special attention that contains positive things He also focuses on Chinese art in the mood and space awareness, performance cordial unified people with a long and infinite nature of life that the Chinese art of space, is a rhythm and music of the time and space one space; This spatial awareness in Taoism and \"Book of Changes\" view of the universe as a philosophical foundation. significantly \"aesthetics take a walk.\" translation there. Kant&#39;s Critique of Judgment \" Modern European Painting Painting On Hudson <br> Zong Baihua in the study <br>'
+);
+
+?>

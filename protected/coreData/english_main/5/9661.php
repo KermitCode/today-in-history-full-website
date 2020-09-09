@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1986-10-5
+	create time:2013-01-02 01:42:53
+*/
+
+return array(
+'title'=>'Tenth Asian Games flame extinguished',
+'class'=>0,
+'cont'=>'(Bingyin September, the first two days), October 5, 1986, the 10th Asian Games torch was extinguished. <br> cycling team won the time trial gold medal in the men&#39;s 100 km organizations and refresh this competition of the Asian Games record <br> 1986, October 5, 8:00 pm, Tenth Asian Games torch extinguished today. As our athletes won two key gold medals in track and field, China&#39;s total number of gold medals at the Asian Games again. At this point, two hundred and seventy of the Asian Games gold medal each winner, China ninety-four, first place; South Korea ninety-three, second place; Japan won fifty-eight; ranking third. The day before, China, South Korea the total number of gold medals was flat, people attention focused on the day the final battle of the track and field. The women&#39;s 4x100 meters gold medal hanging in the afternoon team Pan Weixin, Shao Liwei, Elohim and Tian Yumei chest, they are seven or eight grades forty-four seconds to break forty-five seconds 07 Asian records. Followed by a thrilling men&#39;s 4x100-meter finals, China&#39;s four boys Cai Jianming, Li Feng, Yu Zhuang Hui and Zheng Chen with a single step the wind, won the first prize thirty-nine seconds seventeen refresh thirty-nine seconds thirty-four Asian record, won ninety fourth gold medal for China declared the hopes of South Korea want to wrest from the hands of China first gold medal total. India Usha days to participate in the women&#39;s 4x400 meters relay race for the Indian team won the championship. Football final two nil win Saudi Arabia, South Korea team won the championship. Japanese team made a marathon champion. The closing ceremony from 7 pm onwards. The lights in the main stadium, a collection of one hundred thousand spectators. With the bell three Ming Palace music struck up, eight hundred girls wearing colored national costumes dancing to the representatives of the twenty-seven countries and regions and athletes marching under the flag team leading the rhythm of drums admission. Then, the traditional flag-raising ceremony began. When the next host country, China&#39;s national flag is raised, the field played the majestic \"March of the Volunteers\". The giant scoreboard lit image of Zhu Jianhua Chinese athletes. The middle of the dance scene consecutive. Chairman of the Organizing Committee of the Asian Games closing statement. Al-Sabah announced the closing of the Asian Games. Finally, a bye in Beijing in 1990, \"the words appear on the giant scoreboard. Asian Games at the end of the parting sound. <br> India Usha won the championship for the Indian team to participate in the women&#39;s 4x400 meters relay race <br>'
+);
+
+?>

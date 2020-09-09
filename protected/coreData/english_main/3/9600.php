@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1950-10-3
+	create time:2013-01-02 01:32:04
+*/
+
+return array(
+'title'=>'Renmin University of China was formally established',
+'class'=>0,
+'cont'=>'October 3, 1950, August 22 (GY), Renmin University of China was formally established. <br> predecessor of Renmin University of China, established in 1937 in Yan&#39;an in northern Shaanxi Public School. December 16, 1949, the the eleventh Administrative Conference of the Central People&#39;s Government Administration Council, in accordance with the recommendations of the CPC Central Committee Political Bureau, made the decision on the establishment of the People&#39;s University of China. October 3, 1950, the People&#39;s University of China was formally established. After that, Renmin University of China was formally established \"target =\" _blank \"> Renmin University of China has always been a high degree of attention and care of the three generations of collective leadership of the Party, Mao Zedong, (lssjt.cn) (L $ dj而.妨壯T) Zhou Enlai, (lssjt.cn ) (L $ dj而.妨壯T) Liu Shaoqi, (lssjt.cn) (L $ dj而.妨壯T) Zhu De personnel training of the Chinese People&#39;s University, the school forms instructed in the \"Cultural Revolution\", Renmin University of China force suspended for years after a new lease of life in the care of Comrade Deng Xiaoping and Comrade Deng Xiaoping also the direction of personnel training in the National People&#39;s Congress after the re-school, professional and curriculum system specialized instructions have high hopes. Comrade Jiang Zemin of the People&#39;s University, who twice inscription NPC hold high the great banner of Deng Xiaoping Theory and the Cultivation of outstanding construction professionals <br> Renmin University of China is our country mainly in the social sciences, humanities and economic management science, the country&#39;s leading integrated key universities, from the founder to the development, has been subject to a high degree of attention and care of the CPC Central Committee and the Central Government. <br> 160,000 kinds of specialized personnel Renmin University of China 50 years of co-culture, many of which are philosophers, historians writers, economists, sociologists, politicians, jurists, educators National College of Marxist theory teachers, 60% of Renmin University of China culture. Renmin University of China made great achievements in scientific research of academic books and teaching materials, especially the \"Ninth Five-Year Plan\" period, were published 2008, published 8031. (the l $ j而.c里) Renmin University of China has the humanities, social sciences, economic and management sciences degree point, master degrees, doctorate and post-doctoral programs tops in the forefront of the National College. <br> Review: New China, the first university <br>'
+);
+
+?>

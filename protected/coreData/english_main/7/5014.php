@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1974-6-7
+	create time:2013-01-01 20:31:16
+*/
+
+return array(
+'title'=>'&quot;Art of War&quot; and &quot;Sun Bin Art of War&quot; unearthed',
+'class'=>0,
+'cont'=>'June 7, 1974 (Jiayin years leap April 17), \"The Art of War\" and \"Sun Bin Art of War\" was unearthed. <br> \"Sun Bin Art of War\" is another masterpiece of the grandson School \"after the famous ancient Chinese book on military strategy, but also the\" Art of War \". Sun Bin Art of War \"Originally known as\" Qi grandson, Sun Bin, the legend that he is a descendant of Sun Wu, (而身d芋y身里h貝 $ 而身ry.c身m) Born in A, Qi in the Warring States period, Juan (between the Shandong Yanggu, juancheng vicinity) and Pang Juan together to learn the art of war. the <br> of Pang Juan auxiliary Zuowei Hui Wang do the generals secretly send people to please Sun Bin Wei, the whole Sun Bin and is jealous of his talents above their own, and later framed Sun Bin and with Bin punishment he that go out the kneecap cruel corporal punishment, so that those who called him Sun Bin. <br> the help of friends, Sun Bin last escape from Wei to Qi, advised the king to reuse Qi General Tian Ji&#39;s army, division, the set odd meter defeated Wei Jun, Pang Juan and shot to death. Later, Tian Ji Zou Ji marginalized, went into exile in the state of Chu, Sun Bin probably went out to him, so Han Wang Fu said Sun Bin repair in the Chu. In the Warring States military strategists, Sun Bin is your potential \"that emphasizes transformation is known the Wuqi are and he was a famous military strategist. <br> earliest clearly documented Sun Bin Art of War \"Historical Records\", \"Han Yi Wen Zhi tied it with Miss Art of War\", record the \"Qi grandson eighty-nine four volumes. According to research, \"Sun Bin Art of War\" lost about before the Tang Dynasty. Weiwu Note grandson mentioned \"Sun Bin said: the soldiers fear not throw it to death\" Tang Dynasty Zhao Rui length by Juanjiu also mentioned \"Sun Bin said: Bing fear not save\" and Du the \"written Tongdian\" Volume forty-nine \"Sun Bin said: riding ten advantages\" over from the \"Sui Shu Jing Ji Zhi\" later on but not documented. June <br> 1974, Shandong 1 Linyi Yinqueshan, Han tombs unearthed bamboo this \"Sun Bin Art of War\", which makes long-lost ancient books to be freed. Bamboo slips in this Sun Bin Art of War \"After careful finishing divided into upper, the next two knitting, knitting determined to fall within the fifteen the\" Qi grandson \", including poultry Pang Juan, see Wei Wang, Wei Wang asked\" and \"asked Chen bogey base\", etc.; following compilation is not sure on soldiers belonging to the \"Qi grandson for. Bamboo this number is considerably less than the \"Art and Literature\" recorded this, nor is it a complete version. <br> <br>'
+);
+
+?>

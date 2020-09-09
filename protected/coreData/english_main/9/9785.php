@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1999-10-9
+	create time:2013-01-02 00:37:19
+*/
+
+return array(
+'title'=>'Commemorate the 2550 anniversary of the birth of Confucius Congress',
+'class'=>4,
+'cont'=>'October 9, 1999 (JiMao September day), 2550 Annual General Meeting was held to commemorate the birth of Confucius. Reference October 1999, member of the Standing Committee of the Political Bureau of the CPC Central Committee, chairman of the National Committee of the Chinese People&#39;s Political Consultative Conference Li Ruihuan met with Chinese and foreign experts and scholars to attend to commemorate the 2550 anniversary of the birth of Confucius Conference and the second session of the General Assembly of the International Confucian Association \" . <br> Li said that Confucius was a great ancient Chinese thinker and educator, the Confucian doctrine profound that he created, including the thoughts and ideas of politics, economics, philosophy, ethics, education, the arts, and constitutes the traditional Chinese cultural basis for the formation of the Chinese nation, reproduce, unity, stability and self-reliance among the nations of the world have played an irreplaceable role, has made a very significant contribution to the progress and development of human civilization, has ahead of its time, that transcends national boundaries The far-reaching impact. Many important theories of Confucianism, especially a man, doing things, the wisdom of the nation, has also been widely referenced. <br> Li pointed out that human society is at the turn of the century, facing many contradictions and problems. Solve these problems, of course, we must first rely on contemporary human ingenuity, but also can find wisdom from ancient philosophers. Two thousand years of history prove, Confucianism provide useful inspiration for us to solve the problems facing the human society. We have to take a scientific attitude to the use of the scientific method, Confucianism mining, sorting, summary of research, its essence, tick its dregs, neither hold the residue of old-fashioned, not copy, do not forget about one&#39;s past, the total negation. To give it new meaning to the combination of a new era, penetrated into all aspects of political, economic, cultural and social life and make organic better for real service, truly making the past serve the present. <br> Li said, China as the birthplace of Confucianism, we are proud of, and also feel a great responsibility, we should do more work for Confucian Studies. To pay tribute to him on the enthusiasm of the Chinese and foreign scholars to study Confucianism, and fully affirmed the results of the research, and I hope we work together to strengthen exchanges, Confucianism research to a new level. <br>'
+);
+
+?>

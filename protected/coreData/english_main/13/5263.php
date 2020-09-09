@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:0220-6-13
+	create time:2013-01-01 21:21:15
+*/
+
+return array(
+'title'=>'Eastern Han Dynasty, Cao Cao subordinates of the general Jaap?? Climbing',
+'class'=>3,
+'cont'=>'April 25 (Boxer), June 13, 220 years, the generals of the Eastern Han Dynasty, Cao Cao&#39;s subordinates Jaap?? Climb fed? Lt; br> Jaap?? Climbing? Target = \"_blank\"> Jaap??? ~ 220 June 13), characters let the, (now Bozhou City), Pei Guo Qiao, Xiahou Yuan&#39;s Zuxiong. Generals of the Eastern Han Dynasty, Cao Cao&#39;s subordinates, the offspring of the Han dynasty, one of the founding fathers of Jaap infants. Rose to the rank of major general, high security Xiang Hou. Posthumous No. loyalty Hou. <br> Jaap?? 4 years old, teacher to learn. Someone insulted his teacher, was killed, and thus known for its courage in the village. The Cao Cao <br> revolted, Jaap?? Look at Ottawa seal sew Mu? leavened? arc: Hop vertebral Yan tarsal are?? 190 years) of Cao Cao and Yuan Shao revolted crusade against Dong Zhuo, General Cao Cao Ren Fenwu, (history today www.lssdjt an. com) Jaap??? leek to hate 2 Yi Thom? snipe beans flooded Paul? twilight??? Yan Xiao N Jing? in? ¤Ì? right foot 2 Yi Minamata? elf up?? Lssdjt.com) stay Jaap?? Huo §Ñ bamboo mat R the hospital Carchesium? twilight?? SHEN Yi clever elf caused by trace? brand-promoting the snipe the stans Houzhenzi just F the Mei Yan snipe stans? sword? twilight?? basket for trapping fish basket? nightmare rod? Shu U glue hydroids? the weft aluminum bamboo mat ¢¼ extravagant? County prefect, plus Jianwu general, sealing high security Xiang Hou. A time when a severe drought, Jaap?? Shows? Stays Zan salty? Pension uranium??? Tang, cool Oh Jennifer scrambling ©Ì? The Nuo account hollow Nya 2 paralyzed Mang? Charm the Wei quiet string? 2 Yi arrogant banana ¨º ying roasted Carchesium the? Twilight??? Yi clever larva testis midges sword? ¢Ï deer? stopped??? ¨½??? approximately Ai Wei quiet chord? = ¨° catch?? shortage? 216 years), Jaap de Hoop?? SHEN Yi Minamata? spirits strontium ¨¡2 Yi Japanese Xi? barrel amaranth Province ¢Õ Pa yarn?? properly ¤¾ map? Anhui nest County southwest), to prevent Wu Bing. Jian twenty-four years, Guan Yu Wai Fancheng, Jaap?? The SHEN-yi groom insurance Bei Ze your samples? ¤¾, the??? Henan Jia County southeast), was awarded to a former general. Wendi seal Jaap??? Qu??? The parent bass the Lu Carchesium? Twilight?? The scorpion ¡È ¥Ê feed? Lt; br> Jaap?? Spring? The Weizhou bang Patent? Mang Cao Cao&#39;s death?? Round huang? The nest §¡K? G miscellaneous mane? ¦£? Yue that Qu otter K?? think Benedict cherry?? Mongolia pain leg? bran refers?? Chun R springs? recovery tail? bear? blue chair stretch whiz beer? lt; br>'
+);
+
+?>

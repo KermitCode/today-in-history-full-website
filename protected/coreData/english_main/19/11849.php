@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1972-12-19
+	create time:2013-01-02 02:15:06
+*/
+
+return array(
+'title'=>'The end of the last Apollo moon program',
+'class'=>0,
+'cont'=>'December 19, 1972 (the 14th Prince the winter months), the last Apollo moon program ended. <br> \"Apollo 17 flight to the moon <br> in 1972 12, 19, completed the longest mission in the series of lunar landing program,\" Apollo 17 & rdquo ; spacecraft splashed down in the Pacific, all U.S. Apollo moon program ended, the three astronauts (L $ dj而.妨壯T) 2 - Eugene-A-Cernan and Harrison - Schmid Special total stay of 75 hours on the moon, at the same time, the three astronauts, Ronald-E-Evans driving command ship around the moon flight. (有身d芋y身里h貝 $ 而身ry.c身m) <br> Schmitt is a geologist, scientist of the first landing on the moon, and leave the Earth after three days of flight, he and Cernan on December 11, boarded moon. Three times the moon, they drove month carriageway traveling in a huge gravel middle of the foot of the mountain, and found a crater. There are indications that, where volcanic activity had occurred. Where they installed a seismographic table to measure any possible earthquake, also installed a gravity table and a cosmic ray detector and other scientific instruments. <br> their most significant finding is bright orange soil that contains a variety of the moon rare elements, scientists believe that these elements show that the barren surface of the moon in the past, and now had the presence of water in this soil. (Lssdjt.com) <br> \"Apollo\" project cost of $ 25 billion, a total of 16 manned flights to the moon flight. 7th \"Apollo 13\" flying almost lead to disaster. The spacecraft on an oxygen tank ruptured, the astronauts to start emergency devices, so that they can be flying lunar orbit and return safely to the ground, \"the Apollo astronauts, brought back from the moon, 836 pounds of rocks and a large number of scientific resources until today after the Apollo 17 moon landing, humans no longer send astronauts to the moon. <br> moon before liftoff, astronauts Cernan and Schmitt to show people a plaque mounted on the landing on board, it will be left on the moon. The plaque on the Apollo 17 astronauts and President Nixon&#39;s signature. The plaque inscription wrote on December 1972 AD, mankind here for the first time to complete the detectors on the moon. May we bring the spirit of peace in the flashing light in the life of all mankind \". the <br> astronauts in lunar activities car and boat landing <br> \"the Apollo 17 astronaut Harrison - Schmitt in a valley on the moon < The br> sampling survey of a large meteorite, his monthly driving in the other side of the meteorite <br> collected in Apollo 17 lunar rock samples <br> Apollo 17 space the boat landing location <br> <br> Apollo 17 extravehicular activity <br>'
+);
+
+?>

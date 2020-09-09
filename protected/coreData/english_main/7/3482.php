@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-4-7
+	create time:2013-01-01 22:05:02
+*/
+
+return array(
+'title'=>'Speech in the Taiwan Affairs Office of the State Council Taiwan Affairs Office spokesman Annette Lu &quot;Taiwan independence&quot; remarks',
+'class'=>0,
+'cont'=>'(Gengchen March 3rd), April 7, 2000, in the Taiwan Affairs Office of the State Council Taiwan Affairs Office spokesman Annette Lu \"Taiwan independence\" remarks spoke. <br> CPC Central Committee and the Taiwan Affairs Office of the State Council Taiwan Affairs Office spokesman issued a statement today, solemnly refuted Annette Lu&#39;s \"Taiwan independence\". Reads as follows: <br> Recently, the \"Taiwan independence\" elements Annette Lu in the interview with Hong Kong media, put Jue resigned stubbornly adhere to the \"Taiwan is a sovereign and independent country\" stance, with the so-called \"distant relatives and close neighbors \"argument advocating across the Taiwan Strait are two Chinese countries, explicit challenge to the one-China principle, deliberate provocation to all the Chinese people. Her vicious language is an attempt to stir up hatred of the Taiwan compatriots on the mainland compatriots, to provoke the antagonism of the compatriots in Taiwan and the mainland. This once again reveals she is an extreme incorrigible \"Taiwan independence\" elements. She counted forget one&#39;s ancestors (L $ dj¦Ó.c¨­m) when the 100 anniversary of the signing of the Treaty of Shimonoseki, openly declared that it was fortunate that the Treaty of Shimonoseki, Taiwan was ceded to Japan (history www.lssdjt.com) shameless to Japan occupation of Taiwan praises, seriously hurt the national dignity and national feelings of the Chinese people, has been reduced to the downright scum of the nation. <br> Taiwanese Chinese, compatriots on both sides are blood brothers. In Taiwan, no matter what people came to power, can not change that Taiwan is part of China facts. Due to the civil war did not end the state of hostility, will not step down because the KMT end. <br> the new leader of the Taiwan authorities in the campaign had made some commitment to the issue of cross-strait relations, we also have solemnly said it would listen to his words and watch his deeds. The Chinese government and people adhere to the one-China principle so that the fundamental issues related to national sovereignty and territorial integrity is firm. No matter what, as long as he dead set to adhere to the two sides is the position of the two Chinese states do not recognize that Taiwan is part of China, to continue to carry out the activities of the \"Taiwan independence\", we are determined to fight it in the end. People of any the separatist ethnic, national, are no good end. <br>'
+);
+
+?>

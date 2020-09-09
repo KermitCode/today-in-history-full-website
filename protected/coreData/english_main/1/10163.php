@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1919-11-1
+	create time:2013-01-02 01:44:12
+*/
+
+return array(
+'title'=>'The first time in American history, the workers&#39; movement climax',
+'class'=>0,
+'cont'=>'(, Kang Xi September ninth day), November 1, 1919, the first time in American history, the workers&#39; movement climax. In, November <br> 1919 strike of 500,000 miners in the United States, (1 $ dj¦Ó.c¨­m) is the climax of the history of the American labor movement labor movement. <br> during World War I, the U.S. capitalists took the opportunity to made a fortune. American wartime implemented policies to regulate economic life \", to ensure the the capitalists get more profits than before the war, but to the workers (and part of farmers) caused by the military hard labor camp, the plight of the working class further deterioration. The victory of the October Socialist Revolution, to promote the development of the workers&#39; movement in the United States. First, the New York dock workers went on strike in January 1919, opened the prelude to the American workers &#39;movement in the early postwar period; February, the Seattle general strike; July and August, the railway workers&#39; strike in Chicago, Boston and Philadelphia. Strike, the U.S. proletariat \"are not allowed to interfere in the Soviet Union\" slogan, and also set up a \"Friends of Soviet Russia Union; the end of August, the establishment of communism, led by John Reed Workers&#39; Party. On Sept. 1, the establishment of the American Communist Party, led by Ruden Fort; September, under the leadership of the Communists Foster, United Steelworkers of America strike, 365,000 steel workers&#39; strikes swept through 10 states, including Pennsylvania, Indiana 50 cities; November, miners and held a strike, which led to a magnificent strikes in the United States over the line. At that time, more than 400 million workers took part in the strike, there has been unprecedented strike climax in the history of the American labor movement. <br> bourgeoisie and its Government of the United States to face this situation, take such measures: to destroy the miners&#39; strike, and then the full suppression of the Steelworkers. They face the miners strike threat, side and engage in activities that disrupt the use of the right-wing trade union leaders from within, and finally the miners strike was neutralized. When miners struggle subsided, they also immediately dispatched a large number of military and police, with the bloody repression of the method to deal with the Steelworkers, large numbers of workers have been killed, thousands of people were arrested. The United States after the war, the first workers&#39; movement climax in the bloody suppression of it. <br>'
+);
+
+?>

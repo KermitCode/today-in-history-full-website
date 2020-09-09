@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1945-2-23
+	create time:2013-01-01 22:18:04
+*/
+
+return array(
+'title'=>'The death of famous Russian writer A ， H ， Tolstoy',
+'class'=>3,
+'cont'=>'February 23, 1945 (, Yiyou first month 11), the death of the famous Russian writer A ， H ， Tolstoy. <br> Tolstoy was born \"target =\" _blank \"> Tolstoy Tolstoy like <br> A ， H ， December 29, 1882, was born in an aristocratic family in Samara. 1901 into the St. Petersburg Institute of Technology, after a school leaver, began his literary creation under the influence of symbolism first book of poetry, \"lyrics\" (1907), a self-professed \"decadent faction works second book of poetry\" behind the blue river \"(1911) and Tales\" Magpie&#39;s Story \"(1910), show that the collection of short stories,\" the left bank of the Volga River \"(1910 of efforts to get rid of the influence of symbolism, inherited the tradition of Russian folklore and realism. ), (1912), describing the economic bankruptcy of the Russian aristocratic landowners and spiritual depravity. novel \"Frankenstein\" (1911) and \"lame classic of yet to completely get rid of the symbolism of these works written is not successful. after the outbreak of the First World War, he was on the frontline of the war correspondent identity, to the United Kingdom and France (1916), write about war essays, close-up as well as novels and plays, such as close-up \"on the way Message\" (1915), short stories \"Beautiful Lady\" (1916), and the screenplay \"Swallow\" (1916), \"the Devil\" (1916), \"Bitter Flowers\" (1917). these works closer to the people that his thoughts and feelings. (L $ djτ . c┃m) <br> A ， H ， Tolstoy warmly welcomed the February Revolution of 1917, but on October Socialist Revolution ensued not understand; out of confusion and fear, to leave in the fall of 1918 He also wrote the motherland, in exile in Paris, in 1921 and moved to Berlin. exile miss the motherland he wrote the autobiographical novella \"Nikita&#39;s Childhood\" (1920-1922) and later as a course of suffering \" trilogy first \"two sisters\" (1922), the completion of a full-length science fiction \"Ai Lida\" (1922-1923) A ， H ， Tolstoy&#39;s creative life began from 1923 new stage, he was first to write a series of outstanding works of the critique of capitalist society, such as the short story \"mirage\" (1924), \"Five League\" (1925), full-length satirical novel \"Kamenev Zuoluo Fu adventure or Eby Marcus \"(1924), science fiction\" Galindo engineers hyperboloid \"(1925-1927), the novel reflects modern life\" Blue City \"(1925). masterpiece trilogy course of suffering.\" after two \"1918\" (1927-1928), \"the dark morning\" (1940-1941), also in this period to complete <br> Later, he also wrote a number of well-known works, such as \"food \". died February 23, 1945. <br> Soviet writer A. Tolstoy <br> A. Tolstoy&#39;s works\" course of suffering \" illustrations <br>'
+);
+
+?>

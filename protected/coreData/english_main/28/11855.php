@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-12-28
+	create time:2013-01-02 02:15:57
+*/
+
+return array(
+'title'=>'Guangzhou-Meizhou-Shantou Railway and the Bay Bridge',
+'class'=>0,
+'cont'=>'December 28, 1995 (the winter of seeing in the beginning of the month seven), the Guangzhou-Meizhou-Shantou Railway and the Bay Bridge. railway terminus <br> GuangMeiShan - Shantou Railway Station <br> 1995 December 28, 2010, Jiang Zemin, Tian Jiyun, Zou Jiahua attend Guanghai held in Shantou, Guangdong Shantou Railway opened to traffic cum Shantou the opening ceremony of the Bay Bridge. <br> Guangdong Provincial Government and the Ministry of Railways ceremony, the Qing Zhu Guangmei Shantou Railway opened to traffic and the Shantou Bay Bridge opened to traffic. Is the general secretary of the Central Committee of the Communist Party of the inspection tour of Guangdong, President Jiang Zemin and local people from all walks of life attended the ceremony. Advanced the pacesetter and advanced representatives rail and bridge builders in the ribbon-cutting celebration. <br> Guangzhou-Meizhou-Shantou Railway joint venture to build a road network in Guangdong Province and the Ministry of Railways railway lines, with a total length of 480 km. Under construction in May 1991 victory paved, July 20, 1995, and September 27, freight, 21 months earlier than the full range of operational goals. The completion of the railway, the end of history, marks, Guangdong Province, railway transportation network in eastern Guangdong Province barrier train basically formed. <br> in Shantou Railway Station on the opening ceremony, member of the Political Bureau of the CPC Central Committee, Vice Premier Zou Jiahua speech. He on behalf of the CPC Central Committee and the State Council, expressed his warm congratulations to the Guangzhou-Meizhou-Shantou Railway opened to traffic and full operation of passenger and freight operators. Mayu Island waters at the the Shantou Port eastern entrances, <br> by Bay Bridge Comrade Jiang Zemin Title is located south of the Shenzhen-Shantou Expressway, north Shantou tide Fen Expressway, is China&#39;s first large span, modern suspension bridge, full-length 2500 m, several companies from Guangdong and Hong Kong joint venture construction, which lasted four years. It built so deep, four beads, Shantou, Xiamen Special Economic Zone and the Hong Kong and Macao more closely linked to the main backbone of China&#39;s coastal high-grade highways Route ties. (Lsjt.org) <br> Tian Jiyun, Xie Fei, Hu Sheng (lssdjt.cn) money Zhengying and other leading comrades and overseas celebrities Li Ka-shing and other people from all walks of life, more than 1,500 people attended the celebration. the <br> Bay Bridge <br>'
+);
+
+?>

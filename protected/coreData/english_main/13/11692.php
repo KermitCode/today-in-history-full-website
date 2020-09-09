@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-12-13
+	create time:2013-01-02 02:54:44
+*/
+
+return array(
+'title'=>'Fuzhou, a Taiwan-funded enterprises catastrophic fires',
+'class'=>0,
+'cont'=>'December 13, 1993 (πÔ”œ the winter in early one), a foreign-funded enterprises in Fuzhou catastrophic fires. In am on <br> 1993 12 13, a pair of slender hand lit a sinful matches, torn black curtain. 4:36, the cauda equina fire squadron received the GAO Fu Textile Co. fire alarm, immediately dispatched fire engines rushed to the scene of the fire maneuvering. The plant building smoke billowed from fires raging building&#39;s west side to the middle of fire is very intense, to the east side of the rapid spread. No way out, into a working girl who lived in the building after the plight of the pursuers, a miserably life-saving voices. Scene extinguishing the commander-in-chief, the fire detachment Fuzhou Zhang Guangrong act decisively ordered quickly composed of four rescue commando. Soldiers braved fire and smoke into the building the working girl smoked halo back out, a total of 34 working girl rescued from Huomo hands. 6:30, the fire was basic control, the fire was extinguished around 7:00. Although the fire get time fighting, but there are still 61 life the Huomo away and caused direct economic losses of 3.036 million yuan, $ 500,000. <br> \"12.13\" catastrophic fire occurred after a careful exploration of the scene of the fire, demonstration, and an eyewitness to investigate access, to identify parts of the fire in the west side of the four-story warehouse south wall stacking at the fire started in the southwest corner of chemical fiber raw materials MN120 (commonly known as the hair bulb). After two days and nights of fighting, eliminate electrical fire, the hair bulb spontaneous combustion, cigarette butts smoldering possibility, according to fire point combustible fire is burning from the outside in, and the short time of ignition, combustion spreads rapidly confirmed The fire is human caused major arson suspects. After verification, the theft was dismissed worker Dong Yang Ling, a major suspect of the crime of arson. On the evening of December 15, the public security organs summoned Dong Yang Ling. Dong Yang Ling did not deny, truthfully confessed to the crimes committed. Acrylic finished yarn due to theft company was fired from the company, and ordered him to leave the company without leave on time, and was general manager of wheat text found and was reprimanded and disgruntled, revengeful. January 8, 1994, the Fuzhou City Intermediate People&#39;s Court of First Instance sentenced arsonist Dong Yang Ling to death and executed immediately. On January 28, the Fujian Provincial Higher People&#39;s Court ruling upheld judgment. <br>'
+);
+
+?>

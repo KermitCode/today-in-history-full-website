@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2009-7-29
+	create time:2013-01-02 00:29:10
+*/
+
+return array(
+'title'=>'Chest lung examination workers were identified as work-related injuries',
+'class'=>0,
+'cont'=>'July 29, 2009 (Year of the OX June eighth day), chest lung examination workers were identified as work-related injuries. chest lung examination <br> <br> Xinmi City, Henan Liu Zhaizhen farmers Zhang Chao has aroused widespread concern in the community. July 29th, 2009, the open-chest lung examination migrant workers was identified as work-related injuries, and has applied for disability identification. Zhang Chao said: \"I run around the results of the past few years is to this proof has now got, but still feel that the results came too late. \"<br> This year, 28-year-old Zhang Chao working in Xinmi curved beams Township Zhengzhou Zhendong wear-resistant materials Co., Ltd., after an enterprise in Zhengzhou Beginning in August 2007, he was feeling unwell, as well as coughing, chest tightness symptoms, has been a cold treatment. In order to ascertain the patient&#39;s condition, he made many trips to Zhengzhou, Beijing Hospital doctor, diagnosed in many hospitals it is suffering from an occupational disease - \"pneumoconiosis\" However, with the identification of eligible institutions of their suffering The disease was identified as tuberculosis. Desperation, Zhang Chao only chest lung examination, the results show that he is indeed suffering from pneumoconiosis, rather than tuberculosis. <br> September 17, Zhang Chao and businesses signed a compensation agreement, he eventually compensated 615,000 yuan. The four workers are also suffering from pneumoconiosis compensation the company a total of over 100 million. Wang Youcai, Shang Wenge, high water Wu, Zhang Chao, (lssjt.cn) <br> three other workers were diagnosed with pneumoconiosis ¢ó &#8203;&#8203;stage. Shang Wenge compensated 315,000 yuan, Wang Youcai compensated the amount of 317,000 yuan, the amount of high water Wu compensated 315,000 yuan. In view of Zhang Chao in Jianshan Ma, Shang Wenge, Wang Youcai and high water Wu has lost the ability to work, Liu Zhaizhen government social security to handle them, with effect from October. <br> Zhang Chao&#39;s body is being restored, he said, although things gone through many twists and turns, but finally results, he is quite satisfied. So he was pleased that several of his workers also have access to compensation. He said: \"My family and I thank each and every concern and help my good-hearted people, and wish good life of peace. \"<br> <br> Comment: poor, (Lssdjt.com) Chinese migrant workers brothers <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1236-6-6
+	create time:2013-01-01 22:19:45
+*/
+
+return array(
+'title'=>'The birth of the Southern Song Wen Tianxiang',
+'class'=>4,
+'cont'=>'June 6, 1236, the first two days of May (Bingshen years), the Southern Song Wen Tianxiang was born. <br> Wen Tianxiang (June 6, 1236 -1283 January 9 years ago 776 years), nickname cloud Sun, the word Tiansiang; After word in the name, change the word Lu Shan; then change the word Song Rui, Wenshan. Jizhou Luling (now Ji&#39;an, Jiangxi). (有身d芋y身里h貝 $ 而身ry.c身m) Southern Song Dynasty, the late minister. Bao four years (1256) Scholars. Song severe cases Xianchun 2009 (1273), Hunan reminding Criminal Prison, the following year was transferred to Ganzhou said, was the news of the Yuan army crossing the river immediately organizations people revolted loyalist. Germany 2002 (1276) the first month, the Empress Xie to the yuan Army drop-down table, Wen Tianxiang was sent to $ Camp negotiations, were detained and escorted northward after managed to escape anti $ militiamen. Jingyan 2002 (1277), the Wen Tianxiang recovered Xingguo County, surrounded Ganzhou, military potential rather Sheng. However, the Wen Tianxiang organized militia, combat effectiveness is not strong, quickly defeated the Yuan army, Wen Tianxiang wife Yuan army captive. He had to clean up the remnants is Ben Xunzhou in Nanling. After the to continue anti yuan in Guangdong&#39;s Chaozhou, Huizhou. Xiangxing the first year (1278), the Song court seal Wen Tianxiang less security, letter nationals. December, the the Yuan army from the land and sea, massive attack, the Wen Tianxiang withdrawal of Chaoyang, transfer Haifeng. Betrayed by a traitor, he again in five sloping ridge, the Yuan army captive. The following year, the first month, which is shifting the Shanghai Boat, write down the Pearl River Estuary Lingding ocean <Over the Lingding Ocean> a poem. Poem to \"life since ancient times who no dead, to retain loyalty according to annals Chi Ming Ningsibuqu. after the demise of <br> Southern Song Dynasty, Wen Tianxiang escorted north sixteen years in the Yuan (1279) arrived October started Dadu (now Beijing). Before the Song Chengxiang remain a dream inflammation by Yuan Dynasty labeled the national companies Ying Song Gongdi, has capitulate to him, are rejected. His body in prison, but the verses ink spread the capital, are regarded as treasures. For ages <Elegy> wrote in prison, listing the different generations in defiance of a powerful, fear no sacrifice character to Ming ready to die for his country&#39;s determination to yourself. Yuan nineteen years (January 9, 1283), December 9, Cai City (this Beijingdongsi House Science, North Street, alley, said in Xuanwumen outside the Caishikou) martyrdom, years forty-seven. Wen Tianxiang posthumous Wenshan Mr. Complete Works. Zhang Shijie, Lu Xiufu he called \"Song Wang three heroes. (L $ dj而.妨壯T) <br>'
+);
+
+?>

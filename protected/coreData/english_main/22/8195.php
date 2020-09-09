@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1910-8-22
+	create time:2013-01-02 00:21:22
+*/
+
+return array(
+'title'=>'Japan&#39;s annexation of Korea',
+'class'=>0,
+'cont'=>'(Gengxu July 18), August 22, 1910, Japan annexed Korea. <br> Japanese envoy Ito Hirobumi (car left) and in the DPRK the Japanese commander Hasegawa good Road (car right) patrol <br> 1910 August 22, 2010 in North Korea, Japan, Ito Hirobumi government forcing The North Korean government signed the Japan-Korea Annexation Treaty. The signing of the treaty (lssjt.cn) marks the formal Japanese annexation of Korea, North Korea has finally become a colony of Japan. 8 total <br> \"Japan-Korea Annexation Treaty text, its main contents are: North Korea permanently to its full sovereignty with Japan; Japan on the Korean royal family to give\" respect \"; Japan control North Korean diplomatic power system monitoring government \"to Government House, the Governor under the Emperor of Japan, by the charge of North Korea&#39;s legislative, judicial and executive powers. <br> encroachment, slavery North Korea and turn it into a colony of the long-term expansion of the Japanese imperialist aggression target. In the early 20th century, the Japanese imperialists greatly speed up the process of annexation of Korea. February 23, 1904, North Korea was forced to sign the unequal \"Korea-Japan Protocol\" with Japan, its main elements are: North Korea has admitted Japan on track to have the right to freedom of military action; Japan the right to interfere in the internal affairs of Korea; without Japan agreed (lsjt.org) North Korea shall not be contrary to the foregoing, any treaty signed with third countries. In August 22 of the same year, Japan forced Korea signed a \"Korea-Japan treaty. North Korea&#39;s financial and diplomatic power treaty actually fall into the hands of the Japanese. November 9, 1905, the Japanese envoy, Ito Hirobumi rushed in Seoul, forcing South Korea to stand. November 18, South Korea was forced to sign Japan and South Korea protection treaty. In July 1907, Japan forced Korea with which the second and third (respectively, the the \"Otomi protection treaty\", \"Korea-Japan treaty\" and \"DingWei seven Treaty was signed). In accordance with the Treaty, North Korea&#39;s internal affairs, foreign affairs power are directly responsible by the Japanese diplomatic officials are required to withdraw from Korea, Japan, established in Seoul \"Government House\". Annexation Treaty signed <br> Japan and Korea, the Japanese imperialists against the DPRK were extremely brutal colonial rule for 35 years, aroused strong dissatisfaction and revolt of the North Korean people. couple and family <br> <br> Ito Hirobumi (left)'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1736-1-19
+	create time:2013-01-02 08:24:53
+*/
+
+return array(
+'title'=>'Renowned scientists Watt&#39;s birthday',
+'class'=>4,
+'cont'=>'January 19, 1736 (Mao, the twelfth lunar month, seventh day), famous scientists Watt&#39;s birthday. death of <br> Watt \"target =\" _blank \"> Watt the bronze statue <br> James Watt Modern England famous scientists improved the inventor of the steam engine, he was born January 19, 1736. father is skilled shipbuilding equipment workers, and later in business. mothers born in the door of the aristocracy, in Watts juvenile era, not only to teach the Watts learning language and mathematics, and also culture he observed Thinking of interest and hands-on learning ability. Watts from small infirm, to go to school, he do not love strenuous activity, often alone, contemplative time Watts see the kettle open water, steam lid red porphyrin porphyrin ring, he spent hours staring at the kettle lid, this is his first time on steam generating strong interest. <br> Watt because of poor health, did not graduate in grammar school dropped out. Thereafter, he went into the regular school he insist on self-study at home, studying astronomy, chemistry, physics, anatomy science, but also mastered Latin, Greek, French, (history TodayOnHistory.com) in German and Italian and often workers and technicians to the father workshop learning technology to make a variety of mechanical model and engaged in chemical, electrical test. <br> Watts was 17 years old, his father failed in business, consist in the decline of his first learning a craft to a watch shop, mechanic and later to London&#39;s famous contemporary techniques; him at age 21 When the repairman, and later he became acquainted with the the famous chemist Black and professor of physics at Lubi Sen; many scientific and theoretical knowledge learned from them is here, he began a study of the steam engine. <br> as early as 200 BC century, mankind&#39;s awareness and use of the steam has a certain amount of knowledge, era life to Watts, has Newcomen steam engine but the steam engine, fuel consumption, low efficiency, only back and forth along the linear motion can not be widely used in a variety of production departments. Watts summed up the experience of their predecessors, after the of repeated reform and trial and spent a decade of effort, finally invented a new type of steam engine. <br> the widespread use of the new type of steam engine to promote of human society forward, [l $ j¦Ó.c¨½] As Engels said: \"steam and industrial machine to manufacture into a modern industrial, which revolutionized the entire foundation of bourgeois society. ( lsjt.net) <br>'
+);
+
+?>

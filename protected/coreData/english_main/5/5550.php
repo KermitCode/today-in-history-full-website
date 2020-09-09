@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2011-6-5
+	create time:2013-01-01 22:19:17
+*/
+
+return array(
+'title'=>'The world&#39;s first cases of AIDS cure patients miracle rebirth',
+'class'=>0,
+'cont'=>'June 5, 2011, the fourth day of May (–¡√Æ years), the world&#39;s first cases of AIDS cure patients miracle rebirth. In In June 1981, the U.S. Center of Disease Control and Prevention in Atlanta in the Morbidity and Mortality Weekly describes the five cases of HIV patients medical history, which is the world&#39;s first AIDS-related formally documented. <br> to June 5, 2011, exactly 30 years past, more than 25 million people worldwide have died of AIDS, and now there are more than 33 million AIDS patients. (L $ dj¶”.c®≠m) <br> 30 years after the discovery of AIDS virus (HIV), the Associated Press reported on the 3rd, the first world AIDS cure cases, the case shocked the entire medical profession! <br> Timothy Ray Brown, an American leukemia patients, and at the same time suffering from AIDS. In the medical profession, Brown is going into the grave, after the bone marrow transplant, however, Brown even miraculously be reborn. This incident shocked the medical community, doctors from him to see the miracle of the medical profession: the end of AIDS. <br> Brown is an American leukemia patients, and at the same time suffering from AIDS. He came to Berlin in 2007 to found the University of Heidelberg, Dr. Hu Te. Huth decided to conduct a bone marrow transplant, the first rule of leukemia. The results are surprising, after three years of clinical observation, the transplant Brown cure AIDS. The original matching bone marrow donor is not very consistent, and bone marrow, there is a natural to resist the AIDS virus mutated gene. According to previous studies found that this variant only in a small number of Nordic human memory in. the most scientists indicates <br>, this method can not be used for other AIDS patients. The high cost of bone marrow transplantation, complex and full of risks, and the need to find the body against HIV gene. According to the current study known Nordic descendants have this feature. Accurate bone marrow donor is difficult to find, and this part of the donors account for only a small portion of all donors. <br> Nobel Prize winner Sinoussi said: \"While this approach is costly, and the risk is also great, but from the perspective of the researchers, I have to say this is an improvement, at least it tells us AIDS can be cured. \"<br> Brown and his dog <br>, from June 5, 1981 human discovery of HIV, up to now, been a whole 30 years. HIV30 years of age, the world of medical technology field has sounded the elimination of horn, will fully eliminate this terrible virus from the world. This source of power, forcing the progress of science; money pressure. It is learned that the only in the world&#39;s developing countries, the annual cost for AIDS treatment had been as high as $ 1.3 billion. <br>'
+);
+
+?>

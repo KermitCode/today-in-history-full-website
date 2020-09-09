@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-12-10
+	create time:2013-01-02 02:28:10
+*/
+
+return array(
+'title'=>'Death of physicist Wang Ganchang',
+'class'=>3,
+'cont'=>'December 10, 1998 (October 22) Tiger years, the death of physicist Wang Ganchang. <br> asked the \"863 Program\" scientist Wang Ganchang, Wang Daheng, Yang Jiachi, Chen Fangyun (right) <br> December 10, 2011 21, 1998 48, the famous nuclear physicist, China the founder and one of the pioneers of nuclear science, senior academician of the Chinese Academy of Sciences, Honorary Chairman of the Jiu San Society Central, an outstanding member of the Communist Party of China, the original second Machinery Industry Vice Minister Wang Ganchang died in Beijing at the age of 91. <br> Wang Ganchang, graduated from Tsinghua University in 1929, and in 1930 into the University of Berlin, Germany. Ph.D. 1933, returning in April 1934, and 1941, he proposed verify neutrino experimental program and confirmed by experiments. <br> 1958, Wang Ganchang team built a 24-liter propane bubble chamber. Before and after a total of nearly 100,000 bubble chamber photo. March 9, 1959, a complete anti-sigma negative hyperons were found from 40,000 photos, this is the first time that the charge in the experimental overtake sub. In September 1959, Wang Ganchang team announced the discovery of a sensation the world. This finding, rich human antiparticle, to fill a gap on the particle - antiparticle table. <br> 1961 years before, he was involved in China&#39;s atomic bomb, hydrogen bomb, the principle of breakthrough and test nuclear weapons development and organizational leadership, one of the founders of China&#39;s nuclear weapons development. <br> 1964, he independently put forward the idea of &#8203;&#8203;nuclear fusion laser targeting, one of the founders of the world laser inertial confinement fusion theory and research, and the research work in this area to walk in the world at that time national forefront. the <br> 1986 years, Wang Daheng, of Wang Ganchang and Yang Jiachi, Chen Fangyun academicians joint central and Deng Xiaoping wrote, proposed \"to track the recommendations of the the world strategic high-tech development. Proposed crystallization strong sense of historical responsibility of the generation of scientists. Before long, Deng Xiaoping in the \"recommended\" instructions: to Yi Su decision without delay. More than 200 experts and scholars on this plan comprehensive argumentation and modify. November 1986, the the enlarged meeting approved by the executive meeting of the State Council and the CPC Central Committee Political Bureau, China&#39;s high-tech Research and Development Program, gave a depth deployment of seven key disciplines such as biology, aerospace, information, automation, laser, energy, named the \"863 Program\". <br>'
+);
+
+?>

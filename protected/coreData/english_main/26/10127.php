@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-10-26
+	create time:2013-01-02 01:37:19
+*/
+
+return array(
+'title'=>'The Government repulsed &quot;financial predators&quot; Soros',
+'class'=>0,
+'cont'=>'October 26, 1998 (September seventh day) Tiger years, the Government repulsed \"financial predators\" Soros. <br> Soros In October 1998, the Government first announced in August this year, in order to counter-attack is known as \"predators\" of international speculators disposable Exchange Fund number and shares held by the situation: the market from August 14 to August 28 sweep goods, the Government spent a total of HK $ 118 billion, 33 blue chips are to become members of its investment portfolio. The date of the closing price of 33 blue-chip batch of stock market capitalization of up to 146.5 billion yuan, the Government of the book profits of 28.4 billion yuan, the rate of return of 24%. <br> early August this year, the international currency speculators launched the Hong Kong dollar since last October, following the fourth large-scale impact. August 5, Quantum Fund, led by international speculators, thrown in just half a day of nearly HK $ 28.7 billion (about 3.7 billion U.S. dollars) a sale order, swept into the long-term US-electricity and sell interest rate futures contracts, at the same time spreading the RMB will devaluation rumors, this \"leverage effect\", and the crazy Put HK $ tore the face of the international \"predators\" mad bite, the Government no longer tolerate decisively to prop up the market, took seventh in foreign exchange reserves on a shrinking stock market. Although this approach risked great danger, but the Government can not sit by international speculators are shaken positive and stable foundation - the linked exchange rate Moreover, international speculators speculation has seriously impeded the normal functioning of the stock and futures markets. <br> Soros so many governments \"dreaded\", the Soros representative of five hours prior to the advent of World War II to accept U.S. CNN Radio interview, complacency, he said, \"the Government will be lost.\" , but soon they will pay for themselves this speculative action the price, the loss of one billion U.S. dollars. <br> September 28, experienced a more than usual than 20 times as high as HK $ 97 billion trading days and sleepless nights after in Hong Kong, Chief Executive Tung Chee-hwa smile, announced at the Convention Center: Hong Kong to hold! The linked exchange rate system is not to shake! After this century gamble, the Hong Kong SAR Government can unashamedly announce to the world, Hong Kong is a free economic system, but by no means as claimed by some international speculators, their ATM & rdquo ;, once money, simply by pressing a few buttons to ATMs became. <br>'
+);
+
+?>

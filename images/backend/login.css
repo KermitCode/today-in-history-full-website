@@ -1,0 +1,61 @@
+HTML {
+	MARGIN-BOTTOM: 1px; HEIGHT: 100%; FONT-SIZE: 100%
+}
+BODY {
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ", "ËÎÌå"; COLOR: #555; FONT-SIZE: 12px
+}
+.bg {
+	MARGIN: 0px; BACKGROUND: url("loginbg.gif") #3c7fb4 repeat-x
+
+}
+FORM INPUT.text-input {
+	BORDER-BOTTOM: #cad8e5 1px solid; BORDER-LEFT: #cad8e5 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FLOAT: left; COLOR: #333; FONT-SIZE: 13px; BORDER-TOP: #cad8e5 1px solid; BORDER-RIGHT: #cad8e5 1px solid; PADDING-TOP: 4px
+}
+FORM SELECT {
+	BORDER-BOTTOM: #cad8e5 1px solid; BORDER-LEFT: #cad8e5 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FLOAT: left; COLOR: #333; FONT-SIZE: 13px; BORDER-TOP: #cad8e5 1px solid; BORDER-RIGHT: #cad8e5 1px solid; PADDING-TOP: 4px
+}
+FORM TEXTAREA {
+	BORDER-BOTTOM: #cad8e5 1px solid; BORDER-LEFT: #cad8e5 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FLOAT: left; COLOR: #333; FONT-SIZE: 13px; BORDER-TOP: #cad8e5 1px solid; BORDER-RIGHT: #cad8e5 1px solid; PADDING-TOP: 4px
+}
+FORM .wysiwyg {
+	BORDER-BOTTOM: #cad8e5 1px solid; BORDER-LEFT: #cad8e5 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FLOAT: left; COLOR: #333; FONT-SIZE: 13px; BORDER-TOP: #cad8e5 1px solid; BORDER-RIGHT: #cad8e5 1px solid; PADDING-TOP: 4px
+}
+FORM INPUT:focus {
+	BORDER-BOTTOM: #66b3e7 1px solid; BORDER-LEFT: #66b3e7 1px solid; BORDER-TOP: #66b3e7 1px solid; BORDER-RIGHT: #66b3e7 1px solid
+}
+FORM textare:focus {
+	BORDER-BOTTOM: #66b3e7 1px solid; BORDER-LEFT: #66b3e7 1px solid; BORDER-TOP: #66b3e7 1px solid; BORDER-RIGHT: #66b3e7 1px solid
+}
+FORM SELECT:focus {
+	BORDER-BOTTOM: #66b3e7 1px solid; BORDER-LEFT: #66b3e7 1px solid; BORDER-TOP: #66b3e7 1px solid; BORDER-RIGHT: #66b3e7 1px solid
+}
+FORM LABEL {
+	LINE-HEIGHT: 28px; WIDTH: 55px; DISPLAY: block; FLOAT: left; COLOR: #566489
+}
+.text-input {
+	WIDTH: 160px
+}
+.text_auth {
+	WIDTH: 80px
+}
+FORM LABEL.img_auth {
+	MARGIN-TOP: 2px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.buttonsubmit {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 25px; WIDTH: 70px; DISPLAY: inline-block; FONT-FAMILY: Verdana, Arial, sans-serif; BACKGROUND: url(../../pics/loginbtn.gif); HEIGHT: 25px; COLOR: #606c78 !important; FONT-SIZE: 12px !important; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+.buttonlink {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 25px; WIDTH: 70px; DISPLAY: inline-block; FONT-FAMILY: Verdana, Arial, sans-serif; BACKGROUND: url(../../pics/loginlink.gif); HEIGHT: 25px; COLOR: #606c78 !important; FONT-SIZE: 12px !important; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+.loginmian {
+	MARGIN: 55px auto 0px; WIDTH: 640px; BACKGROUND: url(logintip.png) -23px 0px; HEIGHT: 231px; _background: url(pics/logintip.png)
+}
+.logininner {
+	MARGIN: 0px auto; WIDTH: 413px; BACKGROUND: url(login.png); HEIGHT: 231px; _background: url(pics/login.gif)
+}
+.login {
+	MARGIN: 0px auto; WIDTH: 270px
+}
+#logintip {
+	LINE-HEIGHT: 30px; MARGIN: 0px auto; PADDING-LEFT: 55px; WIDTH: 215px; HEIGHT: 30px; COLOR: #ff6600; PADDING-TOP: 30px
+}

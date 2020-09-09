@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1914-1-10
+	create time:2013-01-01 21:12:32
+*/
+
+return array(
+'title'=>'Yuan Shikai announced the dissolution of parliament',
+'class'=>0,
+'cont'=>'January 10, 1914 (15 Guichou twelfth lunar month), Yuan announced the dissolution of the parliament. <br> Yuan Shikai, the use of force to suppress the \"second revolution\", but Beijing still exist with the the KMT majority of Congress. Congress elected him as the official president, vowed to respect the rights of the Members. These Kuomintang Members Progressive Party Members cooperation in the establishment of the Constitution Drafting Committee. <br> Yuan Shikai In order to win over the Progressive Party, Xiong Xiling appointed in July 1913, the party to Prime Minister. Progress partisan claim to \"first flow of talent and a first-class experience.\" The \"celebrities Cabinet.\" In September, the Cabinet composed of only a judicial, education, transport, farming each of the total length of the post by the progress partisan Liang Qichao, Wang Daxie weeks since Qi, Zhang Jian, respectively, served as fiscal Xiong Xiling Chief reasonable diplomacy, the House, the Navy, the Army and other important sector is firmly in control Sun Baoqi, Zhu Qi Ling, Liu Guanxiong,,, Duan direct descendant of warlord Yuan Shikai, the hands of bureaucrats. the Constitution <br> also a chance to develop, Yuan Shikai to put pressure on Congress, in October 1913, when the official President. Subsequently, he was determined to political parties and Congress kicked open, has dissolved the KMT and the Congress. Yuan Shikai capacity as the President, <br>, on November 4, 1913, seized the Imperial University of martial law at the grounds of the dozens of letters between Mr Li Lieh-chun and the KMT secret power, an excuse KMT participation in rebellion, ordered the dissolution of the KMT. Northern military police that afternoon, seizure of the KMT headquarters. Certificate, badge and surrounded by the Congress in the 5th collection of KMT members. Been seized within two days of the certificates, badges Members of more than 430 people, more than Congress half, resulting in Congress due to lack of quorum and close-out. 10, 2009, the Constitution Drafting Committee to dissolve itself. On the 12th, the Yuan Shikai government ordered the disqualification of the Provincial Councils KMT Members. On the 14th, the President of the Senate, the Royal hsiang, Conference House Speaker Tang Hualong joint statement, announced that Congress was suspended. 26, Yuan Organization Queen of the political meeting to usurp the terms of reference of the Congress. January 10, 1914, Yuan announced the dissolution of Parliament, Members funded the repatriation of membership. February 28, Yuan has ordered the dissolution of the Provincial Councils. <br> Comments: Congress has become a political tool of the Yuan Shikai, was playing in the hands. (? V history today?? Com) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-10-24
+	create time:2013-01-02 01:51:56
+*/
+
+return array(
+'title'=>'Italy seized with a sensation throughout the major oil smuggling case',
+'class'=>0,
+'cont'=>'October 24, 1980 (September 16) Gengshen, Italy seized with a sensation throughout the major oil smuggling case. <br> 1980 October 24, 2010, [而身d芋y身里h貝 $ 而身ry.c身m] Italy seized with sensation in the country&#39;s major oil smuggling case, the stolen money to two trillion liras ($ 2.2 billion), involves a lot of politicians, there are 70 people were arrested. <br> since 1974, some of Italy&#39;s northern regions oilman long-term to bribe senior political and military officials, smuggling activities. These oilman monthly boxes sent people up to the amount of two hundred million liras banknotes shipped to Rome for bribery. These merchants operate over a long period in half of Italy to form a massive smuggling network, down to the garage staff, the driver of a tanker, the Inland Revenue Department officials, to the financial police, senior generals, politicians. Heating diesel trafficking oilman in the cover-up of some of the financial police and government officials, the original should pay high taxes, gasoline and machine diesel purported to be levied only a small amount of taxes to sell, or the processing of the tax-free transit petrol to domestic sales, a large number of tax evasion, and made a fortune. Some ordinary oilman, these smuggling, just a few years become a billionaire. <br> proofreading as early as in 1976, there is a man named Vitali&#39;s financial police, the case survey, wrote a report to his superiors. The police report, however, fell to the hands of superiors received any bribe, not only reports came to nothing himself but by posting punishment. <br> to the end of October 1980, the development of the case gradually involving politicians. On October 29, a \"social movement\" in the Senate, accused the incumbent minister of industry Antonio ﹞ Bisaliya, have been implicated in the same oil smuggling case. Bisaliya immediately refuted, that does not matter. The lawmakers asked Finance Minister Franco Levy Leo to Parliament to clarify the truth. In this case, Levy Leo admitted that in March 1980, he once described below was handed an expose transmit the report to the Chairman of the Senate Finance Committee, day China revolutionaries Seney Mariana. Seney Mariana turn this disclosure materials withhold up to 7 months old. Has caused lawmakers talking about. Members of the Socialist Party, he suspended reflection the Communist MP requirements Seney Mariana resignation. <br> worth noting is that the oil scandal involving important figures, including a confidant of former Italian Prime Minister Morrow, Director of the Secretariat Fulei A multi. Some newspapers that this oil scandal is not only a financial case \", which also has a political background. (Lssdjt.com) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1892-1-20
+	create time:2013-01-01 22:19:51
+*/
+
+return array(
+'title'=>'- Becquerel first discovered radioactive',
+'class'=>0,
+'cont'=>'Twelfth lunar month twenty (–¡√Æ years), January 20, 1892 - Becquerel first discovered radioactive. The Becquerel <br> <br> filed radioactive, it is natural to think of Pierre and Marie Curie. In fact, the earliest discovered is called Becquerel. <br> Becquerel, French, born in 1852, his father and grandfather are physicists, so he grew up by a good education, the 25-year-old made the qualified engineer, in 1892, the 44-year-old Becquerel has been a great deal of research on physics. On January 20 this year, the French Academy of Sciences held a major colloquium. At the meeting, scientists from all over the country listened attentively to the famous mathematician and physicist, astronomers the Poincare do academic reports. Poincare the participants were shown the roentgen just send him the ¶÷-ray photo, caused great interest for scholars. At this time, a middle-aged physicist stood up to ask the Speaker ¶÷-ray emission region precisely which part. Poincare glass of cathode ray irradiation frozen wall Becquerel immediately indicated that he did not agree with this view and asked the cathode ray causes the entire vitreous spot produce fluorescence in the cathode ray irradiation, there may be other material will issued with similar ¶÷ ray ray. In order to validate their own ideas, he immediately tested. <br> Becquerel select uranium oxide as the main object of his carefully designed research program, with a black paper covered a photographic film placed on the film for two small pieces of uranium salts and potassium mixture. Between one and negatives which put a silver dollar, and then put these things on the sun for several hours, the film slightly photosensitive, is not very clear, but the silver dollar of the image can be decomposed. But happened to run into the continuous rain, experimental stuff he had to be locked in a drawer. Five days later, the sunny days, continue to interrupt the test. He is a careful extraordinary, guinea pigs before the test, he re-checked again. To his surprise, in the sun, even negative photosensitive phenomenon. This shows that the uranium itself in luminous! The next day he published in the Academy of Sciences of the academic report on this new discovery. He electroscope this ray quantitative research, and finally reveal the wonders of the radioactive. (History today. Com) <br> discovered early radioactive, people do not know its hazards, Becquerel because there is no protection for a long period of exposure to radioactive substances, serious damage to health over 50-year-old&#39;s death. In recognition of his outstanding contribution to the scientific community, the rays of radioactive substances named \"Becquerel rays. \"<br>'
+);
+
+?>

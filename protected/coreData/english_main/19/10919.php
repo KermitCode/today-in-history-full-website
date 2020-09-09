@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1980-11-19
+	create time:2013-01-02 02:24:12
+*/
+
+return array(
+'title'=>'The birth of the continent&#39;s first fashion show team',
+'class'=>4,
+'cont'=>'November 19, 1980 October 12 (Gengshen years), the mainland&#39;s first fashion show team was born. <br> April, 1991, the first one hundred models fashion show held in Beijing. Pictured supermodel Attainment In November 1980, the Chinese mainland&#39;s first the catwalk team - Shanghai clothing company fashion show team quietly born. The first batch of 19 players, 12 women and 7 men will naturally become China&#39;s first-generation model, positioning their \"fashion actor. <br> The reporter interviewed these first generation model, and year of beautiful people into middle age, surprisingly, they are not a \"big shots\" charter, they are now husband or wife basically was engaged to get to know the people of Shanghai before the catwalk. <br> According to Xu Wenyuan, a clothing company in Shanghai fashion show team founder and captain recalled batch model all under the clothing company selected 78 companies employing nearly 30,000 workers in the to, <br> them Some graduating from high school directly into the factory when the workers and others who went to the countryside, mentioned hoe carry over sickle Incidentally, the first batch of model selection criteria are: height 165 cm, measurements, respectively, to reach 80, 60,80 cm, on the lower part of the body than 8 cm in length, the height of the actor will have to reach more than 179 cm. <br> established early eighties the catwalk team, its original purpose fresh pursuit of pure art, leading beautiful girl guy just wanted to put on clothing mass production debut, in order to increase the amount of domestic sales or exports of ordering monthly income at the time of the founding of the profession who are only $ 45, to participate in a show of subsidies is only 1.5 yuan. <br> 1981 the evening of February 9, at 7:30 pm, New China&#39;s first fashion show kicked off in Shanghai Friendship cinema. This day one thing in the back of the stage, then the social environment and the concept of Tellingly, evening gown parents heard her daughter to wear a one shoulder bare female models, immediately rushed to the scene, said: \"This bare-chested clothes our daughter can not wear. \"Staging time approaching, the leadership had to respect the views of parents, to Xu Ping donned a long streamers the order partially covered back porch with his back to the audience, when the show finally succeeded, this old-school parents still a lingering fear: \"Today dared to reveal a shoulder exposed shoulders, tomorrow, day after tomorrow exposed thighs and breasts, more like it? The \"<br> first award-winning international fashion model contest Miss Peng Li <br>'
+);
+
+?>

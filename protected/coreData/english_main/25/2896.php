@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2005-3-25
+	create time:2013-01-02 08:42:20
+*/
+
+return array(
+'title'=>'Pang Xiongfei&#39;s death, the Chinese Academy of Sciences, China entomologist, ecologist',
+'class'=>3,
+'cont'=>'March 25, 2005 (February 16) Yiyou, entomologist, ecologist at the Chinese Academy of Sciences Pang Xiongfei death. <br> Pang Xiongfei (1930-2004), the Chinese Academy of Sciences, was born in 1930, Foshan City, Guangdong Province, Communist Party members. In Pang Xiongfei 1953 graduated from Zhongshan University College of Agriculture, the same year admitted to graduate school (history TodayOnHistory.com) 1955 was chosen to attend Moscow quarter Ã×ÀïÑÇ½Ý·ò Agronomy Research Institute Postgraduate 1959 was vice Dr. degrees. After returning to the South China Agricultural College, South China Agricultural University, served as director of the Entomology Department, director of the Laboratory of Insect Ecology, deputy director of the Department of Plant Protection, Ministry of Agriculture, insect ecology, toxicology Key Laboratory Director, South China Agricultural University Vice-Chancellor and other studies duties. <br> textbook he edited the senate: insect community ecology, entomology General Theory, \"biological control\", \"agricultural entomology. He founded the Laboratory of Insect Ecology, presided over a number of national, provincial and ministerial major research project, based on the concept of species, to refresh the Coccinellidae the classification system, finishing nearly 700 of the ladybug distributed in China and its neighboring regions nearly 100 species, published ladybug new species, the establishment of a new subfamily, the other the Post the Trichogramma genus and Anagrus genera and 12 new species. He founded the teaching, research and technology demonstration in one the Shenzhen Longgang ecological agriculture demonstration bases. South China Agricultural University insect disciplines to make an important contribution to a national key disciplines and the Ministry of Agriculture insect ecology, toxicology Key Laboratory building. <br> monograph: pest population system control \",\" China Economic Insect (b) Coccinellidae; cooperation in compiling and publishing monographs: System Science in Plant Protection Research \",\" China Economic Insect Fauna of small The Chalcidoidea \", the\" natural enemies of insects Atlas, \"Rice natural enemies of pests drawings, National ladybug Symposium Proceedings. He won a number of national, Provincial Science and Technology Award, the national outstanding young experts the national advanced science and technology workers, famous Kun name scientists, ecologists. (On www.TodayOnHistory.com) <br>'
+);
+
+?>

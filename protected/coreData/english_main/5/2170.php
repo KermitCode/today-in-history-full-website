@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1940-3-5
+	create time:2013-01-01 21:01:52
+*/
+
+return array(
+'title'=>'Educator Cai Yuanpei died',
+'class'=>3,
+'cont'=>'(Dragon 27) in the first month, March 5, 1940, died educator Cai Yuanpei. <br> Cai Yuanpei died in Hong Kong <br> March 1940, Cai Yuanpei, died in Hong Kong. <br> Cai Yuanpei the word crane Qing, No. larvae China, Zhejiang Shaoxing, a famous Chinese democratic revolution, educator and thinker. Of Cai Yuanpei early years studying so hard by the book, advocating Song Confucian, and achieved fame, even in the lifts, Scholars, served in the Imperial Academy. After the war started to accept Western bourgeois political doctrine, to promote the new school, and sympathy for the Reform Movement. China&#39;s first women&#39;s school a patriotic girls&#39; school was founded in Shanghai in 1902, and Rector. In the same year, and Zhang Binglin founded the China Education Association, as president. Established in 1904 in Shanghai, such as Kung Po Chuen Restoration League president. 1905 in Shanghai by any sea-chiao, (而身d芋y身里h貝 $ 而身ry.c身m) joined the League, and participated in the assassination group to carry out anti-money activities. To study in Germany in 1907. <br> After the Revolution, to return any of the Nanjing interim government minister of education, advocate the use of Western education system, repealed the worship of Confucius. 1912 because of dissatisfaction with of Yuan Shikai trespassing rights, resignation to step down. 1917, he served as president of Peking University, (而身d芋y身里h貝 $ 而身ry.c身m) employ \"liberal arts seniors, editor of New Youth) Chen Duxiu, (Lssdjt.com) and hired Li Dazhao, (L $ dj而.c身m) Hu Shi, (L $ dj而.c身m) Qian Xuantong \"new breed\" People taught at Beijing University, \"freedom of thought, inclusive school policy, the implementation of the system of\" Jiaoshouzhijiao \"promote academic democracy, support of the New Culture Movement. After the outbreak of the May Fourth Movement, actively supported the anti-imperialist movement of the students. After 1927, he served as KMT Nanjing Government, Dean, president of Academia Sinica and the president of the Control Yuan. <br> \"September 18 Incident\", he was an active advocate of the anti-Japanese, endorsed were made in the domestic unity, and jointly resisting foreign aggression political ideas. In 1932, he initiated and organized with the Soong Ching Ling, (L $ dj而.c身m) Lu Xun China League for Civil Rights, and served as vice-chairman. The winter of 1937, Shanghai after the Japanese occupation, Cai Yuanpei moved to Hong Kong, until it died. Posthumous income \"Cai Yuanpei Complete Works. <br>'
+);
+
+?>

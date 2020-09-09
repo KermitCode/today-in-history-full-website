@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-6-21
+	create time:2013-01-01 23:28:26
+*/
+
+return array(
+'title'=>'Germany decided to move the capital Berlin',
+'class'=>0,
+'cont'=>'In (, Xinwei May tenth day), June 21, 1991 decided to move the capital Berlin, Germany. <br> 1991 21, the House of Representatives of the German 320 votes to 338 votes, reached a historic decision: the capital moved from Bonn to Berlin. (? V history today?? Com) <br> decided to move the capital, some moving company in Germany that they will be making a fortune, in fact, their thinking wrong. The capital is to be migrated, but most of the administrative units and personnel still remain in Bonn, 20,000 executives in 7000 to Berlin, the 3-year moving 24 trucks enough, moving companies do not earn not What money. administrative units <br> in fact, truly got to move to Berlin, operators are regarded, including Congress, the Office of the President, the Prime Minister&#39;s Office, Ministry of Foreign Affairs, the Ministry of the Interior, the Ministry of Finance, Ministry of Justice, Ministry of Economic Affairs, the Ministry of Transportation and Communications, the Ministry of Construction and there are still twenty or thirty of the administrative units of the Ministry of Family and Women, and to stay in Bonn, including the Ministry of Education, the Ministry of Posts and Telecommunications, the Ministry of Environmental Protection, Ministry of Health, Ministry of Economic Cooperation and the Ministry of Defence, are not required to move, no wonder some people say, Germany instead of moving the capital, but the capital city split in two. <br> many Germans agree, in Berlin, Germany, but most people do not want to move the capital from the heart. According to opinion polls, from unified began, the year-to-year survey showed that more than 60% of the German not in favor of moving the capital, the main scruples moving expenses, moving expenses is 20 billion marks in the budget of the German government, but we know, to 60 billion marks probably not enough. And this does not include the surrounding construction costs of the relocation of the capital, construction of underground passages in Berlin, Subway, improve traffic problems between the administrative units. At least have to spend 40 billion marks. <br> most criticized not just moving expenses, but rather to provide administrative staff moving allowance. For example, one must move to Berlin executives, he can get (a) the agency fee equivalent to $ 5,000 to find a new home; (b) three years in Bonn to Berlin, the airline tickets a total cost of $ 20,000; (c) move appease fee of $ 12,000; (d) moving expenses of $ 6,000; (e) moving personal transportation fee of $ 1,000; (f) Bonn home loss of rental fee of $ 40,000; $ 5,000 (7) Berlin new home of transitional accommodation; (h) the child care expenses of $ 2,000; 3000 U.S. Wu (9) Kitchen subsidies. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1937-1-2
+	create time:2013-01-01 18:43:20
+*/
+
+return array(
+'title'=>'The United States and Italy signed a &quot;gentlemen&#39;s agreement&quot;',
+'class'=>0,
+'cont'=>'January 2, 1937 (20 Rat in the winter months), the United States and Italy signed a \"gentleman&#39;s agreement\". In In 1937, lssdjt.cn] the United Kingdom and Italy signed a so-called \"gentlemen&#39;s agreement\", which is a product of British fascist bandits to implement the policy of \"appeasement\". In the 1930s, in the East and the West has formed two hotbeds of war, the danger of a new world war has been placed in front of the people of all countries. Britain and France and the United States imperialist attack on the Soviet Union, in order to keep the existing hegemony and encourage the German and Japanese and Italian fascists, fascist Italy invaded Ethiopia in October 1935. At that time, the British naval power 4 times in the Italian air force is also much higher than in Italy, the United Kingdom as long as the cut off supply lines in Italy in the Mediterranean blockade of the Suez Canal, and can be set to invade Aye Italian Army kill. Ministers headed by the British Government to Chamberlain, however, say, the United Kingdom do not intend to the Ethiopian independent and so a British naval battle ship sank. Britain and France and the United States at the expense of Ethiopia to please the German and Italian fascists. August 1936, the German and Italian armed intervention in Spain, Britain and Italy in the Mediterranean competitive strength of the interaction to see the growth and decline. However, the United Kingdom not to give up the policy of \"appeasement\", Italy agreed to conclude a \"gentlemen&#39;s agreement\" to a temporary breather. Both sides ensure the maintenance of the status quo Mediterranean, mutual respect of interests in the Mediterranean. In 1938, Britain formally recognized Italy annexed Ethiopia. A series of activities between the Anglo-Italian, was praised by the U.S. government. British Prime Minister Neville Chamberlain declared between Britain and Italy, \"the pall of distrust and suspicion has cleared the\" it \"marks a new era began even get carried away. \"<br> Italy and the United Kingdom agreed, but in order to temporarily stabilize the United Kingdom, and concentrate on dealing with the French. After the degeneration of the French in 1940, German and Italian fascists put butcher&#39;s knife added to the head of the island of Great Britain. August, German and Italian fascist 2,000 aircraft deployed round-the-clock bombing of the British capital, London, and other military bases, industrial centers, the British sapped almost degeneration. Chamberlain to the purpose of the expense of others, ended with the results of others and themselves. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-12-16
+	create time:2013-01-02 02:06:24
+*/
+
+return array(
+'title'=>'The death of honorary president of Nanjing University, Kuang Yaming',
+'class'=>0,
+'cont'=>'December 16, 1996 (Rat winter of early f), honorary president of Nanjing University, Kuang Yaming death. <br> 1996 December 16, 2010, the national ancient books publishing planning team leader, the Third National People&#39;s Congress, Jiangsu Province, Fifth, Sixth, deputy director of the NPC Standing Committee, Nanjing University, Honorary Principal, death of Kuang Yaming, editor in chief of the Chinese thinker Critical Biography Series \"target =\" _blank \"> in Nanjing Kuang Yaming died at the age of 91 years old. (history. cn) <br> Kuang Yaming Danyang his 1926 joined the Communist Youth League in August, converted to the Communist Party of China in September of the same year, former District Standing Committee of Shanghai the Hudong, the Huxi, Zhabei District, district secretary of the Communist Youth League and the party, the Youth League Wuxi center of the county party secretary (lssjt.cn) 1927 In the fall to participate in the leadership of the Yixing Autumn Harvest Uprising in the name of the group Jiangsu Provincial Commissioner, first, second Revolutionary War, Kuang Yaming in white area adhere to the revolutionary activities, has arrested four detained in prison for four years I suffered torture still are unyielding <br> the War of Resistance Against Japanese Aggression and the War of Liberation, the Kuang Yaming successive the Dazhong Daily editor-in-chief of the official newspaper of the CPC Central Committee, Shandong Branch, Social Department of the CPC Central Committee (Yan&#39;an) Political Deputy Director of Research, East China Bureau of the CPC Central Committee Publicity Deputy Minister of East China Bureau of the party newspaper Dazhong Daily community party secretary, director and editor, and Chairman of Policy Research Office of the CPC Central Committee Propaganda Department of the Shandong Branch. <br> founding of New China, Kuang Yaming successive party committee of the East China Institute of Politics secretary Dean, Deputy Minister of East China Bureau of the CPC Central Committee Propaganda Department, Northeast People&#39;s University (later renamed Jilin University) party secretary and chancellor, Nanjing University, Party Secretary and principals and other staff. during the Cultural Revolution, the Kuang Yaming was Lin Biao \" Gang of Four, \"a group of the devastation and suffering. <br> 1978, Kuang Yaming been rehabilitated and restored the leadership positions of Nanjing University in 1991, he served as the national ancient books publishing planning team leader. <br>'
+);
+
+?>

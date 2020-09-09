@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1962-10-9
+	create time:2013-01-02 00:35:12
+*/
+
+return array(
+'title'=>'Uganda Independence Day',
+'class'=>0,
+'cont'=>'October 9, 1962 (September 11) Renyin years, Uganda&#39;s Independence Day. <br> the Republic of Uganda, is located in eastern Africa, across the equator, landlocked country. Is adjacent to northern Uganda and Sudan, east Kenya border, adjacent southwest shore of Lake Victoria, Southern Tanzania and Rwanda junction (the L $ dj而.c身m) and the West and the Congo. The capital, Kampala, in the Victoria Lake. Republic gained independence from Britain in 1962. Homeland <br> located in the Great Rift Valley, Eastern, between the west branch of the gently dipping from west to low-lying southern average altitude of 1000-1200 meters. Margarita peak of 5109 meters above sea level, is the highest peak. Many rivers, lakes, water area, so Uganda \"Plateau Water said. Lake Victoria is the world&#39;s second largest freshwater lake in Africa, Uganda, 43% of the licensed area. The agriculture of <br> for the country&#39;s major economic pillars. Agriculture and animal husbandry accounted for 90% of the country&#39;s population. Crops are plantains, cassava, millet, sorghum, maize. Coffee production in the forefront of Africa. Freshwater fish catches the Habitat Africa in the forefront, rich tilapia and Nile perch. The industrial processing of agricultural products, textiles, sugar, chemicals, cigarettes, and other departments. Railway Secretary of 1,300 km, 28,000 km long highway. <br> Capital: Kampala (Kampala), population 773,463 people (1991), the national political and economic center and the country&#39;s largest city; Area: 241,139 sq km; Population: 18,592,000 (1994 ), the Baganda (28% of the total population), the Basoga, as well as the Ankole more than 40 tribes; Population density: 77.1 people per square kilometer; Language: The official language is English, also speaking Uganda and Swahili language; Religion: 60% Christian, 32% original letter religious animism teach and 5% confidence Muslims; difference: 3 hours earlier than GMT, five hours later than Beijing; <br> National Day: October 9th; diplomatic relations with China date: October 18, 1962; currency: Uganda shillings. Uganda People&#39;s <br> is Africa&#39;s most hospitable people. The country is unified by many ancient kingdom, there are many independent chiefs tribes. Their presence is alive in the hearts of the majority of the people. Their traditional customs, language is everywhere present in the modern people of Uganda. Although they are close to speak 30 languages, English is the official language. Speak Swahili language course widely. <br> Uganda tropical climate moderated by the cold air of the mountains with two rainy seasons, from April to November, abundant rainfall lush plant growth. (有身d芋y身里h貝 $ 而身ry.c身m) <br>'
+);
+
+?>

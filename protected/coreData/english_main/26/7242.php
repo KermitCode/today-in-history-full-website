@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1954-7-26
+	create time:2013-01-02 00:26:40
+*/
+
+return array(
+'title'=>'China&#39;s first own manufacture primary trainer success',
+'class'=>0,
+'cont'=>'(Jiawu June 27), July 26, 1954, the Chinese first create their own successful primary trainer. <br> In 1954, China&#39;s first create their own successful primary trainer - \"the beginning of to teach fifth test flight ceremony was held in the General Assembly. Rigorous flight test analysis proved the good performance of the planes, completely standard. Since then, the end of the history of China can not manufacture the aircraft, taking the decisive step of China&#39;s aviation industry by repairs to manufacturing. Pictured deposited with the China Aviation Museum CJ-5. \" In April 1954, the National Aeronautics and approved by the Industrial Development Bureau, Nanchang aircraft factory mass production ahead of Jacques -18 July 1954., Nanchang successful first aircraft factory imitation Jacques -18 trainer named CJ -5 1954 CJ -5 successful maiden flight. Ancillary Zhuzhou Aero Engine factory was officially established. Although it now appears CJ -5 too old to lose his teeth, but it is the beginning of our volume manufacturing of aircraft and aero-engine, has unusual significance. CJ -5 aircraft production in the year 10, the following year, the troops of 60, produced a total of 379 to 1958. <br> aircraft fuselage alloy steel tube welded into a skeleton was framed fuselage skeleton. Of fuselage front engine cowling aluminum skin. Half after the fuselage skin covering cloth. Wing outer wing by trapezoidal and rectangular wings. In the wing all-metal structure, the two girders 8 wing knock Velvet hammer Sang? Fortunately, anchor fierce dam Sim reef Yuk naphthalene? 5 liter fuel tank. In the wing and fuselage frame connection. The leading edge of the outer wing and tail, beams, ribs, aluminum production; cloth skin. Engine selection of reliable, easy-to-use M-11FP5 cylinder air-cooled piston engine. The tailwheel undercarriage main wheel half buried like income wings, tail wheel fixed uncollectible. The tandem sealing the cockpit has a good vision. The machine is equipped with radio ticker machine calls within the device. <br> wingspan of 10.60 meters, fuselage length of 8.072 m, Height 3.10 m, normal takeoff weight of 1120 kg, the empty weight of 816 kg, the maximum level flight speed of 248 km / h, cruising speed of 160 km / h, climb rate of 3.5 m / s (low), a service ceiling of 4000 meters and a maximum range of 1,000 kilometers, the life time of 8.28 hours, takeoff distance of 205 meters, landing ground speed of 85 km / h, landing roll distance of 207 meters. [$ Dj¦Ó.c¨­m] <br> Comments: the beginning of China&#39;s aircraft manufacturing <br>'
+);
+
+?>

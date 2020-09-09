@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1730-6-26
+	create time:2013-01-01 23:50:39
+*/
+
+return array(
+'title'=>'French astronomer Charles Messier was born',
+'class'=>4,
+'cont'=>'June 26, 1730 (May 12) Gengxu born French astronomer Charles Messier. <br> <br> Charles Messier (also translated Messier, Messier, June 26, 1730 -1817 on April 12) French astronomy house. His achievement is assigned a number to the nebula, star clusters and galaxies, and produced the famous \"Messier clusters Nebula list <br> He was born in the Lorraine region of France ink Hurt and Mosel Province Barton Louisville (Badonviller). 1751, he as astronomers Joseph Nicholas Delhi Hill (Joseph Nicholas Delisle, 1688 to 1768) Assistant Naval Observatory in Paris, France, addicted to the observation of the comet. The winter of 1758, according to previous observations, began to search for Halley&#39;s Comet is expected to occur. January 21 this year was finally found. But this one month later than the discovery of another astronomer. Still, he therefore jumped fame. <br> 1760, Delhi Hill retirement Messi wild successor to astronomical official duties. The process of the search comets, Messier suffer from comets and other celestial bodies, often vague confusion, from early 1764 to start making a list of comet and interstellar dim celestial bodies. In that year, he made a 40 list of celestial bodies, thereafter, in 1765, found Canis M41, he added in the list M41-M45 and five celestial. found in Aries near <br> 1769, large comet (C/1769P1), so he became the Academy of Sciences of the Berlin Academy of foreigners. The next year, he discovered a comet, and became a full member of the Paris Academicians. His life found a total of 12 comets. <br> He respectively in 1771, 1781 and 1784, published the first volume of the \"Messier nebulae List (M1-M45), Volume II (M46-M68) and Volume III (M69- M103). <br> column celestial bodies on these lists are called \"Messier\". For example, M31 on behalf of the Andromeda galaxy. The Messier list taking into account the genre, Double Star (M40) or cluster (M45) is also included. <br> Messier is a diameter of 5-7 cm telescope, and the subsequent emergence of a large diameter telescope, contains a lot of nebulae, star clusters and galaxies in Messier. <br> posterity to remember him, the moon crater named \"Messier\", another 7359 asteroid also named. <br> French King Louis XV had called him \"my hunting coma man. (L $ dj¦Ó.c¨­m) <br> Reviews: for higher honors in international astronomers, astronomy research and development for the world made no way alternative immortal contribution. <br>'
+);
+
+?>

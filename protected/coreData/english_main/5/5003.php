@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1947-6-5
+	create time:2013-01-01 20:29:02
+*/
+
+return array(
+'title'=>'The Marshall Plan proposed',
+'class'=>0,
+'cont'=>'June 5, 1947 (April 17, Chinese New Year), the Marshall Plan proposed. The favoritism <br> As this French Communists of posters that show as aid would make the division of Europe <br> World War II, the Western European economies suffered huge damage in the post-war recovery and reconstruction very difficult. The end of 1946 to early 1947, rare cold attacks in Western Europe, the Western European economy to the brink of collapse. <br> the countries of Western Europe, hoping to get U.S. aid to save the economic collapse and political crisis. The United States also attaches great importance to aid European problem. In early 1947, the State Council set up a special committee to specialize in providing economic, financial, technical and military assistance to Europe. On May 23, the the policy design office of the State Council, after discussion and study, presented the report written by Kennan, the revival of Western Europe and the United States assistance from the Truman Doctrine a different stance. <br> 1947, Marshall by the opportunity to attend Harvard University graduation ceremony and received an honorary degree, modeled on a speech to Kennan report suggestion to help European renaissance in the United States, that the Marshall Plan. Discussion of the Marshall Plan \"target =\" _blank \"> Marshall Plan economic conference held in Paris on July 12 to 15, and 16 European countries other than the Soviet Union and its Eastern European allies, and Spain participated in the meeting. <br> They proposed a mutual aid and self-help plans to the United States as the corresponding program with the financial assistance of the United States. Dec. 19, the Truman administration to the General Report of the Committee of European Economic Cooperation based on the Economic Cooperation Act to Congress. discussed by Congress and approved by the Foreign Assistance Act of 1948 Act, the United States to Europe within 15 months, $ 6.8 billion sponsorship, and to ensure that assistance payments in each of the subsequent three years. formally implement the Marshall Plan until the end of 1952. <br> this mapping European countries participating in the Marshall Plan. obstruct under the Eastern European countries in the Soviet Union were unable to attend, but almost all Western European countries in June 1948, the European the beginning of the recovery plan have joined the plan West Germany to regain a degree of autonomy, and a year later joined the plan. <br>'
+);
+
+?>

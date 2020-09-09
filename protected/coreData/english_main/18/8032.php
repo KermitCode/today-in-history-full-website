@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1850-8-18
+	create time:2013-01-01 23:51:16
+*/
+
+return array(
+'title'=>'French writer Balzac&#39;s death',
+'class'=>3,
+'cont'=>'(Gengxu July 11), August 18, 1850, the death of French writer Balzac. <br> Balzac died \"target =\" _blank \"> Balzac (1799-1850) of the 19th century, the great French writer of critical realism, critical realism literature in Europe founder and an outstanding representative of life creation of 96 ministers, short stories and essays, called \"Human Comedy\" total 100 years, his work has spread around the world, has created an enormous impact on the development of world literature and human progress. Marx, Engels praised rich bourgeois family, his superior novelist \",\" master of realism. \"May 20, 2011 <br> Wise men learn by other men &#39;s mistakes, Balzac was born in a French Revolution of Law School graduate refused family respected legal career choice for him, and the ambition to become a writer in order to obtain an independent life and engaged in the creation of material security, he had tried the pen and get involved in the business, engaged in the publishing and printing industry, but ended in bankruptcy. everything for his understanding of society, describing the social precious first-hand material him to seek out and explore, in-depth study of philosophy, economics, history, natural science, theology and other fields, has accumulated a very extensive knowledge the <br> was published in 1829, the novel \"Juan partisan\", initially laid the status in the literary novel, published in 1831, \"Donkey Skin mind\" earned him a reputation as France&#39;s most prestigious writers already put one of his own work contact into an organic whole idea of &#8203;&#8203;1841, he was inspired by Dante \"The Divine Comedy\", formally the general name of their works as \"human comedy\", a total of 91 works including long, medium-length, short stories and essays, divided into three parts. \"customs,\" the philosophical study and analysis, including the novel \"Eugenie ¡¤ Grandet \",\" high old man \",\" disillusionment \",\" peasant \",\" Bei aunt \"Human Comedy\" \"social Encyclopedia said, it is a true reflection of the social life at the time, describing the aristocracy doomed to expose the greed of the bourgeoisie, plunder and all social relations on the basis of money, Balzac focus on specific, detailed description and details description, reveal the character of the soul through the words and deeds of the character at all. guarantee Writing sober , he was addicted to espresso, such as life, passed away on August 18, 1850, chronic coffee poisoning became his cause of death. <br>'
+);
+
+?>

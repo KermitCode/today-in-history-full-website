@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1911-7-24
+	create time:2013-01-02 00:13:14
+*/
+
+return array(
+'title'=>'The Machu Picchu weight was found',
+'class'=>0,
+'cont'=>'July 24, 1911 (, Xinhai June 29), Machu Picchu weight was found. the <br> 1911 24 July Machu Picchu weight was found. <br> Machu Picchu (Spanish, English: to Machu Picchu, Quechua: the Machu Piqchu, which means \"old mountain\"), also translated Ma Qiu Biqiu, Peru, a well-known pre-Columbian ruins of the Inca Empire, 130 km north-west from the Cusco entire ruins towering 2350-2430 meters above sea level on a ridge overlooking the Urubamba river valley, one of the world&#39;s new seven wonders of the. Due to the unique location, <br> address characteristics and found that late (1911), Machu Picchu became the Inca Empire most familiar sign. In 1983, Machu Picchu was listed by UNESCO as a World Heritage Site, is one of the world&#39;s few dual cultural and natural heritage. At the same time, however, Machu Picchu is also faced by the tourism destruction concerns. <br> 1911 July 24, the American historian Hiram Bingham III Western world took note of Machu Picchu. He was familiar with the place of the locals brought to Machu Picchu. The controversial explorer - Archaeologists completed copy of the archaeological report. Bingham came up with the catchy name of the \"Lost City of the Incas\", and used as the title of his first book. <br> 2002, other unknown footprints left by 20th century explorers discovered, these findings suggest that in order to become recognized as the discoverer of Machu Picchu, Bingham had deliberately covered up these traces. (History today www.lssdjt.com) <br> Although the head of Bingham found Machu Picchu credit fell, long-term study the Cusco the Simone Waisbard of still insisted that Machu Picchu discoverer someone else, first visited here Enrique Palma, Gabino S¨¢nchez, and Agust¨ªn Liz¨¢rraga, on July 14, 1901, the name engraved in a rock. Bingham initially actually looking Wei Teke, the Inca Empire in the Spanish conquest of Peru during the last refuge and resistance stronghold. Repeatedly explore this area in 1911, he is living in the ruins of the location of the local Quechua people to Machu Picchu. Bingham then visited on several occasions here and excavated until 1915. He wrote several books about the discovery of Machu Picchu, the \"Lost City of the Incas\" a book greatly popular. <br> Bingham 5,000 ancient artifacts back to Yale. These relics are still below the long-term requirements of the Government of Peru, was not returned. More and more people think that the the Bingham behavior was typical of the cultural heritage of plunder, Peru have been victimized deep. (Lsjt.org) <br> <br> <br> Review: Western-style archaeological discovery is great, robbery is a legitimate version of the Tripitaka in Peru The hole story. <br>'
+);
+
+?>

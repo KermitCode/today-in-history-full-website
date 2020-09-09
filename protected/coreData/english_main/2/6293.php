@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1994-7-2
+	create time:2013-01-01 23:05:49
+*/
+
+return array(
+'title'=>'Colombian players Escobar was shot dead',
+'class'=>0,
+'cont'=>'(Awake 24 May), July 2, 1994, the Colombian players Escobar was shot to death. Colombian players <br> to teammate Escobar the funeral <br> participate to the World Cup in Colombia defender Aye Escobar Medellin City, was gunned down after July 2, 1994, FIFA and the extremely shocked World Cup organizers, FIFA issued a written statement immediately, the statement pointed out; \"FIFA was very shocked and disappointed, we condemn this criminal act, we want the criminals to justice as soon as possible. \"<br> World Cup Organizing Committee also issued a statement to express our condolences to the Escobar family and all the fans loved his superb skills. (1 $ dj¦Ó.c¨­m) <br> 27-year-old Escobar in the World Cup group stage a war with the United States team had accidentally hold into its own door to the ball. So at 3:00 on the 2nd, Escobar siege by three men and a woman from a nightclub out. Killed after a man fired several shots, Escobar has been sent to a hospital, who in 12 shots. <br> Colombian President Garvey Elijah said to lose Escobar Colombia shrouded in mourning atmosphere, his tragic death, \"so we are very sad. Medellin Mayor Ramos announced that he would reward for the capture criminals. the <br> Andreas - in Escobar (AndresEscobar), born March 13, 1967, died on July 2, 1994, 27-year-old Henry. <br> Escobar was one of Colombia&#39;s most famous guard him access to qualify for Colombia in the World Cup qualifiers in South America regional competition, has achieved a lot. <br> of Escobar Baqia with Escobar, the Colombian drug king with the same name, but no relationship between them. Colombia football by leaps and bounds in recent years, and in Brazil, Argentina and known as the top three in South America, but at the same time, the murder rate in Colombia is also the world&#39;s non-war countries the highest. <br> in a drug, football, and the murder of the wild kingdom, at 3:30 on July 2, Andreas - Escobar in Medellin, a man named indians restaurants carpark shot and killed by the murderer. The murderer shouted \"Thank you for the own goal,\" he bursts twelve bombs. <br> Escobar died Atletico played for MacDermid Lin Guomin, famous goalkeeper Higuita teammates, he is also the Colombian national team to participate in the &#39;90 World Cup a warrior. Togo players killed <br> 1994 Escobar murderer was arrested in the city of Medellin. [TodayinHistory.cn] According to Caracol Radio reported Sunday evening, murderer named Humberto - Munoz - Castro. He has been escorted to the capital, Santa Fe de Bogota. To escape authorities arrest Munoz gunned down Escobar and shaved off the bushy beard and appearance in disguise. Munoz has been shot and killed Escobar confessed. <br> killed Escobar, the Colombian star murderer is apprehended <br> the'
+);
+
+?>

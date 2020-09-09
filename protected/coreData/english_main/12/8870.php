@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1956-9-12
+	create time:2013-01-02 00:50:56
+*/
+
+return array(
+'title'=>'The famous Hong Kong singer and actor Leslie Cheung was born',
+'class'=>4,
+'cont'=>'On August eighth day) (Bingshen years, September 12, 1956, the famous Hong Kong singer and actor Leslie Cheung was born. <br> Leslie the originally called Zhang Fazong. 1956, born September 12, the young man went to study in the UK dropout return to Hong Kong after his father was seriously ill. 1977, to participate in the Asian singing contest runner-up, began a 26-year artistic career. In 1984, he was a \"Monica\" in the music soared red, from this situation as not received, mellow voice, sexy dance, chic the typhoons and moving interpretation so that he swept consecutive \"Top Ten Chinese Gold Songs Award\" \"Jade Solid Gold Award\", \"Best Male Singer Award\" Most Popular Male Singer Award \",\" full-year sales champion Award IFPI Album Award \" awards, pop music superstars irreplaceable the Chinese music status Extreme name. \"Lifetime Achievement Award\", \"Honor Award\", \"pay tribute to the award,\" Most Outstanding Asian Artist Award \",\" National Achievement Award \"the highest musical honor. He sang the song of the first of more than 300, the official produced 89 albums and selected sets total has passed the 10 million sales, the 121 individual concert held at the Hong Kong Coliseum, a world tour of over 300 games, not only in Hong Kong, China Mainland China, Taiwan and Southeast Asia and Japan, South Korea, the United States, the United Kingdom and other places have a wide range of well-known and greatly influence, is a true international superstar. From 1978 to 2002, he participated in a total of 56 movies produced, starred in the film \"The Inspiring Tomorrow\", \"Rouge\", \"Ghost Story,\" \"Days of Being Wild\" and \"Farewell My Concubine\", \"Jinzhiyuye \"Ashes of Time\" and \"Happy Together\", \"Double Tap\", (Lssdjt.com) has won the Cannes Film Festival Palme d&#39;Or (history com) American Film Golden Globe for best Jia Foreign Language Film Award, the highest artistic achievements of a gold medal at the Venice International Film Festival and China Taiwan Film Festival Award for Best Film. Has won 18, including the Cannes Film Festival, including best actor, best actor nomination, election to the Hong Kong Film Awards for Best Actor, the Hong Kong Film Critics Association Award for Best Actor, the Japan Society of Film Critics Award for best actor, has invited to serve as judges of the Berlin International Film Festival, recognized as one of the most outstanding Chinese movie star. <br> 2003, committed suicide in Hong Kong. (L $ dj¦Ó.¨­r¨À) <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1832-5-13
+	create time:2013-01-01 23:20:03
+*/
+
+return array(
+'title'=>'The famous French zoologist Cuvier&#39;s death',
+'class'=>3,
+'cont'=>'May 13, 1832 the (Imjin years April 14), the famous French zoologist Cuvier&#39;s death. <br> Cuvier \"target =\" _blank \"> Cuvier (Georges Cuvier, 1769 May 13 -1832 years ago has been 180 years) of the death of the French zoologist , the founder of comparative anatomy and paleontology. born in Montbeliard, died in Paris 1784 to 1788 into Caroline University of Stuttgart, Germany. graduated from the Stu Gardner of Caroline Institute in 1784. had to enter the Botanical Garden of Paris, France Paris Museum, National Museum of Natural History and later served as the post of the Central University, and professor at the College de France, the Chairman of the Board of Education, the Chancellor of the University of Paris, Deputy Interior Minister. Normandy, France, from 1788 to 1794 served as a tutor, he to utilizing offshore conditions, carefully observed and anatomy of a large number of marine animals, molluscs and fish specimens. accurate and detailed morphological research attracted academic attention at that time. (1 $ dj¦Ó.c¨­m) 1795 assistant professor of the year to enter the Paris Museum of Natural History, any animal anatomy for the members of the French Institute in 1796 (1803 for the lifelong secretary) at first in 1800, he served as a professor of the College de France, the Regents of the University in 1811, Lord, 1814 Deputy Interior Minister for State Councilor, 1817 any 1818 was selected as the French Academy of Sciences, 1819 to 1832, any President of the Senate, the Ministry of the Interior. <br> Cuvier at an early age is considered a child prodigy, able to read and 4-year-old , 14 years of age to enter the University of Stuttgart. due to he miraculously memory, extremely rigorous scientific training and dedication enthusiasm for learning, his 18-year-old school have achieved since the Normandy assistant professor at the University of Cuvier&#39;s life after the Revolution, the executive government, the imperial governance kingship period most of the time in his life, legendary and who are also scientists, social activists, politicians and other career he repeatedly served as a Minister of the Government, Minister positions, but because of the take full advantage of the time and energy, he also remarkable achievements made in science and his enduring legacy, mainly the writings of a classic comparative anatomy, paleontology, animal taxonomy and scientific organizations Cuvier writings of numerous collect wide range of materials, is rare in the world. the Cuvier alive throughout the Western world, then hailed as \"the second Aristotle. <br> ;'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1802-8-8
+	create time:2013-01-02 00:13:31
+*/
+
+return array(
+'title'=>'The Russian chemist Gass was born',
+'class'=>4,
+'cont'=>'August 8, 1802, July 11 (Saigon) Russian chemist Gaies was born. Russian chemist <br> <br> born on August 8, 1802, Geneva, Switzerland, a painter family, the age of three with his father lives in Moscow, Russia, and thus in the Russian school and work . Graduated from the of Dorpat University of Medical Department in 1825, and obtained the MD degree. 1826 abandoned medicine specializing in chemical and chemical laboratory studies to Stockholm, Sweden Bo economic force Aspen from this formed a deep friendship with Bo economic force Aspen. After returning home to the Urals for geological survey and exploration work, and later to the the Irkutsk study mineral. Due on the outstanding contributions in chemistry in 1828 was elected to the St. Petersburg Academy of Sciences, soon to be hired as the St. Petersburg Polytechnic Institute of Theoretical Chemistry, Professor of Central Teachers College and the School of Mines professor. In 1838, he was elected to the Russian Academy of Sciences. Gass was born December 13, 1850 \"target =\" _blank \"> Gass died in St. Petersburg. <br> Gass early years engaged in analytical chemistry, told Baku near the mineral and gas analysis, to make a some achievements in the future was also found the sugar sucrose oxidizable acid. Improved Method for Determination of the chemical thermal effects specializing in 1830, had improved Lavoisier and Laplace ice calorimeter, a more accurate determination of the chemical reaction heat in 1836 after many experiments, he summed up a rule: calories in any chemical reaction process, regardless of the reaction step or step-wise, its total heat change is the same as in 1860 hot and sexual the conservation law published in the form and Gass&#39;s law is the world-famous. <br> the Gass law <br> Gass&#39;s law is to determine a pioneer of the conservation of energy, but also the basis of chemical thermodynamics. When one can not directly occurrence of the reaction requires heat of reaction, you can use the fractional step determination of the heat of reaction plus and it indirectly obtained. therefore we often said Gass is the founder of the thermochemical major works <br> Gass pure chemical basis \", the book was widely used textbooks in Russia, had a Seventh Edition, also have some impact on the European chemical sector. <br> Comment: make certain contributions to the field of chemistry, (history Today www.TodayOnHistory.com) published the Gass law of the world-famous. <br>'
+);
+
+?>

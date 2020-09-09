@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1937-5-28
+	create time:2013-01-01 20:43:11
+*/
+
+return array(
+'title'=>'Chamberlain as British Prime Minister',
+'class'=>0,
+'cont'=>'The (Landmarks April 19), May 28, 1937, Chamberlain as British prime minister. <br> Neville Chamberlain (1869 - 1940), British politician, representative of the policy of appeasement in the 1930s. Born in March 1869 in Birmingham. <br> 1918 was elected Member of Parliament (Lssdjt.com) served as postmaster general from 1922, the health minister, Chancellor of the Exchequer and the rank, the Conservative Party leader. May 28, 1937, Chamberlain became prime minister. <br> The European security under the threat of the German and Italian fascists, Hitler and Mussolini made a series of concessions, Chamberlain would like to take in exchange for the peace of Europe. His execution was later called a \"policy of appeasement\" policy. In 1938, Hitler sent troops to the occupation of Austria, and followed Chen Bingjie grams border. Chamberlain in the House of published speech condemned the aggression of Germany, but no concrete action; opposite default the Italian invasion of Ethiopia and Germany, Italy armed intervention in Spain, and the connivance of the Japanese invasion of China. <br> subsequent Sudeten crisis, Chamberlain twice in September 1938, cheap flights to Germany talks personally and Hitler. September 28 to 30, with Hitler, Mussolini and Daladier in Munich meeting, agreed with the German territorial claims on Czechoslovakia, forcing the Czech government to agree to the Munich Agreement. September 30 Chamberlain with Hitler signed the Anglo-German non-aggression Declaration. in the country, the the <br> Chamberlain \"policy of appeasement\" call caused many people oppose. After the German occupation of the whole of Czechoslovakia in March 1939, the British started to take measures to strengthen the defense, Chamberlain announced to give Poland military protection. September 1, Germany invaded Poland, Chamberlain issued an ultimatum to Germany, declared war on Germany after being Germany refused. The beginning of the war, Chamberlain did not effectively organize national war frontline war \"strange war\" status. <br> 1940, 10, 2009, the Germans invaded the Netherlands, Belgium, Luxembourg, and a direct threat to the security of the British and French. Chamberlain lift a rock hit yourself in the foot, Jing Sui policy completely bankrupt. The same day, Chamberlain was forced to step down to make way for Churchill&#39;s coalition government. September 9 of the same year, Chamberlain died. In In 1939, Neville Chamberlain and Adolf Hitler photo <br>'
+);
+
+?>

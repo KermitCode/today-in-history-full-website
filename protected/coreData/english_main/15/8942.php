@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1931-9-15
+	create time:2013-01-02 01:03:45
+*/
+
+return array(
+'title'=>'Huang Gonglue martyrs sacrifice',
+'class'=>3,
+'cont'=>'September 15, 1931 (, Xinwei August fourth day), Huang Gonglue martyrdom. In In 1931 In September 15, 2010, Huang Gonglue martyrdom \"target =\" _blank \"> Huang Gonglue sacrifice in of Jiangxi Jian Dong solid with the Kuomintang army combat yellow male, <br> of slightly (January 24, 1898 -1931 years, September 15), formerly known as infrastructure, word Han soul, the Hunan Xiangtan Xiangxiang County osmanthus Township the Takagi punch people, the Chinese Workers &#39;and Peasants&#39; Red Army senior generals. <br> 1916 to participate in the Hunan Army, 1922 test into the Hunan Army&#39;s military academy, and the following year graduation back Xiangjun any company commander, followed by the Ministry joined the Second Army of the National Revolutionary Army in 1926, participated in the Northern Expedition, the legislature has exploits (history today www.lssdjt.com) the same year Education at the Whampoa Military Academy. <br> in December, 1927, to participate in the Guangzhou Uprising, and joined the Communist Party of China, after a failed uprising, Huang Gonglue sneaked back to his hometown in July 1928, with Peng Dehuai, tende far, Deng Pingdeng people launched the the Pingjiang uprising, the establishment of the Fifth Army. November, led by Peng, Teng et al Fifth Army main force to Jinggangshan Huang Gonglue rate remnants persist in guerrilla warfare in 1929, after the return of the Fifth Army, he served as the Fifth Army deputy commander, involved in the establishment Hunan, Hubei, Jiangxi Soviet Area <br> in January 1930, was transferred to six military commander, is responsible to open up the base, in the southwest of Jiangxi Although not led by the main forces of the Red Army, but Huang Gonglue still made great success, for the establishment of the Central Soviet Area to lay the foundation for (the l $ j¦Ó.c¨½) Mao Zedong praised him: \"the Jiangxi water side of the red corner, partial division draw on yellow Gonglue In In 1930 , any Red Army Third Army commander, took part in at the end of the Communist Party of China for the first time anti-siege war. in Longgang battle, the Third Army entered the war as the main then led his troops to participate in the second and third anti-siege war , participated in the battle of Tomita the fighting of laoyingpan, Fang Shiling fighting. <br> in 1931, the Third Army headquarters was the air raid of the National Revolutionary Army, Huang Gonglue seriously injured and later died in order to commemorate the the Communist Party of China to the newly formed infantry school named Gonglue infantry school. <br> <br> Huang Gonglue House <br> Reviews: people who had worked with Zhu De and Mao Peng par Huang Gonglue bit military conductor. <br>'
+);
+
+?>

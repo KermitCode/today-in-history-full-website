@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1979-2-19
+	create time:2013-01-01 20:29:30
+*/
+
+return array(
+'title'=>'The establishment of the Chinese National Commission for UNESCO',
+'class'=>5,
+'cont'=>'(Kang Xi the first month, 23), February 19, 1979, the Chinese National Commission for UNESCO. <br> UNESCO stands for United Nations Educational Scientific and Cultural Organization, is one of the specialized agencies of the United Nations, was established on November 16, 1945, is headquartered in Paris, the aim is to promote among nations education , scientific and cultural cooperation, to contribute to peace and security, so that the people of the world recognized by the Charter of the United Nations, regardless of race, sex, language, religion, justice, law, human rights and fundamental freedoms more generally respected. Organizations around the world with the regional office of the educational, scientific and cultural exchanges, regional center or consultants. The end of the 1980s, the organization has 158 Member States, the two quasi Member States. (Lssdjt.com) <br> China is one of the founding members of UNESCO, October 29, 1971, the organization&#39;s Executive Board passed a resolution recognizing the legitimate seat of the Government of the People&#39;s Republic of China, after the United Nations General Assembly through specialized agencies expulsion of the Chiang Kai-shek resolution. Since 1972, China&#39;s recovery in the organization&#39;s activities. <br> 1979 2 19, the People&#39;s Republic of China was formally established National Commission for UNESCO and held its first meeting. Chinese National Commission for UNESCO by the Ministry of Education, the National Science and Technology Commission, Ministry of Culture, the Chinese Academy of Sciences, the Chinese Academy of Social Sciences, the Ministry of Foreign Affairs, the Ministry of Finance as well as a number of other educational, scientific, cultural and other relevant units, a total of 25 members, Li Qi Ren Director Yang Yunyu Adjunct Secretary-General. The first committee meeting to discuss how to strengthen our cooperation with UNESCO, the to think National Committee should actively participate in UNESCO&#39;s activities in the fields of education, science, culture and communication, as well as regional activities. <br> main task of the Chinese National Commission for UNESCO, the Chinese government departments concerned and the delegation to attend the General Conference of UNESCO UNESCO and consulting, responsible for the coordination of relevant departments, involving the United Nations UNESCO&#39;s work, and is responsible for liaison with the Secretariat and the Member States of the Organization of the National Committee. (Lssjt.cn) <br>'
+);
+
+?>

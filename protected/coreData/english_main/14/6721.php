@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1918-7-14
+	create time:2013-01-01 22:53:35
+*/
+
+return array(
+'title'=>'The Hu Shih author talk about chastity problem',
+'class'=>0,
+'cont'=>'(Wu Wu, June seventh day), July 14, 1918, Hu Shi author to talk about chastity problems. <br> a married husband woman will keep chastity chastity \"quadword In July 1918, Mr. Hu Shi published in the first number of the\" New Youth \"Volume V the article \"Chastity\" of recent newspapers published articles praise chastity paragons sati suicide tongue-lashing criticized. <br> he said, the Chinese men to their wives&#39; chastity a feast for them, but openly prostitutes openly concubinage. Openly hanging arm \". I am not saying that because men prostitutes, women will be the steal remarry the woman in the community social status; men to remarry, polygamy man, but one without losing their identity, this is not the most unequal? Han; does not mean that, because the classic concubine, his wife the aunt Classic. I said, men to prostitutes, and the woman is having an affair with another man, the guilty are equally evil; classic concubinage to steal the man and his wife, is equally committed evil. <br> He added that virginity problem for the Chinese people, I have three comments: <br> first, this problem is not the \"right and proper\", is a thorough study. <br> second, I thought that chastity is the the moral interaction by both men and women, not biased towards the woman on the one hand. Thus, (1) man for a woman, a husband for his wife, should be the attitude of chastity. (2) Men&#39;s prostitutes concubines community should treat unchaste women&#39;s attitudes to treat him. (3) women&#39;s chastity husband dishonored responsibility, and (4) social law concubinage neither recognized with prostitution as immoral, we should not praise a woman&#39;s chastity chastity. <br> third, I am absolutely against the law to extol virginity. My reasons are: (1) sincere virginity is fully automatic morality, can not be external interference, and not allowed to have a legal advocate. (2) to promote chastity law praise, is bound to cause many fish for fame, dishonest, unconscious virginity move. (3) in a modern society, the widow remarriage, virgin chastity issues such wrongs, there is room for discussion, and appraise the rule of law improperly formulated arbitrary manner. (4) The law neither reward a man&#39;s virginity without punishing the man&#39;s not chastity, they should not promote women&#39;s chastity alone. (5) Modern humanitarian vision, praise Liefu paragons kill itself sati, are barbaric and cruel laws, such laws have no place in today. (Lsjt.org) <br>'
+);
+
+?>

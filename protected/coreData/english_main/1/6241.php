@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1966-7-1
+	create time:2013-01-01 22:56:27
+*/
+
+return array(
+'title'=>'France pulled out of the North Atlantic Treaty Organization integrated military institution',
+'class'=>0,
+'cont'=>'(Heigo May 13), July 1, 1966, France withdrew from the North Atlantic Treaty Organization integrated military institutions. Charles de Gaulle served as President of the Fifth Republic of France <br> 1959, foreign execute independent nationalist policy, trying to restore France&#39;s great power status. He put forward the slogan of \"Europeans European advocated Western Europe, to get rid of the control of the United States, (Lssdjt.com) to abandon and leadership under the auspices of the Atlantic Group in the United States. (Today in History cn) <br> Charles de Gaulle has told the United States and Britain: France and the United States and Britain should assume its responsibility in the world, seek to amend the Articles of NATO, it is recommended that the establishment of the command structure of the three countries in NATO, or France reserved to amend the Convention or the right to quit the organization. The United States and Britain rejected the recommendations of the Charles de Gaulle. Charles de Gaulle, France&#39;s Mediterranean Fleet from NATO command announced in March 1959. In June, the United States requires a set of nuclear weapons, was rejected in France. France also forced the United States to withdraw from it in France&#39;s nuclear bombs and bombers carrying nuclear weapons. French government actively develop their own nuclear forces, the French government proposed a cost of over 300 billion francs in June 1962 military equipment Schemes Act, of which more than 60 billion francs to build a nuclear strike force. In 1962, France exploded the first atomic bomb. To confrontation with the United States, France to strengthen relations with the European countries, to improve relations with the Soviet Union in Eastern Europe, the establishment of formal diplomatic relations with China. <br> France and the United States against escalating. In 1963, the French government announced that the Atlantic Fleet from NATO command. Recall all French military officer serving in the Navy Command of NATO in 1964. In March 1966, Charles de Gaulle letter to U.S. President Johnson to formally withdraw from the NATO military bodies, and the withdrawal of all French troops, the NATO command announced in July, also canceled a NATO military aircraft transit and landing rights in France ordering the U.S. military and its base year, the withdrawal of France. On July 1, France withdrew from the North Atlantic Treaty Organization integrated military institutions. In October, France pulled out of NATO&#39;s Military Committee. The NATO headquarters from Paris moved to Brussels. (Lssdjt.com) <br>'
+);
+
+?>

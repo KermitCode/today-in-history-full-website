@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1882-12-9
+	create time:2013-01-02 02:40:19
+*/
+
+return array(
+'title'=>'Chinese Qing Dynasty mathematicians Initiator of the death of',
+'class'=>3,
+'cont'=>'December 9, 1882 (, Imo October 29), the death of Chinese Qing Dynasty mathematician. Initiator. formerly known as Heart Lan <br>, the word actually Fang, No. Autumn sewing alias azelaic tert. Zhejiang Haining. Jiaqing fifteen years, born on December 28 (January 22, 1811); died in Beijing on October 29, 2008, Guangxu (December 9, 1882). Childhood favorite math, after the candidate Hangzhou, ZhuSheng was the Yuan Dynasty the famous mathematician Li Ye essays, \"cyclometry sea mirror\", according to the study, accomplished on. Daoguang between, one after another Zhuancheng four-element solution, \"Linde surgery solution\", \"sagittal Kai secret\", \"000 round clarify quiet\" and \"logarithmic Origin\" reputation since. The Xianfeng early, living in Shanghai, 1852 to 1859 in Shanghai Verification of the joint translation with the British scholar Alexander Wylie Euclid Euclid Volume 9, completed late Ming and Xu Guangqi, Matteo Ricci Unfinished Business. Alexander Wylie, Edkins joint translation of \"The generation of micro-plot Steps\", \"re-learn\", \"chat\" and other books of Western mathematics and natural sciences. Successively into the salty with the occasion, the governor of Jiangsu Xu Youren, Two Rivers Governor Zeng Guofan curtain to expertise in mathematics won reliance. Tongzhi years (1868), the governor Guo Song Chao recommend (1 $ dj¦Ó.c¨­m) into Beijing Ren Tong Wen Guan operator the the school total Mannequin, calendar granted the Ministry of doctor, Prime Minister Yamen Zhang Jing rank, official promotion Mishina title. \"The Sea Mirror cyclometry\" as a basic teaching materials, and personnel training a lot. He learned through the past and the present, in a financial Chinese and Western mathematics. 1860 participation in science and technology activities in the Westernization Movement. Total Mannequin with the Man Museum astronomical mathematics from 1868 until his death. His major works are brought together in the \"olden Lent mathematics\", 13 kinds of 24, in which the the sharp cone demand of plot technique, has begun to take Calculus Thought, trigonometric and logarithmic power series expansion, high-end the difference series summation problem solutions are to achieve a high level of traditional Chinese mathematics. Following Mei Wending after another outstanding representative of the Qing Dynasty, the history of mathematics. His life translating Western scientific books many of the latest achievements of the main door of knowledge of modern science from astronomy to plant cytology was introduced to China, made an outstanding contribution to the promotion of the development of modern science. <br> Comments: memory of the Qing Dynasty, the famous mathematician, astronomer, mechanics and botanist ~ <br>'
+);
+
+?>

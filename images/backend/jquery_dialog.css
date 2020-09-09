@@ -1,0 +1,36 @@
+#jd_shadow {
+	Z-INDEX: 999; POSITION: absolute
+}
+#jd_dialog {
+	Z-INDEX: 1000; POSITION: absolute
+}
+#jd_dialog_s {
+	POSITION: absolute; FILTER: alpha(opacity=0); BACKGROUND-COLOR: #ffffff; TOP: 5px; LEFT: 5px; opacity: 0.4; -moz-opacity: 0.4
+}
+#jd_dialog_m {
+	POSITION: absolute
+}
+#jd_dialog_m_h {
+	WIDTH: 100%; FLOAT: left; HEIGHT: 30px; CURSOR: move
+}
+#jd_dialog_m_h_l {
+	PADDING-LEFT: 5px; FLOAT: left; COLOR: black; FONT-WEIGHT: bold; PADDING-TOP: 7px
+}
+#jd_dialog_m_h_r {
+	PADDING-RIGHT: 5px; FLOAT: right; COLOR: black; CURSOR: pointer; PADDING-TOP: 7px
+}
+#jd_dialog_m_b {
+	FLOAT: left
+}
+#jd_dialog_m_b_1 {
+	POSITION: absolute; opacity: 0.0; -moz-opacity: 0.0
+}
+#jd_dialog_m_b_2 {
+	FLOAT: left
+}
+#jd_dialog_m_t {
+	TEXT-ALIGN: center; WIDTH: 100%; FLOAT: left; HEIGHT: 40px; PADDING-TOP: 10px
+}
+.jd_dialog_m_t_s {
+	PADDING-LEFT: 10px
+}

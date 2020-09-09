@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2000-9-26
+	create time:2013-01-02 00:51:18
+*/
+
+return array(
+'title'=>'Administration of Religious Activities of Aliens in Rules for the Implementation released',
+'class'=>0,
+'cont'=>'(Gengchen August Eve), September 26, 2000, Rules for the Implementation of the Administration of Religious Activities of Aliens in release. <br> 2000 9, 26, signed the order of the State Bureau of Religious Affairs, Ye Xiaowen, director of the State Bureau of Religious Affairs, released the \"Rules for the Implementation of the People&#39;s Republic of China Administration of Religious Activities of Aliens. Refined, complement and complete the \"implementation rules\" promulgated by the State Council in 1994, the People&#39;s Republic of China of foreigners in religious activities regulations, enhanced operability. <br> \"the implementation of the provisions of the Rules, the freedom of religious belief and normal religious activities of the Chinese government to respect and protect foreigners in China. Aliens may participate in religious activities in temples, mosques, churches legally registered according to their religious beliefs; consent of the religious and social groups, Aliens in Chinese religious personnel may be invited to hold a baptism by teaching habits weddings, funerals and temple, puja and other religious ceremonies; foreigners according to the project or agreement on religious cultural and academic exchanges, carrying religious articles for religious cultural and academic exchanges immigration. Venues for religious activities in China can agree that foreign religious personnel to preaching, preaching to Chinese religious seminaries; Chinese religious groups in accordance with the relevant provisions of the selected officers to study abroad, foreigners can also go to religious institutions studying in China. Aliens in collective religious activities, the implementation of the provisions of the Rules should be held; the legally registered Siguanjiaotang approved by the religious affairs department of the people&#39;s governments at or above the county level if there are special reasons, can also be in by the provincial people&#39;s government religious place affairs department specified temporary. the <br> \"Implementation Rules further embodies the principle of an independent office to teach the foreigners to conduct religious activities within Chinese territory shall abide by Chinese laws and regulations, and shall not in any way interfere in China&#39;s religious affairs, made specific, clear requirements. <br> State Religious Affairs Bureau in the development of the \"Rules\", extensively solicit the views of all interested parties. The release of the \"Implementing Rules\" is the protection of religious freedom in China, an important measure to strengthen the management of religious affairs in accordance with the law. <br>'
+);
+
+?>

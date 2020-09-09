@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1964-11-3
+	create time:2013-01-02 02:30:47
+*/
+
+return array(
+'title'=>'Lam Tin ape-man skull found',
+'class'=>0,
+'cont'=>'November 3, 1964 (on Jiachen September 29), the ape-man skull discovered in Lam Tin. early November, scientists in China in Lantian County, Shaanxi Province Gongwangling <br> 1964, found the skull of an ape-man. This is only the ape-man skull. the ape skull <br> 1929 in Beijing Zhoukoudian found, has been unaccounted for in the liberation. The ape-man skull is extremely valuable information for the study of human origins. So far, the world&#39;s only our Zhoukoudian, Java, Indonesia and Algeria sudden Kniffen found the ape-man skull. May 31, 1965, China&#39;s scientific community Lam Tin ape report will be held in Beijing, CAS President Guo said in the report, the ape-man skull found in Lam Tin, Chinese scientists is another major contribution to the study of human origins. Scientists believe that the the Lam Tin ape even earlier than the Peking Man from now than five or six hundred thousand years. <br> Lam Tin ape-man skull <br> dating back about six or seven hundred thousand years ago, is a Paleolithic early. 1963-1964 found in Lantian County, Shaanxi, because of \"Lantian Man\". Lantian Man era of life, their physical characteristics, the wall is extremely thick skull bone, frontal bone is very wide, tilted back, thick brow ridge, small brain capacity of approximately 780 ml, skull height is very small, these features indicate that the Lantian Man still relatively primitive. the <br> \"the Lam Tin ape\" skull <br> \"Lam Tin ape skull dating back about 800,000 years ago, is a Paleolithic early. 1964 unearthed in Shaanxi Lantian County, the county east of the Gongwangling Lantian Man. Age of Lantian Man lives, their physical characteristics, skull bone wall is very thick, very wide frontal, tilted back, thick brow ridge, small brain capacity of approximately 780 ml, skull height is very small, these features indicate that the Lantian still relatively primitive. the <br> \"Lam Tin ape a fossilized mandible <br> Lam Tin ape mandible fossils dating back about five or six hundred thousand years ago, is a Paleolithic. 1963 Institute of Vertebrate Paleontology and Paleoanthropology in Shaanxi Lantian County, the county in northwest Chenjiawo near the village found. The mandible (history today www.lssdjt.com) <br> Chenjiawo belonging to an elderly female Overall morphology and Beijingers consistent, but not exactly the same. The scholars mandible the Chenjiawo by the scientific name of Homo erectus Chenjiawo subspecies, also known as \"Chenjiawo\". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2001-4-21
+	create time:2013-01-01 21:46:34
+*/
+
+return array(
+'title'=>'Zhang Jun Li Zejun 14 sin with death',
+'class'=>0,
+'cont'=>'April 21, 2001 (March 28), Government House, Zhang Jun Li Zejun 14 sin with death. , <br> 2001 4 21, Zhang Jun, (lsjt.org) Li Zejun large series of robbery and murder were open to the public in Chongqing City, Changde City, Hunan Province, the verdicts. Zhang Jun, Li Zejun 14 criminals were sentenced to death, deprived of political rights for life, the other four criminals sentenced to death to ease life imprisonment. <br> Zhang Jun, Li Zejun large series of robbery homicide since the founding of New China, rare cases of violent organized crime. Since April 14, the First Intermediate People&#39;s Court of Chongqing City, Changde City Intermediate People&#39;s Court, Zhang Jun 18 defendants in accordance with the law of an open trial. In addition to Zhang Jun refused the court assigned to lawyers, their exercise of the right to defense, the other defendants are each delegate or a defense lawyer appointed by the court as an advocate. The court in accordance with legal procedures, the court investigation, court debate and his last statement. The Public Prosecution lift shows a large number of physical evidence, testimony, expert conclusions, an inquest check records of evidence. Zhang Jun, Li Zejun own committed robbery, intentional homicide, illegal trade in firearms, ammunition, and other crimes were confessed. <br> court has examined, Zhang Jun and his accomplices had committed crimes long number means extremely cruel, cunning, arrogance is extremely arrogant, and caused great harm to society. From June 1991 to September 2000, Zhang Jun alone, together or organization, conductor Li Zejun et al, in Chongqing, Hunan, Hubei, Yunnan, Guangxi, gunmen armed robbery, murder, robbery and firearms and ammunition 22 , causing the death of 28 people, five of them seriously, and 15 people were slightly injured, 2 Sometimes no, robbed of property worth 5.369 million yuan, robbery rental cars 5, 2 micro submachine gun and 20 rounds of bullets, organized and planned way manufacturing a series of appalling major and serious criminal cases. judicial organs in accordance <br> open robbery homicide sentencing Zhang Jun, Li Zejun King series, reflects the serious criminal offenders severely punished severely and quickly, adhere to the \"steady, accurate, relentless\" fight against all kinds of serious harm to public order offenses the strong determination of the activity, expressed a strong desire of the majority of the people. <br>'
+);
+
+?>

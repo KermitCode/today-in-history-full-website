@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1996-8-15
+	create time:2013-01-02 01:03:20
+*/
+
+return array(
+'title'=>'Since the founding the largest smuggling of narcotics seven drug lords Executed',
+'class'=>0,
+'cont'=>'August 15, 1996 (Rat-year in July, the first two days), since the founding of Executed the largest smuggling of narcotics seven drug lords. Guangdong Provincial Higher People&#39;s Court in Shenzhen Stadium in <br> 8 April 15 morning, convened sentencing implementation of General Assembly, the culprits of 598.85 kilograms of heroin smuggling case Wang Shijian and other three Mainland criminals Hong Kong, four criminals sentenced to death taken to his death executed by firing squad. In early 1996, the business in Yunnan Fujianese Wang Shijian, and the people of Hong Kong, Huang Tien-sung, Yang Xiaoji conspired with overseas drug traffickers drug trafficking matters. Contact of foreign drug traffickers, Wang Shijian Huang Tien-sung, Yang Xiaoji meet in Guangzhou on March 16, 1996, it was agreed that the king 70 (per 700 grams) of heroin in Guangzhou to yellow. Huang Tien-sung with Wang Shijian Myanmar to look at the \"goods\" in early April. At the same time, Wang Shijian raise drug 28.3 million yuan, its employees such as Lai auxiliary Yong people in Burma to the local traffickers to buy a batch of heroin hidden in the car shipped to Guangzhou. Huang Tien-sung that drugs shipped to Guangzhou Yang Xiaoji, Lvjian Bang, Lee Kwok-chuen (Hong Kong), Wusi Chang, Wei-Qiang Guo et al, has notified to pick up the drugs in Guangzhou to Shenzhen handed over to his accomplices, Chen Hong, Aberdeen (Hong Kong). Morning, Wang Shijian and Huang Tien-sung on April 15 this year after the transfer of finished drugs, ready to carry the drugs to Shenzhen Wusi Chang, Lee Kwok-chuen, Wei-Qiang Guo public security organs RenZangJuHuo; Wang Shijian, Lai secondary Yong, Lv Jianbang Chen Hong Tsai, Wong Tin The send, Yang Xiaoji harboring Yang Xiaoji heroin Guangzhou residents, Zhubing new also has been arrested. The public security organs seized 598.85 kilograms of heroin and tools of crime, a number of drug money. The judgment Shenzhen Intermediate People&#39;s 法院对该案, Wang Shijian, Wong Tin Diego, Yang Xiaoji Wusi Chang, Lee Kwok-chuen, Chen Hong Tsai, Wei-Qiang Guo Lai auxiliary Yong appealed against the verdict. Guangdong Provincial Higher People&#39;s Court after hearing that the trial verdict, the facts are clear, the evidence is reliable and sufficient, accurate conviction, sentencing appropriate, legal proceedings. Dismissed the appeal and upheld the original verdict. Sentenced Wang Shijian Huang Tien-sung, Yang Xiaoji, Wusi Chang, Lee Kwok-chuen, Chen Hong Tsai, Wei-Qiang Guo to death. <br>'
+);
+
+?>

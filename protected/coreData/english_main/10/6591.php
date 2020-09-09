@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1991-7-10
+	create time:2013-01-02 00:00:29
+*/
+
+return array(
+'title'=>'Boris Yeltsin became the first President of the Russian Federation',
+'class'=>0,
+'cont'=>'(Xinwei, May 29), July 10, 1991, Boris Yeltsin became the first President of the Russian Federation. February 1, Sunrise, 1931 <br> Boris Nikolayevich Yeltsin (Boris Nikolayevich Yeltsin) (1931.2.1 2007.4.23) was born in Sverdlovsk reached Li Ciji District Bute Ka a peasant family in the village of ethnic Russians. Graduated from the Ural Institute of Technology, Department of Architecture in 1955, he worked in Sverdlovsk 30 years, (Lssdjt.com) former chief engineer, manager of the city&#39;s housing construction combined company after 1976, as the Communist Party of the Soviet Union, Sri Lanka Virgin, called the oblast Committee first secretary. transferred to Moscow <br> 1985 served party, dignitaries post, from December 1985 to November 1987, he was appointed the first secretary of the Soviet Communist Party in Moscow Municipal November 1987 to May 1989, he was appointed the first deputy of the USSR State Construction Committee Chairman. He was elected as representatives of the people of the Soviet Union in March 1989, the first People&#39;s Congress of the Russian Federation in May 1990, was elected as the Chairman of the Supreme Soviet of the Russian Federation. July 1990, 28 large on the CPSU, Yeltsin represented the democratic program proposed by the school \"aims to transform Soviet society was a series of propositions is not the General Assembly to accept, he quit the Communist Party of the Soviet Union announced the end of the General Assembly . June 1991, Yeltsin was elected in the popular election of the first President of the Russian Federation in December of the same year he was with the former Soviet Union 10 to join the leaders of the Republic published together with the Declaration of Alma-Ata, announced the establishment of the Commonwealth of Independent States. 1996, re-elected as the President of the Russian Federation. December 31, 1999, Yeltsin delivered a televised speech, announced ahead of time to unload the presidency, and the appointment of Prime Minister Vladimir Putin as the acting president. (1 $ dj¦Ó.c¨­m) <br> the \"President marathon. Visited China many times. Mrs. Naina is a construction engineer. They have two daughters, a construction engineer, and the other is a cybernetics engineer. The disintegration of the Soviet Union because of his Russia because he gradually since, he is a great man of history, is the era of the Lawrence. <br> 2007 April 23, 2010, of a heart attack at Moscow&#39;s death. <br> Reviews: Russian reformist epoch-making VIP. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1902-4-8
+	create time:2013-01-01 21:43:37
+*/
+
+return array(
+'title'=>'Russia and the Qing government to sign the three northeastern provinces of China and Russia &quot;settlement treaty&quot;',
+'class'=>0,
+'cont'=>'(Renyin March day), April 8, 1902, Russia and the Qing government signed the Sino-Russian settlement the Northeast treaty \". 8, <br> 1902 the tsarist government representatives Leisa Er with the Qing government representatives Wang Wenshao in Beijing signed a Sino-Russian settlement of the Northeast treaty \". (History com) <br> the Treaty of four: <br> one, the Northeast around \"as the Russian military without occupy ago is still vested in the territory of China and the Chinese official governance. <br> Second, \"If no further confound and his country move nor containment,\" the Russian army in a year and a half in three phases all withdrawn from the northeast. <br> three, before the retreat of the Russian troops, the number of the army of the Northeast China, the resident must Russian officers agreed; After the retreat of the Russian troops, the Chinese troops in the Northeast should Tim should be reduced should feel that gives notice to Russia. <br> four, Russia returned to Shanhaiguan, Yingkou, the Xinmin Tuen along railway, the Qing government should pay compensation. <br> the treaty signed last, after a lengthy bargaining process. In 1900, Russia sent troops to participate in the Eight-Power Allied Forces, and took the opportunity to invade and occupy the three northeastern provinces. January 24, 1901, Tsarist Russia in the powers of intervention of each column, and the refusal of the Qing government, denounced the \"Kill cross for the time being the Articles of Association. After Tsarist Russia aimed exclusively in the Northeast, and military power to grab the Northeast, Liquan and officials power of appointment and removal, as well as its sphere of influence expanded from the northeast to the Outer Mongolia and northern provinces asked him, the Qing government formally signed, the Qing court not promise . Then Tsarist Russia the Qing Government Road wins Bank entered into a contract conditions from the Qing dynasty to the Road wins Bank guarantee the Northeast any railroad or industrial lease of a bank without consent, not to other countries, Russia to withdraw its troops from the northeast. This program can directly monopoly finance the Northeast and all leasehold, Britain, Japan, the United States and other countries strongly opposed. <br> 1902, Britain, China and Japan alliance to jointly oppose Russia. The United States on February 3 verbale Russia, opposed the the Road wins bank monopoly Manchuria economic interests. (? V history today?? Com) <br> Germany, France, are directly or indirectly opposed. On February 12, Russia received notice of the Qing government refused to sign a bank contract. Tsarist Russia was forced to make concessions. <br>'
+);
+
+?>

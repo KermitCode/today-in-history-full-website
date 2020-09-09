@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1841-1-27
+	create time:2013-01-01 21:32:24
+*/
+
+return array(
+'title'=>'First Opium War: Emperor Daoguang to declare war on the United Kingdom',
+'class'=>0,
+'cont'=>'Fifth day of the first month (1901), January 27, 1841, the first Opium War: Emperor Daoguang to declare war on the United Kingdom. the first Opium War <br> <br> 1838 (18 years) of the Qing dynasty Emperor Daoguang winter, [L $ dj¦Ó.c¨­m] sent Viceroy the Lin Zexu for the imperial minister, went to Guangdong banned opium. March the following year, after the arrival of the forest, the strict line of seized and confiscated more than 20,000 boxes of opium, destroyed in Humen Haikou full. British government as an excuse, decided to send expeditionary force of aggression against China, the British Parliament passed a war against China in the Appropriation Bill. In June 1840, the British ship 47, Army 4000 Rear Admiral Yi law, the China Commerce supervision Elliot led, arrived in Guangdong Pearl River estuary, blocked Haikou. The Opium War since the beginning. In August, <br> 1840 the ship arrived in Tianjin Dagu estuary the Emperor Daoguang awed Bingwei, removal of Lin Zexu reassignment the Zhili Governor Qishan imperial envoys; same time, the British side also popular in preventing diseases autumn and winter will be temporary, and agree to the south of Guangdong negotiations. December, Qi Shan <br> 1840 with Elliot in Guangdong, began negotiations. January 7, 1841, the British dissatisfaction with the progress of the negotiations, and mobilized the army and navy captured the first heavy portal in Humen - Sha Kok, Tai Kok Fort initiated Humen Battle. January 27, Emperor Daoguang hearing the news, ordered the British declaration of war, the camp guards Minister Yishan Jing inverse generals and troop movements thousand people from all over the Fu Yue. February 26, the British army and navy deployed break Humen rungs glimmer the fort and dahushan Fort, Su Pearl almost equal Guangzhou. The Guangdong Admiral off days PuraPharm war martyred. May 24, the British attack on Guangzhou way providers Museum occupies the southwest of the city, all the way from the northwest of the city landing outflank the north of the Highlands, Fort storming of the northeast of the city and the shelling of the city of Guangzhou. In this situation, Yishan, etc. accept British conditions satisfied silver 600 million, in exchange for the British withdrawal from the Guangzhou area. The British invaders atrocities, sparking the city along the northern suburb Sanyuanli people to spontaneous armed with Anti-British struggle. <br>'
+);
+
+?>

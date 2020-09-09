@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1962-8-6
+	create time:2013-01-02 00:05:52
+*/
+
+return array(
+'title'=>'Jamaica Independent',
+'class'=>0,
+'cont'=>'August 6, 1962 (Renyin July seventh), Jamaican independence. The term <br> <br> \"Jamaica\" in Indian Arawak tribe language is Italian for the meaning of the Island of springs. Island of lush plants, groundwater rich source of the name. Blue Mountain spring water of the island. 10,991 square kilometers. Is located in the northwestern Caribbean, east across Jamaica Independent \"target =\" _blank \"> Jamaica Strait sea with Haiti, about 140 km south of Cuba is the third largest island in the Caribbean. Coastline of 1220 km. Tropical rainforest climate, year average temperature of 27 бу C <br> the island of Jamaica, West Indies, the third-largest island, the coastline length of 1220 km terrain plateaus, the eastern part of the Blue Mountains at altitudes of more than 1,800 meters above the highest peak in the Blue mountain altitude 2256 meters, coastal narrow plains, multi waterfalls and hot springs. tropical rainforest climate, annual precipitation of 2000 mm, bauxite, gypsum, copper, iron and other minerals. <br> 1494 Christopher Columbus to the Americas found and landing ashore, because that day is St. James&#39; Day, named St. James Island, but the place names did not spread, and this beautiful island continues to use the name of the Indian language. earliest settlers in Jamaica Arawak Indian who referred to here as \"forest water township. Jamaica, colonized by Spain in 1509. was occupied by Britain in 1655 and became a British crown colony in 1866. participate in the UK&#39;s patchwork of the West Indies Federation in 1958. 1959 implementation of internal since 1961. secede, August 6, 1962 independent Spanish occupation of Jamaica in <br> 1510 after the locals is wiped out and began to introduce the niggers. Jamaicans today most of these slaves or after the period of British rule, the introduction of the descendants of black slaves. Jamaica combines gorgeous style of the exotic colors of Africa, Spain, India and China, the mysterious, and the large number of British tradition, from these cultures to create a unique warm and regardless of frontiers nationals. Jamaica, a population of 2.37 million, of which blacks accounted for 90% of the main religion is Christianity. official and lingua franca is English. <br> Jamaica is the Caribbean&#39;s tourism country, nearly 1 million of the reception of tourists each year, she has to offer all kinds of views on the territory of 10,992 square kilometers, thousands scenery <br> Comments: enchanting scenery of the Caribbean countries, the 2008 Olympic 100 meters champion Usain Bolt motherland. <br>'
+);
+
+?>

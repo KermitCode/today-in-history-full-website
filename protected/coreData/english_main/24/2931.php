@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2008-3-24
+	create time:2013-01-02 08:44:41
+*/
+
+return array(
+'title'=>'King of Bhutan the Qaisar willing to give up the monarchy government to the people',
+'class'=>0,
+'cont'=>'March 24, 2008 (February 17 Lunar New Year), the King of Bhutan Qaisar government to the people is willing to give up the kingship. handsome and humble <br>, <br> 28-year-old king, on March 24, 2010, is located between Bhutan and India to usher in the first democratic elections in its history, the direct election of the members of the National Assembly, On this basis, the first democratically elected government. 100 years, Bhutan has been operating under a hereditary monarchy, no constitution, no political party. <br> 100 years later, the King of Bhutan implementation of political democratization, requires the government to the people, with Western standards. That day, Bhutan will be held in the historic parliamentary elections, the end of the reign of the Wangchuk dynasty in Bhutan a century. Wangchuck dynasty in 1907 ruled Bhutan the former King Singh after the accession to the throne in 1972, has been loved by the National, but that the democratic system of constitutional monarchy to be beneficial to the future of the country and continue to explain the benefits of democracy to the National Singh. The current 28-year-old king Qaisar is willing to give up the monarchy and paving the way for the Bhutan democratic elections. King will continue to \"monitor\" countries. <br> For a small country, this area is only 38,000 square km and a population of 730,000, the election means that the country&#39;s political system from hereditary monarchy into a parliamentary democracy. Enabler of this transformation is the Bhutan&#39;s King Jigme Singye Wangchuck himself. <br> in the parliamentary elections, compete by Bhutan&#39;s only two political parties, the People&#39;s Democratic Party and the Bhutan patriotic Progressive Party 47 Members of seats, both sides participate in a total of 94 candidates election. The more votes will come forward to organize the government. Three years ago, the two political parties are instructions from the the young king decree established political parties, each with thousands of party members. <br> 1907, the establishment of the Kingdom of Bhutan. <br> 1998, the king announced that it would no longer serve as the head of government, and the government is handed over to the Council of Ministers. <br> 2001, the establishment of the Constitution Drafting Committee. <br> 2005, published the fourth draft of the draft constitution? Zhao? Chu Guo? Bang Qu? u?? coffin in grave?? become a formal constitution. (Lssjt.cn) In March 2008, universal suffrage established the National Assembly, the organization of the first democratically elected government. <br>'
+);
+
+?>

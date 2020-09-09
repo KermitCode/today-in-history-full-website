@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1975-1-17
+	create time:2013-01-02 06:56:55
+*/
+
+return array(
+'title'=>'The national fourth National People&#39;s Congress meeting',
+'class'=>0,
+'cont'=>'(Jiayin twelfth lunar month sixth days), January 17, 1975, the National-fourth the National People&#39;s Congress meeting. <br> 1975 May 13 - 17, 2009, the National People&#39;s Congress in Beijing, the fourth meeting. Attended the meeting on behalf of 2864. The agenda for the meeting is: (1) to amend the Constitution; (2) consideration of the Report on the Work of the Government; (3) the election and appointment of national leadership staff. Zhu De, presided over the meeting, Zhou Enlai, on behalf of the State Council to make the government work report. <br> Zhou Enlai reiterated the government work report of the third National People&#39;s Congress proposed \"two-step envisaged in the report:\" The first step, with 15 years in 1980 to build an independent and relatively complete industrial and economic system; second step, in this century, the full realization of the modernization of agriculture, industry, national defense and science and technology, so that our national economy is walking in the forefront of the world. The \"<br> Zhang Chunqiao on behalf of the CPC Central Committee to\" amend the constitution. He said that the Constitution provides for the masses using large Ming big place, great debate, the right of a poster, and According to Mao recommendations, increase citizens the freedom to strike. (有身d芋y身里h貝 $ 而身ry.c身m) In the 17th general meeting, all the representatives unanimously adopted the revised \"Constitution of the People&#39;s Republic of China\" and \"report about the revision of the constitution\", unanimously adopted a resolution on the government work report, approved Zhou Enlai made the government work report. (Lssjt.cn) <br> Assembly by secret ballot to elect the Fourth National People&#39;s Congress Standing Committee chairman, vice chairman and members appointed Premier, Deputy Prime Minister, the Ministers in charge of commissions . (L $ dj而.c身m) <br> of representatives of the people Congress Standing Committee chairman Zhu De, vice chairman of the wu, (on com) Soong Ching Ling, (history com) Kang Sheng The other 22 people. Zhou Enlai, Premier, Deng Xiaoping, Zhang Chunqiao, l $ j而.c里] Xiannian, Xilian, Ji Dengkui, Hua Guofeng, Chen Yonggui, Wu Guixian, Wang Zhen, Yu Qiuli, Gu Mu, Sun Jian, the Deputy Prime Minister. <br> after Yao Wenyuan instruction \"People&#39;s Daily\" only made a General Assembly rostrum and a photo of the Congress venue, Zhou Enlai to make a report and Zhu De and photos are not allowed to host the General Assembly. <br> Zhou Enlai, Zhu De in the Fourth National People&#39;s Congress meeting in the Fourth National People&#39;s Congress meeting <br>'
+);
+
+?>

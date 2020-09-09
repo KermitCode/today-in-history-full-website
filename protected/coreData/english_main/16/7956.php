@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1845-8-16
+	create time:2013-01-02 01:04:46
+*/
+
+return array(
+'title'=>'Famous French physicist Lippmann was born',
+'class'=>4,
+'cont'=>'(Otomi July 14), August 16, 1845, the famous French physicist Lippmann was born. Lippmann <br> physicist born \"target =\" _blank \"> the Lippmann <br> Lippmann is a famous French physicist, born August 1845 in Luxembourg. father Lorraine and his mother is Alsace. aristocratic rulers in Luxembourg, both of them when the tutor, life is abundant, but they felt he was a Frenchman should make educated adult son in the embrace of the motherland. despite the owner repeatedly retain Lippmann 3 years old, his parents or resigned from Luxembourg (history com) returned to France, home security in the most strong cultural atmosphere of Paris&#39;s Latin Quarter. <br> ; the Lippmann Health in a scholarly home, parents are encouraged to go and be modest and prudent, educated people who are serious about their attitude towards learning and meticulous. Lippmann ideological and moral formation from subtle role. Lippmann ambitious, but also work hard in 1868, he was admitted to the Ecole Normale Department of Education, but due to a very strong interest in the performance of his mathematical, turn in the second year into the Department of Physics. physics in the next 10 years, he has explored, in particular, has made many contributions to the development of experimental physics in 1882, he applied when mathematical professor of the University of Paris, and later because of his achieved outstanding results in the area of &#8203;&#8203;experimental physics and famous at home and abroad in 1886, he was elected to the French Academy of Sciences. [1 $ dj而.c身m] <br> Lippmann deep attainments in physics, the scope of the study wide, especially the electrical, thermal, optical and electro-optical studies, with distinction, was recognized by the scientific community in Europe he is the authority. <br> day he entertained celebrities of the scientific community, unreservedly their own invention Capillary potentiometer dedicated to the French Physical Society. was with this invention to patent their own or other countries, he can immediately become a millionaire. Such greed of wealth, the scientific results as all humanity, science, spirit and make contributions to the motherland from the teachings of his mother. (L $ dj而.妨壯T) <br> Lippmann is also the inventor of the color photographic interference \"because of his outstanding contribution to the 1908 , (L $ dj而.妨壯T) awarded him the Nobel physics prize by the Royal Swedish Academy of Sciences assessment, special <br> 1912, Lippmann was elected president of the French Academy of Sciences in 1921, Lippmann went to Canada and lecture, got sick in a foreign country, the death of the way back on July 13. <br>'
+);
+
+?>

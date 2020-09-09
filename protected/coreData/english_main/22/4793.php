@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1907-5-22
+	create time:2013-01-01 23:04:03
+*/
+
+return array(
+'title'=>'Huanggang outbreak of the intifada',
+'class'=>0,
+'cont'=>'May 22, 1907 (April 11) DingWei Huanggang outbreak of the intifada. <br> Yijun the pledging scene <br> Sun Yat-sen was originally scheduled for May 25 in Huanggang uprising. 21, 2009, business people acting garrisons in front of the stage to take liberties with women come forward to interference partisan fishing go two, and intends to search the Taixing grocery total organ. Responsible for the uprising alliance member Yu Jicheng, Chen Yongbo then early action. 22 evening, Yu Jicheng gathered more than 700 people outside the city of Huanggang, pledging uprising. Chen Yongbo as a striker, scored by the north gate, to siege all Division Yamen. Showers, the night suddenly drop the Rebel mostly old shotgun, ammunition best wet and Chen Yongbo will switch to Huogong. The raging flames, Chen Yongbo shook conflict, bloody night, overcome Huanggang, captured all Division Long Kai. The next day, in the old Division Yamen set up a military government, Chen Yongbo, Yu Jicheng being deputy commander, the same time, the name of the Ming dynasty the Dudufu the Sun \"and\" the Guangdong National Army viceroy Sun \"released proclamation, declaring & ldquo ; official exorbitant taxes, the people and even embarrassing, Designed For getting rid of \"discipline and presented ten balance. Military government want to place Yanfu BOCOM offer meters \"the rich rooms are Leti military spending, the huge number of\", \"a man surnamed Liu secondary strangulation, to as much as three or four thousand.\" (Lsjt.net) <br> Guangdong Governor Zhou Fu electricity responsibilities Chaozhou town Chief General Huang Jinfu troops, and sent the the Admiral Lee quasi led his unit into the following; attempts to prevent and promote Fujian and Zhejiang Governor the Matsuhisa dial team. 25 day and night, Chen Yongbo attack Huang Jinfu Jun, Rebel Tubao powerful, have been killed or injured dozens of people to the second day afternoon, to the Huanggang Qi Yuan. Yu Jicheng Phi hair crying, volunteer army was deeply moved and body with two knives, carrying wet batting, ready to fight. Qing reinforcements arrived, the the volunteer army attacked front and rear, running out of ammunition and had ordered the retreat. 27 Chen, Chen Yongbo, Yu Jicheng, decided to preserve their strength, and the dissolution of the Rebel. Yu Jicheng Hydrographic fled to Hong Kong. 28 Qing enter Huanggang, seized Chen Yu Lost partisan roster, the arrest by name, the massacre of more than 200 people. East stove villagers trapped was a rebel army porridge, Huang Jinfu shelling, \"miserable death more than life. This year is the Lunar DingWei the uprising known as the \"Battle of DingWei Huanggang\". <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1984-7-28
+	create time:2013-01-01 23:11:54
+*/
+
+return array(
+'title'=>'23th Olympic Games held in Los Angeles',
+'class'=>0,
+'cont'=>'(Jiazi July day), July 28, 1984, the 23th Olympic Games held in Los Angeles. <br> team to participate in 23 Olympic Games <br> the 23th Olympic Games to be held from July 28 to August 12 in 1984 in Los Angeles, more than 140 countries and regions in 7800 athletes participated in a total of 21 events (221 single) and two performances, the previous largest. 353 people to attend the meeting of the Chinese sports delegation, including 225 athletes, otherwise tours to 31 people, the reporters group of 67 people, the international referee 13 people, was invited as a VIP and guests are sports leaders. China to send such a large delegation to participate fully in the Olympic Games, yet caused the attention of the world. <br> China to participate in the Olympic Games has a history of 52 years. For the first time to participate in the 10th Olympic Games in 1932, also in Los Angeles. Participated in the 11th and 14th Olympic Games in 1936 and 1948. After the founding of New China in 1952, took part in the 15th Olympic Games. After China Taiwan athletes have participated in the Olympic Games, Yang Chuan-kuang and Chi Cheng of the good players are given the ranking, but never won the gold medal. <br> Olympic Games in 1979, restoration of China&#39;s legitimate seat in the International Olympic Committee after the first time. Chinese Taipei Olympic Committee also sent a delegation of 67 people to participate in this event. Cross-strait athletes meet, the first time in the Olympic Games. In the Olympic Games, the Chinese delegation participated in 21 projects in 16 competition, athletes are defying strong opponents, and energetic, athletic performance and the spiritual double harvest, won 15 gold medals, 8 silver, 9 bronze medal, also won four of 14, 9, 5, 7, 6, 8, 7, 8, 8, breaking down the history of the Chinese people won a gold medal at the Olympics. Received the number of gold medals, the first four, second only to the United States, Romania and the Federal Republic of Germany, has made a major breakthrough in the historic. Chinese Taipei athletes won one of the weightlifting competitions and baseball exhibition games bronze medal. <br> Los Angeles, the scene of the opening ceremony for the Chinese delegation at the 23th Olympic Games <br> shooting athletes Xu Haifeng won the first Olympic gold medal <br> The U.S. Beno Preval in Los Angeles in Olympic history a women&#39;s marathon gold medal <br> congratulate the Shooters&#39; China Sports Federation Vice Chairman Huang Xu Haifeng won a gold medal in the Olympic Games, breaking the Chinese athletes Olympic gold medal zero record <br>,'
+);
+
+?>

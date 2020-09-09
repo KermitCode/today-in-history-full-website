@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1939-5-6
+	create time:2013-01-02 09:01:53
+*/
+
+return array(
+'title'=>'Wang Jingwei energized collaborators',
+'class'=>0,
+'cont'=>'May 6, 1939 (March 17) JiMao the Wang Jingwei energized collaborators. the <br> the Wang Jingwei <br> Wang Jingwei, name Siu Ming, word quarter new. Native of Jiangxi Wuyuan, later moved to Shaoxing, Zhejiang. May 4, 1883 (Qing Guangxu nine) born in Panyu, Guangdong. 1905 joined the Alliance, once any of the \"people\" writer. 1910 participation in the assassination Qing Regent Zai Feng attempted arrest, was released after the Revolution. [L $ dj¦Ó.¨­r¨À] first seek refuge with Yuan Shikai, Masonic participation in organizational affairs, after the failure of the Yuan, defected to Sun Yat-sen. The advocacy Sun 1923 reorganization of the Kuomintang and the implementation of the three policy. KMT government chairman and the Chairman of the Military Committee in 1925. The betrayal of the revolution in Wuhan on July 15, 1927, massacre of Communist Party members and the masses of workers and peasants, Cunningham confluence. In 1932, served as president of the Executive Yuan of the Nanjing National Government, Minister of Foreign Affairs, to help Jiang&#39;s full destruction of the Communists \"external pursue\" day Tixie \". After the outbreak of the Sino-Japanese War of <br> to any KMT vice president, chairman of the Central Political Committee, the KMT&#39;s political participation meeting long. November 24, 1938, gave a call to accept the Japanese side conditions in Hong Kong Gaozong Wu, Mei Siping reached traitorous Rihua record of the agreement \"and\" understanding matters. December from Chongqing to Hanoi, Vietnam, May 5, 1939, from Vietnam arrived in Shanghai call Chiang Kai-shek, public surrender of Japan, Imai Takeo secret talks with Japan on board, said Wang puppet government intentions, and intends to exchange views with the Japanese authorities, become a traitor. The 31st, Wang the Zhou Fohai, Mei Siping, Gaozong Wu, Dong Daoning, 11 people arrived in Japan, meeting with various officials of the the Hiranuma Rinichiro cabinet traitorous treaties signed with Japan (\"Japanese branch new relationship adjust the Platform\") in the end of the year, 1940 March 30, set up a puppet national government in Nanjing, he served as Chairman of the Executive Yuan, the support of Japanese imperialism \"Greater East Asia jihad. Died on November 10, 1944 in Nagoya, Japan. <br> the Wang puppet government \"ceremony\" held <br> Wang Jingwei Japanese War Minister Tojo Hideki together <br> Zhejiang Huangyan County Haimen town people produced a the Wang Jingwei couple of stone carving kneeling like for people reviled. The picture shows the Japanese occupation of the town of Haimen, onlookers the wonders <br>'
+);
+
+?>

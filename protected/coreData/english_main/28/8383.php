@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1993-8-28
+	create time:2013-01-02 00:52:22
+*/
+
+return array(
+'title'=>'Junxia was the Fourth World Athletics Championships km gold medal',
+'class'=>0,
+'cont'=>'(對衃 July 11), August 28, 1993, Wang Junxia was the Fourth World Athletics Championships km gold medal. <br> August, 1993, Wang Junxia was the fourth session of the World Athletics Championships, one thousand meters gold medal \"target =\" _blank \"> Junxia in the World Series for the first time, at the Fourth World Athletics Championships in Stuttgart, Germany the women&#39;s 10,000 meters gold medal, and the creation of a World Championships record, was 30 minutes 49 seconds 30 results, September 8 in the Seventh National Games women&#39;s 10,000 m race, more than Norway&#39;s 29 minutes and 31 seconds 78 results Christiansen remains a world record of seven years of the project, and to win the gold medal in the women&#39;s 1,500-meter race in the 11th and teammate Qu Yunxia 13 years of the women&#39;s 1,500 meters world record over the former Soviet Union player Kazankina maintained, and score of 3 minutes 51 seconds 92 won the silver medal in the women&#39;s 3,000-meter preliminaries in the 12th over the women&#39;s 3,000-meter world record of 8 minutes and 12 seconds 19 results, and the 13th in the final of Youyi 8 minutes 6 seconds 11 results more than their own achievements in the preliminaries again, and was full licensing, October 28th IAAF sent a letter to the Chinese Athletics admit its creation 8 minutes, 6 seconds, 11 of the women&#39;s 3000 meters world record of 29 minutes and 31 seconds 78 women 10,000 m world record, October 30, [l $ dj而.身r阱] 5 World Cup held in San Sebastian, Spain City Marathon on the results of two hours 28 minutes and 16 seconds won the championship in December 34 minutes 19 seconds 32 results at the Asian Athletics Championships won the women&#39;s 10,000 m gold medal. (l $ j而.c里)] In September 1993, was named \"U8 cup Seventh the best athletes of the National Games, the 16th National Women&#39;s Federation awarded the national \"38\" red flag sub title. ranked second in 1993, the best female athletes&#39; standings in the IAAF vote. November 26, 1993 British Globo television network is rated as the best female athlete of the 1993 Global Sports was the 93 years of the National Track and Field Top Ten title, the first of 93 of the world&#39;s top ten athletes named \"China Sports Daily\". <br> 1994 day that 14th (1993) Jesse - Owens Award, China and Asia&#39;s first win of the athletes. <br> Owens Award was founded in 1980, annually selected once, there are 13 outstanding athletes get the honor, in addition to the four athletes in the United Kingdom, Morocco, (Lssdjt.com) Canada and the former Soviet Union, the remainder of the award-winning athletes are all Americans. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1610-5-11
+	create time:2013-01-01 20:31:55
+*/
+
+return array(
+'title'=>'Wanli of the Ming dynasty lived in the Jesuit missionary Matteo Ricci&#39;s death',
+'class'=>3,
+'cont'=>'(, Leap 19 March, Gengxu), May 11, 1610, the Ming Dynasty residing in China, the Jesuit missionary Matteo Ricci&#39;s death. <br> Ricci&#39;s death \"target =\" _blank \"> Ricci (1552 -1610 on May 11, 2011), the Italian Jesuit missionary, scholar of the Ming Dynasty Wanli came to live in China. formerly known as Chinese literally translated as Mati Ou ¡¤ Leach, Ricci is his Chinese name, number Xi Tai, No. Qingtai, Xijiang popular in Chinese literati respect, affectionately known as & ldquo ; Tessie Confucian scholars, he is one of the pioneers of the Catholic missionary in China, is the first reading Chinese literature and Western scholars studying the Chinese classics in addition to Catholic doctrine, but also make Chinese officials and social celebrities, spread of Western astronomy, mathematics, geography, and other scientific and technical knowledge to his writings not only for the Chinese and Western exchange made an important contribution to understanding of Western civilization also had an important impact on Japan and the Korean Peninsula countries. (L $ dj¦Ó.c¨­m) <br> Ricci day of the Feast of the Assumption in 1571, joined the Jesuits studying philosophy and theology in Rome Institute sponsored by the Society of Jesus in 1572 and 1577 be allowed to go to the Far East missionary. March 24, 1578, (history Today www.lssdjt.com) Ricci from Lisbon by boat and 14 other Jesuits went to missionary work in India. Along the way round the Cape, via Mozambique, after six months of sailing finally arrived in India on September 13 Goa 1582 (Wanli decade) Ricci summoned to China as a missionary, arrived in Macao on August 7 1584 Ricci permitted into the home Ruggieri the Guangdong Zhaoqing. Wanli seventeen years (1589) summer, the new Governor of Guangdong Matteo Ricci lived in Western-style building for themselves, so Ricci moved Shaozhou 1595 (Wanli 20 years) Ricci to go to Nanjing. September 22, 1596 Ricci success here predicted a solar eclipse, he soon became a well-known figure, befriending during many Confucian scholars dignitaries, and are subject to the the Jian&#39;an king hospitality. arrived in Beijing on January 24, 1601. was chime clock, the Bible, the \"Palais map \", Atlantic piano party matter, too trust. Shenzong, 1601, the Wanli Emperor issued an edict allowing Ricci et al Nagai Beijing, but the court did not notice, Ricci Long live Beijing purposes to spread Christianity. <br> in 1610 (Wanli 30) May 11 Ricci died in Beijing, thanks buried flat door in the ditch. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:2002-8-3
+	create time:2013-01-01 23:52:38
+*/
+
+return array(
+'title'=>'Chen Shui-bian&#39;s &quot;Taiwan, with the other side of the Chinese one country on each side&quot; theory has been questioned',
+'class'=>0,
+'cont'=>'(, Imo June 25), August 3, 2002, Chen Shui-bian&#39;s \"Taiwan with the other side of China, one country on each side\" theory has been questioned. <br> 2002, according to Taiwan media reports, (on TodayOnHistory.com) Chen Shui-bian to be held in Tokyo, Japan, the World Federation of Taiwanese Association 29th annual speech , openly claimed that \"Taiwan with the other side of China, one country on each side\" preached the word \"referendum\" to determine \"the future of Taiwan, fate, and status. CPC Central Committee Taiwan Work Office, the spokesman of the Taiwan Affairs Office of the State Council has issued a statement. The following is the full text: <br> Recently, Chen Shui-bian repeatedly spoke openly claimed to \"go its own way, the two sides are\" one country on each side \", ready to use the referendum\" need to \"decide\" the future of Taiwan, the fate and the status quo. These remarks with Lee Teng-hui&#39;s \"two states theory\" is exactly the same, fully exposed the true colors he stubbornly sticking to the \"Taiwan independence\" stance is a brazen challenge to the entire Chinese people, including Taiwan compatriots, is also recognized by the international community a brazen challenge to China principle, cross-strait relations will cause serious damage to affect the stability and peace in the Asia-Pacific region. <br> Chen Shui-bian&#39;s advocacy of cross-strait \"one country on each side\", fully proves his confession \"four noes\" only to deceive the people of Taiwan to deceive the international public opinion expedient. Seek peace, development, stability, and hope that the improvement and development of cross-strait relations, Taiwan&#39;s mainstream public opinion. Chen Shui-bian&#39;s disregard of public opinion, advocating \"Taiwan independence\" and a handful of stubborn \"Taiwan independence\" elements attempt to impose the majority of the people of Taiwan, Taiwan&#39;s economy affected, the damage to the vital interests of the Taiwan compatriots, will lead Taiwan to the disaster. <br> the world is only one China, the mainland and Taiwan belong to one China, and China&#39;s sovereignty and territorial integrity brook no division. Opposition to \"Taiwan independence\" separatist achieve national unity is our unswerving stance, will never allow anyone to split Taiwan from China in any way out. We solemnly warn the Taiwan separatist forces, not to misjudge the situation, stop now, stop all separatist activities. <br>'
+);
+
+?>

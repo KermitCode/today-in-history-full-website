@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1937-9-30
+	create time:2013-01-02 01:12:31
+*/
+
+return array(
+'title'=>'Pingxingguan campaign ended',
+'class'=>0,
+'cont'=>'The (Landmarks August 26), September 30, 1937, Pingxingguan Battle was the end of. , <br> 1937 09 30, Pingxingguan campaign ended. the <br> 1937 in mid-September, and westward along the Beiping-Suiyuan road of aggression against the Japanese occupation of Datong, ·Ö±ø the two Yanmenguan Pingxingguan first-line attack, an attempt was advancing Taiyuan. In order to meet the friendly combat, blocking the Japanese offensive, the 115th Division, was ordered under the command of the division commander Lin Biao, deputy division commander Rongzhen arrived build standby Pingxingguan region. Reference September 23, 115 Division sent an independent group and squadron plugged into regional activities between, Lingqiu - Laiyuan - Guangling, to suppress and combat the reinforcements Pingxingguan of the Japanese. 24 day and night, he three regiments rain had laid an ambush on the road on both sides of Pingxingguan northeast mountain, waiting for the invading enemy. (Today in History www.lssdjt.com) <br> 25 at 7 pm, the Japanese 5th Division (Itagaki divisions all) the 21 brigade subsequent forces into ambush geographical, the Eighth Route Army the Yufu troops condescending quickly to the enemy launched violent attack, suddenly upset the Japanese command system, the enemy vehicles autocorrelation collision off their feet, mess. At this time, our brave soldiers rushed to the highway, the enemy implement split to surround and annihilate the two sides launched a close combat with knives and hand-to-hand combat. After a day of fierce fighting, the Eighth Route Army made battle victory Pingxingguan. <br> Eighth Route Army in the Pingxingguan Battle and killed more than 1,000 Japanese troops, destroying the car more than 100 vehicles, and the carriage of more than 200 vehicles, seized more than 1,000 pieces of rifles, machine guns, more than 20 Ting, a cannon, as well as a large number of military supplies, the national war of resistance began since the Chinese army&#39;s first big victory. The (Lssdjt.com) <br> Pingxingguan victory concentrate larger forces for the first time in the Eighth Route Army of the Japanese conducted a successful ambushes. Recoiled when the Japanese drive straight, KMT army situation, the Eighth Route Army won the first battle, combat the crazy Japanese arrogance, breaking the myth of Japanese invincibility, which greatly inspired the country&#39;s support of the people, the morale of the National People&#39;s see where to the hope of the Chinese nation. <br> Comments: Japanese devils are not invincible! <br>'
+);
+
+?>

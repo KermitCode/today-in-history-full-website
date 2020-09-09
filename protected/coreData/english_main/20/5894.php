@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1998-6-20
+	create time:2013-01-01 23:24:10
+*/
+
+return array(
+'title'=>'Yunjusi announced will Millennium stone through into the crypt',
+'class'=>0,
+'cont'=>'June 20, 1998 (May 26), Tiger years, Yunjusi announced will Millennium stone through into the crypt. Tripitaka Master Xuanzang <br> stone carvings to bring back Buddhist texts (topical) <br> in stone by regression news conference held on June 20, 1998, the parties concerned The person in charge said that, due to the lack of technical means, the long-term by atmospheric pollution, the Buddhist stone unearthed from the national key cultural relics protection units Yunjusi in 1957 by the board has been \"severely weathered. To better to save batch of key cultural relics, September 9, 1999, the regression Crypt collection. <br> According to historical records, the earliest advocates Buddhist scriptures carved in stone the North Qi Nanyue Tendai monk Hui Si. The matter first to put into practice his disciples Jing Wan. The open carved between the the Sui Dynasty Daye years from 1300 years ago, after the Liao, Jin, Yuan, Ming number generation Millennium, numerous monks toiling, carve Buddhist scriptures 1122 3572 volume by 14,278 stone. After the completion of hidden in Yunjusi near Stone Mountain 9 Library Cave, and under the Terauchi pressure by tower Crypt. The Buddhist scholar says <br> these stone by the inclusion of the many Buddhist classic, Liao and Jin engraved Khitan Tripitaka modeled correction surviving Buddhist scriptures Unfortunate falsely. Jing-wan, who had been were left carved by the subject: \"by the Dharma difficult intends to charge by the, by the world if there is willing Noir Do not open. \"But posterity not follow the remark. According to the Beijing Municipal Bureau of Cultural Relics Mei Ninghua, 1957 <br> near from Yunjusi Namtha unearthed in Liaoning, the the gold era published the Stele by the board for a total of 10,082. Placed in the galleries, in fact, the Treasury, is detrimental to show the world, which does not help protect the. 41 years, the cultural relics department with relevant experts, although the parties seek to protect, but has so far failed to solve the problem fundamentally. Now, some of the stone by the board literally has peeling, some en bloc falling, falling, some in powder form on the surface, some large area of &#8203;&#8203;text off. <br> experts believe, to stone by the re-released into the wild to the pressure of the original burial at Tower Crypt sealing possession, is currently the best solution to prevent the stone by weathering. inside the cave collection of relics of the Buddha <br> LEIN Sui years (AD 616 years) placement deposited inside the cave. Two decades (1592 AD), Ming Wanli the weight placed Shihan. Discovered in 1981, the only remaining three and a half, is regarded as \"national treasures\". [L $ dj¦Ó.c¨­m] <br>'
+);
+
+?>

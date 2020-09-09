@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1943-6-1
+	create time:2013-01-01 21:50:24
+*/
+
+return array(
+'title'=>'Mao Zedong&#39;s call the Peng Dehuai re-estimated the Sino-Japanese War',
+'class'=>0,
+'cont'=>'(¹ïÎ´ April 29), June 1, 1943, Mao Zedong&#39;s call the Peng Dehuai re-estimated the Sino-Japanese War. In In <br> 1943, Mao Zedong call Peng Dehuai, the status of the KMT, made a re-estimate of the development of the Sino-Japanese War. <br> hair CLP KMT enemy, foreign (British and American), and common people, party of five areas (central and local governments, cc revival) there was no proper way, the crisis is growing. Rotary new Wang Daojiang policy no countermeasures Tojo, increased Kuomintang against Japan surrendered, a great loss of combat effectiveness. The current Anglo-American is still focusing on Germany, the little Chiang assistance. Chiang Kai-shek party jealous of my great, do not want to solve the problem of relations between the two parties. Gansu, Guizhou, Sichuan, Shaanxi Province, China becomes everywhere, Chiang Kai-shek, in addition to repression, his way. The KMT&#39;s internal disputes without a break, there is a growing trend. The above activities of the War of Resistance Against Japan the situation is increasingly difficult position. <br> gross electrical re-estimated the trends in the War of Resistance Against Japanese Aggression and the future tasks of the Communist Party of China. The message pointed out, the War of Resistance Against Japan need to prepare for three years, how the situation in China at that time, deep Humphreys Note. I Party should strive to consolidate this three years stands unbeaten. Enemy apply all means to adhere to the essential base against \"raids\" against \"encroachment\" military struggle with the collapse of the political struggle of the puppet are required to pay attention to the most good party policy. KMT should try to avoid military conflict, so that all the forces of the other side are the enemy. In addition to adhere to the \"three-thirds\" of the people of behind enemy lines in the liberated areas, should vigorously develop agriculture, handicrafts, such as the people (mainly farmers) economy drying up, our party can not survive, and do this in addition to organizing people in production, the party The political and military production is extremely important. Party policy, one rectifying the three wind (should adhere to the one-year plan); review cadres (inventory the traitor included); save cadres (to send a large number of cadres to the rear of learning). Such as the implementation of the above, do not make a big mistake, my party to be invincible. <br>'
+);
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1799-11-9
+	create time:2013-01-02 01:37:16
+*/
+
+return array(
+'title'=>'France &quot;Misty May 18 coup.&quot;',
+'class'=>0,
+'cont'=>'November 9, 1799 (October 12), Kang Xi, France Brumaire 18 coup. \" Brumaire coup the scene <br> when <br> Napoleon coup is a major event in the history of France, took place at the November 9, 1799, the day the fog of the new French calendar month 18, known as & ldquo history ; fog May 18 coup. <br> 18 century, the French broke out bourgeois revolution, the overthrow of the monarchy in 1792, establish a bourgeois regime. But the bourgeoisie and not from this firmly secured the country, contrary intensified conflicts within the revolutionary camp. French bourgeoisie, the big bankers both against the absolute monarchy, also opposed the bourgeois revolutionaries, especially fear of the revolutionary masses. In 1791 they launched the \"hot coup, to combat bourgeois revolutionaries and the masses to overthrow the revolutionary Jacobins dictatorship, established the reactionary rule of the big bourgeoisie. However, in the summer of 1795, the reactionary royalists held insurgency, so the big bourgeoisie had to come back to resort to revolutionary Jacobins to deal with the royalist royalist rebellion suppressed, the Jacobins active up swing this vacillating the big bourgeoisie Governor government policy, unable to maintain the stability of the rule, the domestic political turmoil. The big bourgeoisie hoped to establish a new regime, the regime can not only prevent the the dynasty restoration, but also to a strong suppression of the people&#39;s revolutionary movement. So, the big bourgeoisie began to select the object. Napoleon was in Egypt combat, he know from his brother a letter sent by the domestic situation, he gave the command to the Near East Front General Kleber, by fast boat, quickly returning. Sure enough, after he went to Paris, was soon in the bourgeois fancy. Paris banker Barlow took out 500,000 francs to support a coup. In support of the big bourgeoisie, as an excuse to lift Jacobin extremism threat Republic. Led the cronies forces dispersed the Legislative Yuan on November 9, 1799, to overthrow the Government of Governor, the executive government headed by Napoleon. Soon, announced the eight years of the Constitution of the Republic of France, reiterated that the abolition of the feudal hierarchy, and free to the appointment and removal of members of the political participation homes, ministers, ambassadors and other senior France is a republic require the permission of the first ruling (Napoleon): \"promulgate laws; diplomats, army and navy officers. Soon, he canceled the revolutionary period of the local self-governing bodies, so that France will become a highly centralized state. the <br> France lifelong ruling \"by Napoleon <br>'
+);
+
+?>

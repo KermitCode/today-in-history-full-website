@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1973-10-30
+	create time:2013-01-02 02:16:29
+*/
+
+return array(
+'title'=>'European conventional arms negotiations start',
+'class'=>0,
+'cont'=>'October 30, 1973 (on October Fifth Guichou), conventional arms negotiations began in Europe. <br> late 60 onwards, with the end of the Cold War and the international situation is easing, the types of disarmament negotiations began. Disarmament is both a part of the United States and the Soviet Union two superpowers struggle for supremacy, and reflect the voices of most of the countries and peoples of the world today requires peace and security. [Lsjt.net] <br> There are three types of Disarmament. First US-Soviet bilateral negotiations, (l $ j¦Ó.c¨½) mainly related to both nuclear weapons (including missiles in Europe); negotiations between the European countries, mainly related to conventional arms in Europe. Third, organized by the United Nations multilateral disarmament negotiations, the issue is more diversified. European conventional arms negotiations some bilateral negotiations Group, and some, including all European countries, the multilateral negotiations. The United States and Canada, two of American States (OAS), a member of NATO in conventional forces in Europe, and thus participate in European negotiations. <br> ongoing European disarmament negotiations, a total of three. The first is Europe Disarmament in Vienna on October 30, 1973, to participate in the state-owned NATO, the United Kingdom, (Lssdjt.com) the Federal Republic of Germany, Belgium, the Netherlands, Luxembourg, the United States and Canada;, and the Soviet Union, the Warsaw Pact Group Poland, Czechoslovakia and the German Democratic Republic, a total of 11 countries. Central European Disarmament now, entering its first 15 years, can be described as the world&#39;s most protracted negotiations. <br> second European Conference on Disarmament held in Stockholm from January 1984. The participating countries include all outside Albania in 33 European countries, as well as the United States and Canada, a total of 35 countries. The first stage of the meeting was the end of September 1986. <br> third of talks organized by the 16 member states of NATO and the Warsaw Pact, the seven member states to participate in preparatory meetings being held formal negotiations will begin by the end of 1988. three <br> Disarmament in scope, tasks, participate in members of different, but in fact interrelated. So, on the whole, the history of European disarmament negotiations can be broadly divided into two stages from 1973 to 1986 for the first phase, which is characterized by ineffective, and because they drag while constantly after 1986 for the second stage, in order to European cut will reach a Stockholm agreement for transfer there signs of success, but the realization of concrete results, and will continue to be a long process. <br>'
+);
+
+?>

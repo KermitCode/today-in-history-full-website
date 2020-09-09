@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1946-7-15
+	create time:2013-01-01 23:04:10
+*/
+
+return array(
+'title'=>'Wen Yiduo participate Li Gongpu memorial service was assassinated',
+'class'=>3,
+'cont'=>'July 15, 1946 (June 17) BingXu, smell take part the Li Gongpu memorial service in the assassination. <br> heard more than one in front of the Chicago Academy of Fine Arts in the United States, hope for the future. <br> heard more than one Xishui County, the early years of study in the United States to study art, literature and poetry at the same time. <br> smell over one outspoken personality, Jieruchou mettle, but the lack of experience of struggle in a complex political environment. In his view, the more good friends, the more we can not tolerate what is wrong. In the spring of 1945, it was rumors that: \"Li Gongpu, has been bought, upcoming Fuyu held senior positions. \"One afternoon, Li Gongpu happened to smell more than and Wu Han Chu Tunan was there. Heard more than one banged the table and asked him: \"Why betray NLD? \"The Li Gongpu excuse. However, the head of the fire, the smell more than one did not listen. Li Gongpu huff. Night, Lee Gongpu find the light-years, told him this injustice. Zhang light years the next day to find the smell more than one. Wen Yiduo isotonic light years finished, truthfully say: \"We were wrong! We apologize to Gongpu! April 1945 (history www.TodayOnHistory.com) Li Gongpu North Gate Hall reprint Mao Zedong&#39;s \"On New Democracy\", \"On Coalition Government\". Unexpectedly, some fiddle non-say, the North Gate Hall unawares reprint other people&#39;s things, their own interests to make money. Smell over one hear can not stand, he said: \"in front of Lee Gongpu&#39;s Office bookstore can not have &#39;bookseller behavior&#39;. They kicked a. After Feng pottery about the Chu Tunan go visit Wen Yiduo told his secret to reprint the writings of Mao Zedong. Heard more than one listened, immediately said: \"Oh! That is my right, the wronged Gongpu. \"One took with them the whereabouts of Li Gongpu apology. Smell more than one door on the first said: \"Gongpu, I wronged you, now door to apologize. \"The Lee Gongpu immediately to meet her two comrades hug. July 11, 1946, patriotic and democratic warrior Li Gongpu, the early leaders of the NLD were killed, heard more than one extremely dangerous situation, but his home life and death in the givers, to participate in the memorial service held for close friends Li Gongpu, July 15, and impassioned published the famous \"last lecture\". A few hours later, heard more than one tragic fell under enemy gunfire, love for their motherland and the people, friends do the last drop of blood spilled, only 47 years old. <br> 1946 heard more than one one we posed for pictures in Kunming Xi positions Singapore the <br> rule India Mr. Wen learned the <br> of dangling a big pipe the smell more than one is so simple <br>'
+);
+
+?>

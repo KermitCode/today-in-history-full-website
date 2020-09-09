@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1955-5-26
+	create time:2013-01-01 22:28:54
+*/
+
+return array(
+'title'=>'Sunan normalization of relations between',
+'class'=>0,
+'cont'=>'May 26, 1955 (April fifth day), Yi Wei, Sunan relations be normalized. <br> Tito (right) Belgrade welcomed Khrushchev (left) and Bulganin In in 1955, headed by the first secretary of the CPSU Central Committee Nikita Khrushchev The government delegation to visit Yugoslavia. This is the first time, the two heads of government talks since 1948 Sunan break. Khrushchev in the arrival at the Belgrade airport, immediately shook hands with Yugoslav President Tito and urgently requires the name of Lenin and to the interests of the international workers&#39; movement \"reconciliation. this historic change <br> Soviet attitude towards independent leader of Yugoslavia took place seven years after the two Communist state-to-state relations interrupt. Yugoslavia in June 1948, was expelled from the communist bloc. (L $ dj而.c身m) in Summit attended by Soviet Prime Minister Nikolai - Bulganin, Khrushchev pleading ideological cooperation. He also had to make Yugoslavia \"The situation is exacerbated by the\" deeply sorry, and to pin the blame for all this to be put to death in 1953, the former Soviet Interior Minister Sergei connected quarter - the fabrication of Beria. Khrushchev said these words and after that time, Tito silence Brennan, the Soviet leader, then did not make any response. on <br> 6, 2, 2009, the two countries issued the \"Belgrade Declaration, emphasizing mutual relations as well as relations with other countries should respect each other&#39;s sovereignty, independence, territorial integrity, equality and peaceful coexistence, mutual noninterference internal affairs, the principle of opposing aggression and control of his country, the development of economic and cultural cooperation. Khrushchev originally wanted to direct recovery the Sunan bipartisan relationship he personally visited Yugoslavia pulled back the socialist camp. But Tito insists that is not attached to any position of the Group. Therefore, the Belgrade Declaration only flag Sunan normalization of relations between the two countries resumed. (L $ dj而.c身m) <br> followed by the countries of the socialist camp, in varying degrees, are restored relations with Yugoslavia. Meanwhile, south of the communist and socialist countries Communist gradually recover, Yugoslavia never returned to the group politics up, adhere to an independent domestic and foreign policies, does not participate in any military blocs stand. In restoring relations with the Soviet Union and other socialist countries, the statement \"will not harm relations with the West.\" <br>'
+);
+
+?>

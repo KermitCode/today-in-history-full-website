@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1995-2-6
+	create time:2013-01-01 21:50:46
+*/
+
+return array(
+'title'=>'The first case of frozen-thawed embryo test-tube baby was born in Beijing',
+'class'=>0,
+'cont'=>'(Seeing in the first month of the seventh day), February 6, 1995, the first case of frozen-thawed embryo test-tube baby was born in Beijing. Third Hospital, <br> Peking University Professor Zhang Lizhu (1921 -) 1970s Beiyisanyuan obstetrics and gynecology began the research and application of reproductive medicine and assisted reproductive technology, the establishment of the earliest gynecological endocrine laboratory. In the 1980s, the \"seven\" research fund support, leading the research team established through painstaking efforts to test-tube baby technology, the first of its kind in the country for Reproductive Medicine and the field of assisted reproduction. Center for Reproductive Medicine of Peking University Third Hospital was founded by Professor Zhang Lizhu application of assisted reproductive technology (history com) in succession to create the following achievements: <br> 1988, the first case of test-tube baby in mainland China in Peking University Third Hospital birth; [history cn] In March 1988, bred the mainland first case of gamete intrafallopian transfer baby; oocyte donation mainland the first test-tube baby was born in June <br> in 1992 ; <br> in 1995, the first case of frozen-thawed embryo test-tube baby was born in our hospital; <br> in 1996 the first case of surrogate motherhood, test-tube baby was born in our hospital; <br> in 1998 in North China obtained the first case of a single sperm cytoplasm injection test-tube baby; the IVF implantation genetic diagnosis before birth <br> in 2001. (TodayinHistory.cn) <br> the achievements of Professor Zhang Lizhu work, he has also earned the following awards: <br> Ministry of Education nominated the National Science and Technology Award (2003), second prize: human follicle egg the in vitro development <br> Beijing Science and Technology (2004), Third: human immature oocyte development and its application prospects <br> 3 Scientific Progress Award of the Ministry of Health (1996): The frozen embryo Clinical Application Award <br> national scientific and technological progress second prize (1989): China&#39;s first test tube baby and GIFT baby <br> 5 Beijing Municipal Science Progress Award (1988 ); <br> 6. nationwide and Beijing Hongqi Shou (1979), \"March\" <br> 7 the National Health advanced workers (1979) <br> 8. advanced workers in Beijing (1989 , 1995) <br> 9. nationwide returned overseas Chinese and advanced workers (1989,1995) <br>'
+);
+
+?>

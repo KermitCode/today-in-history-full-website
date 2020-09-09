@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1962-10-20
+	create time:2013-01-02 01:32:21
+*/
+
+return array(
+'title'=>'Sino-Indian border in self-defense war',
+'class'=>0,
+'cont'=>'October 20, 1962 (September 22) Renyin years, the Sino-Indian border in self-defense war. Sino-Indian border issue <br> schematic <br> from 1961, the Indian army has repeatedly crossed the western and the eastern section of the Sino-Indian border, the establishment of aggression stronghold. The Chinese government put forward suggestions to solve the border issue through negotiations, have been rejected. October 10, 1962, the Sino-Indian border situation sharp deterioration in the Indian Army violated Chinese border. The morning of the 10th, the invasion of the Indian Army to the Chinese border guards pull winter areas to attack Chinese border troops killed or wounded 11 people. The Chinese Government to the Government of India on the date of the strongest and the most serious protest. 11, 2009, the Indian Army continued to attack the Chinese frontier guards and Chinese soldiers killed or wounded 22 people. Day, the Chinese government is once again the strongest and most serious protest to the Government of India. Meanwhile, the Chinese government aircraft India invaded Lhasa, Tibet, China and other mainland airspace of the protest to India. 17 the night of the invasion of the Indian armed forces launched a massive attack on Chinese border guards to choose other places around Bridge Eastbound grams Festival Long River lines fighting. 18, the invasion of the Sino-Indian border the western part of China the Xinjiang Qi Puqia River region of the Indian Army, began advancing. Outpost of China, carried out armed provocations. At 7:00 on the 20th, the Indian Army invasion grams Festival Long River region under the cover of heavy artillery fire to the Chinese border troops launched a massive attack on the Chinese border guards casualties serious. 3:00 the same day invasion the Qi Puqia River region of Xinjiang Indian Army, under the cover of artillery and machine guns to attack Chinese border guards. Chinese border guards in the case of intolerable forced to fight back from the east and west line. (? V in the history of this?? Com) <br> Chinese government in order to seek a peaceful settlement of the Sino-Indian border issue, issued a statement on November 21, announced the Chinese border guards at the Sino-Indian border across the board ceasefire initiative from the next day; Since December 1, the Chinese frontier guards withdraw 20 kilometers from November 1959, Japan and China and India have actual control line. The Chinese government actively seized ammunition, weapons and other military supplies returned to the Indian side, the release and repatriation of the All India captured military personnel. <br> camps staff and daily necessities to the captured Indian Army officers and soldiers. <br>'
+);
+
+?>

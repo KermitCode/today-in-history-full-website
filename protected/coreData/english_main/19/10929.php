@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1997-11-19
+	create time:2013-01-02 02:25:38
+*/
+
+return array(
+'title'=>'Principal offender killed Taiwan entertainer Pai Hsiao-yen Chen Chin-hsing surrendered',
+'class'=>3,
+'cont'=>'November 19, 1997 (October 20) Landmarks, killing the main culprit Taiwanese entertainer Pai Hsiao-yen Chen Chin-hsing surrendered. 7:45 on the evening of November 19 <br> 1997, Pai Hsiao-yen kidnapping of a stir at home and abroad has been cracked. Finally, a prime culprit Chen Chin-hsing in the kidnapping of a family of five, the South African diplomat to Taipei police surrendered after 24 hours of negotiations with police. Since then, which lasted seven months of Pai Hsiao-yen kidnap murder case, Chun-Sheng Lin to three main culprits, high days people shot dead by police, Chen Chin-hsing was arrested curtain. April 14, 1997, the famous Taiwanese entertainer Pai Ping-ping, a 15-year-old daughter Pai Hsiao-yen, the way to school kidnapped by gangsters, murderous criminals chop Pai Hsiao-yen little finger, $ 5,000,000 ransom. Police caught four suspects involved in the 25th, but Chen Chin-hsing, high days in China, Chun-Sheng Lin three main culprits escape. , April 28, police discovered the bodies of Pai Hsiao-yen. Pai Ping-ping island household name famous artist, the case has raised widespread concern in Taiwan, and the murder of Pai Hsiao-yen has also become the focus of the deteriorating law and order on the island, Taiwan&#39;s \"National Police was forced to resign. <br> However, from all walks of life on the island called for improved law and order, the authorities continue to intensify the fight against crime, the three criminals continue to commit crimes, cause severe shock of Taiwan&#39;s social order. August 19, Chun-Sheng Lin and high Tianmin in Taipei police shootout, Chun-Sheng Lin was killed, a police officer who died on duty; October 22, Chen Chin-hsing and high days China to escape the police chase, shaping and killed a Taipei 3 orthopedic clinic again vibration on the island; November 17, criminals high days people in Taipei a pornographic place was the police rounded up, high days of the people by the police and killed; death throes to prevent the last one offender Chen Chin-hsing, the police in all the traffic arteries tight arming. , Chen Chin-hsing, <br> 11 18 gunmen hijacked a diplomat of the South African family of five, the matter became the focus of attention inside and outside the island and overseas media have follow-up reports. Chen Chin-hsing marathon negotiations with the police, Chen Chin-hsing emotional stress mistakenly pulled the trigger, the wounded diplomat left leg and the waist of the eldest daughter, after Chen guilty of two victims agreed to send a doctor, and gradually release the hostages. To 7:45 on the evening of 19, Chen Chin-hsing surrendered to the police. <br>'
+);
+
+?>

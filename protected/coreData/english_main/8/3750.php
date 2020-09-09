@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1968-4-8
+	create time:2013-01-02 08:47:06
+*/
+
+return array(
+'title'=>'Huangmei performing artist Yan Fengying was persecuted to death',
+'class'=>3,
+'cont'=>'April 8, 1968 (, Shigenobu March 11), the Huangmei performing artist Yan Fengying was persecuted to death. <br> Yan Fengying like April 8 <br> 1968, and Huangmei performing artist Yan Fengying was persecuted to death \"target =\" _blank \"> Yan Fengying persecution abuse unbearable Lin Biao and the\" Gang of Four \"swallow a lot of sleeping pills, unfortunately wronged and killed, at the age of 37 years old May 23, 1978, the Anhui Provincial Committee announced that she rehabilitated the <br> Yan Fengying, Huangmei actress, the second female role, artistes, apartment door once. formerly known as Hong-yuan , also known as Dai peak. Tongcheng County in Anhui Province, born poor young like to sing folk songs and Huangmei violate clan rules, forced to leave her gifted, studious <br> 13-year-old teacher to Yan Yun Zongyang, the Tongcheng area high school singing Opera, performances., and the famous old artist Ding Yongquan pointing onward performances in Guichi, Qingyang rural Anqing, Wannan. <br> 1947 he joined Hu Jintao, LIU Feng-yun learn to sing opera. (lsjt.org) <br> years after 1949, thanks to North Queensland actor Bai Yunsheng teacher, and constantly learn Brothers operas long to enrich their performing skills. <br> 1953 to participate in Anhui Province Huangmei Opera Troupe her voice crisp and sweet, earthy mellow singing, sincere concert crisp, clear articulation, mellow flavor, and pay attention to the feelings from the characters, and strive to achieve extremely rich with intriguing artistic charm. exquisite performances rustic, shaping many with distinctive character the Characters (1 $ dj¦Ó.c¨­m), such as playing pig grass \"Tao Jinhua,\" Goddess Marriage \"seven fairies,\" female consort horse \"Feng Suzhen\" Cowherd and Weaver Girl \"Weaver and modern opera\" harvest after \" Zhao five Auntie. \"Goddess Marriage\", \"female consort prince\" and \"Legend of Love\" were filmed into a movie in 23 years of artistic practice, make a significant contribution to the development Huangmei art <br> in 1960 joined Chinese Communist Party deputy head of the former Huangmei Opera Troupe of Anhui, was elected as a member of the China Federation of Literary and Art Circles, the Chinese People&#39;s Political Consultative Conference (CPPCC) the third National Committee members. <br> Huangmei \"Goddess Marriage\" (Yan Fengying decorated with fairies, Wang Shaofang decorated starring Dong Yong) <br> Yan Fengying Huangmei \"Goddess Marriage\" (1955) <br> Yan Fengying starring Huangmei \"Goddess Marriage\" (1955) < br> <br>'
+);
+
+?>

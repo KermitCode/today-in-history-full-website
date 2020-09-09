@@ -1,0 +1,14 @@
+<?php
+
+/*
+	englist file:1981-8-8
+	create time:2013-01-02 00:16:35
+*/
+
+return array(
+'title'=>'Huang Chih Cheng flew uprising return to mainland',
+'class'=>0,
+'cont'=>'August 8, 1981 (, yau July ninth day), Huang Chih Cheng flew uprising to return to the mainland. <br> August 1981, 9:28 (lsjt.net) KMT Air Force flight evaluation officer of the fifth Wing, the superintendent&#39;s office Maj. Huang Chih Cheng, from Taiwan Taoyuan airport driving F-5F-type aircraft Uprising return to the mainland, landing in an airport in Fujian. <br> 8 hours 20 minutes, Wong Chik - took off from Taiwan Taoyuan International Airport drive F-5F aircraft, the same plane the Taiwan Air Force 5 Brigade Lieutenant pilot Xu Qiulin mission is licensed to conduct the assessment instrument flight. <br> So Huang Chih Cheng Dongyin island empty called Xu Qiulin parachuting. Will be followed by the rapid decline in the aircraft to fly along the surface of the sea, flew over the continent, landed safely in Fujian frontline airports. <br> when the airport owners to unlock his umbrella rope, he said happily: \"I would look forward to return to the mainland, this willing motherland!\" Huang Chih Cheng back to the mainland by the government and all walks of life people for the warm welcome and highly praised. the <br> Fuzhou Force and Air Force leadership organs have been held to welcome the General Assembly, in recognition of Huang Chih Cheng patriotic act of justice, reward him 650,000 yuan (history today. com) and approved to participate in the People&#39;s Liberation Army, appointed as an Air Force flight school vice principals. <br> 2010, the third meeting of the Eleventh National People&#39;s Congress plenary morning was held in the Great Hall of the People, (l $ j¦Ó.c¨½) Huang Chih Cheng told reporters after attending the meeting said that cross-strait relations is now relatively good period of history, we are very concerned about the development of cross-strait relations. He also believes that there are still many difficulties in cross-strait relations, we must strive also a lot of direction, the consensus needed more. Overall, the two sides before gone through so many bumps, and now is moving forward. <br> Taiwan media earlier said he hoped to apply to return to Taiwan, \"since the People&#39;s Liberation Army veterans, Huang Chih Cheng stressed that he did not want to go back to Taiwan intention,\" I&#39;m still a soldier, to fulfill their responsibilities to comply with the requirements. Back to the matter of Taiwan, Taiwan media hype. I never want to go back to Taiwan, which is the Taiwan media unilateral speculation, I would like to clarify. Huang Chih Cheng The <br> <br> 1981 flew uprising <br> Huang Chih Cheng returned by the leadership met <br> Huang Chih Cheng is currently Air Force Vice Chief of Staff of the Beijing Military Region, (l $ dj¦Ó.¨­r¨À) the rank of Major General <br>'
+);
+
+?>
